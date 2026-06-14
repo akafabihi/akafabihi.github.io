@@ -97,6 +97,14 @@ $susy: (
 }
 
 /* ==========================================================================
+   RAIL BOXES
+   ========================================================================== */
+
+/* Single source of truth for the rail box outline so the TOC and utility
+   rail borders stay identical (same width, same color). */
+$rail-border: 1px solid var(--global-border-color);
+
+/* ==========================================================================
    BRAND COLORS
    ========================================================================== */
 

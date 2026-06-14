@@ -14,7 +14,7 @@
 
 .utility-rail {
   background-color: var(--global-toc-bg-color, var(--global-bg-color));
-  border: 2px solid rgba(0, 0, 0, 0.6);
+  border: $rail-border;
   border-radius: $border-radius;
   box-shadow: $box-shadow;
   /* No font-size here — children use rem to avoid em compounding */
@@ -26,12 +26,12 @@
     font-family: $sans-serif-narrow;
     text-transform: uppercase;
     letter-spacing: 0.06em;
-    color: var(--global-text-color-light);
+    color: var(--global-text-color);
   }
 
   &__section {
     padding: 0.65em 0.8em;
-    border-bottom: 1px solid var(--global-border-color);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.08);
 
     &:last-child { border-bottom: 0; }
   }
