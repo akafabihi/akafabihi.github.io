@@ -5,4 +5,8 @@ permalink: /activities/
 author_profile: false
 ---
 
-*Placeholder — add your activities here.*
+## Bisita hari dam dam
+
+### yeah
+
+test
