@@ -296,3 +296,24 @@
     }
   }
 }
+
+/* Mobile: author profile stacks vertically when the left rail is full-width.
+   Below $large the grid has already collapsed so the left rail fills the full
+   viewport width; switch the table-cell trio to block so they flow top-to-bottom. */
+@media screen and (max-width: #{$large - 1px}) {
+  .author__avatar {
+    display: block;
+    width: auto;
+  }
+
+  .author__content {
+    display: block;
+    width: 100%;
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .author__urls-wrapper {
+    display: block;
+  }
+}

@@ -96,15 +96,26 @@
   #main.has-both-rails:not(.toc-hidden) .site-right-rail { display: none; }
 }
 
-/* Below one-rail threshold: all right rails gone, left rail stacks above content */
+/* Below one-rail threshold: single column — left rail stacks above content.
+   The :not(.toc-hidden) variant is repeated here to match the specificity of
+   the two-rail rule above (which uses the same selector at 0-2-1), so this
+   later rule wins the cascade and actually collapses the grid on mobile. */
 @media screen and (max-width: #{$one-rail - 1px}) {
   #main.has-both-rails .site-right-rail,
   #main.has-right-rail .site-right-rail { display: none; }
 
   #main.has-left-rail,
-  #main.has-both-rails {
+  #main.has-both-rails,
+  #main.has-both-rails:not(.toc-hidden) {
     grid-template-columns: minmax(0, 1fr);
     grid-template-areas: "left" "content";
+    column-gap: 0;
+  }
+
+  /* toc-hidden: left rail already gone; drop right rail track too */
+  #main.has-both-rails.toc-hidden {
+    grid-template-columns: minmax(0, 1fr);
+    grid-template-areas: "content";
     column-gap: 0;
   }
 
@@ -115,7 +126,8 @@
   }
 
   #main.has-left-rail .site-left-rail,
-  #main.has-both-rails .site-left-rail {
+  #main.has-both-rails .site-left-rail,
+  #main.has-both-rails:not(.toc-hidden) .site-left-rail {
     position: static;
     max-height: none;
     overflow: visible;
