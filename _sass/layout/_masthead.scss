@@ -19,8 +19,8 @@
     content: "";
     position: absolute;
     bottom: 0;
-    height: 1px;
-    background: var(--global-border-color);
+    height: 2px;
+    background: var(--color-600);
     width: 100%;
   }
 
@@ -67,7 +67,7 @@
 }
 
 .masthead__menu-item.selected a {
-  color: var(--global-text-color);
+  color: var(--global-link-color);
   font-weight: 700;
   border-bottom: 2px solid var(--global-text-color);
   pointer-events: none; /* Move this here */
@@ -76,6 +76,6 @@
 
 .masthead__menu-item.selected a:hover {
   color: var(--global-text-color);
-  border-bottom: 2px solid var(--global-text-color);
+  border-bottom: 2px solid var(--global-link-color);
   /* No need to repeat pointer-events and cursor here */
 }
