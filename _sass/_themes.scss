@@ -74,6 +74,16 @@ $susy: (
     global-box-sizing: border-box,
 );
 
+/* Width model — single source of truth.
+   Every page: content column = --content-w.
+   All rails (author sidebar, TOC, context panel) = --rail-w.
+   Rails sit outside the content column; content width never changes. */
+:root {
+  --content-w: 680px;
+  --rail-w:    220px;
+  --rail-gap:  1.5rem;
+}
+
 /* ==========================================================================
    BRAND COLORS
    ========================================================================== */

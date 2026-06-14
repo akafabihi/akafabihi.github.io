@@ -12,13 +12,19 @@ layout: default
   {% endunless %}
 {% endif %}
 
-<div id="main" role="main">
-  {% include sidebar.html %}
+<div id="main" role="main"{% if page.author_profile or layout.author_profile %} class="has-left-rail"{% endif %}>
+  {% if page.author_profile or layout.author_profile %}
+    <aside class="site-left-rail">
+      {% include sidebar.html %}
+    </aside>
+  {% endif %}
 
-  <div class="archive">
-    {% unless page.header.overlay_color or page.header.overlay_image %}
-      <h1 class="page__title">{{ page.title }}</h1>
-    {% endunless %}
-    {{ content }}
-  </div>
+  <div class="site-content">
+    <div class="archive">
+      {% unless page.header.overlay_color or page.header.overlay_image %}
+        <h1 class="page__title">{{ page.title }}</h1>
+      {% endunless %}
+      {{ content }}
+    </div>
+  </div><!-- /.site-content -->
 </div>

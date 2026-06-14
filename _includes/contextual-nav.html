@@ -1,0 +1,79 @@
+{% include base_path %}
+
+{% comment %}Build the list of related items for the contextual panel.
+For posts:        other posts sharing a tag, falling back to most-recent.
+For publications: other items in the same publication category, then most-recent.
+For other collections: most-recent items from the same collection.
+{% endcomment %}
+
+{% assign ctx_items = "" | split: "" %}
+{% assign ctx_label = "More Posts" %}
+
+{% if page.collection == "posts" or page.url contains "/posts/" %}
+  {% assign ctx_label = "Related Posts" %}
+  {% if page.tags.size > 0 %}
+    {% for post in site.posts %}
+      {% if post.url == page.url %}{% continue %}{% endif %}
+      {% for tag in post.tags %}
+        {% if page.tags contains tag %}
+          {% unless ctx_items contains post %}
+            {% assign ctx_items = ctx_items | push: post %}
+          {% endunless %}
+          {% break %}
+        {% endif %}
+      {% endfor %}
+    {% endfor %}
+  {% endif %}
+  {% if ctx_items.size == 0 %}
+    {% assign ctx_label = "Recent Posts" %}
+    {% for post in site.posts limit: 6 %}
+      {% if post.url == page.url %}{% continue %}{% endif %}
+      {% assign ctx_items = ctx_items | push: post %}
+    {% endfor %}
+  {% endif %}
+
+{% elsif page.collection == "publications" %}
+  {% assign ctx_label = "Related Publications" %}
+  {% if page.category %}
+    {% for pub in site.publications reversed %}
+      {% if pub.url == page.url %}{% continue %}{% endif %}
+      {% if pub.category == page.category %}
+        {% assign ctx_items = ctx_items | push: pub %}
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+  {% if ctx_items.size == 0 %}
+    {% assign ctx_label = "More Publications" %}
+    {% for pub in site.publications reversed limit: 6 %}
+      {% if pub.url == page.url %}{% continue %}{% endif %}
+      {% assign ctx_items = ctx_items | push: pub %}
+    {% endfor %}
+  {% endif %}
+
+{% elsif page.collection == "portfolio" %}
+  {% assign ctx_label = "More Portfolio Items" %}
+  {% for item in site.portfolio limit: 6 %}
+    {% if item.url == page.url %}{% continue %}{% endif %}
+    {% assign ctx_items = ctx_items | push: item %}
+  {% endfor %}
+
+{% endif %}
+
+{% if ctx_items.size > 0 %}
+<div class="ctx-panel" role="complementary">
+  <button class="ctx-panel__toggle" aria-expanded="false" aria-controls="ctx-panel-body">
+    {{ ctx_label }}
+    <span class="ctx-panel__arrow" aria-hidden="true">&#9660;</span>
+  </button>
+  <div class="ctx-panel__body" id="ctx-panel-body">
+    <ul>
+      {% for item in ctx_items limit: 6 %}
+        <li>
+          <a href="{{ base_path }}{{ item.url }}">{{ item.title | truncate: 60 }}</a>
+          {% if item.date %}<br><small>{{ item.date | date: "%b %Y" }}</small>{% endif %}
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>
+{% endif %}

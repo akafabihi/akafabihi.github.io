@@ -2,27 +2,114 @@
    SINGLE PAGE/POST
    ========================================================================== */
 
+/* Grid container. Each layout emits a modifier class to declare which rails are present.
+   Content column (--content-w) is always the same width — rails extend into the margins. */
 #main {
-  @include container;
-  @include clearfix;
+  display: grid;
+  justify-content: center;
+  align-items: start;
+  grid-template-columns: minmax(0, var(--content-w));
+  grid-template-areas: "content";
+  flex: 1 0 auto;
   margin-top: 2em;
-  padding-left: 1em;
-  padding-right: 1em;
+  padding: 0 1rem;
   animation: intro 0.3s both;
   animation-delay: 0.35s;
+}
 
-  @include breakpoint($x-large) {
-    max-width: $x-large;
+#main.has-left-rail {
+  grid-template-columns: var(--rail-w) minmax(0, var(--content-w));
+  grid-template-areas: "left content";
+  column-gap: var(--rail-gap);
+}
+
+#main.has-both-rails {
+  grid-template-columns: var(--rail-w) minmax(0, var(--content-w)) var(--rail-w);
+  grid-template-areas: "left content right";
+  column-gap: var(--rail-gap);
+}
+
+/* JS adds .toc-hidden when TOC has fewer than 2 headings */
+#main.has-both-rails.toc-hidden {
+  grid-template-columns: minmax(0, var(--content-w)) var(--rail-w);
+  grid-template-areas: "content right";
+
+  .site-left-rail { display: none; }
+}
+
+/* ---- Grid rail elements ---- */
+
+.site-left-rail {
+  grid-area: left;
+  min-width: 0;
+  overflow-x: hidden;
+
+  @include breakpoint($large) {
+    position: sticky;
+    top: $masthead-height;
+    max-height: calc(100vh - #{$masthead-height});
+    overflow-y: auto;
+    align-self: start;
+  }
+
+  /* Prevent nested .sidebar.sticky from overriding the rail's sticky */
+  .sidebar {
+    position: static;
+    max-height: none;
+    overflow: visible;
   }
 }
 
-.page {
+.site-right-rail {
+  grid-area: right;
+  min-width: 0;
+
   @include breakpoint($large) {
-    @include span(10 of 12 last);
-    @include prefix(0.5 of 12);
-    @include suffix(2 of 12);
+    position: sticky;
+    top: $masthead-height;
+    max-height: calc(100vh - #{$masthead-height});
+    overflow-y: auto;
+    align-self: start;
+  }
+}
+
+.site-content {
+  grid-area: content;
+  min-width: 0;
+}
+
+/* ---- Responsive breakpoints ---- */
+
+/* Below two-rail threshold: right rail disappears */
+@media screen and (max-width: 1199px) {
+  #main.has-both-rails:not(.toc-hidden) {
+    grid-template-columns: var(--rail-w) minmax(0, var(--content-w));
+    grid-template-areas: "left content";
+  }
+  #main.has-both-rails .site-right-rail { display: none; }
+}
+
+/* Below one-rail threshold: left rail stacks above content */
+@media screen and (max-width: 959px) {
+  #main.has-left-rail,
+  #main.has-both-rails {
+    grid-template-columns: minmax(0, var(--content-w));
+    grid-template-areas: "left" "content";
+    column-gap: 0;
   }
 
+  #main.has-left-rail .site-left-rail,
+  #main.has-both-rails .site-left-rail {
+    position: static;
+    max-height: none;
+    overflow: visible;
+    margin-bottom: 1em;
+  }
+
+  #main.has-both-rails .site-right-rail { display: none; }
+}
+
+.page {
   .page__inner-wrap {
     @include full();
 
@@ -381,12 +468,6 @@
   margin-top: 2em;
   padding-top: 1em;
   border-top: 1px solid var(--global-border-color);
-  @include clearfix();
-  float: left;
-
-  @include breakpoint($large) {
-    @include pre(2.5 of 12);
-  }
 
   a {
     color: inherit;
