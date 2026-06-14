@@ -64,7 +64,7 @@
   padding: 1em;
 
   .nav__title {
-    color: #000;
+    color: var(--global-text-color);
     font-size: $type-size-6;
     background: transparent;
     border: 0;
