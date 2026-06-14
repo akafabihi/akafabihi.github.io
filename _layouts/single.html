@@ -14,7 +14,7 @@ layout: default
   {% endunless %}
 {% endif %}
 
-<div id="main" role="main"{% if page.author_profile or layout.author_profile %} class="has-left-rail"{% endif %}>
+<div id="main" role="main" class="{% if page.author_profile or layout.author_profile %}has-both-rails{% else %}has-right-rail{% endif %}">
   {% if page.author_profile or layout.author_profile %}
     <aside class="site-left-rail">
       {% include sidebar.html %}
@@ -112,4 +112,8 @@ layout: default
     </div>
   {% endif %}
   </div><!-- /.site-content -->
+
+  <aside class="site-right-rail" aria-label="Page utilities">
+    {% include utility-rail.html %}
+  </aside>
 </div>

@@ -3,6 +3,7 @@
    ========================================================================== */
 html {
   min-height: 100%;
+  font-size: calc(var(--reader-font-scale, 1) * 16px);
 }
 
 body {
@@ -355,11 +356,27 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
 
    @media print {
     .masthead,
-    .toc,
+    .site-left-rail,
+    .site-right-rail,
     .page__share,
     .page__related,
     .ads,
     .page__footer {
-      display: none;
+      display: none !important;
+    }
+
+    #main {
+      display: block !important;
+      padding: 0 !important;
+      margin: 0 !important;
+    }
+
+    .site-content {
+      width: 100% !important;
+      max-width: 100% !important;
+    }
+
+    body {
+      padding-top: 0 !important;
     }
   }

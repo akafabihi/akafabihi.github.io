@@ -1,0 +1,36 @@
+{% include base_path %}
+<div class="utility-rail">
+
+  <section class="utility-rail__section">
+    <h4 class="utility-rail__heading">Appearance</h4>
+    <div class="font-size-controls" role="group" aria-label="Font size">
+      <button class="font-btn" id="font-smaller" aria-label="Decrease text size" title="Smaller text">A&#8722;</button>
+      <button class="font-btn font-btn--reset" id="font-reset" aria-label="Reset text size" title="Reset text size">A</button>
+      <button class="font-btn" id="font-larger" aria-label="Increase text size" title="Larger text">A+</button>
+    </div>
+  </section>
+
+  <section class="utility-rail__section">
+    <button class="utility-rail__action" onclick="window.print()">
+      <i class="fa fa-fw fa-print" aria-hidden="true"></i> Download as PDF
+    </button>
+  </section>
+
+  <section class="utility-rail__section">
+    <a class="utility-rail__action" href="{{ base_path }}/feed.xml">
+      <i class="fa fa-fw fa-rss" aria-hidden="true" style="color: #fa9b39;"></i> RSS feed
+    </a>
+  </section>
+
+  {% if site.data.links.size > 0 %}
+  <section class="utility-rail__section">
+    <h4 class="utility-rail__heading">Links</h4>
+    <ul class="utility-rail__links">
+      {% for link in site.data.links %}
+      <li><a href="{{ link.url }}" target="_blank" rel="noopener noreferrer">{{ link.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </section>
+  {% endif %}
+
+</div>

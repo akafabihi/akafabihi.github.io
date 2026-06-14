@@ -1,6 +1,6 @@
 ---
-layout: archive
-title: "Hobbies & Misc"
+layout: reading
+title: "Hobbies &amp; Misc"
 permalink: /hobbies/
 author_profile: false
 ---

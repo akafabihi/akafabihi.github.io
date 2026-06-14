@@ -61,10 +61,6 @@ $one-rail                   : 1112px !default; // min-width: left(220)+gap(120)+
    Grid
    ========================================================================== */
 
-$right-sidebar-width-narrow : auto;
-$right-sidebar-width        : auto;
-$right-sidebar-width-wide   : auto;
-
 $susy: (
     columns: 12,
     column-width: 120px,
@@ -81,9 +77,10 @@ $susy: (
    All rails (author sidebar, TOC, context panel) = --rail-w.
    Rails sit outside the content column; content width never changes. */
 :root {
-  --content-w: 740px;
-  --rail-w:    220px;
-  --rail-gap:  120px;
+  --content-w:        740px;
+  --rail-w:           220px;
+  --rail-gap:         120px;
+  --reader-font-scale: 1;   /* overridden inline by utility-rail.js */
 }
 
 /* ==========================================================================

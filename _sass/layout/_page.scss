@@ -29,6 +29,12 @@
   column-gap: var(--rail-gap);
 }
 
+#main.has-right-rail {
+  grid-template-columns: minmax(0, var(--content-w)) var(--rail-w);
+  grid-template-areas: "content right";
+  column-gap: var(--rail-gap);
+}
+
 /* JS adds .toc-hidden when TOC has fewer than 2 headings */
 #main.has-both-rails.toc-hidden {
   grid-template-columns: minmax(0, var(--content-w)) var(--rail-w);
@@ -80,7 +86,8 @@
 
 /* ---- Responsive breakpoints ---- */
 
-/* Below two-rail threshold: right rail disappears; toc-hidden (content+right) stays until one-rail threshold */
+/* Below two-rail threshold: right rail disappears on normal both-rails;
+   toc-hidden (content+right) and has-right-rail stay visible until one-rail threshold */
 @media screen and (max-width: #{$two-rail - 1px}) {
   #main.has-both-rails:not(.toc-hidden) {
     grid-template-columns: var(--rail-w) minmax(0, var(--content-w));
@@ -89,14 +96,21 @@
   #main.has-both-rails:not(.toc-hidden) .site-right-rail { display: none; }
 }
 
-/* Below one-rail threshold: right rail gone (catches toc-hidden too), left rail stacks above content */
+/* Below one-rail threshold: all right rails gone, left rail stacks above content */
 @media screen and (max-width: #{$one-rail - 1px}) {
-  #main.has-both-rails .site-right-rail { display: none; }
+  #main.has-both-rails .site-right-rail,
+  #main.has-right-rail .site-right-rail { display: none; }
 
   #main.has-left-rail,
   #main.has-both-rails {
     grid-template-columns: minmax(0, 1fr);
     grid-template-areas: "left" "content";
+    column-gap: 0;
+  }
+
+  #main.has-right-rail {
+    grid-template-columns: minmax(0, 1fr);
+    grid-template-areas: "content";
     column-gap: 0;
   }
 

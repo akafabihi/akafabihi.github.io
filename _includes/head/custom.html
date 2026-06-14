@@ -14,4 +14,7 @@
 <link rel="icon" href="/images/favicon.ico"/>
 <meta name="theme-color" content="#ffffff"/>
 
+<!-- Apply stored font scale before first paint to avoid reflow -->
+<script>try{var _fsc=parseFloat(localStorage.getItem('reader-font-scale'));if(!isNaN(_fsc))document.documentElement.style.setProperty('--reader-font-scale',_fsc)}catch(_){}</script>
+
 <!-- end custom head snippets -->

@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: reading
 title: "Research Interests"
 permalink: /research/
 author_profile: false

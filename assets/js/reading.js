@@ -1,4 +1,4 @@
-/* reading.js — TOC + scrollspy + collapsible contextual panel
+/* reading.js — scroll-tracking TOC
    Loaded as <script type="module"> only on pages using _layouts/reading.html.
    Does NOT go through the uglify bundle; edit here and push directly. */
 
@@ -68,41 +68,10 @@ function buildToc() {
   headings.forEach(h => { if (h.id) observer.observe(h); });
 }
 
-/* ── Contextual panel collapse/expand ──────────────────────────────────── */
-
-function initCtxPanel() {
-  const aside  = document.querySelector('.site-right-rail');
-  const toggle = document.querySelector('.ctx-panel__toggle');
-  if (!aside || !toggle) return;
-
-  const STORAGE_KEY = 'reading-ctx-open';
-
-  function setCollapsed(collapsed) {
-    if (collapsed) {
-      aside.setAttribute('data-collapsed', '');
-      toggle.setAttribute('aria-expanded', 'false');
-    } else {
-      aside.removeAttribute('data-collapsed');
-      toggle.setAttribute('aria-expanded', 'true');
-    }
-    try { localStorage.setItem(STORAGE_KEY, collapsed ? '1' : '0'); } catch (_) {}
-  }
-
-  /* Restore persisted state (collapsed = default) */
-  let stored = null;
-  try { stored = localStorage.getItem(STORAGE_KEY); } catch (_) {}
-  setCollapsed(stored !== '0'); /* default collapsed unless explicitly opened */
-
-  toggle.addEventListener('click', () => {
-    setCollapsed(!aside.hasAttribute('data-collapsed') ? true : false);
-  });
-}
-
 /* ── Init ──────────────────────────────────────────────────────────────── */
 
 if (document.readyState === 'loading') {
-  document.addEventListener('DOMContentLoaded', () => { buildToc(); initCtxPanel(); });
+  document.addEventListener('DOMContentLoaded', buildToc);
 } else {
   buildToc();
-  initCtxPanel();
 }

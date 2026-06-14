@@ -1,7 +1,7 @@
 /* ==========================================================================
    READING LAYOUT — panel content styles
-   Layout grid is now on #main (see _page.scss).
-   This file styles the TOC links and the collapsible contextual panel.
+   Layout grid is on #main (see _page.scss).
+   This file styles the TOC links and the persistent utility rail.
    ========================================================================== */
 
 /* Active TOC link (toggled by IntersectionObserver in reading.js) */
@@ -10,54 +10,64 @@
   font-weight: bold;
 }
 
-/* ---------- RIGHT: contextual nav panel ---------- */
+/* ---------- RIGHT: persistent utility rail ---------- */
 
-.ctx-panel {
+.utility-rail {
+  background-color: var(--global-toc-bg-color, var(--global-bg-color));
   border: 1px solid var(--global-border-color);
   border-radius: $border-radius;
-  background-color: var(--global-toc-bg-color);
   box-shadow: $box-shadow;
   font-size: $type-size-7;
 
-  .ctx-panel__toggle {
-    display: flex;
+  &__heading {
+    margin: 0 0 0.5em;
+    font-size: $type-size-8;
+    font-weight: bold;
+    font-family: $sans-serif-narrow;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--global-text-color-light);
+  }
+
+  &__section {
+    padding: 0.65em 0.8em;
+    border-bottom: 1px solid var(--global-border-color);
+
+    &:last-child { border-bottom: 0; }
+  }
+
+  &__action {
+    display: inline-flex;
     align-items: center;
-    justify-content: space-between;
-    width: 100%;
-    padding: 0.6em 0.8em;
+    gap: 0.3em;
+    padding: 0;
     background: transparent;
     border: 0;
     cursor: pointer;
     color: var(--global-text-color);
-    font-size: $type-size-6;
-    font-weight: bold;
-    font-family: $sans-serif-narrow;
+    font-size: $type-size-7;
+    font-family: $sans-serif;
+    text-decoration: none;
+    text-align: left;
+    line-height: 1.5;
 
-    &:hover { text-decoration: underline; }
-
-    .ctx-panel__arrow {
-      font-size: 0.7em;
-      transition: transform 0.2s;
+    &:hover {
+      text-decoration: underline;
+      color: var(--global-text-color);
     }
   }
 
-  .ctx-panel__body {
-    padding: 0 0.8em 0.8em;
-    overflow: hidden;
-  }
-
-  ul {
+  &__links {
     margin: 0;
     padding: 0;
     list-style: none;
 
-    li {
-      margin-bottom: 0.4em;
-    }
+    li { margin-bottom: 0.3em; }
 
     a {
       color: var(--global-text-color);
       text-decoration: none;
+      font-size: $type-size-7;
       line-height: 1.4;
 
       &:hover { text-decoration: underline; }
@@ -65,8 +75,26 @@
   }
 }
 
-/* Collapsed state: hide body, flip arrow */
-.site-right-rail[data-collapsed] {
-  .ctx-panel__body { display: none; }
-  .ctx-panel__arrow { transform: rotate(-90deg); }
+/* Font size buttons */
+.font-size-controls {
+  display: flex;
+  gap: 0.25em;
+}
+
+.font-btn {
+  flex: 1;
+  padding: 0.25em 0;
+  background: var(--global-bg-color);
+  border: 1px solid var(--global-border-color);
+  border-radius: $border-radius;
+  cursor: pointer;
+  color: var(--global-text-color);
+  font-family: $sans-serif;
+  font-size: $type-size-7;
+  text-align: center;
+  line-height: 1.5;
+  transition: background 0.15s;
+
+  &:hover { background: var(--global-border-color); }
+  &--reset { font-weight: bold; }
 }
