@@ -54,8 +54,8 @@ $medium                     : 768px !default;
 $medium-wide                : 900px !default;
 $large                      : 925px !default;
 $x-large                    : 1280px !default;
-$two-rail                   : 1452px !default; // min-width: left(220)+gap(120)+content(740)+gap(120)+right(220)+padding(32)
-$one-rail                   : 1112px !default; // min-width: left(220)+gap(120)+content(740)+padding(32)
+$two-rail                   : 1556px !default; // min-width: left(270)+gap(120)+content(740)+gap(120)+right(270)+padding(36)
+$one-rail                   : 1166px !default; // min-width: left(270)+gap(120)+content(740)+padding(36)
 
 /* ==========================================================================
    Grid
@@ -78,7 +78,7 @@ $susy: (
    Rails sit outside the content column; content width never changes. */
 :root {
   --content-w:        740px;
-  --rail-w:           220px;
+  --rail-w:           270px;
   --rail-gap:         120px;
   --reader-font-scale: 1;   /* overridden inline by utility-rail.js */
 }

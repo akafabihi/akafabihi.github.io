@@ -14,12 +14,15 @@ layout: default
   {% endunless %}
 {% endif %}
 
-<div id="main" role="main" class="{% if page.author_profile or layout.author_profile %}has-both-rails{% else %}has-right-rail{% endif %}">
-  {% if page.author_profile or layout.author_profile %}
-    <aside class="site-left-rail">
-      {% include sidebar.html %}
-    </aside>
-  {% endif %}
+<div id="main" role="main" class="has-both-rails">
+  <aside class="site-left-rail" aria-label="Table of contents">
+    <nav class="toc">
+      <header><h4 class="nav__title">
+        <i class="fa fa-file-alt" aria-hidden="true"></i> On This Page
+      </h4></header>
+      <ul class="toc__menu" id="toc-menu"></ul>
+    </nav>
+  </aside>
 
   <div class="site-content">
   <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
@@ -49,7 +52,7 @@ layout: default
         </header>
       {% endunless %}
 
-      <section class="page__content" itemprop="text">
+      <section class="page__content" itemprop="text" id="reading-content">
         {{ content }}
 
         {% if page.citation and page.paperurl and page.slidesurl and page.bibtexurl %}
@@ -117,3 +120,5 @@ layout: default
     {% include utility-rail.html %}
   </aside>
 </div>
+
+<script type="module" src="{{ base_path }}/assets/js/reading.js"></script>

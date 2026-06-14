@@ -1,39 +1,39 @@
 ---
-layout: compress
+layout: default
 ---
 
 {% include base_path %}
 
-<!doctype html>
-<html lang="{{ site.locale | slice: 0,2 | default: "en" }}" class="no-js">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %} | {{ site.name | default: site.title }}</title>
-    {% include head.html %}
-    {% include head/custom.html %}
-    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/cv-layout.css">
-  </head>
+{% if page.url != "/" and site.breadcrumbs %}
+  {% unless paginator %}
+    {% include breadcrumbs.html %}
+  {% endunless %}
+{% endif %}
 
-  <body class="cv-layout">
-    {% include browser-upgrade.html %}
-    {% include masthead.html %}
+<div id="main" role="main" class="has-both-rails">
 
-    <div id="main" role="main">
-      <div class="container">
-        {{ content }}
-      </div>
-    </div>
+  <!-- LEFT: scroll-tracking TOC (populated by reading.js) -->
+  <aside class="site-left-rail" aria-label="Table of contents">
+    <nav class="toc">
+      <header><h4 class="nav__title">
+        <i class="fa fa-file-alt" aria-hidden="true"></i> On This Page
+      </h4></header>
+      <ul class="toc__menu" id="toc-menu"></ul>
+    </nav>
+  </aside>
 
-    <div class="page__footer">
-      <footer>
-        {% include footer/custom.html %}
-        {% include footer.html %}
-      </footer>
-    </div>
+  <!-- CENTER: CV content -->
+  <div class="site-content">
+    <section class="page__content" id="reading-content">
+      {{ content }}
+    </section>
+  </div><!-- /.site-content -->
 
-    {% include scripts.html %}
+  <!-- RIGHT: persistent utility panel -->
+  <aside class="site-right-rail" aria-label="Page utilities">
+    {% include utility-rail.html %}
+  </aside>
 
-  </body>
-</html>
+</div>
+
+<script type="module" src="{{ base_path }}/assets/js/reading.js"></script>

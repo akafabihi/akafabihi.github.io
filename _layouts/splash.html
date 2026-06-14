@@ -8,15 +8,27 @@ layout: default
   {% include page__hero.html %}
 {% endif %}
 
-<div id="main" role="main">
-  <article class="splash" itemscope itemtype="http://schema.org/CreativeWork">
-    {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
-    {% if page.excerpt %}<meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
-    {% if page.date %}<meta itemprop="datePublished" content="{{ page.date | date: "%B %d, %Y" }}">{% endif %}
-    {% if page.modified %}<meta itemprop="dateModified" content="{{ page.modified | date: "%B %d, %Y" }}">{% endif %}
+<div id="main" role="main" class="{% if page.author_profile %}has-both-rails{% else %}has-right-rail{% endif %}">
+  {% if page.author_profile %}
+    <aside class="site-left-rail">
+      {% include sidebar.html %}
+    </aside>
+  {% endif %}
 
-    <section class="page__content" itemprop="text">
-      {{ content }}
-    </section>
-  </article>
+  <div class="site-content">
+    <article class="splash" itemscope itemtype="http://schema.org/CreativeWork">
+      {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
+      {% if page.excerpt %}<meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
+      {% if page.date %}<meta itemprop="datePublished" content="{{ page.date | date: "%B %d, %Y" }}">{% endif %}
+      {% if page.modified %}<meta itemprop="dateModified" content="{{ page.modified | date: "%B %d, %Y" }}">{% endif %}
+
+      <section class="page__content" itemprop="text">
+        {{ content }}
+      </section>
+    </article>
+  </div><!-- /.site-content -->
+
+  <aside class="site-right-rail" aria-label="Page utilities">
+    {% include utility-rail.html %}
+  </aside>
 </div>

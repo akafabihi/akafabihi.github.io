@@ -12,19 +12,28 @@ layout: default
   {% endunless %}
 {% endif %}
 
-<div id="main" role="main"{% if page.author_profile or layout.author_profile %} class="has-left-rail"{% endif %}>
-  {% if page.author_profile or layout.author_profile %}
-    <aside class="site-left-rail">
-      {% include sidebar.html %}
-    </aside>
-  {% endif %}
+<div id="main" role="main" class="has-both-rails">
+  <aside class="site-left-rail" aria-label="Table of contents">
+    <nav class="toc">
+      <header><h4 class="nav__title">
+        <i class="fa fa-file-alt" aria-hidden="true"></i> On This Page
+      </h4></header>
+      <ul class="toc__menu" id="toc-menu"></ul>
+    </nav>
+  </aside>
 
   <div class="site-content">
-    <div class="archive">
+    <div class="archive" id="reading-content">
       {% unless page.header.overlay_color or page.header.overlay_image %}
         <h1 class="page__title">{{ page.title }}</h1>
       {% endunless %}
       {{ content }}
     </div>
   </div><!-- /.site-content -->
+
+  <aside class="site-right-rail" aria-label="Page utilities">
+    {% include utility-rail.html %}
+  </aside>
 </div>
+
+<script type="module" src="{{ base_path }}/assets/js/reading.js"></script>

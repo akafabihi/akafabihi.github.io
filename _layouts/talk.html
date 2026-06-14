@@ -14,9 +14,17 @@ layout: default
   {% endunless %}
 {% endif %}
 
-<div id="main" role="main">
-  {% include sidebar.html %}
+<div id="main" role="main" class="has-both-rails">
+  <aside class="site-left-rail" aria-label="Table of contents">
+    <nav class="toc">
+      <header><h4 class="nav__title">
+        <i class="fa fa-file-alt" aria-hidden="true"></i> On This Page
+      </h4></header>
+      <ul class="toc__menu" id="toc-menu"></ul>
+    </nav>
+  </aside>
 
+  <div class="site-content">
   <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
     {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
     {% if page.excerpt %}<meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
@@ -40,7 +48,7 @@ layout: default
         </header>
       {% endunless %}
 
-      <section class="page__content" itemprop="text">
+      <section class="page__content" itemprop="text" id="reading-content">
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
@@ -75,4 +83,11 @@ layout: default
       </div>
     </div>
   {% endif %}
+  </div><!-- /.site-content -->
+
+  <aside class="site-right-rail" aria-label="Page utilities">
+    {% include utility-rail.html %}
+  </aside>
 </div>
+
+<script type="module" src="{{ base_path }}/assets/js/reading.js"></script>
