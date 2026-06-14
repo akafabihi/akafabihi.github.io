@@ -54,6 +54,8 @@ $medium                     : 768px !default;
 $medium-wide                : 900px !default;
 $large                      : 925px !default;
 $x-large                    : 1280px !default;
+$two-rail                   : 1452px !default; // min-width: left(220)+gap(120)+content(740)+gap(120)+right(220)+padding(32)
+$one-rail                   : 1112px !default; // min-width: left(220)+gap(120)+content(740)+padding(32)
 
 /* ==========================================================================
    Grid
@@ -79,9 +81,9 @@ $susy: (
    All rails (author sidebar, TOC, context panel) = --rail-w.
    Rails sit outside the content column; content width never changes. */
 :root {
-  --content-w: 680px;
+  --content-w: 740px;
   --rail-w:    220px;
-  --rail-gap:  1.5rem;
+  --rail-gap:  120px;
 }
 
 /* ==========================================================================

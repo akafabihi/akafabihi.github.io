@@ -80,20 +80,22 @@
 
 /* ---- Responsive breakpoints ---- */
 
-/* Below two-rail threshold: right rail disappears */
-@media screen and (max-width: 1199px) {
+/* Below two-rail threshold: right rail disappears; toc-hidden (content+right) stays until one-rail threshold */
+@media screen and (max-width: #{$two-rail - 1px}) {
   #main.has-both-rails:not(.toc-hidden) {
     grid-template-columns: var(--rail-w) minmax(0, var(--content-w));
     grid-template-areas: "left content";
   }
-  #main.has-both-rails .site-right-rail { display: none; }
+  #main.has-both-rails:not(.toc-hidden) .site-right-rail { display: none; }
 }
 
-/* Below one-rail threshold: left rail stacks above content */
-@media screen and (max-width: 959px) {
+/* Below one-rail threshold: right rail gone (catches toc-hidden too), left rail stacks above content */
+@media screen and (max-width: #{$one-rail - 1px}) {
+  #main.has-both-rails .site-right-rail { display: none; }
+
   #main.has-left-rail,
   #main.has-both-rails {
-    grid-template-columns: minmax(0, var(--content-w));
+    grid-template-columns: minmax(0, 1fr);
     grid-template-areas: "left" "content";
     column-gap: 0;
   }
@@ -105,8 +107,6 @@
     overflow: visible;
     margin-bottom: 1em;
   }
-
-  #main.has-both-rails .site-right-rail { display: none; }
 }
 
 .page {
