@@ -96,32 +96,42 @@
   #main.has-both-rails:not(.toc-hidden) .site-right-rail { display: none; }
 }
 
-/* Below one-rail threshold: single column — left rail stacks above content.
+/* Below one-rail threshold: single column — left rail stacks above content,
+   right rail stacks below content (TOC → content → utility rail).
    The :not(.toc-hidden) variant is repeated here to match the specificity of
    the two-rail rule above (which uses the same selector at 0-2-1), so this
    later rule wins the cascade and actually collapses the grid on mobile. */
 @media screen and (max-width: #{$one-rail - 1px}) {
+  /* Right rail reappears below content on mobile (overrides two-rail display:none).
+     The :not(.toc-hidden) variant is repeated to match the specificity (0-3-1) of
+     the two-rail hide rule above, so this later rule wins the cascade and the rail
+     actually shows in the two-rail case (homepage, CV). */
   #main.has-both-rails .site-right-rail,
-  #main.has-right-rail .site-right-rail { display: none; }
+  #main.has-both-rails:not(.toc-hidden) .site-right-rail,
+  #main.has-right-rail .site-right-rail {
+    display: block;
+    position: static;
+    max-height: none;
+  }
 
   #main.has-left-rail,
   #main.has-both-rails,
   #main.has-both-rails:not(.toc-hidden) {
     grid-template-columns: minmax(0, 1fr);
-    grid-template-areas: "left" "content";
+    grid-template-areas: "left" "content" "right";
     column-gap: 0;
   }
 
-  /* toc-hidden: left rail already gone; drop right rail track too */
+  /* toc-hidden: left rail already gone; right rail still appears below content */
   #main.has-both-rails.toc-hidden {
     grid-template-columns: minmax(0, 1fr);
-    grid-template-areas: "content";
+    grid-template-areas: "content" "right";
     column-gap: 0;
   }
 
   #main.has-right-rail {
     grid-template-columns: minmax(0, 1fr);
-    grid-template-areas: "content";
+    grid-template-areas: "content" "right";
     column-gap: 0;
   }
 

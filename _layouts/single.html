@@ -15,6 +15,11 @@ layout: default
 {% endif %}
 
 <div id="main" role="main" class="has-both-rails">
+  {% if page.author_profile %}
+  <aside class="site-left-rail" aria-label="Author profile">
+    {% include sidebar.html %}
+  </aside>
+  {% else %}
   <aside class="site-left-rail" aria-label="Table of contents">
     <nav class="toc">
       <header><h4 class="nav__title">
@@ -23,6 +28,7 @@ layout: default
       <ul class="toc__menu" id="toc-menu"></ul>
     </nav>
   </aside>
+  {% endif %}
 
   <div class="site-content">
   <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
@@ -121,4 +127,4 @@ layout: default
   </aside>
 </div>
 
-<script type="module" src="{{ base_path }}/assets/js/reading.js"></script>
+{% unless page.author_profile %}<script type="module" src="{{ base_path }}/assets/js/reading.js"></script>{% endunless %}

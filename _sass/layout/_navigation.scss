@@ -275,11 +275,20 @@
       margin: 0;
       padding: 10px 20px;
       font-size: $type-size-5;
+      font-weight: 700;
+      color: var(--global-text-color);
+      border-bottom: none;
 
       &:hover {
-        color: var(--global-masthead-link-color-hover);
-        background: var(--global-border-color);
+        color: var(--global-link-color);
+        background: var(--color-50);
       }
+    }
+
+    /* Active/current page tab: teal, no desktop underline indicator */
+    .masthead__menu-item.selected a {
+      color: var(--global-link-color);
+      border-bottom: none;
     }
 
     &:before {
