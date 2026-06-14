@@ -101,8 +101,16 @@ $susy: (
    ========================================================================== */
 
 /* Single source of truth for the rail box outline so the TOC and utility
-   rail borders stay identical (same width, same color). */
-$rail-border: 1px solid var(--global-border-color);
+   rail borders stay identical (same width, same color). Light grey so it's
+   soft on the eyes (theme-aware: light grey in both light and dark modes). */
+$rail-border: 1px solid var(--global-dark-border-color);
+
+/* Shared corner radius for the rail boxes (profile, utility, TOC). */
+$rail-radius: 10px;
+
+/* Breathing room between the sticky rails and the masthead's blue line
+   (applies when the page is scrolled and the rails pin under the masthead). */
+$rail-top-gap: 2rem;
 
 /* ==========================================================================
    BRAND COLORS

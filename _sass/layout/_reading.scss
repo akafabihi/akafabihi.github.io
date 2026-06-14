@@ -15,7 +15,7 @@
 .utility-rail {
   background-color: var(--global-toc-bg-color, var(--global-bg-color));
   border: $rail-border;
-  border-radius: $border-radius;
+  border-radius: $rail-radius;
   box-shadow: $box-shadow;
   /* No font-size here — children use rem to avoid em compounding */
 

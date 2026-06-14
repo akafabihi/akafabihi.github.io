@@ -50,6 +50,18 @@
   }
 }
 
+/* Author profile boxed to match the right utility rail (sibling pair):
+   identical border, radius, shadow, background, and inner padding.
+   margin-top: 0 keeps its top aligned with the utility box. */
+.site-left-rail .sidebar {
+  background-color: var(--global-toc-bg-color, var(--global-bg-color));
+  border: $rail-border;
+  border-radius: $rail-radius;
+  box-shadow: $box-shadow;
+  padding: 0.65em 0.8em;
+  margin-top: 0;
+}
+
 
 
 /*
@@ -59,7 +71,7 @@
 .toc {
   background-color: var(--global-toc-bg-color);
   border: $rail-border;
-  border-radius: $border-radius;
+  border-radius: $rail-radius;
   box-shadow: $box-shadow;
   padding: 1em;
 
@@ -130,11 +142,11 @@
 
   img {
     max-width: 175px;
-    border-radius: 50%;
+    border-radius: 12px;
 
     @include breakpoint($large) {
       padding: 5px;
-      border: 1px solid var(--global-border-color);
+      border: 1px solid var(--global-dark-border-color);
     }
   }
 }
