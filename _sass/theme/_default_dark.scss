@@ -36,7 +36,8 @@ $navicon-height             : 4px;
 html[data-theme="dark"] {
     --global-base-color                 : #{$primary-color};
     --global-bg-color                   : #{$background};
-    --global-footer-bg-color            : #{$background};
+    --global-footer-bg-color            : #0E5267;
+    --global-heading-color              : #6FCEEB;
     --global-border-color               : #{$light-gray};
     --global-dark-border-color          : #{$background-light};
     --global-code-background-color      : #fafafa;
