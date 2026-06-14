@@ -5,7 +5,7 @@
 .page__footer {
   @include clearfix;
   background-color: var(--global-footer-bg-color);
-  color: var(--global-text-color-light);
+  color: var(--global-footer-text-color, var(--global-text-color-light));
 
   float: left;
   margin-left: 0;
@@ -48,7 +48,7 @@
   .fab,
   .far,
   .fal {
-    color: var(--global-text-color-light);
+    color: var(--global-footer-text-color, var(--global-text-color-light));
   }
 }
 
