@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<img src="/images/about_1.jpg" 
+<img src="/images/about_1.webp" 
      alt="Me on Mt. Kelud, doing some fun scrambling" 
      style="width: 300px; float: right; margin-top: 1rem; margin-left: 2rem; margin-bottom: 1.5rem; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
 
