@@ -23,14 +23,14 @@ repository               : "akafabihi/akafabihi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.webp"
   name             : "Abdulloh Kafa Bihi"
-  pronouns         : # example: "she/her"  
+  pronouns         : # Nothing
   bio              : "Incoming PhD Researcher at CIML, Aix-Marseille Université | MSCA Fellow (UNLIMITED Doctoral Network) | Senior Biocurator at Nalagenetics | Spatial Immunometabolism & Cancer Metabolism"
   location         : "Indonesia"
   employer         : "Nalagenetics"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "kafabihi@hotmail.com"
 
   # Academic websites
   academia         : # URL
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "akafabihi"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "Abdulloh Kafa Bihi"
+  linkedin         : "abdulloh-kafa-bihi-2635b312a"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -77,7 +77,7 @@ author:
   twitter          : "KafaBihi1998"
   vine             : # Username
   weibo            : # Username
-  wikipedia        : # Username
+  wikipedia        : "User:Fabi Fuu 76"
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username

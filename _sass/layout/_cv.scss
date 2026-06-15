@@ -1,0 +1,123 @@
+/* ==========================================================================
+   CV PAGE
+   Everything is scoped under .cv (wrapper div in _pages/cv.md) so spacing
+   changes here never leak into other pages that share the reading layout.
+
+   Two visual systems tied together by one vertical rhythm:
+   • Timeline entries (.cv-entry) — collapsible <details> with a continuous
+     accent bar and a clickable node.
+   • Plain sections (Skills) — section <h1> headers + <h3> sub-headings.
+   ========================================================================== */
+
+.cv {
+
+  /* ---- Section rhythm --------------------------------------------------- */
+  /* Uniform gap before EVERY section header, regardless of what precedes it
+     (the theme's base sets h1 margin-top:0, which is why gaps were uneven). */
+  h1 { margin: 2.2em 0 0.55em; }
+  > h1:first-of-type { margin-top: 0.4em; } /* first section hugs the page title */
+
+  /* Skills sub-headings (Laboratory / Bioinformatics / Language). h3 dodges the
+     theme's .page__content h2 underline; tight bottom so it hugs its list. */
+  h3 {
+    margin: 1.4em 0 0.15em;
+    font-size: 1.02em;
+    font-weight: 700;
+    color: var(--global-heading-color);
+  }
+
+  /* ---- Tighter lists across the whole CV -------------------------------- */
+  ul { margin: 0.2em 0; padding-left: 1.15em; }
+  li { margin-bottom: 0.12em; line-height: 1.5; }
+
+  /* ---- Timeline entries ------------------------------------------------- */
+  .cv-entry {
+    position: relative;
+    margin: 0;                 /* no margin → bars of consecutive entries touch */
+    padding: 0 0 1.25em 1.5em; /* padding-bottom keeps the bar continuous */
+    border-left: 2px solid var(--global-link-color);
+
+    /* Clickable header. display:block normalises <summary> (its default
+       list-item adds a phantom marker box that throws off node alignment). */
+    &__head {
+      display: block;
+      position: relative;
+      cursor: pointer;
+      list-style: none;
+      margin-bottom: 0.3em;
+
+      &::-webkit-details-marker { display: none; }
+      &::marker { content: ""; }
+    }
+
+    /* Timeline node: hollow with a white centre, centred on the 2px bar
+       (back over 1.5em padding + 2px border). */
+    &__head::before {
+      content: "";
+      position: absolute;
+      left: calc(-1px - 1.5em);
+      top: 0.25em;
+      transform: translateX(-50%);
+      box-sizing: border-box;
+      width: 12px;
+      height: 12px;
+      border-radius: 50%;
+      background: #fff;
+      border: 2px solid var(--global-link-color);
+      transition: background 0.15s ease;
+    }
+    /* Fill the node when collapsed or hovered, to signal the toggle. */
+    &:not([open]) > &__head::before,
+    &__head:hover::before { background: var(--global-link-color); }
+
+    /* Date · institution eyebrow — smaller than the title, normal case. */
+    &__meta {
+      display: block;
+      margin-bottom: 0.1em;
+      font-size: 0.8em;
+      font-weight: 600;
+      color: var(--global-link-color);
+    }
+
+    /* Role / degree title. */
+    &__title {
+      display: block;
+      font-size: 1.1em;
+      font-weight: 700;
+      line-height: 1.3;
+      color: var(--global-heading-color);
+    }
+
+    /* Body: tighten everything inside. */
+    &__body > *:first-child { margin-top: 0; }
+    &__body p { margin: 0 0 0.35em; }
+
+    /* Thesis / supervisor / context lines. */
+    &__sub {
+      font-size: 0.9em;
+      line-height: 1.45;
+      color: var(--global-fig-caption-color);
+    }
+
+    ul { margin: 0.25em 0 0; }
+  }
+
+  /* Stop the bar at the last entry of a section (one immediately before a
+     heading, or the final entry) so it doesn't protrude into the next section. */
+  .cv-entry:has(+ h1),
+  .cv-entry:last-of-type { padding-bottom: 0; }
+
+  /* ---- Publications: hanging indent ------------------------------------ */
+  .cv-pubs {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+
+    li {
+      margin: 0 0 0.8em;
+      padding-left: 1.4em;
+      text-indent: -1.4em;
+      line-height: 1.5;
+    }
+  }
+}

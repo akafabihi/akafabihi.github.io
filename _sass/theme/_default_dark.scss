@@ -32,26 +32,30 @@ $masthead-height            : 70px;
 $navicon-width              : 28px;
 $navicon-height             : 4px;
 
-/* Dark theme for the site */
+/* Dark theme for the site
+   Deep near-black teal background (#020B0D) for strong contrast, with slightly
+   elevated surfaces (#081A20) for cards/TOC so the rails read as panels. Links
+   and headings use lighter, lower-saturation blues so they're easy on the eyes
+   against the dark background instead of vivid cyan. */
 html[data-theme="dark"] {
-    --global-base-color                 : #6FCEEB;
-    --global-bg-color                   : #{$background};
-    --global-footer-bg-color            : #{$background};
-    --global-footer-text-color          : #C0EAF6;
-    --global-toc-bg-color               : #192734;
-    --global-heading-color              : #98DCF1;
-    --global-border-color               : #38444d;
-    --global-dark-border-color          : #38444d;
+    --global-base-color                 : #A8CDDB;
+    --global-bg-color                   : #020B0D;
+    --global-footer-bg-color            : #020B12;
+    --global-footer-text-color          : #BFD6DF;
+    --global-toc-bg-color               : #031317;
+    --global-heading-color              : #C2DBE3;
+    --global-border-color               : #243842;
+    --global-dark-border-color          : #243842;
     --global-code-background-color      : #fafafa;
     --global-code-text-color            : #{$darker-gray};
     --global-fig-caption-color          : #{$light-gray};
-    --global-link-color                 : #6FCEEB;
-    --global-link-color-hover           : #98DCF1;
-    --global-link-color-visited         : #47C1E6;
+    --global-link-color                 : #A8CDDB;
+    --global-link-color-hover           : #8CBECF;
+    --global-link-color-visited         : #A5E4D5;
     --global-masthead-link-color        : #{$text};
-    --global-masthead-link-color-hover  : #6FCEEB;
+    --global-masthead-link-color-hover  : #A8CDDB;
     --global-text-color                 : #{$text};
     --global-text-color-light           : #f3f3f3;
-    --global-thead-color                : #22303c;
+    --global-thead-color                : #0E2A33;
 }
 

@@ -95,6 +95,11 @@
   line-height: 1.5;
   transition: background 0.15s;
 
-  &:hover { background: var(--global-border-color); }
+  &:hover,
+  &:focus-visible {
+    background: var(--color-200);
+    border-color: var(--color-300);
+    color: var(--color-900);
+  }
   &--reset { font-weight: bold; }
 }
