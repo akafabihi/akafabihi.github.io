@@ -467,16 +467,16 @@ body:hover .visually-hidden button {
    ========================================================================== */
 
 .footnote {
-  color: var(--global-text-color-light);
+  color: var(--global-heading-color);
   text-decoration: none;
 }
 
 .footnotes {
-  color: var(--global-text-color-light);
+  color: var(--global-text-color);
 
   ol, li, p {
     margin-bottom: 0;
-    font-size: $type-size-6;
+    font-size: 0.9em;
   }
 }
 
