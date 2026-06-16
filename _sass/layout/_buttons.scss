@@ -11,7 +11,7 @@
   display: inline-block;
   margin-bottom: 0.25em;
   padding: 0.5em 1em;
-  color: #fff !important;
+  color: var(--global-on-base-color, #fff) !important; /* contrast against the base-color background, per theme */
   font-family: $sans-serif;
   font-size: $type-size-6;
   font-weight: bold;
@@ -23,6 +23,8 @@
   cursor: pointer;
 
   &:hover {
+    /* hover background is dark in both light and dark themes, so text stays white */
+    color: #fff !important;
     background-color: mix(white, #000, 20%);
   }
 
@@ -48,7 +50,7 @@
   /* for dark backgrounds */
 
   &--inverse {
-    color: var(--global-text-color-light) !important;
+    color: var(--global-text-color) !important; /* strong body text, not the muted grey, for readability */
     border: 1px solid var(--global-border-color) !important; /* override*/
     background-color: var(--global-bg-color);
 
@@ -56,11 +58,21 @@
       color: #fff !important;
       border-color: var(--global-text-color-light);
     }
+
+    /* Active / open state: turns teal (like the utility-rail font-size buttons).
+       The Follow button gets the `.open` class from the menu-toggle JS. */
+    &.open,
+    &:active {
+      color: var(--global-on-base-color, #fff) !important; /* readable on the teal base in both themes */
+      background-color: var(--global-base-color);
+      border-color: var(--global-base-color) !important;
+    }
   }
 
   /* light outline */
 
   &--light-outline {
+    color: #fff !important; /* sits over hero imagery; keep white in both themes */
     border: 1px solid #fff !important; /* override*/
     background-color: transparent;
   }
@@ -68,6 +80,7 @@
   /* information */
 
   &--info {
+    color: #fff !important; /* fixed dark background in both themes */
     background-color: $info-color;
 
     &:hover {
@@ -78,6 +91,7 @@
   /* warning */
 
   &--warning {
+    color: #fff !important;
     background-color: $warning-color;
 
     &:hover {
@@ -88,6 +102,7 @@
   /* success */
 
   &--success {
+    color: #fff !important;
     background-color: $success-color;
 
     &:hover {
@@ -98,6 +113,7 @@
   /* danger */
 
   &--danger {
+    color: #fff !important;
     background-color: $danger-color;
 
     &:hover {
@@ -127,6 +143,7 @@
 
   @each $socialnetwork, $color in $social {
     &--#{$socialnetwork} {
+      color: #fff !important; /* brand-colored (dark) background in both themes */
       background-color: $color;
 
       &:hover {

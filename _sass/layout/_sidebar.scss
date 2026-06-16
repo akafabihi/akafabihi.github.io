@@ -317,6 +317,12 @@
   .author__avatar {
     display: block;
     width: auto;
+    margin-bottom: 14px;
+
+    img {
+      padding: 5px;
+      border: 1px solid var(--global-dark-border-color);
+    }
   }
 
   .author__content {
@@ -326,7 +332,43 @@
     padding-right: 0;
   }
 
+  .author__name {
+    margin-top: 4px;
+    margin-bottom: 8px;
+  }
+
+  .author__pronouns {
+    margin-top: 4px;
+    margin-bottom: 8px;
+  }
+
+  .author__bio {
+    margin-top: 0;
+    margin-bottom: 18px;
+  }
+
   .author__urls-wrapper {
     display: block;
+  }
+
+  /* Follow dropdown sits directly below the Follow button, left-aligned with it,
+     instead of pinned to the far right. top: 100% drops it just under the button;
+     left: 0 lines it up; a positive z-index lifts it above the card content. */
+  .author__urls {
+    right: auto;
+    left: 0;
+    top: 100%;
+    margin-top: 12px;
+    z-index: 10;
+
+    &:before {
+      left: 28px;
+    }
+
+    &:after {
+      left: 28px;
+      /* match the dropdown background so the arrow tip is correct in dark mode */
+      border-color: var(--global-bg-color) transparent;
+    }
   }
 }

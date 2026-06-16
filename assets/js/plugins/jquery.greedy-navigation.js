@@ -73,9 +73,20 @@ screen.orientation.addEventListener("change", function () {
   updateNav();
 });
 
-$btn.on('click', function () {
+$btn.on('click', function (e) {
+  // Prevent this click from reaching the document handler below, which would
+  // otherwise immediately close the menu we just opened.
+  e.stopPropagation();
   $hlinks.toggleClass('hidden');
   $(this).toggleClass('close');
+});
+
+// Close the overflow nav menu when tapping/clicking anywhere outside the nav.
+$(document).on('click', function (e) {
+  if (!$hlinks.hasClass('hidden') && !$(e.target).closest('#site-nav').length) {
+    $hlinks.addClass('hidden');
+    $btn.removeClass('close');
+  }
 });
 
 updateNav();

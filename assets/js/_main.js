@@ -100,9 +100,22 @@ $(document).ready(function () {
   fitvids();
 
   // Follow menu drop down
-  $(".author__urls-wrapper button").on("click", function () {
+  $(".author__urls-wrapper button").on("click", function (e) {
+    // Stop this click from bubbling to the document handler below, which would
+    // otherwise immediately close the menu we just opened.
+    e.stopPropagation();
     $(".author__urls").fadeToggle("fast", function () { });
     $(".author__urls-wrapper button").toggleClass("open");
+  });
+
+  // Close the follow menu when tapping/clicking anywhere outside it (mobile-friendly).
+  $(document).on("click", function (e) {
+    var $btn = $(".author__urls-wrapper button");
+    if ($btn.hasClass("open") &&
+        !$(e.target).closest(".author__urls").length) {
+      $(".author__urls").fadeOut("fast");
+      $btn.removeClass("open");
+    }
   });
 
   // Restore the follow menu if toggled on a window resize

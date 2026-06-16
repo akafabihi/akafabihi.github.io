@@ -517,3 +517,28 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+/* About-page portrait.
+   Desktop (>= $large): floats right so body text wraps elegantly beside it.
+   Below $large: the content column is too narrow for a 300px float, which strands
+   the first few words; so it unfloats and stacks centered above the text. */
+.about-portrait {
+  width: 300px;
+  float: right;
+  margin-top: 1rem;
+  margin-left: 2rem;
+  margin-bottom: 1.5rem;
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+
+  @media screen and (max-width: #{$large - 1px}) {
+    float: none;
+    display: block;
+    width: 100%;
+    max-width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0.5rem;
+    margin-bottom: 1.5rem;
+  }
+}

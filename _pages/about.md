@@ -11,7 +11,7 @@ redirect_from:
 
 <img src="/images/about_1.webp" 
      alt="Me on Mt. Kelud, doing some fun scrambling" 
-     style="width: 300px; float: right; margin-top: 1rem; margin-left: 2rem; margin-bottom: 1.5rem; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
+     class="about-portrait">
 
 I am Abdulloh Kafa Bihi, and you can call me Fabi. I am a biologist, currently working as a Senior Biocurator at NalaGenetics, where I works on pharmacogenomics, disease risk prediction, and wellness genomics. In September 2026, I will join CIML / Aix-Marseille Université to pursue my PhD in cancer metabolism and spatial immunometabolism.
 

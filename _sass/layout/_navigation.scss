@@ -92,7 +92,7 @@
       }
 
       &.current {
-        color: #fff;
+        color: var(--global-on-base-color, #fff); /* readable on the base-color background in both themes */
         background: var(--global-base-color);
       }
 
@@ -354,13 +354,13 @@
     margin-left: -0.5em;
     padding-left: 0.5em;
     padding-right: 0.5em;
-    color: #fff;
+    color: var(--global-on-base-color, #fff); /* readable on the base-color background in both themes */
     font-weight: bold;
     background: var(--global-base-color);
     border-radius: $border-radius;
 
     &:hover {
-      color: #fff;
+      color: var(--global-on-base-color, #fff);
     }
   }
 }

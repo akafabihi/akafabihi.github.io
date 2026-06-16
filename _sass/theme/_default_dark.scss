@@ -39,6 +39,7 @@ $navicon-height             : 4px;
    against the dark background instead of vivid cyan. */
 html[data-theme="dark"] {
     --global-base-color                 : #A8CDDB;
+    --global-on-base-color              : #04222b; /* dark text ON the light-teal base color; white was unreadable */
     --global-bg-color                   : #020B0D;
     --global-footer-bg-color            : #020B12;
     --global-footer-text-color          : #BFD6DF;

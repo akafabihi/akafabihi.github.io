@@ -27,6 +27,7 @@ $navicon-height             : 4px;
 /* Default light theme for the site */
 :root {
     --global-base-color                 : #{$primary-color};
+    --global-on-base-color              : #fff; /* readable text ON the base color (base is dark teal here) */
     --global-bg-color                   : #fff;
     --global-footer-bg-color            : #F0FFFF;
     --global-footer-text-color          : #000000;
@@ -43,7 +44,7 @@ $navicon-height             : 4px;
     --global-masthead-link-color        : #{$darker-gray};
     --global-masthead-link-color-hover  : mix(#000, #{$gray}, 25%);
     --global-text-color                 : #{$darker-gray};
-    --global-text-color-light           : #{$light-gray};
+    --global-text-color-light           : #{mix(#000, $gray, 15%)}; /* readable muted grey (~5:1 on white); was $light-gray (~1.9:1, failed WCAG) */
     --global-thead-color                : #{$lighter-gray};
 }
 

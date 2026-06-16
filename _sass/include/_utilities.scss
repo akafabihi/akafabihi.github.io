@@ -172,6 +172,26 @@ body:hover .visually-hidden button {
   }
 }
 
+/* Mobile/narrow-width safety net for content images.
+   Below $large the content column is too narrow to wrap text beside a floated
+   image, which strands the first few words. Any floated content image — whether
+   floated via the .align-* utilities or a hand-written inline style="float:..." —
+   unfloats and centers, so text always flows cleanly below it. The !important is
+   required to override inline float styles. (Plain images are already capped by
+   the global img { max-width: 100% } in _reset.scss, so width is handled.) */
+@media screen and (max-width: #{$large - 1px}) {
+  .page__content {
+    img.align-left,
+    img.align-right,
+    img[style*="float"] {
+      float: none !important;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+    }
+  }
+}
+
 /*
    Icons
    ========================================================================== */
