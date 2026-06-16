@@ -20,7 +20,7 @@ author_profile: false
         {% continue %}
       {% endif %}
       {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
+        <h2 id="{{ category[1].title | slugify }}">{{ category[1].title }}</h2><hr />
         {% assign title_shown = true %}
       {% endunless %}
       {% include archive-single.html %}
@@ -31,6 +31,58 @@ author_profile: false
     {% include archive-single.html %}
   {% endfor %}
 {% endif %}
+
+<!-- Page-scoped Table of Contents.
+     Self-contained on purpose: the archive layout ships the ToC shell but never
+     loads the ToC builder (reading.js is reading-layout only). This inline
+     script fills #toc-menu from the category <h2 id="…"> headings ABOVE, using
+     the same classes/markup as the site-wide ToC so existing CSS styles it.
+     Lives entirely in this file → it can only affect /publications. -->
+<script>
+(function () {
+  function buildPublicationsToc() {
+    var content = document.getElementById('reading-content');
+    var menu    = document.getElementById('toc-menu');
+    var rail    = document.querySelector('.site-left-rail');
+    if (!content || !menu) return;
+
+    var headings = Array.prototype.slice.call(content.querySelectorAll('h2[id]'));
+    if (headings.length < 2) {            // a 1-item ToC is pointless → hide the box
+      if (rail) rail.style.display = 'none';
+      var main = document.getElementById('main');
+      if (main) main.classList.add('toc-hidden');
+      return;
+    }
+
+    menu.innerHTML = headings.map(function (h) {
+      return '<li><a href="#' + h.id + '" data-toc-id="' + h.id + '">' +
+             h.textContent.trim() + '</a></li>';
+    }).join('');
+
+    // Scrollspy: highlight the section in view (mirrors reading.js behaviour).
+    var links = {};
+    Array.prototype.forEach.call(menu.querySelectorAll('a[data-toc-id]'), function (a) {
+      links[a.dataset.tocId] = a;
+    });
+    var activeId = null;
+    var observer = new IntersectionObserver(function (entries) {
+      entries.forEach(function (entry) {
+        if (!entry.isIntersecting) return;
+        if (activeId && links[activeId]) links[activeId].classList.remove('is-active');
+        activeId = entry.target.id;
+        if (links[activeId]) links[activeId].classList.add('is-active');
+      });
+    }, { rootMargin: '-78px 0px -70% 0px', threshold: 0 });
+    headings.forEach(function (h) { observer.observe(h); });
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', buildPublicationsToc);
+  } else {
+    buildPublicationsToc();
+  }
+})();
+</script>
 
 
 
