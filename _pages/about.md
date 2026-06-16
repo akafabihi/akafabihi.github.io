@@ -2,6 +2,7 @@
 permalink: /
 title: "Abdulloh Kafa Bihi"
 excerpt: "Cancer metabolism, immunometabolism, and genomics"
+description: "Biologist and incoming PhD researcher (CIML, Aix-Marseille Université) working on spatial immunometabolism, cancer metabolism, and genomics."
 author_profile: true
 redirect_from:
   - /about/
