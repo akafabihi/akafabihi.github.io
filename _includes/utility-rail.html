@@ -22,6 +22,18 @@
     </a>
   </section>
 
+  {% if page.collection == 'posts' or page.show_tags %}
+  <section class="utility-rail__section">
+    <h4 class="utility-rail__heading">Tags</h4>
+    <ul class="utility-rail__links">
+      {% assign sorted_tags = site.tags | sort %}
+      {% for tag in sorted_tags %}
+      <li><a href="{{ base_path }}/tags/#{{ tag[0] | slugify }}">{{ tag[0] }}</a></li>
+      {% endfor %}
+    </ul>
+  </section>
+  {% endif %}
+
   {% if site.data.links.size > 0 %}
   <section class="utility-rail__section">
     <h4 class="utility-rail__heading">Links</h4>
