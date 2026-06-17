@@ -115,5 +115,5 @@ No `layout:` needed — `_config.yml` defaults all posts to `layout: reading`.
 
 ## License
 
-Site content: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
-Template base: [Academic Pages](https://github.com/academicpages/academicpages.github.io) (MIT).
+Original template code: [MIT](https://opensource.org/licenses/MIT), inherited from [Academic Pages](https://github.com/academicpages/academicpages.github.io).
+Written content (blog posts, research text, CV): [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
