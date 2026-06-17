@@ -48,3 +48,11 @@ $navicon-height             : 4px;
     --global-thead-color                : #{$lighter-gray};
 }
 
+::selection {
+  background-color: mix(#fff, $primary-color, 60%);
+  color: #000;
+}
+::-moz-selection {
+  background-color: mix(#fff, $primary-color, 60%);
+  color: #000;
+}

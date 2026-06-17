@@ -60,3 +60,11 @@ html[data-theme="dark"] {
     --global-thead-color                : #0E2A33;
 }
 
+html[data-theme="dark"] ::selection {
+  background-color: $primary-color;
+  color: #04222b;
+}
+html[data-theme="dark"] ::-moz-selection {
+  background-color: $primary-color;
+  color: #04222b;
+}
