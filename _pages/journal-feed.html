@@ -1,0 +1,52 @@
+---
+layout: archive
+title: "Journal Feed"
+permalink: /journal-feed/
+author_profile: false
+---
+
+{% include base_path %}
+
+{% assign journal_feed = site.data.papers.papers %}
+
+{% if journal_feed and journal_feed.size > 0 %}
+  <p class="feed-updated">
+    Recent papers auto-aggregated from selected journals.
+    {% if site.data.papers.updated %}Last updated {{ site.data.papers.updated | date: "%-d %B %Y, %H:%M UTC" }}.{% endif %}
+  </p>
+
+  {% assign journals = journal_feed | map: "journal" | uniq | sort %}
+  <div class="feed-filter" role="group" aria-label="Filter papers by journal">
+    <span class="feed-filter__label">Journals</span>
+    {% for j in journals %}
+      <button type="button" class="feed-filter__chip" data-journal="{{ j | escape }}" aria-pressed="false">{{ j }}</button>
+    {% endfor %}
+    <button type="button" class="feed-filter__reset" id="feed-filter-reset" hidden>Show all</button>
+  </div>
+
+  {% assign categories = "Original Article,Review Article" | split: "," %}
+  {% for category in categories %}
+    {% assign items = journal_feed | where: "category", category %}
+    {% if items.size > 0 %}
+      <h2 id="{{ category | slugify }}">{{ category }}</h2>
+      <div class="feed-list">
+        {% for paper in items %}
+          <article class="feed-entry" id="{{ paper.id }}" data-journal="{{ paper.journal | escape }}">
+            <h3 class="feed-entry__title">
+              <a href="{{ paper.link }}" target="_blank" rel="noopener noreferrer">{{ paper.title }}</a>
+            </h3>
+            <p class="feed-entry__meta">
+              {{ paper.journal }}{% if paper.date_display != "" %} &middot; {{ paper.date_display }}{% endif %}
+            </p>
+            {% if paper.authors != "" %}<p class="feed-entry__authors">{{ paper.authors }}</p>{% endif %}
+            {% if paper.summary != "" %}<p class="feed-entry__summary">{{ paper.summary }}</p>{% endif %}
+          </article>
+        {% endfor %}
+      </div>
+    {% endif %}
+  {% endfor %}
+{% else %}
+  <p>The journal feed hasn't been populated yet. It fills in automatically once the daily fetch runs (or trigger the <em>Fetch Journal Papers</em> workflow manually).</p>
+{% endif %}
+
+<script type="module" src="{{ base_path }}/assets/js/journal-filter.js"></script>

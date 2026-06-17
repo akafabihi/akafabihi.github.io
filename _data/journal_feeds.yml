@@ -1,0 +1,67 @@
+# Journals shown in the right-rail "Journal Feed" box and on /journal-feed/.
+#
+# Each entry needs:
+#   name     : display name
+#   url      : the journal's RSS / Atom feed URL
+#   category : grouping on the feed page ("Original Article" or "Review Article")
+#
+# A GitHub Action (.github/workflows/fetch_papers.yml) reads this file daily,
+# fetches each feed, and writes the merged result to _data/papers.json.
+# Edit freely, then push — the feed rebuilds itself.
+#
+# Feed-URL patterns for adding more journals:
+#   Nature      https://www.nature.com/<code>.rss        (e.g. ni, nrc, natcancer)
+#   Cell Press  https://www.cell.com/<slug>/current.rss  (e.g. immunity, cancer-cell)
+#   Cell Trends https://www.cell.com/trends/<slug>/current.rss
+#   Science     https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=<code>
+
+# ── Original Article ──────────────────────────────────────────────────────
+- name: "Nature Cancer"
+  url: "https://www.nature.com/natcancer.rss"
+  category: "Original Article"
+- name: "Nature Immunology"
+  url: "https://www.nature.com/ni.rss"
+  category: "Original Article"
+- name: "Nature Metabolism"
+  url: "https://www.nature.com/natmetab.rss"
+  category: "Original Article"
+- name: "Immunity"
+  url: "https://www.cell.com/immunity/current.rss"
+  category: "Original Article"
+- name: "Cancer Cell"
+  url: "https://www.cell.com/cancer-cell/current.rss"
+  category: "Original Article"
+- name: "Cell Metabolism"
+  url: "https://www.cell.com/cell-metabolism/current.rss"
+  category: "Original Article"
+- name: "Science Immunology"
+  url: "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciimmunol"
+  category: "Original Article"
+
+# Cancer Discovery & Cancer Research (AACR) are behind Cloudflare bot-protection,
+# so their RSS is unreliable from CI. To include them, create a PubMed feed
+# (pubmed.ncbi.nlm.nih.gov → search e.g. "Cancer Discovery"[Journal] →
+# "Create RSS") and paste the generated URL here, then uncomment:
+# - name: "Cancer Discovery"
+#   url: "https://pubmed.ncbi.nlm.nih.gov/rss/search/XXXXXXXX/?limit=20"
+#   category: "Original Article"
+# - name: "Cancer Research"
+#   url: "https://pubmed.ncbi.nlm.nih.gov/rss/search/XXXXXXXX/?limit=20"
+#   category: "Original Article"
+
+# ── Review Article ────────────────────────────────────────────────────────
+- name: "Nature Reviews Immunology"
+  url: "https://www.nature.com/nri.rss"
+  category: "Review Article"
+- name: "Nature Reviews Cancer"
+  url: "https://www.nature.com/nrc.rss"
+  category: "Review Article"
+- name: "Trends in Immunology"
+  url: "https://www.cell.com/trends/immunology/current.rss"
+  category: "Review Article"
+- name: "Trends in Cancer"
+  url: "https://www.cell.com/trends/cancer/current.rss"
+  category: "Review Article"
+- name: "Trends in Cell Biology"
+  url: "https://www.cell.com/trends/cell-biology/current.rss"
+  category: "Review Article"

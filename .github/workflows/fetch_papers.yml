@@ -1,0 +1,44 @@
+name: Fetch Journal Papers
+
+# Pulls the RSS/Atom feeds listed in _data/journal_feeds.yml and commits the
+# merged result to _data/papers.json. GitHub Pages then rebuilds the site.
+
+on:
+  schedule:
+    - cron: '0 6 * * *'        # daily at 06:00 UTC
+  workflow_dispatch:            # allow manual runs from the Actions tab
+  push:
+    paths:
+      - '_data/journal_feeds.yml'
+      - 'scripts/fetch_papers.py'
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write           # this workflow commits papers.json
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install feedparser pyyaml
+
+      - name: Fetch papers
+        run: python scripts/fetch_papers.py
+
+      - name: Commit updated feed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add _data/papers.json
+          if git diff --quiet --cached; then
+            echo "No feed changes to commit."
+          else
+            git commit -m "Update journal feed [skip ci]"
+            git push
+          fi
