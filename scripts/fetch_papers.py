@@ -116,7 +116,20 @@ def get_date(entry):
     return ts, dt.strftime("%Y-%m-%dT%H:%M:%SZ"), dt.strftime("%-d %b %Y")
 
 
-def parse_feed(journal):
+def load_author_cache():
+    """Map of entry id -> authors from the previous run. Lets each paper be
+    looked up on Crossref at most once in its lifetime (misses are not cached,
+    so a not-yet-indexed paper can still be resolved on a later run)."""
+    try:
+        with open(OUT_FILE, encoding="utf-8") as fh:
+            prev = json.load(fh)
+    except (OSError, ValueError):
+        return {}
+    return {p["id"]: p["authors"] for p in prev.get("papers", [])
+            if p.get("id") and p.get("authors")}
+
+
+def parse_feed(journal, author_cache, stats):
     name, url, category = journal["name"], journal["url"], journal.get("category", "")
     parsed = feedparser.parse(url, agent=UA)
     if parsed.bozo and not parsed.entries:
@@ -128,13 +141,19 @@ def parse_feed(journal):
         title = clean(entry.get("title", ""))
         if not link or not title:
             continue
+        paper_id = hashlib.sha1(link.encode("utf-8")).hexdigest()[:10]
         ts, date_iso, date_display = get_date(entry)
         summary = truncate(clean(entry.get("summary", "")), SUMMARY_MAX)
         authors = get_authors(entry)
-        if not authors:                       # feed omitted authors — try Crossref
-            authors = crossref_authors(title)
+        if not authors:                       # feed omitted authors
+            if author_cache.get(paper_id):    # resolved on a previous run
+                authors = author_cache[paper_id]
+                stats["cached"] += 1
+            else:                             # never seen — ask Crossref once
+                authors = crossref_authors(title)
+                stats["crossref"] += 1
         papers.append({
-            "id": hashlib.sha1(link.encode("utf-8")).hexdigest()[:10],
+            "id": paper_id,
             "title": title,
             "link": link,
             "journal": name,
@@ -152,10 +171,13 @@ def main():
     with open(FEEDS_FILE, encoding="utf-8") as fh:
         feeds = yaml.safe_load(fh) or []
 
+    author_cache = load_author_cache()
+    stats = {"cached": 0, "crossref": 0}
+
     all_papers, ok, failed = [], 0, 0
     for journal in feeds:
         try:
-            items = parse_feed(journal)
+            items = parse_feed(journal, author_cache, stats)
             all_papers.extend(items)
             ok += 1
             print(f"  [ok]   {journal['name']}: {len(items)} entries")
@@ -189,6 +211,8 @@ def main():
 
     print(f"\nWrote {len(deduped)} papers from {ok} feeds "
           f"({failed} failed) -> {os.path.relpath(OUT_FILE, ROOT)}")
+    print(f"Authors backfilled: {stats['cached']} from cache, "
+          f"{stats['crossref']} fresh Crossref lookups")
     return 0
 
 
