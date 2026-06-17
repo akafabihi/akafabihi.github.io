@@ -1,6 +1,6 @@
 # kafabihi.com — Personal Academic Site
 
-Personal site of **Abdulloh Kafa Bihi** (Fabi), researcher in cancer metabolism and immunometabolism.
+Personal academic site of **Abdulloh Kafa Bihi**. Research, publications, CV, and a blog.
 Live at **[kafabihi.com](https://kafabihi.com)**.
 
 Built on [Academic Pages](https://github.com/academicpages/academicpages.github.io), a Jekyll template for academic personal sites hosted on GitHub Pages. At this point the template has been heavily modified — the layout system, theme, blog, and reading experience are largely custom.
