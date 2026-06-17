@@ -38,16 +38,18 @@
   url: "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciimmunol"
   category: "Original Article"
 
-# Cancer Discovery & Cancer Research (AACR) are behind Cloudflare bot-protection,
-# so their RSS is unreliable from CI. To include them, create a PubMed feed
-# (pubmed.ncbi.nlm.nih.gov → search e.g. "Cancer Discovery"[Journal] →
-# "Create RSS") and paste the generated URL here, then uncomment:
-# - name: "Cancer Discovery"
-#   url: "https://pubmed.ncbi.nlm.nih.gov/rss/search/XXXXXXXX/?limit=20"
-#   category: "Original Article"
-# - name: "Cancer Research"
-#   url: "https://pubmed.ncbi.nlm.nih.gov/rss/search/XXXXXXXX/?limit=20"
-#   category: "Original Article"
+# AACR journals (Silverchair). The journal homepages sit behind a Cloudflare
+# challenge, but these /rss/ feed endpoints are public. Feed IDs come from the
+# index at https://aacrjournals.org/pages/rss
+- name: "Cancer Discovery"
+  url: "https://aacrjournals.org/rss/site_1000005/1000005.xml"
+  category: "Original Article"
+- name: "Cancer Research"
+  url: "https://aacrjournals.org/rss/site_1000019/1000012.xml"
+  category: "Original Article"
+- name: "Cancer Immunology Research"
+  url: "https://aacrjournals.org/rss/site_1000009/1000007.xml"
+  category: "Original Article"
 
 # ── Review Article ────────────────────────────────────────────────────────
 - name: "Nature Reviews Immunology"
