@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-17T13:22:45Z",
+  "updated": "2026-06-17T13:55:34Z",
   "papers": [
     {
       "id": "6a71a853fb",
@@ -31,17 +31,6 @@
       "category": "Original Article",
       "authors": "Byunghee Koh, Shani T. Gal Oz, Ryota Sato, Hung N. Nguyen, Garrett Dunlap, Christopher Mahony, Chrissy Bolton, Lucy R. Wedderburn, Adam P. Croft, Laura Donlin, Melanie H. Smith…",
       "summary": "Nature Immunology, Published online: 16 June 2026; doi:10.1038/s41590-026-02540-4 Brenner and colleagues identify two predominant tissue-resident Treg cell subsets (suppressive CD25hiCXCR6pos and dysfunctional CD25loAREGpos) in synovial joints from patients with rheumatoid arthritis. These functionally divergent Treg…",
-      "date": "2026-06-16T00:00:00Z",
-      "date_display": "16 Jun 2026"
-    },
-    {
-      "id": "690b4f90ce",
-      "title": "Understanding the somatic evolution of metabolic traits",
-      "link": "https://www.nature.com/articles/s42255-026-01551-7",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "Radhika Khandelwal, Anand Kumar Sharma",
-      "summary": "Nature Metabolism, Published online: 16 June 2026; doi:10.1038/s42255-026-01551-7 Somatic mutations are linked to diseases, yet their prevalence and relevance in health remain poorly defined. Technological advancements now enable us to delineate how tissue-specific somatic mutations drive adaptive metabolism across…",
       "date": "2026-06-16T00:00:00Z",
       "date_display": "16 Jun 2026"
     },
@@ -86,28 +75,6 @@
       "category": "Original Article",
       "authors": "Hanover C. Matz, Tae-Geun Yu, Kritika Dixit, Caroline Kikawa, Julian Q. Zhou, Garazi Pena Alzua, Lowrey Peyton, Anders Madsen, Fangjie Han, Ariana Ghez Farrell, Robert Hoelzl…",
       "summary": "Nature Immunology, Published online: 15 June 2026; doi:10.1038/s41590-026-02569-5 This study compares the humoral response of individuals who received inactivated influenza vaccines to that of individuals who received an mRNA-based quadrivalent influenza vaccine. The mRNA-based vaccine induced prolonged germinal…",
-      "date": "2026-06-15T00:00:00Z",
-      "date_display": "15 Jun 2026"
-    },
-    {
-      "id": "71c0baad46",
-      "title": "Adiposity and cancer: systematic review and meta-analysis",
-      "link": "https://www.nature.com/articles/s42255-026-01542-8",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "Eleanor L. Watts, Amparo Gonzalez-Feliciano, Marc J. Gunter, Nilanjan Chatterjee, Steven C. Moore",
-      "summary": "Nature Metabolism, Published online: 15 June 2026; doi:10.1038/s42255-026-01542-8 In a meta-analysis including 1.5 million incidences of cancer, positive associations between body mass index and 19 cancers were identified, underlining the impact of obesity on cancer risk.",
-      "date": "2026-06-15T00:00:00Z",
-      "date_display": "15 Jun 2026"
-    },
-    {
-      "id": "57ef6e077b",
-      "title": "Adiposity and cancer: epidemiology, mechanisms and future perspectives",
-      "link": "https://www.nature.com/articles/s42255-026-01529-5",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "Eleanor L. Watts, Amparo Gonzalez-Feliciano, Marc J. Gunter, Nilanjan Chatterjee, Steven C. Moore",
-      "summary": "Nature Metabolism, Published online: 15 June 2026; doi:10.1038/s42255-026-01529-5 This Review discusses epidemiological trends for adiposity and cancer and summarizes mechanisms linking obesity to cancer development.",
       "date": "2026-06-15T00:00:00Z",
       "date_display": "15 Jun 2026"
     },
@@ -233,17 +200,6 @@
       "date_display": "12 Jun 2026"
     },
     {
-      "id": "edfe3f89c0",
-      "title": "Why machine learning fails at mass spectrometry for small molecules",
-      "link": "https://www.nature.com/articles/s42255-026-01544-6",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "Ling Min Serena Khoo, Regina Barzilay",
-      "summary": "Nature Metabolism, Published online: 11 June 2026; doi:10.1038/s42255-026-01544-6 Machine learning approaches are increasingly being used to aid small-molecule structure elucidation from mass spectrometry data. Surprisingly, however, current models often fail to outperform even simple baseline methods. Here we examine…",
-      "date": "2026-06-11T00:00:00Z",
-      "date_display": "11 Jun 2026"
-    },
-    {
       "id": "1a1bc3a07e",
       "title": "Combination of paricalcitol with chemotherapy shows promise in phase 1 study of metastatic pancreatic cancer",
       "link": "https://www.nature.com/articles/s43018-026-01164-9",
@@ -275,39 +231,6 @@
       "summary": "Nature Cancer, Published online: 10 June 2026; doi:10.1038/s43018-026-01187-2 Huang and colleagues report that elevated iron levels are associated with ferroptosis of chimeric antigen receptor (CAR)-T cells and inhibition of ferroptosis improves antitumor efficacy of CAR-T cells.",
       "date": "2026-06-10T00:00:00Z",
       "date_display": "10 Jun 2026"
-    },
-    {
-      "id": "c82091e904",
-      "title": "Author Correction: Inhibition of fatty acid uptake by TGR5 prevents diabetic cardiomyopathy",
-      "link": "https://www.nature.com/articles/s42255-026-01553-5",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "Hu Wang, Jiaxing Wang, Hao Cui, Chenyu Fan, Yuzhou Xue, Huiying Liu, Hui Li, Jianping Li, Houhua Li, Ying Sun, Wengong Wang, Jiangping Song, Changtao Jiang, Ming Xu",
-      "summary": "Nature Metabolism, Published online: 09 June 2026; doi:10.1038/s42255-026-01553-5 Author Correction: Inhibition of fatty acid uptake by TGR5 prevents diabetic cardiomyopathy",
-      "date": "2026-06-09T00:00:00Z",
-      "date_display": "9 Jun 2026"
-    },
-    {
-      "id": "25761ee191",
-      "title": "Rise in sugar decoration in Alzheimer’s disease",
-      "link": "https://www.nature.com/articles/s42255-026-01531-x",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "Yasuhiko Kizuka",
-      "summary": "Nature Metabolism, Published online: 09 June 2026; doi:10.1038/s42255-026-01531-x A new drug target for Alzheimer’s disease is highly desired. In a study recently published in Nature Metabolism, Hawkinson, Liu et al. identify a global increase in protein N-glycosylation in Alzheimer’s disease. Worsened pathology due…",
-      "date": "2026-06-09T00:00:00Z",
-      "date_display": "9 Jun 2026"
-    },
-    {
-      "id": "1cdeb3faa6",
-      "title": "Hyperglycosylation is a metabolic driver of Alzheimer’s disease",
-      "link": "https://www.nature.com/articles/s42255-026-01538-4",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "Tara R. Hawkinson, Zizhen Liu, Roberto A. Ribas, Terrymar Medina, Rikke S. Nielsen, Harrison A. Clarke, Xin Ma, Angela C. Mueller, Adrielle F. Plasencia, Alexander L. Sheer…",
-      "summary": "Nature Metabolism, Published online: 09 June 2026; doi:10.1038/s42255-026-01538-4 Through spatial multiomics, spatial stable isotope tracing and retrospective cohort analyses, this study identifies hyperglycosylation as a driver of Alzheimer’s disease and a promising therapeutic target.",
-      "date": "2026-06-09T00:00:00Z",
-      "date_display": "9 Jun 2026"
     },
     {
       "id": "45c5c56fa4",
@@ -405,17 +328,6 @@
       "category": "Original Article",
       "authors": "Peter Schmid, Seock-Ah Im, Zbigniew Nowecki, Piotr J. Wysocki, Jacek Jassem, Kyung Hae Jung, Simon Lord, Jon Armstrong, Ross Stewart, Petra Vuković, Neelima Denduluri, Yeon Hee…",
       "summary": "Nature Cancer, Published online: 08 June 2026; doi:10.1038/s43018-026-01181-8 In this phase 1/2 BEGONIA platform trial, Schmid and colleagues evaluated the safety and efficacy of durvalumab and trastuzumab deruxtecan in participants with locally advanced unresectable or metastatic hormone-receptor-negative breast…",
-      "date": "2026-06-08T00:00:00Z",
-      "date_display": "8 Jun 2026"
-    },
-    {
-      "id": "ad470e75a2",
-      "title": "Cellular loci for cagrilintide action identified",
-      "link": "https://www.nature.com/articles/s42255-026-01541-9",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "Zsofia Hevesi, Tibor Harkany",
-      "summary": "Nature Metabolism, Published online: 08 June 2026; doi:10.1038/s42255-026-01541-9 Mechanism-based treatments for human illnesses offer superior efficacy and improved tolerability. Here, Ludwig et al. explore the mechanism of action of cagrilintide through single-cell biology and circuit manipulations in the brain to…",
       "date": "2026-06-08T00:00:00Z",
       "date_display": "8 Jun 2026"
     },
@@ -1320,6 +1232,94 @@
       "summary": "Cellular senescence is traditionally linked to aging and tissue dysfunction, yet whether beneficial p16High cells can protect against acute lethal stress remains unknown. Triana-Martinez et al. demonstrate that the BNT162b2 mRNA vaccine exerts strong protective effects by inducing p16High immune cells through…",
       "date": "2026-03-26T00:00:00Z",
       "date_display": "26 Mar 2026"
+    },
+    {
+      "id": "384db57665",
+      "title": "Dissecting histological transformation",
+      "link": "https://www.cell.com/trends/cancer/fulltext/S2405-8033(26)00032-4?rss=yes",
+      "journal": "Trends in Cancer",
+      "category": "Review Article",
+      "authors": "Ethan M. Earlie, Eric E. Gardner, Harold Varmus, Ashley M. Laughney",
+      "summary": "The adaptive nature of cancer is a major obstacle limiting durable treatment responses. Histological transformation (HT) is a process whereby one cancer changes into a categorically different tumor type, often following treatment with targeted therapy. Best characterized in lung and prostate adenocarcinomas, HT is…",
+      "date": "2026-03-26T00:00:00Z",
+      "date_display": "26 Mar 2026"
+    },
+    {
+      "id": "8d14d669d4",
+      "title": "Mitochondrial lactate venting limits oxidative stress",
+      "link": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00093-8?rss=yes",
+      "journal": "Cell Metabolism",
+      "category": "Original Article",
+      "authors": "Daniela Rauseo, Yasna Contreras-Baeza, Mildreth Salazar, Abigail J. Galarza, Sebastián Holtheuer-Gallardo, Hugo Faurand, Natali Cárcamo-Lemus, Raibel Suárez, Joel L. Asenjo…",
+      "summary": "The main function of mitochondria is to generate ATP by oxidizing pyruvate to CO2. Rauseo et al. show that matrix pyruvate is also converted to lactate, which is released to the cytosol via the MPC to modulate ROS production. Hypoxia increased ROS and boosted the release of lactate by mitochondria.",
+      "date": "2026-03-24T00:00:00Z",
+      "date_display": "24 Mar 2026"
+    },
+    {
+      "id": "25a110c005",
+      "title": "p53: defender of lineage fidelity and foe of plasticity in cancer and regeneration",
+      "link": "https://www.cell.com/trends/cancer/fulltext/S2405-8033(26)00035-X?rss=yes",
+      "journal": "Trends in Cancer",
+      "category": "Review Article",
+      "authors": "Laura D. Attardi, Arati Rajeevan",
+      "summary": "Although p53 plays a vital role in tumor suppression, the molecular programs underlying its tumor suppressor function remain incompletely understood. Recent work coupling genetically engineered mouse models and single-cell RNA sequencing has illuminated new aspects of p53 function in governing cell state changes…",
+      "date": "2026-03-24T00:00:00Z",
+      "date_display": "24 Mar 2026"
+    },
+    {
+      "id": "93b2314892",
+      "title": "The many pathways driving liver inflammation in MASH",
+      "link": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00087-2?rss=yes",
+      "journal": "Cell Metabolism",
+      "category": "Original Article",
+      "authors": "Herbert Tilg, Timon E. Adolph, Stefano Romeo, Rohit Loomba",
+      "summary": "Intra- and extrahepatic inflammation in MASH is driven by various hits such as lipotoxicity, the gut microbiome, and proinflammatory diets. Inflammation contributes to hepatic and systemic complications, including cardiovascular diseases. Beneficial drugs in MASH might target metabolic and inflammatory pathways.",
+      "date": "2026-03-23T00:00:00Z",
+      "date_display": "23 Mar 2026"
+    },
+    {
+      "id": "d665a2cd57",
+      "title": "Molecular mechanisms of type 2 innate immune sensing",
+      "link": "https://www.cell.com/trends/immunology/fulltext/S1471-4906(26)00011-6?rss=yes",
+      "journal": "Trends in Immunology",
+      "category": "Review Article",
+      "authors": "Ziqi Chen, Mo Xu",
+      "summary": "Type 2 immunity protects against helminths and venoms, yet its dysregulation drives allergic diseases. Initiation occurs at barrier tissues, where epithelial cells detect perturbations and release alarmins, activating type 2 innate lymphoid cells and conditioning dendritic cells for T helper 2 priming. However, the…",
+      "date": "2026-03-17T00:00:00Z",
+      "date_display": "17 Mar 2026"
+    },
+    {
+      "id": "b7e153a0e4",
+      "title": "Decoding the immune–tumor synapse for data-driven design of next-generation immunotherapies",
+      "link": "https://www.cell.com/trends/immunology/fulltext/S1471-4906(25)00317-5?rss=yes",
+      "journal": "Trends in Immunology",
+      "category": "Review Article",
+      "authors": "Imke S.C. van Rossum, Annemiek B. van Spriel, Guido van Mierlo",
+      "summary": "The immunological synapse (IS) formed between cytotoxic CD8+ T lymphocytes (CTLs) and tumor cells represents the critical interface where many immunotherapies act, including therapeutic antibodies and chimeric antigen receptor immunotherapy. However, detailed characterization of the CTL–tumor IS has remained limited…",
+      "date": "2026-03-17T00:00:00Z",
+      "date_display": "17 Mar 2026"
+    },
+    {
+      "id": "6f5bdec449",
+      "title": "The role of retrotransposons in hematopoiesis and cancer",
+      "link": "https://www.cell.com/trends/cell-biology/fulltext/S0962-8924(25)00280-6?rss=yes",
+      "journal": "Trends in Cell Biology",
+      "category": "Review Article",
+      "authors": "Julia Phan, Feyza Cansiz, Astrid Westendorf, Jan Buer, Alpaslan Tasdogan",
+      "summary": "Retrotransposons are DNA elements capable of inserting themselves into various regions of the genome, potentially leading to genomic changes. Their expression is tightly regulated by epigenetic and environmental factors, such as DNA methylation and radiation. For a long time, the effects of retrotransposons were…",
+      "date": "2026-03-11T00:00:00Z",
+      "date_display": "11 Mar 2026"
+    },
+    {
+      "id": "13180cb6f6",
+      "title": "The rationale for targeting nectin-4 in pancreatic cancer",
+      "link": "https://www.cell.com/trends/cancer/fulltext/S2405-8033(26)00021-X?rss=yes",
+      "journal": "Trends in Cancer",
+      "category": "Review Article",
+      "authors": "Sarah Cronjaeger, Lena Seifert, Adrian M. Seifert",
+      "summary": "Nectin-4 is an immunoglobulinlike cell adhesion molecule that contributes to tumor aggressiveness and immune evasion in pancreatic ductal adenocarcinoma (PDAC). Its high and selective expression on pancreatic cancer cells, together with the clinical efficacy of nectin-4-targeted antibody–drug conjugates in other solid…",
+      "date": "2026-03-10T00:00:00Z",
+      "date_display": "10 Mar 2026"
     }
   ]
 }
