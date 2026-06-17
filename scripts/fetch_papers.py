@@ -9,12 +9,15 @@ Dependencies (CI-only): feedparser, pyyaml.
 """
 
 import calendar
+import difflib
 import hashlib
 import html
 import json
 import os
 import re
 import sys
+import urllib.parse
+import urllib.request
 from datetime import datetime, timezone
 
 import feedparser
@@ -33,8 +36,16 @@ TOTAL_LIMIT = 120      # newest N entries kept overall
 SUMMARY_MAX = 320      # characters
 AUTHORS_MAX = 180      # characters
 
+# Crossref is queried by title to recover authors when a feed omits them
+# (e.g. AACR / Silverchair feeds). Free, no key; the mailto opts into the
+# "polite pool". stdlib urllib only — no extra dependency.
+CROSSREF_API = "https://api.crossref.org/works"
+CROSSREF_UA = "akafabihi-site-feed/1.0 (mailto:fabifuu.sama@gmail.com)"
+TITLE_MATCH_MIN = 0.90  # similarity required to trust a Crossref match
+
 _TAGS = re.compile(r"<[^>]+>")
 _WS = re.compile(r"\s+")
+_ALNUM = re.compile(r"[^a-z0-9]+")
 
 
 def clean(text):
@@ -42,6 +53,42 @@ def clean(text):
     text = _TAGS.sub(" ", text or "")
     text = html.unescape(text)
     return _WS.sub(" ", text).strip()
+
+
+def _similar(a, b):
+    norm = lambda s: _ALNUM.sub(" ", s.lower()).strip()
+    return difflib.SequenceMatcher(None, norm(a), norm(b)).ratio()
+
+
+def crossref_authors(title):
+    """Look up a paper's authors on Crossref by title. Returns a formatted
+    author string, or '' if no confident match is found."""
+    try:
+        query = urllib.parse.urlencode({
+            "query.bibliographic": title,
+            "rows": 1,
+            "select": "title,author",
+        })
+        req = urllib.request.Request(
+            CROSSREF_API + "?" + query,
+            headers={"User-Agent": CROSSREF_UA},
+        )
+        with urllib.request.urlopen(req, timeout=20) as resp:
+            items = json.load(resp).get("message", {}).get("items", [])
+        if not items:
+            return ""
+        item = items[0]
+        candidate = (item.get("title") or [""])[0]
+        if not candidate or _similar(title, candidate) < TITLE_MATCH_MIN:
+            return ""
+        names = []
+        for a in item.get("author", []):
+            name = (a.get("given", "") + " " + a.get("family", "")).strip()
+            names.append(name or a.get("name", "").strip())
+        names = [n for n in names if n]
+        return truncate(", ".join(names), AUTHORS_MAX)
+    except Exception:  # noqa: BLE001 — enrichment is best-effort
+        return ""
 
 
 def truncate(text, limit):
@@ -83,13 +130,16 @@ def parse_feed(journal):
             continue
         ts, date_iso, date_display = get_date(entry)
         summary = truncate(clean(entry.get("summary", "")), SUMMARY_MAX)
+        authors = get_authors(entry)
+        if not authors:                       # feed omitted authors — try Crossref
+            authors = crossref_authors(title)
         papers.append({
             "id": hashlib.sha1(link.encode("utf-8")).hexdigest()[:10],
             "title": title,
             "link": link,
             "journal": name,
             "category": category,
-            "authors": get_authors(entry),
+            "authors": authors,
             "summary": summary,
             "date": date_iso,
             "date_display": date_display,
