@@ -49,8 +49,11 @@
   {% if journal_feed and journal_feed.size > 0 %}
   <section class="utility-rail__section">
     <h4 class="utility-rail__heading">
-      <i class="fa fa-fw fa-newspaper" aria-hidden="true"></i> Journal Feed
+      <a class="utility-rail__heading-link" href="{{ base_path }}/journal-feed/">
+        <i class="fa fa-fw fa-newspaper" aria-hidden="true"></i> Journal Feed
+      </a>
     </h4>
+    <a class="utility-rail__action rail-feed__more rail-feed__more--top" href="{{ base_path }}/journal-feed/">View all papers &rarr;</a>
     <ul class="rail-feed">
       {% for paper in journal_feed limit:5 %}
       <li class="rail-feed__item">

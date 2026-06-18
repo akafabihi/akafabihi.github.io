@@ -119,6 +119,17 @@
   }
 
   &__more { margin-top: 0.6em; font-size: 0.82rem; }
+
+  /* Top "View all papers" sits between the heading and the list */
+  &__more--top { margin-top: 0; margin-bottom: 0.7em; }
+}
+
+/* Clickable Journal Feed heading — inherits the heading's uppercase style */
+.utility-rail__heading-link {
+  color: inherit;
+  text-decoration: none;
+
+  &:hover { text-decoration: underline; }
 }
 
 /* Journal feed — full aggregator page (/journal-feed/) */
