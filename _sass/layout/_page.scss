@@ -73,9 +73,56 @@
   @include breakpoint($large) {
     position: sticky;
     top: calc(#{$masthead-height} + #{$rail-top-gap});
-    max-height: calc(100vh - #{$masthead-height} - #{$rail-top-gap});
-    overflow-y: auto;
     align-self: start;
+  }
+
+  /* Sticky-sidebar mode only (below this width the rail is a full-width block
+     stacked under the content). The rail scrolls internally here, so the box is
+     split into two layers: a non-scrolling FRAME (::before) that draws the
+     rounded border + background and therefore never clips, and the scrolling
+     content on top — whose thin teal scrollbar lands in the channel just
+     OUTSIDE the frame. Same result in Chrome and Firefox.
+     (The sticky cell above is a positioned ancestor, so ::before anchors to it
+     without needing position: relative.) */
+  @media screen and (min-width: #{$one-rail}) {
+    &::before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      bottom: 0;
+      right: $rail-scrollbar-gutter;
+      background-color: var(--global-toc-bg-color, var(--global-bg-color));
+      border: $rail-border;
+      border-radius: $rail-radius;
+      box-shadow: $box-shadow;
+      pointer-events: none;
+      z-index: 0;
+    }
+
+    .utility-rail {
+      position: relative;
+      z-index: 1;
+      max-height: calc(100vh - #{$masthead-height} - #{$rail-top-gap});
+      overflow-y: auto;
+      /* frame now lives on ::before; the scroller itself is transparent so the
+         frame shows through and its scrollbar can sit outside the frame */
+      background: transparent;
+      border: 0;
+      box-shadow: none;
+      padding-right: 8px;   /* keep content clear of the frame's right edge */
+
+      /* consistent thin teal scrollbar across engines */
+      scrollbar-width: thin;
+      scrollbar-color: var(--global-base-color) transparent;
+
+      &::-webkit-scrollbar { width: 8px; }
+      &::-webkit-scrollbar-track { background: transparent; }
+      &::-webkit-scrollbar-thumb {
+        background: var(--global-base-color);
+        border-radius: 999px;
+      }
+    }
   }
 }
 

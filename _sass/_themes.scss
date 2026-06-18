@@ -108,6 +108,11 @@ $rail-border: 1px solid var(--global-dark-border-color);
 /* Shared corner radius for the rail boxes (profile, utility, TOC). */
 $rail-radius: 10px;
 
+/* Width of the channel reserved OUTSIDE the rounded utility-rail frame for its
+   scrollbar. The frame is inset by this much on the right so the (thin) teal
+   scrollbar sits just outside the box — consistent in Chrome and Firefox. */
+$rail-scrollbar-gutter: 14px;
+
 /* Breathing room between the sticky rails and the masthead's blue line
    (applies when the page is scrolled and the rails pin under the masthead). */
 $rail-top-gap: 2rem;
