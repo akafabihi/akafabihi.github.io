@@ -281,7 +281,7 @@
 
       &:hover {
         color: var(--global-link-color);
-        background: var(--color-50);
+        background: rgba(31, 179, 224, 0.12);   /* theme-agnostic teal wash; was --color-50 (light, unreadable in dark) */
       }
     }
 
