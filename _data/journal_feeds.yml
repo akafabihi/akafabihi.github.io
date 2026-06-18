@@ -14,6 +14,7 @@
 #   Cell Press  https://www.cell.com/<slug>/current.rss  (e.g. immunity, cancer-cell)
 #   Cell Trends https://www.cell.com/trends/<slug>/current.rss
 #   Science     https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=<code>
+#   Ann. Revs   https://www.annualreviews.org/action/showFeed?type=etoc&feed=rss&jc=<code>
 
 # ── Original Article ──────────────────────────────────────────────────────
 - name: "Nature Cancer"
@@ -24,6 +25,9 @@
   category: "Original Article"
 - name: "Nature Metabolism"
   url: "https://www.nature.com/natmetab.rss"
+  category: "Original Article"
+- name: "Cellular and Molecular Immunology"
+  url: "https://www.nature.com/cmi.rss"
   category: "Original Article"
 - name: "Immunity"
   url: "https://www.cell.com/immunity/current.rss"
@@ -41,9 +45,6 @@
 # AACR journals (Silverchair). The journal homepages sit behind a Cloudflare
 # challenge, but these /rss/ feed endpoints are public. Feed IDs come from the
 # index at https://aacrjournals.org/pages/rss
-- name: "Cancer Discovery"
-  url: "https://aacrjournals.org/rss/site_1000005/1000005.xml"
-  category: "Original Article"
 - name: "Cancer Research"
   url: "https://aacrjournals.org/rss/site_1000019/1000012.xml"
   category: "Original Article"
@@ -52,6 +53,9 @@
   category: "Original Article"
 
 # ── Review Article ────────────────────────────────────────────────────────
+- name: "Annual Review of Immunology"
+  url: "https://www.annualreviews.org/action/showFeed?type=etoc&feed=rss&jc=immunol"
+  category: "Review Article"
 - name: "Nature Reviews Immunology"
   url: "https://www.nature.com/nri.rss"
   category: "Review Article"
