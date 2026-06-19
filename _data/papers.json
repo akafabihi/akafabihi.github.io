@@ -1,6 +1,61 @@
 {
-  "updated": "2026-06-18T10:02:56Z",
+  "updated": "2026-06-19T10:10:14Z",
   "papers": [
+    {
+      "id": "8aacf14f48",
+      "title": "Runx–CBFβ regulates the development of tolerogenic Thetis cells",
+      "link": "https://www.nature.com/articles/s41590-026-02566-8",
+      "journal": "Nature Immunology",
+      "category": "Original Article",
+      "authors": "Chihiro Ogawa, Chengcheng Zou, Yoselin A. Paucar Iza, Motoi Yamashita, Tyler Park, Junji Harada, Naoko Satoh-Takayama, Masahiko Kuroda, Chrysothemis C. Brown, Ichiro Taniuchi",
+      "summary": "Nature Immunology, Published online: 19 June 2026; doi:10.1038/s41590-026-02566-8 Taniuchi and Brown and colleagues report that the Runx–CBFβ transcription factor complex plays a crucial role in the development of intestinal RORγt+ antigen-presenting cells, which are required to promote tolerance to food and gut…",
+      "date": "2026-06-19T00:00:00Z",
+      "date_display": "19 Jun 2026"
+    },
+    {
+      "id": "5c2a758688",
+      "title": "The future of tertiary lymphoid structures in cancer immunotherapy as biomarkers and therapeutic targets",
+      "link": "https://www.nature.com/articles/s43018-026-01188-1",
+      "journal": "Nature Cancer",
+      "category": "Original Article",
+      "authors": "Hye Mi Kim, Tejashree Joglekar, Tina Cascone, Tullia C. Bruno",
+      "summary": "Nature Cancer, Published online: 18 June 2026; doi:10.1038/s43018-026-01188-1 Bruno and colleagues provide an overview of tertiary lymphoid structures as biomarkers and potential therapeutic targets in the cancer immunotherapy era.",
+      "date": "2026-06-18T00:00:00Z",
+      "date_display": "18 Jun 2026"
+    },
+    {
+      "id": "b5d4268978",
+      "title": "Why regulatory T cells fail to control inflammation in rheumatoid arthritis",
+      "link": "https://www.nature.com/articles/s41590-026-02546-y",
+      "journal": "Nature Immunology",
+      "category": "Original Article",
+      "authors": "",
+      "summary": "Nature Immunology, Published online: 18 June 2026; doi:10.1038/s41590-026-02546-y Regulatory T cells are responsible for suppressing inflammation, yet they fail to do so in rheumatoid arthritis. We show that signals in the local tissue environment can drive these cells into either protective or dysfunctional states.",
+      "date": "2026-06-18T00:00:00Z",
+      "date_display": "18 Jun 2026"
+    },
+    {
+      "id": "472c3c2f88",
+      "title": "Early ctDNA Dynamics Predict Response to Mosperafenib in BRAF V600-Mutant Metastatic Colorectal Cancer",
+      "link": "https://aacrjournals.org/cancerrescommun/article/6/6/1435/785837/Early-ctDNA-Dynamics-Predict-Response-to",
+      "journal": "Cancer Research",
+      "category": "Original Article",
+      "authors": "",
+      "summary": "Abstract The serine–threonine protein kinase B-RAF (BRAF) V600 mutation confers a poor prognosis in metastatic colorectal cancer (mCRC). Mosperafenib is a novel, paradox-breaking BRAF inhibitor (BRAFi). In this analysis of a phase I study (ISRCTN13713551), we evaluated circulating tumor DNA (ctDNA) as a prognostic and…",
+      "date": "2026-06-18T00:00:00Z",
+      "date_display": "18 Jun 2026"
+    },
+    {
+      "id": "0ba1b8d20f",
+      "title": "Beyond oncogenesis: the unexplored benefits of viruses in cancer immunity",
+      "link": "https://www.nature.com/articles/s41568-026-00948-6",
+      "journal": "Nature Reviews Cancer",
+      "category": "Review Article",
+      "authors": "Xin Wei Wang, Chi-Ping Day, Eugene V. Koonin",
+      "summary": "Nature Reviews Cancer, Published online: 18 June 2026; doi:10.1038/s41568-026-00948-6 The study of tumour virology has traditionally focused on oncogenic viruses and their associated mechanisms of cancer initiation and promotion. Yet certain viral exposures can be beneficial by enhancing antitumour immunity. In this…",
+      "date": "2026-06-18T00:00:00Z",
+      "date_display": "18 Jun 2026"
+    },
     {
       "id": "88eae4281f",
       "title": "Drug Screening of Sarcoma Cells: Finding Shared Sensitivities",
@@ -218,28 +273,6 @@
       "category": "Original Article",
       "authors": "Ryunosuke Muro, Takeshi Nitta",
       "summary": "Nature Immunology, Published online: 12 June 2026; doi:10.1038/s41590-026-02562-y The identification of an alveolar epithelial-like subset of medullary thymic epithelial cells (mTECs) reveals a key mechanism that orchestrates mTEC heterogeneity, thereby maintaining central immune tolerance.",
-      "date": "2026-06-12T00:00:00Z",
-      "date_display": "12 Jun 2026"
-    },
-    {
-      "id": "2dcd961a5e",
-      "title": "Human vaccine responses regulated by parallel cytokine pathways",
-      "link": "https://www.nature.com/articles/s41590-026-02547-x",
-      "journal": "Nature Immunology",
-      "category": "Original Article",
-      "authors": "Guangbo Chen, Jing Guo, John Heath, Tyler R. Prestwood, Woo Joo Kwon, Ashley R. Smith, Tran T. Nguyen, Karan R. Kathuria, Elsa Sola, AbuBakr Sangare, Vamsee Mallajosyula, Ryan…",
-      "summary": "Nature Immunology, Published online: 12 June 2026; doi:10.1038/s41590-026-02547-x Chen and colleagues identify that baseline IFNβ levels correlate with antibody responses to inactivated influenza vaccines in humans, and show that type I IFNs, IL-12 and IL-21 functionally enhance antibody responses in human organoids.",
-      "date": "2026-06-12T00:00:00Z",
-      "date_display": "12 Jun 2026"
-    },
-    {
-      "id": "5cd6343d12",
-      "title": "mRNA-based tuberculosis vaccines BNT164a1 and BNT164b1 are immunogenic, well tolerated and efficacious in rodent models",
-      "link": "https://www.nature.com/articles/s41590-026-02545-z",
-      "journal": "Nature Immunology",
-      "category": "Original Article",
-      "authors": "Neha Agrawal, Louis S. Ates, Stefan A. Schille, Anuhar Chaturvedi, Janina Vogt, Natasa Vukovic, Charles L. Dulberger, Annette B. Vogel, Jan Diekmann, Mustafa Diken, Uğur Şahin",
-      "summary": "Nature Immunology, Published online: 12 June 2026; doi:10.1038/s41590-026-02545-z Here the authors characterize mRNA-based tuberculosis vaccine candidates BNT164a1 and BNT164b1 and show that they are immunogenic, well tolerated and efficacious in preclinical animal models.",
       "date": "2026-06-12T00:00:00Z",
       "date_display": "12 Jun 2026"
     },
@@ -473,17 +506,6 @@
       "summary": "Nature Reviews Immunology, Published online: 09 June 2026; doi:10.1038/s41577-026-01323-0 A study in Science uses intravital microscopy to analyse the septic process in real time in mouse lung, showing that immunothrombus formation is associated with early pathology and mortality but later protection from disease…",
       "date": "2026-06-09T00:00:00Z",
       "date_display": "9 Jun 2026"
-    },
-    {
-      "id": "7b12277bda",
-      "title": "First-line durvalumab in combination with trastuzumab deruxtecan in women with locally advanced unresectable or metastatic, hormone-receptor-negative, HER2-low breast cancer: multicenter, open-label, phase 1b/2 BEGONIA platform trial",
-      "link": "https://www.nature.com/articles/s43018-026-01181-8",
-      "journal": "Nature Cancer",
-      "category": "Original Article",
-      "authors": "Peter Schmid, Seock-Ah Im, Zbigniew Nowecki, Piotr J. Wysocki, Jacek Jassem, Kyung Hae Jung, Simon Lord, Jon Armstrong, Ross Stewart, Petra Vuković, Neelima Denduluri, Yeon Hee…",
-      "summary": "Nature Cancer, Published online: 08 June 2026; doi:10.1038/s43018-026-01181-8 In this phase 1/2 BEGONIA platform trial, Schmid and colleagues evaluated the safety and efficacy of durvalumab and trastuzumab deruxtecan in participants with locally advanced unresectable or metastatic hormone-receptor-negative breast…",
-      "date": "2026-06-08T00:00:00Z",
-      "date_display": "8 Jun 2026"
     },
     {
       "id": "ad470e75a2",
@@ -1014,17 +1036,6 @@
       "date_display": "28 May 2026"
     },
     {
-      "id": "09e962a7dc",
-      "title": "Message in a vesicle: T cells boost tumour immunity",
-      "link": "https://www.nature.com/articles/s41568-026-00942-y",
-      "journal": "Nature Reviews Cancer",
-      "category": "Review Article",
-      "authors": "Gabrielle Brewer",
-      "summary": "Nature Reviews Cancer, Published online: 28 May 2026; doi:10.1038/s41568-026-00942-y Extracellular vesicles have emerged as key modulators of immune responses. Hu et al. show that activated T cells secrete extracellular vesicles that promote antigen presentation in tumour cells and dendritic cells, thereby enhancing…",
-      "date": "2026-05-28T00:00:00Z",
-      "date_display": "28 May 2026"
-    },
-    {
       "id": "ff0222f982",
       "title": "Parental leave in immunology—3",
       "link": "https://www.cell.com/trends/immunology/fulltext/S1471-4906(26)00100-6?rss=yes",
@@ -1309,17 +1320,6 @@
       "summary": "Breast cancer brain metastases are a dismal condition, and it is unclear which patients benefit from immunotherapy. Jassowicz et al. multimodally characterize the cellular architecture of 156 human breast cancer brain metastases. They unravel inter-patient immune heterogeneity and discover and validate biomarkers for…",
       "date": "2026-04-27T00:00:00Z",
       "date_display": "27 Apr 2026"
-    },
-    {
-      "id": "e622ca445a",
-      "title": "Modular double-stranded DNA recognition defines specificity of the exonuclease TREX1 in cGAS-STING control",
-      "link": "https://www.cell.com/immunity/fulltext/S1074-7613(26)00136-6?rss=yes",
-      "journal": "Immunity",
-      "category": "Original Article",
-      "authors": "Jiali Zhu, Lei Wang, Changjie Lin, Shuchen Bian, Xiaohan Luan, Yingying Sui, Luhang Piao, Wen Zhou",
-      "summary": "TREX1, but not other DEDDh exonucleases, restrains cGAS-STING activation by cytosolic DNA. Zhu et al. examine the basis for this specificity and define a modular double-stranded DNA (dsDNA)-recognition architecture within TREX1 comprising R128, a substrate-sensing loop, and an auxiliary DNA-binding surface, linking…",
-      "date": "2026-04-24T00:00:00Z",
-      "date_display": "24 Apr 2026"
     }
   ]
 }
