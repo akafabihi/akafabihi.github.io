@@ -124,31 +124,6 @@ Supervisor: Suthasinee Somyong, Ph.D.
 </div>
 </details>
 
-Skills
-======
-
-### Laboratory Skills
-
-* Cell culture: Establishment and maintenance of cancer 3D spheroids; proficient in 2D cancer (pancreatic, breast), mesenchymal stem cell, and HEK293T culture.
-* General laboratory technique: DNA/RNA isolation, qRT-PCR, molecular cloning, siRNA knockdown, Western blot, immunohistochemistry staining, cell-proliferation assay.
-* Metabolic phenotyping: Real-time metabolic flux analysis (Seahorse XF), PrestoBlue assay.
-* Microscopy: Time-lapse microscopy (2D/3D), fluorescence confocal microscopy (3D).
-* Lentiviral transduction: 3rd-generation lentiviral packaging systems, including viral vector production, titer estimation, and transduction of HEK293T and MSCs.
-* Animal handling: Hands-on experience with mice including IP/subcutaneous injections.
-
-### Bioinformatics and Computing Skills
-
-* R and Statistics: Data wrangling (dplyr, tidyr), visualization (ggplot2), and reproducible reporting (R Markdown). Well versed in fundamental statistics (hypothesis testing, ANOVA, regression) and multivariate analysis of high-dimensional data (PCA, t-SNE, UMAP).
-* RNA-seq: End-to-end pipeline including read alignment (TopHat, Bowtie2), transcript quantification (Kallisto), and differential expression analysis (Cuffdiff, EdgeR, DESeq2).
-* scRNA-seq: Seurat pipeline, including QC, dimensionality reduction, and cluster identification.
-* Image analysis: Automated segmentation and feature extraction using CellProfiler and ImageJ/Fiji.
-* Python: Reproducible pipelines, data analysis, and implementation of U2NET/isNET (via rembg) models for 3D spheroid segmentation.
-* Linux: Proficient in bash scripting; full-time Linux user since 2019.
-
-### Language Skills
-
-* English: Fluent (C1 Proficiency); Indonesian: Native.
-
 Teaching Experience
 ======
 
@@ -176,32 +151,62 @@ Teaching Experience
 
 <details class="cv-entry" open>
 <summary class="cv-entry__head">
-<span class="cv-entry__meta">Jul 2020 – Sep 2020 · SITH, ITB, Indonesia</span>
-<span class="cv-entry__title">Introduction to Bioethics Teaching Assistant</span>
+<span class="cv-entry__meta">Jul 2020 – Sep 2020 · School of Life Science and Technology, ITB, Indonesia</span>
+<span class="cv-entry__title">Teaching Assistant — Introduction to Bioethics </span>
 </summary>
 <div class="cv-entry__body" markdown="1">
+Supervisor: Dr. Ayda Trisnawaty Yusuf, M.S.
+{: .cv-entry__sub}
+
 * Assisted the lead lecturer in the development and design of the course curriculum and study plan, focusing on key bioethical concepts and applications.
 * Created comprehensive lecture slides and curated case studies addressing ethical dilemmas and real-world scenarios, enhancing student engagement and understanding of practical bioethics.
+
 </div>
 </details>
 
 <details class="cv-entry" open>
 <summary class="cv-entry__head">
-<span class="cv-entry__meta">Feb 2019 · SMA Negeri 1 Majalengka</span>
-<span class="cv-entry__title">National Science Olympiad (KSN) Biology Coaching</span>
+<span class="cv-entry__meta">Jan 2020 – Mar 2020 · School of Life Science and Technology, ITB, Indonesia</span>
+<span class="cv-entry__title">Laboratory Teaching Assistant — Animal development</span>
 </summary>
 <div class="cv-entry__body" markdown="1">
-* Taught cell and molecular biology to both the school's Biology Olympiad team and its teachers.
+Supervisor: Prof. Dr. rer. nat. Marselina Irasonia Tan, M.S.
+
+{: .cv-entry__sub}
+
+* Developed an instructional laboratory manual focused on comparative developmental biology and embryogenesis in chicken and mouse models.
+* Guided undergraduate cohorts through experimental data interpretation, statistical analysis workflows, and the writing of peer-review style scientific reports.
+* Coordinated practical lab sessions by preparing in vivo specimens (egg preparation, mouse dissections) and demonstrating complex developmental anatomy using 3D modeling tools.
 </div>
 </details>
 
 <details class="cv-entry" open>
 <summary class="cv-entry__head">
-<span class="cv-entry__meta">May 2018 · Zenius Education</span>
-<span class="cv-entry__title">Short-Term Freelance Tutor</span>
+<span class="cv-entry__meta">Sep 2019 – Dec 2019 · School of Life Science and Technology, ITB, Indonesia</span>
+<span class="cv-entry__title">Laboratory Teaching Assistant — Genetics</span>
 </summary>
 <div class="cv-entry__body" markdown="1">
-* Developed 20 biology videos for SBMPTN (university entrance exam) preparation, and contributed to brainstorming a prospective Olympiad-prep section for the platform.
+Supervisor: Karlia Meitha, Ph.D.
+
+{: .cv-entry__sub}
+
+* Authored a comprehensive laboratory manual detailing CTAB-based plant DNA extraction, PCR, and gel electrophoresis, while facilitating and assisting hands-on molecular biology sessions.
+* Mentored students in scientific communication by guiding the synthesis of empirical data and literature reviews into rigorous laboratory reports.
+</div>
+</details>
+
+<details class="cv-entry" open>
+<summary class="cv-entry__head">
+<span class="cv-entry__meta">Sep 2018 – Dec 2018 · School of Life Science and Technology, ITB, Indonesia</span>
+<span class="cv-entry__title">Laboratory Teaching Assistant — Animal Anatomy and Physiology</span>
+</summary>
+<div class="cv-entry__body" markdown="1">
+Supervisor: Dr. Lulu Lusianti Fitri
+
+{: .cv-entry__sub}
+
+* Supervised independent student research projects assessing the ecotoxicological impacts of water quality and pollutants on aquatic respiratory physiology.
+* Designed and directed a practical laboratory module centered on murine gastrointestinal anatomy and function.
 </div>
 </details>
 
@@ -223,6 +228,32 @@ Publications and Research Contributions
 * Bräutigam, K., Straub, J., **Bihi, A. K.**, ..., Sadowski, M. (presenter), & Perren, A. (2024). Decoding and targeting of metabolic heterogeneity in pancreatic neuroendocrine tumors (PanNETs): MCT1 and MCT4 in the crosshair for precision therapy. *The 21st Annual ENETS Conference, Vienna. J Neuroendocrinol, 36: e13383.* [doi:10.1111/jne.13383](https://doi.org/10.1111/jne.13383) *(Conference co-author)*
 * Somyong, S., Phetchawang, P., **Bihi, A. K.**, Sonthirod, C., ... & Tangphatsornruang, S. (2022). A SNP variation in an expansin (*EgExp4*) gene affects height in oil palm. *PeerJ, 10, e13046.* [doi:10.7717/peerj.13046](https://doi.org/10.7717/peerj.13046)
 {: .cv-pubs}
+
+Skills
+======
+
+### Laboratory Skills
+
+* Cell culture: Establishment and maintenance of cancer 3D spheroids; proficient in 2D cancer (pancreatic, breast), mesenchymal stem cell, and HEK293T culture.
+* General laboratory technique: DNA/RNA isolation, qRT-PCR, molecular cloning, siRNA knockdown, Western blot, immunohistochemistry staining, cell-proliferation assay.
+* Metabolic phenotyping: Real-time metabolic flux analysis (Seahorse XF), PrestoBlue assay.
+* Microscopy: Time-lapse microscopy (2D/3D), fluorescence confocal microscopy (3D).
+* Lentiviral transduction: 3rd-generation lentiviral packaging systems, including viral vector production, titer estimation, and transduction of HEK293T and MSCs.
+* Animal handling: Hands-on experience with mice including IP/subcutaneous injections.
+
+### Bioinformatics and Computing Skills
+
+* R and Statistics: Data wrangling (dplyr, tidyr), visualization (ggplot2), and reproducible reporting (R Markdown). Well versed in fundamental statistics (hypothesis testing, ANOVA, regression) and multivariate analysis of high-dimensional data (PCA, t-SNE, UMAP).
+* RNA-seq: End-to-end pipeline including read alignment (TopHat, Bowtie2), transcript quantification (Kallisto), and differential expression analysis (Cuffdiff, EdgeR, DESeq2).
+* scRNA-seq: Seurat pipeline, including QC, dimensionality reduction, and cluster identification.
+* Image analysis: Automated segmentation and feature extraction using CellProfiler and ImageJ/Fiji.
+* Python: Reproducible pipelines, data analysis, and implementation of U2NET/isNET (via rembg) models for 3D spheroid segmentation.
+* Linux: Proficient in bash scripting; full-time Linux user since 2019.
+
+### Language Skills
+
+* English: Fluent (C1 Proficiency); Indonesian: Native.
+
 
 Scholarship, Honors, and Awards
 ======
@@ -260,10 +291,10 @@ Full funding for Master's studies; nationally competitive government scholarship
 <details class="cv-entry" open>
 <summary class="cv-entry__head">
 <span class="cv-entry__meta">2018 & 2019</span>
-<span class="cv-entry__title">Silver Medalist — National Science and Mathematics Olympiad (ONMIPA Biology)</span>
+<span class="cv-entry__title">Two-time Silver Medalist — National Science and Mathematics Olympiad (ONMIPA), Biology</span>
 </summary>
 <div class="cv-entry__body" markdown="1">
-Awarded by the Ministry of Research, Technology and Higher Education (KEMRISTEKDIKTI), Indonesia.
+Silver medal in both 2018 and 2019 at ONMIPA, a national, undergraduate-level olympiad (distinct from the more widely known high-school olympiads). Awarded by the Ministry of Research, Technology and Higher Education (KEMRISTEKDIKTI), Indonesia.
 </div>
 </details>
 
@@ -281,4 +312,25 @@ Volunteer
 </div>
 </details>
 
+<details class="cv-entry" open>
+<summary class="cv-entry__head">
+<span class="cv-entry__meta">2019 – 2020</span>
+<span class="cv-entry__title">Chairman of Tiang Bendera Institute of Social Sciences and Humanities (ISH TIBEN), Institut Teknologi Bandung, Indonesia</span>
+</summary>
+<div class="cv-entry__body" markdown="1">
+* Led ISH TIBEN, building on my earlier work as a Fellow.
 </div>
+</details>
+
+<details class="cv-entry" open>
+<summary class="cv-entry__head">
+<span class="cv-entry__meta">2016 – 2020</span>
+<span class="cv-entry__title">Fellow of Tiang Bendera Institute of Social Sciences and Humanities (ISH TIBEN), Institut Teknologi Bandung, Indonesia</span>
+</summary>
+<div class="cv-entry__body" markdown="1">
+* Organized a week-long "Literacy Day" initiative, coordinating logistics and moderating panels with a diverse roster of guest speakers, including university lecturers, published authors, librarians, and industry practitioners.
+* Facilitated and moderated recurring interdisciplinary seminars across a wide range of subjects, and served as a speaker on topics including analytic philosophy, Camus’ absurdism, contemporary religious studies, and evolutionary anthropology.
+* Organized a community-focused festival in alignment with International Women’s Day, driving outreach and programming for feminist and queer advocacy.
+* Created, edited, and published an independent zine, curating accessible essays and articles focused on literature and philosophical discourse.
+</div>
+</details>

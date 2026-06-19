@@ -222,8 +222,15 @@
 .page__content {
 
   h2 {
-    padding-bottom: 0.5em;
+    padding-bottom: 0.25em;
     border-bottom: 1px solid var(--global-border-color);
+  }
+
+  /* An h3 directly under an h2 (a sub-heading opening a section) sits as close
+     as a paragraph would — the h2's own 0.5em bottom margin sets the gap,
+     instead of the h3's default 2em top lead-in. */
+  h2 + h3 {
+    margin-top: 0;
   }
 
   p, li, dl {
