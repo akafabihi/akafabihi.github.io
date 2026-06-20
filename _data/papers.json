@@ -1,6 +1,39 @@
 {
-  "updated": "2026-06-19T10:10:14Z",
+  "updated": "2026-06-20T08:38:36Z",
   "papers": [
+    {
+      "id": "880f0ed9e7",
+      "title": "CXCL16-mediated recruitment of γδ T cells to the brain reduces sociability in mice",
+      "link": "https://www.science.org/doi/abs/10.1126/sciimmunol.adz8466?af=R",
+      "journal": "Science Immunology",
+      "category": "Original Article",
+      "authors": "Natsumi Takayama, Koyomi Shiraishi, Ako Matsui, Shinya Hatano, Kazuhiko Yamamuro, Kenta Nitahara, Akira Makino, Tatsuya Yokota, Nesta Amagiri, Mahiro Watanabe, Ayame Nagafuchi…",
+      "summary": "Science Immunology, Volume 11, Issue 120, June 2026.",
+      "date": "2026-06-19T07:00:00Z",
+      "date_display": "19 Jun 2026"
+    },
+    {
+      "id": "d56f2ae323",
+      "title": "Bioactive enhanced adjuvant chemokine oligonucleotide nanoparticles (BEACONs) for mucosal vaccination against genital herpes",
+      "link": "https://www.science.org/doi/abs/10.1126/sciimmunol.aea6419?af=R",
+      "journal": "Science Immunology",
+      "category": "Original Article",
+      "authors": "Sachin H. Bhagchandani, Stephen Ehrenzeller, Ivan S. Pires, Namit Chaudhary, Carmen J. Booth, Dong-il Kwon, Charalampia Koutsioumpa, Christopher A. Baker, Claire Laxton, Keyla…",
+      "summary": "Science Immunology, Volume 11, Issue 120, June 2026.",
+      "date": "2026-06-19T07:00:00Z",
+      "date_display": "19 Jun 2026"
+    },
+    {
+      "id": "c66d004c77",
+      "title": "Bacterial infection reshapes monocyte and macrophage ontogeny at the CNS borders",
+      "link": "https://www.science.org/doi/abs/10.1126/sciimmunol.aee9584?af=R",
+      "journal": "Science Immunology",
+      "category": "Original Article",
+      "authors": "Vitka Gres, Florens Lohrmann, Vidmantė Fuchs, Jana Neuber, Zohreh Mansoori Moghadam, Anne K. Lösslein, Lance F. P. Bosch, Tiago Figueiral-Martins, Sebastian Baasch, David Obwegs…",
+      "summary": "Science Immunology, Volume 11, Issue 120, June 2026.",
+      "date": "2026-06-19T07:00:00Z",
+      "date_display": "19 Jun 2026"
+    },
     {
       "id": "8aacf14f48",
       "title": "Runx–CBFβ regulates the development of tolerogenic Thetis cells",
@@ -9,6 +42,28 @@
       "category": "Original Article",
       "authors": "Chihiro Ogawa, Chengcheng Zou, Yoselin A. Paucar Iza, Motoi Yamashita, Tyler Park, Junji Harada, Naoko Satoh-Takayama, Masahiko Kuroda, Chrysothemis C. Brown, Ichiro Taniuchi",
       "summary": "Nature Immunology, Published online: 19 June 2026; doi:10.1038/s41590-026-02566-8 Taniuchi and Brown and colleagues report that the Runx–CBFβ transcription factor complex plays a crucial role in the development of intestinal RORγt+ antigen-presenting cells, which are required to promote tolerance to food and gut…",
+      "date": "2026-06-19T00:00:00Z",
+      "date_display": "19 Jun 2026"
+    },
+    {
+      "id": "9c5a592b78",
+      "title": "Additivity, Not Synergy, Underlies the Efficacy of Current Combination Regimens in Urothelial Cancer",
+      "link": "https://aacrjournals.org/cancerrescommun/article/6/6/1447/785841/Additivity-Not-Synergy-Underlies-the-Efficacy-of",
+      "journal": "Cancer Research",
+      "category": "Original Article",
+      "authors": "Noah M. Schlachter, Eric J. Miller, Jonathan F. Anker, Matthew D. Galsky, Adam C. Palmer",
+      "summary": "Abstract PD-1/PD-L1 immune checkpoint inhibitor (ICI)-based combination regimens have transformed metastatic urothelial cancer treatment. However, phase III trials of these regimens have shown varied results. We sought to understand these differences by assessing whether these combinations are synergistic, additive…",
+      "date": "2026-06-19T00:00:00Z",
+      "date_display": "19 Jun 2026"
+    },
+    {
+      "id": "2671c6e17b",
+      "title": "Programming the immunological properties of mRNA vaccines for cancer",
+      "link": "https://www.nature.com/articles/s41577-026-01316-z",
+      "journal": "Nature Reviews Immunology",
+      "category": "Review Article",
+      "authors": "Annette Wu, Seong Dong Jeong, Benjamin R. Schrank, Betty Y. S. Kim, Padmanee Sharma, Wen Jiang",
+      "summary": "Nature Reviews Immunology, Published online: 19 June 2026; doi:10.1038/s41577-026-01316-z This article leverages existing preclinical and clinical evidence to propose an immunological framework that reconciles four axes controlling the efficacy of mRNA cancer vaccines: adjuvanticity versus immunopathology, antigen…",
       "date": "2026-06-19T00:00:00Z",
       "date_display": "19 Jun 2026"
     },
@@ -871,17 +926,6 @@
       "date_display": "1 Jun 2026"
     },
     {
-      "id": "d0990e75ff",
-      "title": "Senescent B cells accumulate in germinal centre niches of the aged human lymph node",
-      "link": "https://www.nature.com/articles/s41577-026-01319-w",
-      "journal": "Nature Reviews Immunology",
-      "category": "Review Article",
-      "authors": "Xiaotian Wang, Betty Y. S. Kim",
-      "summary": "Nature Reviews Immunology, Published online: 01 June 2026; doi:10.1038/s41577-026-01319-w A preprint by Farzad et al. reports a cellular senescence atlas of human lymph nodes from donors aged 18 to 86, showing that B cells are the main senescent population to accumulate with age.",
-      "date": "2026-06-01T00:00:00Z",
-      "date_display": "1 Jun 2026"
-    },
-    {
       "id": "a0aea052f4",
       "title": "Detection of cytokine-responsive cells using CyCLoPs",
       "link": "https://www.nature.com/articles/s41568-026-00947-7",
@@ -1276,50 +1320,6 @@
       "summary": "In this issue of Cancer Cell, Hayward et al. show that fibrotic tissue tension creates a mechanically organized mutagenic niche. A stiff stroma activates epithelial STAT3, recruits macrophages, and drives NOX-dependent lipid peroxidation, generating diffusible aldehydes that damage epithelial DNA in fibrotic tumors…",
       "date": "2026-04-30T00:00:00Z",
       "date_display": "30 Apr 2026"
-    },
-    {
-      "id": "c3af7d677e",
-      "title": "Tissue tension fosters macrophage-driven lipid peroxidation-induced DNA damage",
-      "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00176-5?rss=yes",
-      "journal": "Cancer Cell",
-      "category": "Original Article",
-      "authors": "Mary-Kate Hayward, Jason J. Northey, Valentina Opazo-Mellado, Connor Stashko, Ori Maller, Alastair J. Ironside, Xuchu Que, Jonathon N. Lakins, E. Shelley Hwang, Joseph L. Witztum…",
-      "summary": "Hayward et al. show that stromal fibrosis drives epithelial STAT3-mediated chemokines to recruit macrophages. Macrophages respond to elevated tissue tension by undergoing lipid peroxidation, generating aldehydes that induce epithelial DNA damage and promote tumor progression. This study connects fibrosis and…",
-      "date": "2026-04-30T00:00:00Z",
-      "date_display": "30 Apr 2026"
-    },
-    {
-      "id": "313fe93820",
-      "title": "A conserved re-epithelialization program underlies malignancy in pancreatic ductal adenocarcinoma",
-      "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00175-3?rss=yes",
-      "journal": "Cancer Cell",
-      "category": "Original Article",
-      "authors": "Meilian Zhuo, Yong Li, Yifeng Zhang, Chenlu Yang, Di Zou, Wenhao Xu, Jing Han, Saisai Wang, Haohao Deng, Xu Pan, Ruikang Dun, Ruizhe He, Yihong Shi, Xianlin Han, Taiping Zhang…",
-      "summary": "Zhuo et al. identify a conserved cutaneous re-epithelialization program, MP10 that underlies pancreatic cancer malignancy. Distinct from EMT, this program is driven by the transcription factor FOSL1 during the transition from precursor lesions. Wound-like CTHRC1high myCAFs promote FOSL1 expression through EGFR…",
-      "date": "2026-04-30T00:00:00Z",
-      "date_display": "30 Apr 2026"
-    },
-    {
-      "id": "0694602a50",
-      "title": "Scaling immunity: sickness as a host defense strategy",
-      "link": "https://www.cell.com/trends/immunology/fulltext/S1471-4906(26)00076-1?rss=yes",
-      "journal": "Trends in Immunology",
-      "category": "Review Article",
-      "authors": "A. Clare Sparling, Esther B. Florsheim, Zuri A. Sullivan",
-      "summary": "Sickness, or sickness behavior, is a state of altered physiology and behavior generated by the brain–immune axis during infection, which is generally assumed to contribute to host defense. Here, we examine this assumption by framing sickness as organismal-scale immunity and explore predicted parallels with immunity at…",
-      "date": "2026-04-30T00:00:00Z",
-      "date_display": "30 Apr 2026"
-    },
-    {
-      "id": "9213796fd9",
-      "title": "Dissecting the cellular architecture of breast cancer brain metastases reveals prognostically distinct immune landscapes",
-      "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00170-4?rss=yes",
-      "journal": "Cancer Cell",
-      "category": "Original Article",
-      "authors": "Lena Jassowicz, Fangyoumin Feng, Rolf Warta, Fatima Heinicke, Amélie Wöllner, Hannah Briesch, Furkan Sor, Julia Soller, Catharina Lotsch, John K.L. Wong, Chang-Gyun Park, Nicolas…",
-      "summary": "Breast cancer brain metastases are a dismal condition, and it is unclear which patients benefit from immunotherapy. Jassowicz et al. multimodally characterize the cellular architecture of 156 human breast cancer brain metastases. They unravel inter-patient immune heterogeneity and discover and validate biomarkers for…",
-      "date": "2026-04-27T00:00:00Z",
-      "date_display": "27 Apr 2026"
     }
   ]
 }
