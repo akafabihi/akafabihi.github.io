@@ -1,6 +1,39 @@
 {
-  "updated": "2026-06-21T09:33:33Z",
+  "updated": "2026-06-22T11:31:32Z",
   "papers": [
+    {
+      "id": "4684cd6ddc",
+      "title": "A cholinergic checkpoint controls autoantibody selection via somatic hypermutation in lupus germinal centers",
+      "link": "https://www.nature.com/articles/s41423-026-01444-5",
+      "journal": "Cellular and Molecular Immunology",
+      "category": "Original Article",
+      "authors": "Jin Li, Yimei Lai, Huijin Zou, Yichao Qian, Xinyuan Ruan, Lili Zhuang, Zhangmei Lin, Yumeng Wang, Niansheng Yang, Shuyi Wang, Hui Zhang",
+      "summary": "Cellular & Molecular Immunology, Published online: 22 June 2026; doi:10.1038/s41423-026-01444-5 A cholinergic checkpoint controls autoantibody selection via somatic hypermutation in lupus germinal centers",
+      "date": "2026-06-22T00:00:00Z",
+      "date_display": "22 Jun 2026"
+    },
+    {
+      "id": "dba4c8fc6f",
+      "title": "Acquisition of Vimentin by trogocytosis inhibits the NK cell-mediated immune response against circulating tumour cells (CTCs)",
+      "link": "https://www.nature.com/articles/s41423-026-01432-9",
+      "journal": "Cellular and Molecular Immunology",
+      "category": "Original Article",
+      "authors": "Lu Zhao, Ran Li, Xiao-Yan Meng, Yu-Xiang Guo, Liu Liu, Si-Yi Li, Zhonglong Liu, Long-Wei Hu, Hai-Long Ma, Chao-Ji Shi, Qin Xu, Yue He",
+      "summary": "Cellular & Molecular Immunology, Published online: 22 June 2026; doi:10.1038/s41423-026-01432-9 Acquisition of Vimentin by trogocytosis inhibits the NK cell-mediated immune response against circulating tumour cells (CTCs)",
+      "date": "2026-06-22T00:00:00Z",
+      "date_display": "22 Jun 2026"
+    },
+    {
+      "id": "f942ae7e87",
+      "title": "Fibroblast-derived CCL2 orchestrates immune responses and defends against Staphylococcus aureus skin infection",
+      "link": "https://www.nature.com/articles/s41423-026-01442-7",
+      "journal": "Cellular and Molecular Immunology",
+      "category": "Original Article",
+      "authors": "Tatsuya Dokoshi, Marta Palomo-Irigoyen, Kazuki Dai, Terumi Hashimoto, Hiroaki Konishi, Lauriane Hivert, Michelle Bagood, Hung Chan, Samia Almoughrabie, Yoshiyuki Nakamura, Kellen…",
+      "summary": "Cellular & Molecular Immunology, Published online: 22 June 2026; doi:10.1038/s41423-026-01442-7 Fibroblast-derived CCL2 orchestrates immune responses and defends against Staphylococcus aureus skin infection",
+      "date": "2026-06-22T00:00:00Z",
+      "date_display": "22 Jun 2026"
+    },
     {
       "id": "880f0ed9e7",
       "title": "CXCL16-mediated recruitment of γδ T cells to the brain reduces sociability in mice",
@@ -1111,39 +1144,6 @@
       "summary": "Lobel, Fonseca-Pereira, et al. demonstrate that dietary sulfur amino acids (Saa) enhance anti-tumor immunity in colon cancer. A high-Saa diet expands the bacterium Mucispirillum schaedleri, which activates a natural killer T cell-dendritic cell axis to restrict tumor growth, illustrating how nutritional interventions…",
       "date": "2026-05-26T00:00:00Z",
       "date_display": "26 May 2026"
-    },
-    {
-      "id": "17341a3569",
-      "title": "TRPV3 facilitates metabolic alarmin-driven humoral immunity: from infection shielding to lupus flares",
-      "link": "https://www.nature.com/articles/s41423-026-01433-8",
-      "journal": "Cellular and Molecular Immunology",
-      "category": "Original Article",
-      "authors": "Yuxin Li, Yile E. Liu, Jiachen Zhang, Ke Rui, Liwei Lu",
-      "summary": "Cellular & Molecular Immunology, Published online: 22 May 2026; doi:10.1038/s41423-026-01433-8 TRPV3 facilitates metabolic alarmin-driven humoral immunity: from infection shielding to lupus flares",
-      "date": "2026-05-22T00:00:00Z",
-      "date_display": "22 May 2026"
-    },
-    {
-      "id": "8a38c69bff",
-      "title": "Fusobacterium nucleatum -induced mitophagy in macrophages supports intracellular bacterial persistence and promotes esophageal squamous cell carcinoma metastasis",
-      "link": "https://www.nature.com/articles/s41423-026-01426-7",
-      "journal": "Cellular and Molecular Immunology",
-      "category": "Original Article",
-      "authors": "Fangfang Chen, Yulin Liu, Han Xiao, Xiaoyun Pan, Shuyi Luo, Yiqiu Li, Shengxin Chen, Songhe Guo, Ge Zhang",
-      "summary": "Cellular & Molecular Immunology, Published online: 22 May 2026; doi:10.1038/s41423-026-01426-7 Fusobacterium nucleatum -induced mitophagy in macrophages supports intracellular bacterial persistence and promotes esophageal squamous cell carcinoma metastasis",
-      "date": "2026-05-22T00:00:00Z",
-      "date_display": "22 May 2026"
-    },
-    {
-      "id": "712d96155d",
-      "title": "Mapping the holonomic signaling network that drives pathological changes in endotoxic shock",
-      "link": "https://www.nature.com/articles/s41423-026-01427-6",
-      "journal": "Cellular and Molecular Immunology",
-      "category": "Original Article",
-      "authors": "Teng Teng, Xinhe Gao, Peipei Zhang, Ye-Hsuan Sun, Yifei Liu, Rui Zhao, Yilong Fu, Yiyuan Liu, Zhizhong Lin, Yingying Zhang, Jiahuai Han",
-      "summary": "Cellular & Molecular Immunology, Published online: 22 May 2026; doi:10.1038/s41423-026-01427-6 Mapping the holonomic signaling network that drives pathological changes in endotoxic shock",
-      "date": "2026-05-22T00:00:00Z",
-      "date_display": "22 May 2026"
     },
     {
       "id": "5d59afc34b",
