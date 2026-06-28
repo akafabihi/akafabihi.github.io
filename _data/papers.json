@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T08:24:23Z",
+  "updated": "2026-06-28T08:38:44Z",
   "papers": [
     {
       "id": "9d6e60064f",
@@ -35,13 +35,13 @@
       "date_display": "26 Jun 2026"
     },
     {
-      "id": "1e3e29b668",
-      "title": "Author Correction: The SESAME complex regulates cell senescence through the generation of acetyl-CoA",
-      "link": "https://www.nature.com/articles/s42255-026-01574-0",
-      "journal": "Nature Metabolism",
+      "id": "7785b5c5eb",
+      "title": "Inhibition of ADSS2-mediated de novo AMP biosynthesis re-sensitizes acute myeloid leukemia to BH3 mimetics",
+      "link": "https://www.nature.com/articles/s43018-026-01184-5",
+      "journal": "Nature Cancer",
       "category": "Original Article",
-      "authors": "Wanping Chen, Xilan Yu, Yinsheng Wu, Jie Tang, Qi Yu, Xiaodong Lv, Zitong Zha, Bicheng Hu, Xin Li, Jianguo Chen, Lixin Ma, Jerry L. Workman, Shanshan Li",
-      "summary": "Nature Metabolism, Published online: 26 June 2026; doi:10.1038/s42255-026-01574-0 Author Correction: The SESAME complex regulates cell senescence through the generation of acetyl-CoA",
+      "authors": "Xin He, Lei Zhang, Yang Li, Song-Bai Liu, Zheng Li, Haojie Dong, Genevieve E. Baker, Le Xuan Truong Nguyen, Wei Chen, Jinhui Wang, Zhilian Jia, Xiyuan Lu, Yi-Chun Lin, Zunsong Hu…",
+      "summary": "Nature Cancer, Published online: 26 June 2026; doi:10.1038/s43018-026-01184-5 He et al. demonstrate that ADSS2 deletion re-sensitizes AML to venetoclax by impairing mitophagy in response to the drug and develop an ADSS2 inhibitor that synergizes with BH3 mimetics in resistant AML.",
       "date": "2026-06-26T00:00:00Z",
       "date_display": "26 Jun 2026"
     },
@@ -55,50 +55,6 @@
       "summary": "Abstract Acute myeloid leukemia (AML) remains defined by therapeutic resistance, adverse genetic heterogeneity, and poor long-term survival, underscoring the need for mechanistically informed regimens that exploit core stress-adaptation liabilities. Polo-like kinase 1 (PLK1) is a central regulator of replication…",
       "date": "2026-06-26T00:00:00Z",
       "date_display": "26 Jun 2026"
-    },
-    {
-      "id": "ffdbb5bad9",
-      "title": "Itaconate induces noncanonical AIM2-dependent PANoptosis in sepsis",
-      "link": "https://www.nature.com/articles/s41423-026-01428-5",
-      "journal": "Cellular and Molecular Immunology",
-      "category": "Original Article",
-      "authors": "Hayeon Kim, SangJoon Lee",
-      "summary": "Cellular & Molecular Immunology, Published online: 25 June 2026; doi:10.1038/s41423-026-01428-5 Itaconate induces noncanonical AIM2-dependent PANoptosis in sepsis",
-      "date": "2026-06-25T00:00:00Z",
-      "date_display": "25 Jun 2026"
-    },
-    {
-      "id": "fe81859065",
-      "title": "USP9X trims STAT1 to curb oncostatin M activity and intestinal inflammation",
-      "link": "https://www.nature.com/articles/s41423-026-01445-4",
-      "journal": "Cellular and Molecular Immunology",
-      "category": "Original Article",
-      "authors": "Ahmed N. Hegazy",
-      "summary": "Cellular & Molecular Immunology, Published online: 25 June 2026; doi:10.1038/s41423-026-01445-4 USP9X trims STAT1 to curb oncostatin M activity and intestinal inflammation",
-      "date": "2026-06-25T00:00:00Z",
-      "date_display": "25 Jun 2026"
-    },
-    {
-      "id": "53243b1f38",
-      "title": "EZH2: an epigenetic governor of T-cell Ca 2+ homeostasis",
-      "link": "https://www.nature.com/articles/s41423-026-01429-4",
-      "journal": "Cellular and Molecular Immunology",
-      "category": "Original Article",
-      "authors": "SeongBeom Kim, SangJoon Lee",
-      "summary": "Cellular & Molecular Immunology, Published online: 25 June 2026; doi:10.1038/s41423-026-01429-4 EZH2: an epigenetic governor of T-cell Ca 2+ homeostasis",
-      "date": "2026-06-25T00:00:00Z",
-      "date_display": "25 Jun 2026"
-    },
-    {
-      "id": "442485528f",
-      "title": "TGF-β and IL-2 differentially shape T follicular regulatory cell differentiation and stability in vitro",
-      "link": "https://www.nature.com/articles/s41423-026-01440-9",
-      "journal": "Cellular and Molecular Immunology",
-      "category": "Original Article",
-      "authors": "Luisa Bach, Yinshui Chang, Olin Arteaga Transito, Mohammadamin Ghasemi, Lisa Maria Steinheuer, Teresa Steffen, Elena De Domenico, Thomas Ulas, F. Thomas Wunderlich, Marc D. Beyer…",
-      "summary": "Cellular & Molecular Immunology, Published online: 25 June 2026; doi:10.1038/s41423-026-01440-9 TGF-β and IL-2 differentially shape T follicular regulatory cell differentiation and stability in vitro",
-      "date": "2026-06-25T00:00:00Z",
-      "date_display": "25 Jun 2026"
     },
     {
       "id": "11eef4ccff",
@@ -123,39 +79,6 @@
       "date_display": "25 Jun 2026"
     },
     {
-      "id": "888f6adaca",
-      "title": "Exercise and glucagon-like peptide 1 receptor agonists in cardiovascular disease beyond weight loss",
-      "link": "https://www.nature.com/articles/s42255-026-01560-6",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "Alex J. Jordan, Michael McDermott",
-      "summary": "Nature Metabolism, Published online: 24 June 2026; doi:10.1038/s42255-026-01560-6 In this issue of Nature Metabolism, Sandsdal, Holt et al. show that exercise alone or in combination with the glucagon-like peptide 1 receptor agonist (GLP1-RA) liraglutide reduced carotid intimal media thickness along with other…",
-      "date": "2026-06-24T00:00:00Z",
-      "date_display": "24 Jun 2026"
-    },
-    {
-      "id": "c0ee36b8d7",
-      "title": "Effects of exercise and liraglutide on vascular health and inflammation during weight loss maintenance: a prespecified secondary analysis of the S-LiTE trial",
-      "link": "https://www.nature.com/articles/s42255-026-01554-4",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "Rasmus Michael Sandsdal, Joachim Holt, Haithem Ghalib Ali Alkhefagie, Julie Rehné Jørgensen, Christian Rimer Juhl, Lisa M. Olsen, Sarah Byberg, Roopameera Thirumathyam, Lasse…",
-      "summary": "Nature Metabolism, Published online: 24 June 2026; doi:10.1038/s42255-026-01554-4 Exercise, alone or in combination with liraglutide, reduces vascular thickness and inflammation markers during the weight loss maintenance phase, whereas liraglutide alone does not elicit any effects.",
-      "date": "2026-06-24T00:00:00Z",
-      "date_display": "24 Jun 2026"
-    },
-    {
-      "id": "f4b2130917",
-      "title": "Vimentin trogocytosis as a novel mechanism of NK cell exhaustion by circulating tumor cells",
-      "link": "https://www.nature.com/articles/s41423-026-01443-6",
-      "journal": "Cellular and Molecular Immunology",
-      "category": "Original Article",
-      "authors": "Hyo-Jeong Cha, Changwan Hong",
-      "summary": "Cellular & Molecular Immunology, Published online: 24 June 2026; doi:10.1038/s41423-026-01443-6 Vimentin trogocytosis as a novel mechanism of NK cell exhaustion by circulating tumor cells",
-      "date": "2026-06-24T00:00:00Z",
-      "date_display": "24 Jun 2026"
-    },
-    {
       "id": "4cc082f400",
       "title": "Multiple Myeloma Screening Education: A Community-Based Health Literacy Intervention",
       "link": "https://aacrjournals.org/cancerrescommun/article/6/6/1486/786138/Multiple-Myeloma-Screening-Education-A-Community",
@@ -178,24 +101,24 @@
       "date_display": "24 Jun 2026"
     },
     {
-      "id": "28f6600656",
-      "title": "Host metabolism can produce many indoles and phenols independently of the microbiome",
-      "link": "https://www.nature.com/articles/s42255-026-01550-8",
-      "journal": "Nature Metabolism",
+      "id": "25ba1fdcb7",
+      "title": "GABA shapes GBM immune responses in a sex-dependent manner",
+      "link": "https://www.nature.com/articles/s43018-026-01183-6",
+      "journal": "Nature Cancer",
       "category": "Original Article",
-      "authors": "Jenna E. AbuSalim, Kellen Olszewski, Salma Youssef, Sarah J. Mitchell, Craig J. Hunter, Jessica Little, Ashley Sidebottom, Jacob A. Boyer, Steve D. Knutson, Laith Z. Samarah…",
-      "summary": "Nature Metabolism, Published online: 23 June 2026; doi:10.1038/s42255-026-01550-8 This study demonstrates that many physiologically important circulating indole and phenol metabolites are derived from host metabolism.",
+      "authors": "Malcolm F. McDonald, Benjamin Deneen",
+      "summary": "Nature Cancer, Published online: 23 June 2026; doi:10.1038/s43018-026-01183-6 Glioblastoma is a deadly primary brain tumor with a complex immunosuppressive microenvironment that poses a therapeutic challenge. A study now demonstrates that GABAB signaling enhances immunosuppressive programs of myeloid-derived…",
       "date": "2026-06-23T00:00:00Z",
       "date_display": "23 Jun 2026"
     },
     {
-      "id": "bb9c5fd587",
-      "title": "Sympathetic immunomodulation suppresses liver metastasis by maintaining the balance between norepinephrine concentration and the α2a/β2-AR ratio",
-      "link": "https://www.nature.com/articles/s41423-026-01441-8",
-      "journal": "Cellular and Molecular Immunology",
+      "id": "ecd3095a77",
+      "title": "GABA signaling activation drives glioblastoma progression in female mice through myeloid-derived suppressor cells",
+      "link": "https://www.nature.com/articles/s43018-026-01192-5",
+      "journal": "Nature Cancer",
       "category": "Original Article",
-      "authors": "Lulu Gao, Jian Li, Borui Li, Songlin Huang, Jiahong Hu, Zheng Liu, Yanfeng Dai, Jinxin Liu, Ren Zhang, Jialu Wang, Xinru Wang, Qingming Luo, Zhihong Zhang",
-      "summary": "Cellular & Molecular Immunology, Published online: 23 June 2026; doi:10.1038/s41423-026-01441-8 Sympathetic immunomodulation suppresses liver metastasis by maintaining the balance between norepinephrine concentration and the α2a/β2-AR ratio",
+      "authors": "Asmita Pathak, Palavalasa Sravya, Bruno Colon, Erika Ciervo, Yadi Zhou, Oriana Y. Teran Pumar, Brandon Emanuel León, Jonathan Mitchell, Pedro Henrique Assenza Tavares Coroa…",
+      "summary": "Nature Cancer, Published online: 23 June 2026; doi:10.1038/s43018-026-01192-5 Pathak et al. unveil a female vulnerability for glioblastoma according to a mechanism that relies on γ-aminobutyric acid receptor-mediated signaling on granulocytic myeloid-derived suppressor cells, which in turn triggers T cell suppression…",
       "date": "2026-06-23T00:00:00Z",
       "date_display": "23 Jun 2026"
     },
@@ -220,28 +143,6 @@
       "summary": "Nature Reviews Immunology, Published online: 23 June 2026; doi:10.1038/s41577-026-01325-y Twentieth-century immunology was shaped by questions of recognition, diversity, response and tolerance. The next era may be defined by a different class of questions: how immune activity is embedded in organ physiology…",
       "date": "2026-06-23T00:00:00Z",
       "date_display": "23 Jun 2026"
-    },
-    {
-      "id": "4684cd6ddc",
-      "title": "A cholinergic checkpoint controls autoantibody selection via somatic hypermutation in lupus germinal centers",
-      "link": "https://www.nature.com/articles/s41423-026-01444-5",
-      "journal": "Cellular and Molecular Immunology",
-      "category": "Original Article",
-      "authors": "Jin Li, Yimei Lai, Huijin Zou, Yichao Qian, Xinyuan Ruan, Lili Zhuang, Zhangmei Lin, Yumeng Wang, Niansheng Yang, Shuyi Wang, Hui Zhang",
-      "summary": "Cellular & Molecular Immunology, Published online: 22 June 2026; doi:10.1038/s41423-026-01444-5 A cholinergic checkpoint controls autoantibody selection via somatic hypermutation in lupus germinal centers",
-      "date": "2026-06-22T00:00:00Z",
-      "date_display": "22 Jun 2026"
-    },
-    {
-      "id": "dba4c8fc6f",
-      "title": "Acquisition of Vimentin by trogocytosis inhibits the NK cell-mediated immune response against circulating tumour cells (CTCs)",
-      "link": "https://www.nature.com/articles/s41423-026-01432-9",
-      "journal": "Cellular and Molecular Immunology",
-      "category": "Original Article",
-      "authors": "Lu Zhao, Ran Li, Xiao-Yan Meng, Yu-Xiang Guo, Liu Liu, Si-Yi Li, Zhonglong Liu, Long-Wei Hu, Hai-Long Ma, Chao-Ji Shi, Qin Xu, Yue He",
-      "summary": "Cellular & Molecular Immunology, Published online: 22 June 2026; doi:10.1038/s41423-026-01432-9 Acquisition of Vimentin by trogocytosis inhibits the NK cell-mediated immune response against circulating tumour cells (CTCs)",
-      "date": "2026-06-22T00:00:00Z",
-      "date_display": "22 Jun 2026"
     },
     {
       "id": "70e1db5af3",
@@ -321,6 +222,17 @@
       "date_display": "19 Jun 2026"
     },
     {
+      "id": "5c2a758688",
+      "title": "The future of tertiary lymphoid structures in cancer immunotherapy as biomarkers and therapeutic targets",
+      "link": "https://www.nature.com/articles/s43018-026-01188-1",
+      "journal": "Nature Cancer",
+      "category": "Original Article",
+      "authors": "Hye Mi Kim, Tejashree Joglekar, Tina Cascone, Tullia C. Bruno",
+      "summary": "Nature Cancer, Published online: 18 June 2026; doi:10.1038/s43018-026-01188-1 Bruno and colleagues provide an overview of tertiary lymphoid structures as biomarkers and potential therapeutic targets in the cancer immunotherapy era.",
+      "date": "2026-06-18T00:00:00Z",
+      "date_display": "18 Jun 2026"
+    },
+    {
       "id": "472c3c2f88",
       "title": "Early ctDNA Dynamics Predict Response to Mosperafenib in BRAF V600-Mutant Metastatic Colorectal Cancer",
       "link": "https://aacrjournals.org/cancerrescommun/article/6/6/1435/785837/Early-ctDNA-Dynamics-Predict-Response-to",
@@ -354,13 +266,13 @@
       "date_display": "17 Jun 2026"
     },
     {
-      "id": "690b4f90ce",
-      "title": "Understanding the somatic evolution of metabolic traits",
-      "link": "https://www.nature.com/articles/s42255-026-01551-7",
-      "journal": "Nature Metabolism",
+      "id": "6a71a853fb",
+      "title": "Targeting PID1 generates oxysterols to switch macrophage cell fates for improved antitumor immunity",
+      "link": "https://www.nature.com/articles/s43018-026-01189-0",
+      "journal": "Nature Cancer",
       "category": "Original Article",
-      "authors": "Radhika Khandelwal, Anand Kumar Sharma",
-      "summary": "Nature Metabolism, Published online: 16 June 2026; doi:10.1038/s42255-026-01551-7 Somatic mutations are linked to diseases, yet their prevalence and relevance in health remain poorly defined. Technological advancements now enable us to delineate how tissue-specific somatic mutations drive adaptive metabolism across…",
+      "authors": "Yuxiao Zheng, Qi Wang, Chen Dong, Qiong Wang, Mingshun Han, Haiqing Zhao, Shuang Wang, Longlong Chen, Xiaoli Zhang, Dan Yang, Jun Xiao, Zhihuan Chew, Zhenfei Xie, Lei Yang…",
+      "summary": "Nature Cancer, Published online: 16 June 2026; doi:10.1038/s43018-026-01189-0 Wang and colleagues show that phosphotyrosine interaction domain-containing protein 1, a protein involved in lipid metabolism, is upregulated in tumor-associated macrophages (TAMs) and its disruption reprograms TAMs in a phenotype promoting…",
       "date": "2026-06-16T00:00:00Z",
       "date_display": "16 Jun 2026"
     },
@@ -376,24 +288,13 @@
       "date_display": "16 Jun 2026"
     },
     {
-      "id": "71c0baad46",
-      "title": "Adiposity and cancer: systematic review and meta-analysis",
-      "link": "https://www.nature.com/articles/s42255-026-01542-8",
-      "journal": "Nature Metabolism",
+      "id": "6e5c7c9178",
+      "title": "Mesenchymal tumor features predict response to immune-checkpoint blockade in glioblastoma",
+      "link": "https://www.nature.com/articles/s43018-026-01178-3",
+      "journal": "Nature Cancer",
       "category": "Original Article",
-      "authors": "Eleanor L. Watts, Amparo Gonzalez-Feliciano, Marc J. Gunter, Nilanjan Chatterjee, Steven C. Moore",
-      "summary": "Nature Metabolism, Published online: 15 June 2026; doi:10.1038/s42255-026-01542-8 In a meta-analysis including 1.5 million incidences of cancer, positive associations between body mass index and 19 cancers were identified, underlining the impact of obesity on cancer risk.",
-      "date": "2026-06-15T00:00:00Z",
-      "date_display": "15 Jun 2026"
-    },
-    {
-      "id": "57ef6e077b",
-      "title": "Adiposity and cancer: epidemiology, mechanisms and future perspectives",
-      "link": "https://www.nature.com/articles/s42255-026-01529-5",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "Eleanor L. Watts, Amparo Gonzalez-Feliciano, Marc J. Gunter, Nilanjan Chatterjee, Steven C. Moore",
-      "summary": "Nature Metabolism, Published online: 15 June 2026; doi:10.1038/s42255-026-01529-5 This Review discusses epidemiological trends for adiposity and cancer and summarizes mechanisms linking obesity to cancer development.",
+      "authors": "",
+      "summary": "Nature Cancer, Published online: 15 June 2026; doi:10.1038/s43018-026-01178-3 Multi-omics profiling of over 180 glioblastomas treated with immune-checkpoint blockade (ICB) revealed that the mesenchymal (MES) bulk transcriptional subtype and increased abundance of malignant cells exhibiting a MES-like transcriptional…",
       "date": "2026-06-15T00:00:00Z",
       "date_display": "15 Jun 2026"
     },
@@ -453,6 +354,28 @@
       "date_display": "12 Jun 2026"
     },
     {
+      "id": "734db14231",
+      "title": "Publisher Correction: Tumor transcriptional state predicts survival in immune-checkpoint-blockade-treated glioblastoma",
+      "link": "https://www.nature.com/articles/s43018-026-01197-0",
+      "journal": "Nature Cancer",
+      "category": "Original Article",
+      "authors": "Jack Y. Ghannam, Julian Bryan, Jakob Weiss, Daniel Kovarsky, David Merrell, Conor Messer, Kristy Schlueter-Kuck, Geoffrey G. Fell, Mary Jane Lim-Fat, Gilbert Youssef, Rifaquat…",
+      "summary": "Nature Cancer, Published online: 12 June 2026; doi:10.1038/s43018-026-01197-0 Publisher Correction: Tumor transcriptional state predicts survival in immune-checkpoint-blockade-treated glioblastoma",
+      "date": "2026-06-12T00:00:00Z",
+      "date_display": "12 Jun 2026"
+    },
+    {
+      "id": "74fb8a9b72",
+      "title": "Integrated proteogenomic and metabolomic profiling of acute myeloid leukemias to identify molecular subtypes and associated therapy targets",
+      "link": "https://www.nature.com/articles/s43018-026-01175-6",
+      "journal": "Nature Cancer",
+      "category": "Original Article",
+      "authors": "Shih-Chun A. Chu, Yi Hsiao, Chenwei Wang, Jennifer E. Kyle, Raghav Jain, Yamei Deng, Marina A. Gritsenko, Leanne E. Henry, Jonathan T. Lei, Yongchao Dou, Bahar Tercan, Zhiao Shi…",
+      "summary": "Nature Cancer, Published online: 12 June 2026; doi:10.1038/s43018-026-01175-6 Chu et al. conducted multiomic analyses of samples from 173 treatment-naive individuals with acute myeloid leukemia, integrating proteogenomic and metabolomic modalities to identify subtypes, and developed a machine-learning approach to find…",
+      "date": "2026-06-12T00:00:00Z",
+      "date_display": "12 Jun 2026"
+    },
+    {
       "id": "98779892b2",
       "title": "Interleukin-34–Induced Arg1 + Macrophages Play a Key Role in Breast Cancer Brain Metastasis",
       "link": "https://aacrjournals.org/cancerrescommun/article/6/6/1388/785769/Interleukin-34-Induced-Arg1-Macrophages-Play-a-Key",
@@ -484,17 +407,6 @@
       "summary": "Nature Reviews Cancer, Published online: 12 June 2026; doi:10.1038/s41568-026-00953-9 The 2026 annual meeting of the American Association for Cancer Research (AACR) was held under the theme ‘Precision, Partnership, Purpose: Advancing Cancer Science to Save Lives Globally’. Here, we summarize some key highlights from…",
       "date": "2026-06-12T00:00:00Z",
       "date_display": "12 Jun 2026"
-    },
-    {
-      "id": "edfe3f89c0",
-      "title": "Why machine learning fails at mass spectrometry for small molecules",
-      "link": "https://www.nature.com/articles/s42255-026-01544-6",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "Ling Min Serena Khoo, Regina Barzilay",
-      "summary": "Nature Metabolism, Published online: 11 June 2026; doi:10.1038/s42255-026-01544-6 Machine learning approaches are increasingly being used to aid small-molecule structure elucidation from mass spectrometry data. Surprisingly, however, current models often fail to outperform even simple baseline methods. Here we examine…",
-      "date": "2026-06-11T00:00:00Z",
-      "date_display": "11 Jun 2026"
     },
     {
       "id": "276631c1e0",
@@ -1320,6 +1232,94 @@
       "summary": "Entrialgo-Cadierno et al. demonstrate the potent efficacy of RAS(ON) multi-selective inhibitors in KRAS mutant cholangiocarcinoma and delineate a molecular landscape of resistance driven by oncogenic flux. The study provides a robust translational roadmap for implementing RAS(ON) multi-selective inhibitors as either…",
       "date": "2026-04-23T00:00:00Z",
       "date_display": "23 Apr 2026"
+    },
+    {
+      "id": "5f82fe38d0",
+      "title": "MAIT cells egress the thymus at several maturation stages with selective capacity to seed different tissues",
+      "link": "https://www.cell.com/immunity/fulltext/S1074-7613(26)00135-4?rss=yes",
+      "journal": "Immunity",
+      "category": "Original Article",
+      "authors": "Rafael Almeida Paiva, Hugues Brière, Anne-Laure Le Gac, Aurélie Darbois, Laetitia Perrin, Anya Belmellat, Chaimae Saji, Mariela Furstenheim, Lea Guyonnet, François Legoux, Bernard…",
+      "summary": "MAIT cells acquire effector-memory and tissue-residency programs in the thymus. Paiva et al. demonstrate that MAIT cells can be selected by epithelial cells and egress the thymus at several developmental stages with subset-specific tissue tropisms and that during colitis, thymic MAIT17 cells expand and are directed to…",
+      "date": "2026-04-22T00:00:00Z",
+      "date_display": "22 Apr 2026"
+    },
+    {
+      "id": "d110c198d2",
+      "title": "DGAT-driven futile lipid cycling has a pronounced, yet concealed, thermogenic function",
+      "link": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00145-2?rss=yes",
+      "journal": "Cell Metabolism",
+      "category": "Original Article",
+      "authors": "Anand Kumar Sharma, Radhika Khandelwal, Jelena Zurkovic, Fen Long, Tongtong Wang, Revati S. Dewal, Chunyan Wu, Adhideb Ghosh, Klug Manuel, Alaa Othman, Chandramohan Chitraju…",
+      "summary": "(Cell Metabolism 38, 1154–1171.e1–e7; June 2, 2026)",
+      "date": "2026-04-22T00:00:00Z",
+      "date_display": "22 Apr 2026"
+    },
+    {
+      "id": "d9add05a6b",
+      "title": "Mitochondrial metabolism regulates the immunogenic responsiveness of dendritic cells",
+      "link": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00148-8?rss=yes",
+      "journal": "Cell Metabolism",
+      "category": "Original Article",
+      "authors": "Ignacio Heras-Murillo, Diego Mañanes, Josep Calafell-Segura, Adrián Belinchón García, Clara Borràs-Eroles, Pablo Munné, Annalaura Mastrangelo, Sarai Martínez-Cano, Pablo…",
+      "summary": "(Cell Metabolism 38, 1097–1112.e1–e8; June 2, 2026)",
+      "date": "2026-04-22T00:00:00Z",
+      "date_display": "22 Apr 2026"
+    },
+    {
+      "id": "d6aa9d47fa",
+      "title": "A generative AI framework unifies human multi-omics to model aging, metabolic health, and intervention response",
+      "link": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00108-7?rss=yes",
+      "journal": "Cell Metabolism",
+      "category": "Original Article",
+      "authors": "Jiawei Chen, Ya Ren, Yong Zhou, Ziyang Wang, Kehang Mao, Zhengqing Yu, Jiyang Li, Xiaoxiao Guo, Hao Xu, Yiyang Wang, Yi Wang, Bo Pang, Hongxiao Liu, Huiru Tang, Jing-Dong J. Han",
+      "summary": "Chen et al. develop AURORA, an AI platform that integrates diverse biological data to reconstruct digital human models. By enabling virtual perturbations across modalities, the framework allows exploration of alternative aging and disease trajectories, offering a new way to study human biology and support personalized…",
+      "date": "2026-04-21T00:00:00Z",
+      "date_display": "21 Apr 2026"
+    },
+    {
+      "id": "3dac89735d",
+      "title": "Targeting cyclin-dependent kinases in cancer: emerging therapeutics and clinical strategies",
+      "link": "https://www.cell.com/trends/cancer/fulltext/S2405-8033(26)00059-2?rss=yes",
+      "journal": "Trends in Cancer",
+      "category": "Review Article",
+      "authors": "Harold N. Tan, Giuseppe Curigliano, Timothy A. Yap",
+      "summary": "Cyclin-dependent kinases (CDKs) regulate cell cycle progression, and their dysregulation is a hallmark of cancer. CDK4/6 inhibitors have shown clinical success against hormone receptor (HR)-positive, Human epidermal growth factor receptor (HER2)-negative breast cancer but encounter adaptive resistance, dose-limiting…",
+      "date": "2026-04-21T00:00:00Z",
+      "date_display": "21 Apr 2026"
+    },
+    {
+      "id": "af642960b6",
+      "title": "Organ injury in systemic autoimmunity is mediated by stem-like CD8+ T cells arising from tissue-draining lymph nodes",
+      "link": "https://www.cell.com/immunity/fulltext/S1074-7613(26)00133-0?rss=yes",
+      "journal": "Immunity",
+      "category": "Original Article",
+      "authors": "Jafar Al Souz, Yulong Wei, Can Cui, Rihao Qu, Jin-Young Choi, Fang Wang, Steven J. Moioffer, Julia Barrett, Irene Chernova, Manvitha Nadella, Emily R. Siniscalco, Gilbert Moeckel…",
+      "summary": "Loss of B cell tolerance, autoantibody production, and immune complex deposition are hallmarks of systemic lupus erythematosus. Al Souz et al. find that kidney-infiltrating CD8+ T cells differentiate from stem-like precursors in renal lymph nodes and cause tissue injury in lupus nephritis, demonstrating that…",
+      "date": "2026-04-20T00:00:00Z",
+      "date_display": "20 Apr 2026"
+    },
+    {
+      "id": "4121945ea3",
+      "title": "Targeting internalization, resistance, and response: Insights from ICARUS-LUNG01",
+      "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00113-3?rss=yes",
+      "journal": "Cancer Cell",
+      "category": "Original Article",
+      "authors": "Haishuang Sun, Shen Zhao, Jing Li, Li Zhang",
+      "summary": "In this issue of Cancer Cell, Planchard et al. report results from ICARUS-LUNG01, a phase 2 study assessing clinical activity and biomarkers of datopotamab deruxtecan in previously treated non-small cell lung cancer (NSCLC). This study contributes to ongoing efforts to characterize predictors of antibody-drug…",
+      "date": "2026-04-17T00:00:00Z",
+      "date_display": "17 Apr 2026"
+    },
+    {
+      "id": "d9f0e31846",
+      "title": "Efficacy, safety, and biomarker analysis of datopotamab deruxtecan in advanced non-small cell lung cancer: ICARUS-LUNG01 phase 2 study",
+      "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00171-6?rss=yes",
+      "journal": "Cancer Cell",
+      "category": "Original Article",
+      "authors": "David Planchard, Nathalie Cozic, Maria Fernanda Mosele, Noemie Corcos, Loic Le Bescond, Yoann Pradat, Maria Rosa Ghigna, Ghada Nachabeh, Alexia Alfaro, Cyril Catelain, Bastien…",
+      "summary": "Planchard et al. report the results of the ICARUS-LUNG01 trial, showing that the antibody-drug conjugate (ADC) datopotamab deruxtecan has clinical activity and acceptable safety in advanced lung cancer. Serial tumor and blood analyses suggest that drug uptake, DNA repair activation, and immune responses may influence…",
+      "date": "2026-04-17T00:00:00Z",
+      "date_display": "17 Apr 2026"
     }
   ]
 }
