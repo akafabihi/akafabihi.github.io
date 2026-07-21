@@ -1,6 +1,39 @@
 {
-  "updated": "2026-07-20T08:35:13Z",
+  "updated": "2026-07-21T08:04:51Z",
   "papers": [
+    {
+      "id": "39ab6ecfa2",
+      "title": "A second wind for leukemic lungs",
+      "link": "https://www.nature.com/articles/s41590-026-02598-0",
+      "journal": "Nature Immunology",
+      "category": "Original Article",
+      "authors": "P. Brent Ferrell, Robert S. Welner",
+      "summary": "Nature Immunology, Published online: 20 July 2026; doi:10.1038/s41590-026-02598-0 Single-cell and spatial analyses of acute myeloid leukemia (AML) in the lung reveal an inflamed and remodeled microenvironment. These findings demonstrate that corticosteroids or antibodies that target galectin-9 or IL-33 reduce leukemic…",
+      "date": "2026-07-20T00:00:00Z",
+      "date_display": "20 Jul 2026"
+    },
+    {
+      "id": "7e8bc6c984",
+      "title": "Endothelial cell-intrinsic NOD2 signaling regulates the intestinal immune response through the generation of effector and memory T cells",
+      "link": "https://www.nature.com/articles/s41590-026-02595-3",
+      "journal": "Nature Immunology",
+      "category": "Original Article",
+      "authors": "Boyan K. Tsankov, Madison Denney, Jennifer S. Y. Ahn, Charles Carr, Nayanan Nathan, Derek K. L. Tsang, Giuliano Bayer, Lauren Baerg, Alexander Luchak, Tapas Mukherjee, Elaine Tam…",
+      "summary": "Nature Immunology, Published online: 20 July 2026; doi:10.1038/s41590-026-02595-3 Tsankov and colleagues find that NOD2 signaling in intestinal endothelial cells drives T cell homing to the mesenteric lymph nodes during homeostasis and infection.",
+      "date": "2026-07-20T00:00:00Z",
+      "date_display": "20 Jul 2026"
+    },
+    {
+      "id": "90397116cb",
+      "title": "DNA Methyltransferase Inhibition Prevents Platinum-Induced Ovarian Cancer Stem Cell Enrichment",
+      "link": "https://aacrjournals.org/cancerrescommun/article/6/7/1721/786944/DNA-Methyltransferase-Inhibition-Prevents-Platinum",
+      "journal": "Cancer Research",
+      "category": "Original Article",
+      "authors": "Truc T. Vuong, Riddhi Sood, Shu Zhang, Tara X. Metcalfe, Rena Y. Han, Kenneth P. Nephew, Heather M. O’Hagan",
+      "summary": "Abstract Platinum-based therapy is the standard first-line treatment for high-grade serous ovarian cancer (HGSC). However, most patients develop resistance and recurrence despite an initial response to therapy. Ovarian cancer stem cells (OCSC) are enriched in recurrent tumors and contribute to platinum resistance…",
+      "date": "2026-07-20T00:00:00Z",
+      "date_display": "20 Jul 2026"
+    },
     {
       "id": "6a81ec514d",
       "title": "Mucosal tissue cues shape B cell memory through the IgA BCR",
@@ -108,6 +141,28 @@
       "category": "Original Article",
       "authors": "George Hajishengallis, Triantafyllos Chavakis, Maziar Divangahi, Peter J. Murray, Sarah Walmsley",
       "summary": "Nature Immunology, Published online: 16 July 2026; doi:10.1038/s41590-026-02601-8 The 21st International Aegean Conference on Innate Immunity showcased advances that position innate immunity as a multiscale regulatory system integrating environmental, metabolic, epigenetic and genetic inputs.",
+      "date": "2026-07-16T00:00:00Z",
+      "date_display": "16 Jul 2026"
+    },
+    {
+      "id": "95448d9e5c",
+      "title": "Endocrine-like regulation through brown fat-secreted microRNAs",
+      "link": "https://www.nature.com/articles/s42255-026-01570-4",
+      "journal": "Nature Metabolism",
+      "category": "Original Article",
+      "authors": "",
+      "summary": "Nature Metabolism, Published online: 16 July 2026; doi:10.1038/s42255-026-01570-4 In vivo, 4-thiouracil-based, tissue-specific microRNA labelling highlights the endocrine role of brown adipose tissue-derived microRNAs that are taken up by and regulate metabolic function in peripheral tissues such as muscle, liver and…",
+      "date": "2026-07-16T00:00:00Z",
+      "date_display": "16 Jul 2026"
+    },
+    {
+      "id": "b709611807",
+      "title": "Brown fat-specific RNA labelling reveals a network of inter-organ communication by secreted microRNAs",
+      "link": "https://www.nature.com/articles/s42255-026-01558-0",
+      "journal": "Nature Metabolism",
+      "category": "Original Article",
+      "authors": "Marsel Lino, Gabriel Palermo-Ruiz, Vissarion Efthymiou, Alice Rodrigues, Shraddha Bhonsle, Allah Nawaz, Anindya Ghosh, Bruna Brasil Brandão, Yoshiyuki Watanabe, Rafael Barrera…",
+      "summary": "Nature Metabolism, Published online: 16 July 2026; doi:10.1038/s42255-026-01558-0 This study uses in vivo, 4TU-based, tissue-specific miRNA labelling to highlight the endocrine role of BAT-derived miRNAs that are taken up by tissues like the muscle, liver and hypothalamus, and demonstrates their role in regulating…",
       "date": "2026-07-16T00:00:00Z",
       "date_display": "16 Jul 2026"
     },
@@ -222,6 +277,61 @@
       "date_display": "15 Jul 2026"
     },
     {
+      "id": "cc9ec9d626",
+      "title": "Author Correction: SLC6A6 imports taurine into mitochondria to sustain mitochondrial translation and tumour growth",
+      "link": "https://www.nature.com/articles/s42255-026-01585-x",
+      "journal": "Nature Metabolism",
+      "category": "Original Article",
+      "authors": "Liucheng Li, Jianwei You, Zi-Qing Chai, Xueshan Li, Xinlei Cai, Lin Wang, Fang Yang, Lingzhi Zhu, Wen Mi, Xinyi Xia, Haohang Yan, Fei Li, Juan Wang, Tong-Jin Zhao, Ligong Chen…",
+      "summary": "Nature Metabolism, Published online: 14 July 2026; doi:10.1038/s42255-026-01585-x Author Correction: SLC6A6 imports taurine into mitochondria to sustain mitochondrial translation and tumour growth",
+      "date": "2026-07-14T00:00:00Z",
+      "date_display": "14 Jul 2026"
+    },
+    {
+      "id": "4581fe872d",
+      "title": "Itaconate as a paracrine brake on thermogenesis",
+      "link": "https://www.nature.com/articles/s42255-026-01573-1",
+      "journal": "Nature Metabolism",
+      "category": "Original Article",
+      "authors": "Lei-Lei Chen, Dan Ye",
+      "summary": "Nature Metabolism, Published online: 14 July 2026; doi:10.1038/s42255-026-01573-1 Thermogenesis must be precisely controlled to avoid wasting energy. In this issue of Nature Metabolism, Tang et al. reveal that macrophage-derived itaconate acts as a paracrine metabolic brake that blocks MCT1-dependent succinate uptake…",
+      "date": "2026-07-14T00:00:00Z",
+      "date_display": "14 Jul 2026"
+    },
+    {
+      "id": "794e59222b",
+      "title": "Decoding MASLD progression beyond histological stages",
+      "link": "https://www.nature.com/articles/s42255-026-01548-2",
+      "journal": "Nature Metabolism",
+      "category": "Original Article",
+      "authors": "",
+      "summary": "Nature Metabolism, Published online: 14 July 2026; doi:10.1038/s42255-026-01548-2 We reconstruct metabolic dysfunction-associated steatotic liver disease (MASLD) as a continuous molecular trajectory, revealing dynamic regulatory programmes underlying disease progression. By integrating transcriptomics, network…",
+      "date": "2026-07-14T00:00:00Z",
+      "date_display": "14 Jul 2026"
+    },
+    {
+      "id": "f1a9c68b28",
+      "title": "Macrophage-derived itaconate is a negative regulator of adipose tissue thermogenesis",
+      "link": "https://www.nature.com/articles/s42255-026-01572-2",
+      "journal": "Nature Metabolism",
+      "category": "Original Article",
+      "authors": "Jiayin Tang, Gerard Pernes, Brenda Nakagaki, Nhien Tran, Laura Bokor, Fran Prenen, Mingyang Yi, Avery E. Robertson, Rachel Cronin, Mohamad Sarmini, Jacob Pierscianowski, Victoria…",
+      "summary": "Nature Metabolism, Published online: 14 July 2026; doi:10.1038/s42255-026-01572-2 Tang et al. reveal that macrophage-derived itaconate acts as a paracrine inhibitor of adipose tissue thermogenesis by blocking succinate uptake into brown adipose tissue.",
+      "date": "2026-07-14T00:00:00Z",
+      "date_display": "14 Jul 2026"
+    },
+    {
+      "id": "8a269dcf45",
+      "title": "A data-driven framework reconstructs the molecular continuum of human MASLD progression",
+      "link": "https://www.nature.com/articles/s42255-026-01543-7",
+      "journal": "Nature Metabolism",
+      "category": "Original Article",
+      "authors": "Ioannis Kamzolas, Thodoris Koutsandreas, Charlie George Barker, Anna Vathrakokoili Pournara, Harry Weston, Naoto Fujiwara, Yujin Hoshida, Quentin M. Anstee, Michele Vacca, Irene…",
+      "summary": "Nature Metabolism, Published online: 14 July 2026; doi:10.1038/s42255-026-01543-7 A trajectory-based molecular framework reveals coordinated temporal shifts in metabolic, inflammatory and fibrogenic mechanisms across the human MASLD spectrum.",
+      "date": "2026-07-14T00:00:00Z",
+      "date_display": "14 Jul 2026"
+    },
+    {
       "id": "f7488454cf",
       "title": "Philippe Bousso (1971–2026)",
       "link": "https://www.cell.com/immunity/fulltext/S1074-7613(26)00267-0?rss=yes",
@@ -308,6 +418,17 @@
       "summary": "Nature Reviews Immunology, Published online: 14 July 2026; doi:10.1038/s41577-026-01338-7 A preprint by Lunger et al. reports macrophage engineering through constitutively active synthetic cytokine receptors to induce polarization states that are unobtainable with natural cytokine receptors.",
       "date": "2026-07-14T00:00:00Z",
       "date_display": "14 Jul 2026"
+    },
+    {
+      "id": "d6402c0d45",
+      "title": "The perineurium integrates leptin with its sympathetic outflow to protect against obesity",
+      "link": "https://www.nature.com/articles/s42255-026-01555-3",
+      "journal": "Nature Metabolism",
+      "category": "Original Article",
+      "authors": "Gitalee Sarker, Emma Haberman, Anandhakumar Chandran, Thomas Monfeuga, Cyrielle Maroteau, Sofia Lundh, David S. Oliveira, Andrea Raimondi, Karin Ziegler, Tiago Gomes, Tiago N…",
+      "summary": "Nature Metabolism, Published online: 13 July 2026; doi:10.1038/s42255-026-01555-3 Lepr+Adrb2+ sympathetic perineurial cells coordinate leptin signalling and sympathetic output to modulate energy expenditure, thermogenesis and body weight in male mice, independent of changes to food intake.",
+      "date": "2026-07-13T00:00:00Z",
+      "date_display": "13 Jul 2026"
     },
     {
       "id": "7098482368",
@@ -572,28 +693,6 @@
       "summary": "Abstract Purpose: Naturally occurring tumor-specific T cells derived from peripheral blood (PB) offer a clinically accessible source for adoptive immunotherapy. However, the expansion of these T cells from patients with cancer remains a challenge. We hypothesized that mimicking innate immune activation could optimally…",
       "date": "2026-07-07T00:00:00Z",
       "date_display": "7 Jul 2026"
-    },
-    {
-      "id": "7f6e94a379",
-      "title": "Author Correction: An atlas of genetic effects on cellular composition of the tumor microenvironment",
-      "link": "https://www.nature.com/articles/s41590-026-02602-7",
-      "journal": "Nature Immunology",
-      "category": "Original Article",
-      "authors": "Yimin Cai, Zequn Lu, Can Chen, Ying Zhu, Zhirui Chen, Zuyou Wu, Jingyi Peng, Xuanyu Zhu, Ziying Liu, Bin Li, Ming Zhang, Jinyu Huang, Yanmin Li, Yizhuo Liu, Qianying Ma, Chunyi…",
-      "summary": "Nature Immunology, Published online: 06 July 2026; doi:10.1038/s41590-026-02602-7 Author Correction: An atlas of genetic effects on cellular composition of the tumor microenvironment",
-      "date": "2026-07-06T00:00:00Z",
-      "date_display": "6 Jul 2026"
-    },
-    {
-      "id": "45f18f0681",
-      "title": "Exhausted CD8 + T cell subsets differ a TAD",
-      "link": "https://www.nature.com/articles/s41590-026-02583-7",
-      "journal": "Nature Immunology",
-      "category": "Original Article",
-      "authors": "Maegan K. Murphy, Takeshi Egawa",
-      "summary": "Nature Immunology, Published online: 06 July 2026; doi:10.1038/s41590-026-02583-7 Lineage choices that maintain and diversify exhausted CD8+ T cells under chronic antigen exposure are driven by epigenetic rewiring. CTCF-mediated spatial chromatin reorganization is shown to regulate subset-specific architecture and…",
-      "date": "2026-07-06T00:00:00Z",
-      "date_display": "6 Jul 2026"
     },
     {
       "id": "7e856fc196",
@@ -1221,105 +1320,6 @@
       "summary": "While androgen deprivation is widely used in urological oncology to restrain tumor growth and prevent T cell exhaustion, Lee et al. reveal a striking reversal in glioblastoma. In glioblastoma, androgen loss triggers microglial cytokines, activates the hypothalamic–pituitary–adrenal axis, and induces…",
       "date": "2026-06-16T00:00:00Z",
       "date_display": "16 Jun 2026"
-    },
-    {
-      "id": "c68b0bd8f6",
-      "title": "Neutrophil regulation of immunotherapy for cancer is controlled by type II interferon",
-      "link": "https://www.cell.com/immunity/fulltext/S1074-7613(26)00225-6?rss=yes",
-      "journal": "Immunity",
-      "category": "Original Article",
-      "authors": "Shengduo Pei, Yueyun Pan, Heng Liang, Li Lei, Qirong Lin, Jiarui Mi, Jeffrey V. Ravetch, Oliver Soehnlein, Mikael C.I. Karlsson",
-      "summary": "Neutrophils have the capacity to both support and block tumor growth depending on their polarization state. Here, Pei et al. find that IFN-γ produced during immunotherapy induces PD-L1 expression by neutrophils with an aged phenotype that drives therapy resistance; however, targeting this axis or deleting ifngr1 flips…",
-      "date": "2026-06-15T00:00:00Z",
-      "date_display": "15 Jun 2026"
-    },
-    {
-      "id": "b55b1c0b08",
-      "title": "Parental leave in immunology — 5",
-      "link": "https://www.cell.com/trends/immunology/fulltext/S1471-4906(26)00135-3?rss=yes",
-      "journal": "Trends in Immunology",
-      "category": "Review Article",
-      "authors": "Federica Facciotti",
-      "summary": "I am an immunologist with over 15 years of experience in translational biomedical research, specializing in T cell biology, autoimmune diseases, and gastrointestinal cancers. My work explores how immune cells maintain balance, drive inflammation, and regulate epithelial transformation, with a growing focus on…",
-      "date": "2026-06-12T00:00:00Z",
-      "date_display": "12 Jun 2026"
-    },
-    {
-      "id": "60f8d46adb",
-      "title": "Immunoediting restricts clonal neoantigens in primary, treatment-naive human tumors",
-      "link": "https://www.cell.com/immunity/fulltext/S1074-7613(26)00216-5?rss=yes",
-      "journal": "Immunity",
-      "category": "Original Article",
-      "authors": "Elizabeth S. Borden, David Castellano, Emily A. Kantzos, Alysia Hughes, Zachary Leibovit-Reiben, Alyssa Stockard, Anirudh Choudhary, Tao Ma, Xing Li, Aaron R. Mangold, Ryan N…",
-      "summary": "Borden et al. examine primary, treatment-naive squamous cell carcinoma (SCC) tumors to determine the impact of immunoediting. Comparison of SCC tumors from immunocompetent and immunosuppressed patients demonstrates immune-mediated sculpting of the tumor neoantigen profile, where immunogenic neoantigens are restricted…",
-      "date": "2026-06-11T00:00:00Z",
-      "date_display": "11 Jun 2026"
-    },
-    {
-      "id": "f74032d840",
-      "title": "STING unlocks CD4⁺ T cell immunity in pancreatic cancer",
-      "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00254-0?rss=yes",
-      "journal": "Cancer Cell",
-      "category": "Original Article",
-      "authors": "Bastian Kruse, Ben P. Leonhardt, Jan P. Böttcher",
-      "summary": "Pancreatic ductal adenocarcinomas (PDACs) are lethal cancers resistant to immunotherapies. In this issue of Cancer Cell, Kureshi et al. show that combining checkpoint blockade with STING-mediated innate immune stimulation unlocks cDC2-driven CD4+ T cell immunity in mice, promoting PDAC immune control. This cellular…",
-      "date": "2026-06-11T00:00:00Z",
-      "date_display": "11 Jun 2026"
-    },
-    {
-      "id": "bb29ac0cd1",
-      "title": "Attack of the clones: Tracing the dynamics of innate immune cells in human cancer",
-      "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00258-8?rss=yes",
-      "journal": "Cancer Cell",
-      "category": "Original Article",
-      "authors": "Amir Brivanlou, Nir Hacohen",
-      "summary": "In this issue of Cancer Cell, Liu et al. use mitochondrial DNA mutations to reconstruct clonal lineages of the innate immune compartment in human tumors. They show that intratumoral type 3 dendritic cells (DC3s) arise from circulating monocytes and that a monocyte’s fate in the tumor microenvironment is programmed…",
-      "date": "2026-06-11T00:00:00Z",
-      "date_display": "11 Jun 2026"
-    },
-    {
-      "id": "4920d651b2",
-      "title": "The cartography of KRAS inhibitor resistance in colorectal cancer",
-      "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00255-2?rss=yes",
-      "journal": "Cancer Cell",
-      "category": "Original Article",
-      "authors": "Mark White, Andrew D. Campbell, Owen J. Sansom",
-      "summary": "In this issue of Cancer Cell, Alonso et al. demonstrate that in patients with advanced colorectal cancer, there are regionally distinct genomic and transcriptomic adaptive responses to KRAS G12C inhibition, including epithelial cell state changes and pro-inflammatory pathway enrichment, and provide insights into key…",
-      "date": "2026-06-11T00:00:00Z",
-      "date_display": "11 Jun 2026"
-    },
-    {
-      "id": "4edc3d08de",
-      "title": "An epigenetic four-lane route to camouflage for cancer cells",
-      "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00262-X?rss=yes",
-      "journal": "Cancer Cell",
-      "category": "Original Article",
-      "authors": "Lorenzo Galluzzi, Gwenola Manic, Ilio Vitale",
-      "summary": "Malignant cells can exploit numerous mechanisms to evade anti-tumor immunity. In this issue of Cancer Cell, Foidart et al. demonstrate that neoplastic cells undergoing whole-genome doubling acquire epigenetic changes that actively suppress antigen presentation, hence effectively hiding from recognition and elimination…",
-      "date": "2026-06-11T00:00:00Z",
-      "date_display": "11 Jun 2026"
-    },
-    {
-      "id": "c5543c7d92",
-      "title": "High-plasticity oncofetal cell states in early pre-metastatic colorectal cancer",
-      "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00256-4?rss=yes",
-      "journal": "Cancer Cell",
-      "category": "Original Article",
-      "authors": "Manon Bulliard, Yakov Perlov, Ömer H. Yilmaz, Bing Shui",
-      "summary": "In Nature, Buissant des Amorie et al. demonstrate that colorectal cancer acquires oncofetal cell states that resemble embryonic intestines, confer stem-like features, reshape epithelial identity, and prime cells for invasion and metastasis. Oncofetal cells are essential for metastasis and ubiquitous in non-metastatic…",
-      "date": "2026-06-11T00:00:00Z",
-      "date_display": "11 Jun 2026"
-    },
-    {
-      "id": "623ebdfc35",
-      "title": "A PanIN-oramic view of early pancreatic cancer in 3D",
-      "link": "https://www.cell.com/trends/immunology/fulltext/S1471-4906(26)00132-8?rss=yes",
-      "journal": "Trends in Immunology",
-      "category": "Review Article",
-      "authors": "Alexander Cicala, Sebastian A. Dziadowicz, Peter M.K. Westcott",
-      "summary": "Pancreatic cancer is a deadly disease defined by an immunosuppressive microenvironment refractory to therapy. Kiemen et al. applied 3D histology, imaging mass cytometry, and spatially resolved DNA sequencing to human pancreata containing early precursors of the disease, revealing heterogeneous and mutation-specific…",
-      "date": "2026-06-09T00:00:00Z",
-      "date_display": "9 Jun 2026"
     }
   ]
 }
