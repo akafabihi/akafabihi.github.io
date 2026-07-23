@@ -1,6 +1,50 @@
 {
-  "updated": "2026-07-22T08:06:01Z",
+  "updated": "2026-07-23T08:08:21Z",
   "papers": [
+    {
+      "id": "42058d2c56",
+      "title": "Ascites-derived lipid barrier at the T cell synapse",
+      "link": "https://www.nature.com/articles/s42255-026-01564-2",
+      "journal": "Nature Metabolism",
+      "category": "Original Article",
+      "authors": "Teresa Manzo",
+      "summary": "Nature Metabolism, Published online: 22 July 2026; doi:10.1038/s42255-026-01564-2 Ovarian cancer ascites can blunt T cell attack, but the earliest steps affected have remained unclear. In this issue of Nature Metabolism, Brown et al. show that ascites-derived lipids disrupt T cell receptor organization and early…",
+      "date": "2026-07-22T00:00:00Z",
+      "date_display": "22 Jul 2026"
+    },
+    {
+      "id": "600532bcfe",
+      "title": "Lipids in ovarian cancer ascites impair T cell activation by disrupting TCR dynamics",
+      "link": "https://www.nature.com/articles/s42255-026-01557-1",
+      "journal": "Nature Metabolism",
+      "category": "Original Article",
+      "authors": "Erica G. Brown, Ewoud B. Compeer, Zhiyang Gan, Andre R. Kelly, Alexander A. Shestov, Laura Córdoba-Espejo, Mitchell T. Evans, Alan Y. Liu, Noelle H. Naughton, Tanay S. Parnaik…",
+      "summary": "Nature Metabolism, Published online: 22 July 2026; doi:10.1038/s42255-026-01557-1 This study demonstrates that lipids in ascites impair T cell activation through disrupting TCR dynamics, which has translational implications for adoptive T cell therapies.",
+      "date": "2026-07-22T00:00:00Z",
+      "date_display": "22 Jul 2026"
+    },
+    {
+      "id": "28550a9ee6",
+      "title": "Tissue Context Shapes Distinct Premalignant Outcomes in an HPV16 E6/E7-Mutant Pik3ca Transgenic Mouse Model",
+      "link": "https://aacrjournals.org/cancerrescommun/article/6/7/1750/786962/Tissue-Context-Shapes-Distinct-Premalignant",
+      "journal": "Cancer Research",
+      "category": "Original Article",
+      "authors": "Marina Ayre, Gonzalo Fernandez-Ugazio, Anabel V. DiGaudio, Omar Adrián Coso, J. Silvio Gutkind, Ana Rosa Raimondi",
+      "summary": "Abstract High-risk human papillomavirus (HPV) infection, particularly HPV16, is a major etiologic factor associated with multiple human cancers, including anal, cervical, and oropharyngeal carcinomas. However, the mechanisms underlying tissue-specific responses to HPV oncogene expression remain poorly understood. In…",
+      "date": "2026-07-22T00:00:00Z",
+      "date_display": "22 Jul 2026"
+    },
+    {
+      "id": "5c1dd10826",
+      "title": "A lymphatic circuit that sustains antitumour immune surveillance",
+      "link": "https://www.nature.com/articles/s41577-026-01342-x",
+      "journal": "Nature Reviews Immunology",
+      "category": "Review Article",
+      "authors": "Sandhya Yadav, Dmitriy Zamarin",
+      "summary": "Nature Reviews Immunology, Published online: 22 July 2026; doi:10.1038/s41577-026-01342-x A preprint by Delclaux et al. reports that dendritic cells recirculate tumour antigen to the draining lymph nodes to re-engage tumour-egressed T cells and sustain the antitumour response.",
+      "date": "2026-07-22T00:00:00Z",
+      "date_display": "22 Jul 2026"
+    },
     {
       "id": "2076a97c08",
       "title": "Dalpiciclib plus endocrine therapy in women with HR + /HER2 − advanced breast cancer and visceral crisis: a multicenter, nonrandomized, phase 2 DARVIN trial",
@@ -361,28 +405,6 @@
       "category": "Original Article",
       "authors": "",
       "summary": "Nature Metabolism, Published online: 14 July 2026; doi:10.1038/s42255-026-01548-2 We reconstruct metabolic dysfunction-associated steatotic liver disease (MASLD) as a continuous molecular trajectory, revealing dynamic regulatory programmes underlying disease progression. By integrating transcriptomics, network…",
-      "date": "2026-07-14T00:00:00Z",
-      "date_display": "14 Jul 2026"
-    },
-    {
-      "id": "f1a9c68b28",
-      "title": "Macrophage-derived itaconate is a negative regulator of adipose tissue thermogenesis",
-      "link": "https://www.nature.com/articles/s42255-026-01572-2",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "Jiayin Tang, Gerard Pernes, Brenda Nakagaki, Nhien Tran, Laura Bokor, Fran Prenen, Mingyang Yi, Avery E. Robertson, Rachel Cronin, Mohamad Sarmini, Jacob Pierscianowski, Victoria…",
-      "summary": "Nature Metabolism, Published online: 14 July 2026; doi:10.1038/s42255-026-01572-2 Tang et al. reveal that macrophage-derived itaconate acts as a paracrine inhibitor of adipose tissue thermogenesis by blocking succinate uptake into brown adipose tissue.",
-      "date": "2026-07-14T00:00:00Z",
-      "date_display": "14 Jul 2026"
-    },
-    {
-      "id": "8a269dcf45",
-      "title": "A data-driven framework reconstructs the molecular continuum of human MASLD progression",
-      "link": "https://www.nature.com/articles/s42255-026-01543-7",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "Ioannis Kamzolas, Thodoris Koutsandreas, Charlie George Barker, Anna Vathrakokoili Pournara, Harry Weston, Naoto Fujiwara, Yujin Hoshida, Quentin M. Anstee, Michele Vacca, Irene…",
-      "summary": "Nature Metabolism, Published online: 14 July 2026; doi:10.1038/s42255-026-01543-7 A trajectory-based molecular framework reveals coordinated temporal shifts in metabolic, inflammatory and fibrogenic mechanisms across the human MASLD spectrum.",
       "date": "2026-07-14T00:00:00Z",
       "date_display": "14 Jul 2026"
     },
@@ -871,17 +893,6 @@
       "date_display": "2 Jul 2026"
     },
     {
-      "id": "8d1f92c03a",
-      "title": "A guide to CAR T cell therapies: development, current status and future prospects",
-      "link": "https://www.nature.com/articles/s41577-026-01322-1",
-      "journal": "Nature Reviews Immunology",
-      "category": "Review Article",
-      "authors": "Hind Rafei, Ranjan Upadhyay, Padmanee Sharma",
-      "summary": "Nature Reviews Immunology, Published online: 02 July 2026; doi:10.1038/s41577-026-01322-1 This Review traces the development of chimeric antigen receptor (CAR) T cell therapy from foundational immunology to approved products, highlighting clinical successes, engineering advances, safety strategies and ongoing…",
-      "date": "2026-07-02T00:00:00Z",
-      "date_display": "2 Jul 2026"
-    },
-    {
       "id": "521b5bc3d6",
       "title": "Escaping the trap",
       "link": "https://www.nature.com/articles/s41568-026-00957-5",
@@ -953,7 +964,7 @@
       "link": "https://aacrjournals.org/cancerpreventionresearch/article/19/7/391/785936/Safety-and-Efficacy-of-Eflornithine-in-Patients",
       "journal": "Cancer Immunology Research",
       "category": "Original Article",
-      "authors": "",
+      "authors": "Douglas R. Morgan, Ricardo L. Dominguez, Dalton A. Norwood, Eleazar E. Montalvan-Sanchez, M. Blanca Piazuelo, Aida Rodriguez-Murillo, Alberto G. Delgado, Jessica…",
       "summary": "Abstract Gastric adenocarcinoma is the fifth leading cause of global cancer mortality and a major health disparity in the United States. Effective chemoprevention strategies are limited for high-risk individuals with gastric premalignant conditions (GPMC). We conducted an NCI Division of Cancer Prevention–funded…",
       "date": "2026-07-01T00:00:00Z",
       "date_display": "1 Jul 2026"
@@ -1309,17 +1320,6 @@
       "summary": "I am a biologist with training in Genetics and Molecular and Cellular Biology, but my path has always been guided by a deep interest in immunology and in understanding how life experiences shape our biology. During my PhD, including a period at Harvard Medical School (McLean Hospital), I began investigating how…",
       "date": "2026-06-17T00:00:00Z",
       "date_display": "17 Jun 2026"
-    },
-    {
-      "id": "1f2cc7b43b",
-      "title": "FGF21 reduces ER stress by enhancing the unfolded protein and integrated stress responses through increased sulfide signaling",
-      "link": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00221-4?rss=yes",
-      "journal": "Cell Metabolism",
-      "category": "Original Article",
-      "authors": "Gerald Grandl, Ann-Christine König, Fabian Metzger, Arkadiusz Liskiewicz, Tanja Hefele, Shelly Nason, Aaron Novikoff, Nada Al-Refaie, Md Abdur Rahman, Ahmed Khalil, Qian Zhang…",
-      "summary": "Grandl et al. reveal a novel physiological role of FGF21 as a hormone of protein folding stress. They show that FGF21 enhances but does not initiate the unfolded protein response and integrated stress response via increased enzymatic sulfide production, thereby improving stress resilience and reducing ER stress.",
-      "date": "2026-06-16T00:00:00Z",
-      "date_display": "16 Jun 2026"
     }
   ]
 }
