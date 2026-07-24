@@ -1,27 +1,38 @@
 {
-  "updated": "2026-07-23T08:08:21Z",
+  "updated": "2026-07-24T08:04:10Z",
   "papers": [
     {
-      "id": "42058d2c56",
-      "title": "Ascites-derived lipid barrier at the T cell synapse",
-      "link": "https://www.nature.com/articles/s42255-026-01564-2",
-      "journal": "Nature Metabolism",
+      "id": "e27a03d4fc",
+      "title": "Industrial-scale mRNA expertise meets a century of tuberculosis immunology",
+      "link": "https://www.nature.com/articles/s41590-026-02600-9",
+      "journal": "Nature Immunology",
       "category": "Original Article",
-      "authors": "Teresa Manzo",
-      "summary": "Nature Metabolism, Published online: 22 July 2026; doi:10.1038/s42255-026-01564-2 Ovarian cancer ascites can blunt T cell attack, but the earliest steps affected have remained unclear. In this issue of Nature Metabolism, Brown et al. show that ascites-derived lipids disrupt T cell receptor organization and early…",
-      "date": "2026-07-22T00:00:00Z",
-      "date_display": "22 Jul 2026"
+      "authors": "Galit Alter",
+      "summary": "Nature Immunology, Published online: 23 July 2026; doi:10.1038/s41590-026-02600-9 A protective tuberculosis vaccine is needed. Two mRNA vaccines against Mycobacterium tuberculosis infection exhibit robust immunogenicity and efficacy in rodents. Those same vaccines are currently in clinical trials.",
+      "date": "2026-07-23T00:00:00Z",
+      "date_display": "23 Jul 2026"
     },
     {
-      "id": "600532bcfe",
-      "title": "Lipids in ovarian cancer ascites impair T cell activation by disrupting TCR dynamics",
-      "link": "https://www.nature.com/articles/s42255-026-01557-1",
-      "journal": "Nature Metabolism",
+      "id": "daf2cc9759",
+      "title": "Comprehensive Profiling of Cell Surface Proteins in Testicular Germ Cell Tumors",
+      "link": "https://aacrjournals.org/cancerrescommun/article/6/7/1762/786992/Comprehensive-Profiling-of-Cell-Surface-Proteins",
+      "journal": "Cancer Research",
       "category": "Original Article",
-      "authors": "Erica G. Brown, Ewoud B. Compeer, Zhiyang Gan, Andre R. Kelly, Alexander A. Shestov, Laura Córdoba-Espejo, Mitchell T. Evans, Alan Y. Liu, Noelle H. Naughton, Tanay S. Parnaik…",
-      "summary": "Nature Metabolism, Published online: 22 July 2026; doi:10.1038/s42255-026-01557-1 This study demonstrates that lipids in ascites impair T cell activation through disrupting TCR dynamics, which has translational implications for adoptive T cell therapies.",
-      "date": "2026-07-22T00:00:00Z",
-      "date_display": "22 Jul 2026"
+      "authors": "",
+      "summary": "Abstract To characterize clinically actionable cell surface proteins in testicular germ cell tumors (GCT), we retrospectively analyzed archival formalin-fixed, paraffin-embedded orchiectomy specimens from 30 patients, including 11 with pure seminoma and 19 with mixed GCTs. Immunohistochemistry was performed for 21…",
+      "date": "2026-07-23T00:00:00Z",
+      "date_display": "23 Jul 2026"
+    },
+    {
+      "id": "b30db0d1a5",
+      "title": "How Big Data and AI are revolutionizing human immunology",
+      "link": "https://www.nature.com/articles/s41577-026-01340-z",
+      "journal": "Nature Reviews Immunology",
+      "category": "Review Article",
+      "authors": "Sarah A. Teichmann",
+      "summary": "Nature Reviews Immunology, Published online: 23 July 2026; doi:10.1038/s41577-026-01340-z Understanding human biology in health and disease has entered a new era, one defined not just by better tools but by a fundamental shift in how biological knowledge is generated.",
+      "date": "2026-07-23T00:00:00Z",
+      "date_display": "23 Jul 2026"
     },
     {
       "id": "28550a9ee6",
@@ -64,17 +75,6 @@
       "category": "Original Article",
       "authors": "Grozdan Cvijetic, Valentina Ottaviani, Isabella O. Conway, Erfan Jabari, Mladen Mitrovic, Haiting Wang, Patrick Fernandes Rodrigues, Anastasia du Halgouet, Siqi Zhao, Harrison C…",
       "summary": "Nature Immunology, Published online: 21 July 2026; doi:10.1038/s41590-026-02599-z Cvijetic et al. show Notch2 deficiency leads to altered populations of CD11c+ dendritic cells, including loss of ESAM+ cDC2a and an increase in inflammatory AXL+ DC3s, which sense and respond to gut dysbiosis, promoting autoantibody…",
-      "date": "2026-07-21T00:00:00Z",
-      "date_display": "21 Jul 2026"
-    },
-    {
-      "id": "c14b264cbd",
-      "title": "The impact of microbial metabolites on host chromatin and epigenetic regulation",
-      "link": "https://www.nature.com/articles/s42255-026-01577-x",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "Tohfa Kabir, Zoe K. Lawler, Leah A. Gates",
-      "summary": "Nature Metabolism, Published online: 21 July 2026; doi:10.1038/s42255-026-01577-x This Perspective describes the emerging roles of microbiota-derived metabolites in influencing host chromatin and thereby gene regulation and host physiology.",
       "date": "2026-07-21T00:00:00Z",
       "date_display": "21 Jul 2026"
     },
@@ -255,28 +255,6 @@
       "date_display": "16 Jul 2026"
     },
     {
-      "id": "95448d9e5c",
-      "title": "Endocrine-like regulation through brown fat-secreted microRNAs",
-      "link": "https://www.nature.com/articles/s42255-026-01570-4",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "",
-      "summary": "Nature Metabolism, Published online: 16 July 2026; doi:10.1038/s42255-026-01570-4 In vivo, 4-thiouracil-based, tissue-specific microRNA labelling highlights the endocrine role of brown adipose tissue-derived microRNAs that are taken up by and regulate metabolic function in peripheral tissues such as muscle, liver and…",
-      "date": "2026-07-16T00:00:00Z",
-      "date_display": "16 Jul 2026"
-    },
-    {
-      "id": "b709611807",
-      "title": "Brown fat-specific RNA labelling reveals a network of inter-organ communication by secreted microRNAs",
-      "link": "https://www.nature.com/articles/s42255-026-01558-0",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "Marsel Lino, Gabriel Palermo-Ruiz, Vissarion Efthymiou, Alice Rodrigues, Shraddha Bhonsle, Allah Nawaz, Anindya Ghosh, Bruna Brasil Brandão, Yoshiyuki Watanabe, Rafael Barrera…",
-      "summary": "Nature Metabolism, Published online: 16 July 2026; doi:10.1038/s42255-026-01558-0 This study uses in vivo, 4TU-based, tissue-specific miRNA labelling to highlight the endocrine role of BAT-derived miRNAs that are taken up by tissues like the muscle, liver and hypothalamus, and demonstrates their role in regulating…",
-      "date": "2026-07-16T00:00:00Z",
-      "date_display": "16 Jul 2026"
-    },
-    {
       "id": "07573e8e8f",
       "title": "BRAF Inhibition–Associated Nuclear Remodeling is Linked to Cancer-Associated Fibroblast Activation",
       "link": "https://aacrjournals.org/cancerrescommun/article/6/7/1693/786601/BRAF-Inhibition-Associated-Nuclear-Remodeling-is",
@@ -374,39 +352,6 @@
       "summary": "Nature Reviews Cancer, Published online: 15 July 2026; doi:10.1038/s41568-026-00963-7 Glioblastoma exhibits sex-specific differences in disease progression, incidence and immune regulation. Now, Pathak et al. identify GABA (γ-aminobutyric acid) as a key driver of granulocytic myeloid-derived suppressor cell-mediated…",
       "date": "2026-07-15T00:00:00Z",
       "date_display": "15 Jul 2026"
-    },
-    {
-      "id": "cc9ec9d626",
-      "title": "Author Correction: SLC6A6 imports taurine into mitochondria to sustain mitochondrial translation and tumour growth",
-      "link": "https://www.nature.com/articles/s42255-026-01585-x",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "Liucheng Li, Jianwei You, Zi-Qing Chai, Xueshan Li, Xinlei Cai, Lin Wang, Fang Yang, Lingzhi Zhu, Wen Mi, Xinyi Xia, Haohang Yan, Fei Li, Juan Wang, Tong-Jin Zhao, Ligong Chen…",
-      "summary": "Nature Metabolism, Published online: 14 July 2026; doi:10.1038/s42255-026-01585-x Author Correction: SLC6A6 imports taurine into mitochondria to sustain mitochondrial translation and tumour growth",
-      "date": "2026-07-14T00:00:00Z",
-      "date_display": "14 Jul 2026"
-    },
-    {
-      "id": "4581fe872d",
-      "title": "Itaconate as a paracrine brake on thermogenesis",
-      "link": "https://www.nature.com/articles/s42255-026-01573-1",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "Lei-Lei Chen, Dan Ye",
-      "summary": "Nature Metabolism, Published online: 14 July 2026; doi:10.1038/s42255-026-01573-1 Thermogenesis must be precisely controlled to avoid wasting energy. In this issue of Nature Metabolism, Tang et al. reveal that macrophage-derived itaconate acts as a paracrine metabolic brake that blocks MCT1-dependent succinate uptake…",
-      "date": "2026-07-14T00:00:00Z",
-      "date_display": "14 Jul 2026"
-    },
-    {
-      "id": "794e59222b",
-      "title": "Decoding MASLD progression beyond histological stages",
-      "link": "https://www.nature.com/articles/s42255-026-01548-2",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "",
-      "summary": "Nature Metabolism, Published online: 14 July 2026; doi:10.1038/s42255-026-01548-2 We reconstruct metabolic dysfunction-associated steatotic liver disease (MASLD) as a continuous molecular trajectory, revealing dynamic regulatory programmes underlying disease progression. By integrating transcriptomics, network…",
-      "date": "2026-07-14T00:00:00Z",
-      "date_display": "14 Jul 2026"
     },
     {
       "id": "f7488454cf",
@@ -629,17 +574,6 @@
       "date_display": "9 Jul 2026"
     },
     {
-      "id": "07c6aaaa3d",
-      "title": "Author Correction: Shaping neutrophil morphology and function: the importance of a segmented nucleus",
-      "link": "https://www.nature.com/articles/s41577-026-01339-6",
-      "journal": "Nature Reviews Immunology",
-      "category": "Review Article",
-      "authors": "Erinke van Grinsven, Ananda Kishore Mukherjee, Irina A. Udalova",
-      "summary": "Nature Reviews Immunology, Published online: 09 July 2026; doi:10.1038/s41577-026-01339-6 Author Correction: Shaping neutrophil morphology and function: the importance of a segmented nucleus",
-      "date": "2026-07-09T00:00:00Z",
-      "date_display": "9 Jul 2026"
-    },
-    {
       "id": "fde7cfdbcc",
       "title": "ALOX15 orchestrates mitochondrial antiviral immunity and serves as a host target for anti-influenza therapy",
       "link": "https://www.nature.com/articles/s41590-026-02584-6",
@@ -660,17 +594,6 @@
       "summary": "Abstract Recent studies of the tumor microenvironment (TME) have elucidated the heterogeneity of stromal cells, with increasing evidence suggesting that stromal subsets play an important role in regulating antitumor immunity in breast cancer. However, the functional diversity of these cells within the tumor-immune…",
       "date": "2026-07-08T00:00:00Z",
       "date_display": "8 Jul 2026"
-    },
-    {
-      "id": "8ca884683b",
-      "title": "Tissue-resident CD8 + T cells link pregnancy to breast cancer protection",
-      "link": "https://www.nature.com/articles/s41590-026-02580-w",
-      "journal": "Nature Immunology",
-      "category": "Original Article",
-      "authors": "",
-      "summary": "Nature Immunology, Published online: 07 July 2026; doi:10.1038/s41590-026-02580-w We discovered that pregnancy promotes the expansion of tissue-resident memory-like CD8+ T (TRM-like) cells in the mammary gland. This expansion is driven by mammary gland alveologenesis and cytokines produced by mammary epithelial cells…",
-      "date": "2026-07-07T00:00:00Z",
-      "date_display": "7 Jul 2026"
     },
     {
       "id": "5c51b2cda0",
@@ -1320,6 +1243,83 @@
       "summary": "I am a biologist with training in Genetics and Molecular and Cellular Biology, but my path has always been guided by a deep interest in immunology and in understanding how life experiences shape our biology. During my PhD, including a period at Harvard Medical School (McLean Hospital), I began investigating how…",
       "date": "2026-06-17T00:00:00Z",
       "date_display": "17 Jun 2026"
+    },
+    {
+      "id": "1f2cc7b43b",
+      "title": "FGF21 reduces ER stress by enhancing the unfolded protein and integrated stress responses through increased sulfide signaling",
+      "link": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00221-4?rss=yes",
+      "journal": "Cell Metabolism",
+      "category": "Original Article",
+      "authors": "Gerald Grandl, Ann-Christine König, Fabian Metzger, Arkadiusz Liskiewicz, Tanja Hefele, Shelly Nason, Aaron Novikoff, Nada Al-Refaie, Md Abdur Rahman, Ahmed Khalil, Qian Zhang…",
+      "summary": "Grandl et al. reveal a novel physiological role of FGF21 as a hormone of protein folding stress. They show that FGF21 enhances but does not initiate the unfolded protein response and integrated stress response via increased enzymatic sulfide production, thereby improving stress resilience and reducing ER stress.",
+      "date": "2026-06-16T00:00:00Z",
+      "date_display": "16 Jun 2026"
+    },
+    {
+      "id": "6259edb16d",
+      "title": "Context-dependent androgen control of T cell immunity",
+      "link": "https://www.cell.com/trends/immunology/fulltext/S1471-4906(26)00156-0?rss=yes",
+      "journal": "Trends in Immunology",
+      "category": "Review Article",
+      "authors": "Jianhua Xiong",
+      "summary": "While androgen deprivation is widely used in urological oncology to restrain tumor growth and prevent T cell exhaustion, Lee et al. reveal a striking reversal in glioblastoma. In glioblastoma, androgen loss triggers microglial cytokines, activates the hypothalamic–pituitary–adrenal axis, and induces…",
+      "date": "2026-06-16T00:00:00Z",
+      "date_display": "16 Jun 2026"
+    },
+    {
+      "id": "c68b0bd8f6",
+      "title": "Neutrophil regulation of immunotherapy for cancer is controlled by type II interferon",
+      "link": "https://www.cell.com/immunity/fulltext/S1074-7613(26)00225-6?rss=yes",
+      "journal": "Immunity",
+      "category": "Original Article",
+      "authors": "Shengduo Pei, Yueyun Pan, Heng Liang, Li Lei, Qirong Lin, Jiarui Mi, Jeffrey V. Ravetch, Oliver Soehnlein, Mikael C.I. Karlsson",
+      "summary": "Neutrophils have the capacity to both support and block tumor growth depending on their polarization state. Here, Pei et al. find that IFN-γ produced during immunotherapy induces PD-L1 expression by neutrophils with an aged phenotype that drives therapy resistance; however, targeting this axis or deleting ifngr1 flips…",
+      "date": "2026-06-15T00:00:00Z",
+      "date_display": "15 Jun 2026"
+    },
+    {
+      "id": "b55b1c0b08",
+      "title": "Parental leave in immunology — 5",
+      "link": "https://www.cell.com/trends/immunology/fulltext/S1471-4906(26)00135-3?rss=yes",
+      "journal": "Trends in Immunology",
+      "category": "Review Article",
+      "authors": "Federica Facciotti",
+      "summary": "I am an immunologist with over 15 years of experience in translational biomedical research, specializing in T cell biology, autoimmune diseases, and gastrointestinal cancers. My work explores how immune cells maintain balance, drive inflammation, and regulate epithelial transformation, with a growing focus on…",
+      "date": "2026-06-12T00:00:00Z",
+      "date_display": "12 Jun 2026"
+    },
+    {
+      "id": "60f8d46adb",
+      "title": "Immunoediting restricts clonal neoantigens in primary, treatment-naive human tumors",
+      "link": "https://www.cell.com/immunity/fulltext/S1074-7613(26)00216-5?rss=yes",
+      "journal": "Immunity",
+      "category": "Original Article",
+      "authors": "Elizabeth S. Borden, David Castellano, Emily A. Kantzos, Alysia Hughes, Zachary Leibovit-Reiben, Alyssa Stockard, Anirudh Choudhary, Tao Ma, Xing Li, Aaron R. Mangold, Ryan N…",
+      "summary": "Borden et al. examine primary, treatment-naive squamous cell carcinoma (SCC) tumors to determine the impact of immunoediting. Comparison of SCC tumors from immunocompetent and immunosuppressed patients demonstrates immune-mediated sculpting of the tumor neoantigen profile, where immunogenic neoantigens are restricted…",
+      "date": "2026-06-11T00:00:00Z",
+      "date_display": "11 Jun 2026"
+    },
+    {
+      "id": "f74032d840",
+      "title": "STING unlocks CD4⁺ T cell immunity in pancreatic cancer",
+      "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00254-0?rss=yes",
+      "journal": "Cancer Cell",
+      "category": "Original Article",
+      "authors": "Bastian Kruse, Ben P. Leonhardt, Jan P. Böttcher",
+      "summary": "Pancreatic ductal adenocarcinomas (PDACs) are lethal cancers resistant to immunotherapies. In this issue of Cancer Cell, Kureshi et al. show that combining checkpoint blockade with STING-mediated innate immune stimulation unlocks cDC2-driven CD4+ T cell immunity in mice, promoting PDAC immune control. This cellular…",
+      "date": "2026-06-11T00:00:00Z",
+      "date_display": "11 Jun 2026"
+    },
+    {
+      "id": "bb29ac0cd1",
+      "title": "Attack of the clones: Tracing the dynamics of innate immune cells in human cancer",
+      "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00258-8?rss=yes",
+      "journal": "Cancer Cell",
+      "category": "Original Article",
+      "authors": "Amir Brivanlou, Nir Hacohen",
+      "summary": "In this issue of Cancer Cell, Liu et al. use mitochondrial DNA mutations to reconstruct clonal lineages of the innate immune compartment in human tumors. They show that intratumoral type 3 dendritic cells (DC3s) arise from circulating monocytes and that a monocyte’s fate in the tumor microenvironment is programmed…",
+      "date": "2026-06-11T00:00:00Z",
+      "date_display": "11 Jun 2026"
     }
   ]
 }
