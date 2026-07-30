@@ -1,6 +1,72 @@
 {
-  "updated": "2026-07-29T08:15:24Z",
+  "updated": "2026-07-30T08:04:11Z",
   "papers": [
+    {
+      "id": "a97d245767",
+      "title": "Retraction Note: Targeted activation of ferroptosis in colorectal cancer via LGR4 targeting overcomes acquired drug resistance",
+      "link": "https://www.nature.com/articles/s43018-026-01224-0",
+      "journal": "Nature Cancer",
+      "category": "Original Article",
+      "authors": "Hao Zheng, Jinming Liu, Qi Cheng, Qianping Zhang, Yaoyao Zhang, Lingyu Jiang, Yan Huang, Wenlei Li, Yanping Zhao, Guo Chen, Fan Yu, Lei Liu, Yanjun Li, Xudong Liao, Lai Xu, Yi…",
+      "summary": "Nature Cancer, Published online: 29 July 2026; doi:10.1038/s43018-026-01224-0 Retraction Note: Targeted activation of ferroptosis in colorectal cancer via LGR4 targeting overcomes acquired drug resistance",
+      "date": "2026-07-29T00:00:00Z",
+      "date_display": "29 Jul 2026"
+    },
+    {
+      "id": "5f14d5ca59",
+      "title": "Short-chain fatty acids",
+      "link": "https://www.nature.com/articles/s42255-026-01579-9",
+      "journal": "Nature Metabolism",
+      "category": "Original Article",
+      "authors": "Aygul Dagbasi, Mingzhu Cai, Aanya Hirdaramani, Aylin Hanyaloglu, Douglas J. Morrison, Gary Frost",
+      "summary": "Nature Metabolism, Published online: 29 July 2026; doi:10.1038/s42255-026-01579-9 This Review provides an overview of the biology of short-chain fatty acids, with a focus on their synthesis, signalling and physiological effects, highlighting their translational potential for metabolic and inflammatory diseases.",
+      "date": "2026-07-29T00:00:00Z",
+      "date_display": "29 Jul 2026"
+    },
+    {
+      "id": "e976210134",
+      "title": "Tumor cell-released autophagosome (TRAP) programs inflammatory CAFs to drive the immune-excluded TIME through C3a",
+      "link": "https://www.nature.com/articles/s41423-026-01452-5",
+      "journal": "Cellular and Molecular Immunology",
+      "category": "Original Article",
+      "authors": "Xuru Wang, Yiting Wei, Chengdong Wu, Xiaohe Zhou, Xiaotong Sun, Xiaoyue Du, Jinpeng Chen, Jing Chen, Wenqi Zhang, Xiangwei Bo, Yunpeng Zhang, Bo Shen, Shaodi Wen, Lixin Wang",
+      "summary": "Cellular & Molecular Immunology, Published online: 29 July 2026; doi:10.1038/s41423-026-01452-5 Tumor cell-released autophagosome (TRAP) programs inflammatory CAFs to drive the immune-excluded TIME through C3a",
+      "date": "2026-07-29T00:00:00Z",
+      "date_display": "29 Jul 2026"
+    },
+    {
+      "id": "8e47b984d7",
+      "title": "NLRC3 enhances antitumor immunity by specifically negatively regulating M-MDSCs in a STING-dependent manner",
+      "link": "https://www.nature.com/articles/s41423-026-01453-4",
+      "journal": "Cellular and Molecular Immunology",
+      "category": "Original Article",
+      "authors": "Yuling Fu, Xiaoxia Zhan, Shousheng Liu, Qinhan Xie, Shijie Song, Suwan Wu, Junli Sheng, Huiru He, Xiaolong You, Qiao Ling, Xiaodan Yang, Zulaya Abudureyimu, Wenhao Lu, Wen Li, Jia…",
+      "summary": "Cellular & Molecular Immunology, Published online: 29 July 2026; doi:10.1038/s41423-026-01453-4 NLRC3 enhances antitumor immunity by specifically negatively regulating M-MDSCs in a STING-dependent manner",
+      "date": "2026-07-29T00:00:00Z",
+      "date_display": "29 Jul 2026"
+    },
+    {
+      "id": "a6bff10e07",
+      "title": "Clinical Validation of Tissue and Liquid Companion Diagnostics for BRAF V600E Detection in Non–Small Cell Lung Cancers from the PHAROS Study",
+      "link": "https://aacrjournals.org/cancerrescommun/article/6/7/1814/787172/Clinical-Validation-of-Tissue-and-Liquid-Companion",
+      "journal": "Cancer Research",
+      "category": "Original Article",
+      "authors": "",
+      "summary": "Abstract The detection of biomarkers in blood or tumor tissue samples may affect the efficacy of targeted therapy in patients with non–small cell lung cancer (NSCLC). The FoundationOne Liquid CDx (F1LCDx) and tissue FoundationOne CDx (F1CDx) companion diagnostic tests were approved by the US Food and Drug…",
+      "date": "2026-07-29T00:00:00Z",
+      "date_display": "29 Jul 2026"
+    },
+    {
+      "id": "9b14bc8fe2",
+      "title": "Iron-ing out ferroptosis-mediated T cell dysfunction in cancer",
+      "link": "https://www.nature.com/articles/s43018-026-01204-4",
+      "journal": "Nature Cancer",
+      "category": "Original Article",
+      "authors": "Emily B. Derrick, Paul A. Beavis",
+      "summary": "Nature Cancer, Published online: 28 July 2026; doi:10.1038/s43018-026-01204-4 T cell dysfunction restrains the efficacy of immune checkpoint blockade and CAR-T cell-based cancer therapies. Iron-mediated ferroptosis is now shown to contribute to the dysfunction of endogenous T cells and CAR-T cells, suggesting that…",
+      "date": "2026-07-28T00:00:00Z",
+      "date_display": "28 Jul 2026"
+    },
     {
       "id": "49884c12b2",
       "title": "Iron cleaves GSDMD",
@@ -79,6 +145,28 @@
       "date_display": "28 Jul 2026"
     },
     {
+      "id": "11533ae78e",
+      "title": "Microbial catalysts unlock vitamin bioproduction",
+      "link": "https://www.nature.com/articles/s42255-026-01584-y",
+      "journal": "Nature Metabolism",
+      "category": "Original Article",
+      "authors": "Alejandro I. Ramirez, Lukas Ernst, Jay D. Keasling",
+      "summary": "Nature Metabolism, Published online: 27 July 2026; doi:10.1038/s42255-026-01584-y The sustainable production of vitamin E in microbial cell factories has been restricted to tocotrienol derivatives. In this issue of Nature Metabolism, Zhang, Li and Cao et al. leverage non-classical enzymatic catalysts that are…",
+      "date": "2026-07-27T00:00:00Z",
+      "date_display": "27 Jul 2026"
+    },
+    {
+      "id": "5f3129109b",
+      "title": "A non-classical biosynthetic route enables tocopherol synthesis in bacteria",
+      "link": "https://www.nature.com/articles/s42255-026-01576-y",
+      "journal": "Nature Metabolism",
+      "category": "Original Article",
+      "authors": "Yang Zhang, Zhizhen Li, Lichuang Cao, Yan Wang, Junyi Wang, Haofeng Chen, Wenhao Li, Xinyu Gao, Qingchen Li, Zhengxin Chen, Kaixuan Xu, Xiangpeng Yang, Xiangrui Wu, Jintao Luo…",
+      "summary": "Nature Metabolism, Published online: 27 July 2026; doi:10.1038/s42255-026-01576-y The study reports a non-classical tocopherol pathway in Rhodobacter that enables heterologous α-tocopherol synthesis by bypassing DMPBQ via a γ/β-tocopherol methyltransferase.",
+      "date": "2026-07-27T00:00:00Z",
+      "date_display": "27 Jul 2026"
+    },
+    {
       "id": "69cf568884",
       "title": "Schlafen 11 Is Overexpressed in Multiple Myeloma and Undergoes Nucleolar Translocation in Response to Bortezomib",
       "link": "https://aacrjournals.org/cancerrescommun/article/6/7/1777/787086/Schlafen-11-Is-Overexpressed-in-Multiple-Myeloma",
@@ -134,6 +222,17 @@
       "date_display": "24 Jul 2026"
     },
     {
+      "id": "dff0efdf76",
+      "title": "Distinct brain regions mediate regulation of food intake in response to GIPR agonism or antagonism",
+      "link": "https://www.nature.com/articles/s42255-026-01575-z",
+      "journal": "Nature Metabolism",
+      "category": "Original Article",
+      "authors": "Jo Edward Lewis, Mireia Montaner, Danae Nuzzaci, Paula-Peace James-Okoro, Norio Harada, Nobuya Inagaki, W. Scott Dodson, Patrick J. Knerr, Jonathan D. Douros, Fiona Mary Gribble…",
+      "summary": "Nature Metabolism, Published online: 24 July 2026; doi:10.1038/s42255-026-01575-z The study employs region-specific knockout of the glucose-dependent insulinotropic polypeptide receptor (GIPR) in either the area postrema or hypothalamus of mice to determine how GIPR agonism and antagonism regulate food intake and body…",
+      "date": "2026-07-24T00:00:00Z",
+      "date_display": "24 Jul 2026"
+    },
+    {
       "id": "71d89d407a",
       "title": "Association of Cumulative Proton Pump Inhibitor Use with Prostate Cancer Risk and Outcomes: A Population-Based Cohort Study",
       "link": "https://aacrjournals.org/cancerrescommun/article/6/7/1769/786991/Association-of-Cumulative-Proton-Pump-Inhibitor",
@@ -152,6 +251,17 @@
       "category": "Original Article",
       "authors": "Galit Alter",
       "summary": "Nature Immunology, Published online: 23 July 2026; doi:10.1038/s41590-026-02600-9 A protective tuberculosis vaccine is needed. Two mRNA vaccines against Mycobacterium tuberculosis infection exhibit robust immunogenicity and efficacy in rodents. Those same vaccines are currently in clinical trials.",
+      "date": "2026-07-23T00:00:00Z",
+      "date_display": "23 Jul 2026"
+    },
+    {
+      "id": "d1ccef5e96",
+      "title": "Mitochondrial metabolism determines chemotherapy sensitivity in colorectal cancer",
+      "link": "https://www.nature.com/articles/s42255-026-01578-w",
+      "journal": "Nature Metabolism",
+      "category": "Original Article",
+      "authors": "Deborah Y. Moss, Connor N. Brown, Andrew M. Shaw, Christopher McCann, Nikita Lewis, Matilda Downs, Rebecca Wurelly, Ciara Cunningham, Aaron Philips, Niamh Doherty, Sarah…",
+      "summary": "Nature Metabolism, Published online: 23 July 2026; doi:10.1038/s42255-026-01578-w Mitochondrial oxidative metabolism is found to strongly affect the response of colorectal cancer (CRC) cells to the chemotherapeutic drug 5-fluorouracil (5FU). Targeting mitochondrial metabolism sensitizes CRC cells to 5FU.",
       "date": "2026-07-23T00:00:00Z",
       "date_display": "23 Jul 2026"
     },
@@ -178,6 +288,28 @@
       "date_display": "23 Jul 2026"
     },
     {
+      "id": "42058d2c56",
+      "title": "Ascites-derived lipid barrier at the T cell synapse",
+      "link": "https://www.nature.com/articles/s42255-026-01564-2",
+      "journal": "Nature Metabolism",
+      "category": "Original Article",
+      "authors": "Teresa Manzo",
+      "summary": "Nature Metabolism, Published online: 22 July 2026; doi:10.1038/s42255-026-01564-2 Ovarian cancer ascites can blunt T cell attack, but the earliest steps affected have remained unclear. In this issue of Nature Metabolism, Brown et al. show that ascites-derived lipids disrupt T cell receptor organization and early…",
+      "date": "2026-07-22T00:00:00Z",
+      "date_display": "22 Jul 2026"
+    },
+    {
+      "id": "600532bcfe",
+      "title": "Lipids in ovarian cancer ascites impair T cell activation by disrupting TCR dynamics",
+      "link": "https://www.nature.com/articles/s42255-026-01557-1",
+      "journal": "Nature Metabolism",
+      "category": "Original Article",
+      "authors": "Erica G. Brown, Ewoud B. Compeer, Zhiyang Gan, Andre R. Kelly, Alexander A. Shestov, Laura Córdoba-Espejo, Mitchell T. Evans, Alan Y. Liu, Noelle H. Naughton, Tanay S. Parnaik…",
+      "summary": "Nature Metabolism, Published online: 22 July 2026; doi:10.1038/s42255-026-01557-1 This study demonstrates that lipids in ascites impair T cell activation through disrupting TCR dynamics, which has translational implications for adoptive T cell therapies.",
+      "date": "2026-07-22T00:00:00Z",
+      "date_display": "22 Jul 2026"
+    },
+    {
       "id": "28550a9ee6",
       "title": "Tissue Context Shapes Distinct Premalignant Outcomes in an HPV16 E6/E7-Mutant Pik3ca Transgenic Mouse Model",
       "link": "https://aacrjournals.org/cancerrescommun/article/6/7/1750/786962/Tissue-Context-Shapes-Distinct-Premalignant",
@@ -200,6 +332,17 @@
       "date_display": "22 Jul 2026"
     },
     {
+      "id": "2076a97c08",
+      "title": "Dalpiciclib plus endocrine therapy in women with HR + /HER2 − advanced breast cancer and visceral crisis: a multicenter, nonrandomized, phase 2 DARVIN trial",
+      "link": "https://www.nature.com/articles/s43018-026-01208-0",
+      "journal": "Nature Cancer",
+      "category": "Original Article",
+      "authors": "Hongnan Mo, Yuee Teng, Li Cai, Huihui Li, Xinhong Wu, Jing Yao, Yu Wang, Dan Lv, Xuenan Peng, Shuchun Wang, Rongrong Chen, Xin Yi, Qingyao Shang, Youwen He, Ji Liu, Zheng Pang…",
+      "summary": "Nature Cancer, Published online: 21 July 2026; doi:10.1038/s43018-026-01208-0 In this multicenter, nonrandomized, phase 2 trial, Ma and colleagues report the results of treatment with dalpiciclib plus endocrine therapy in persons with HR+/HER2− advanced breast cancer experiencing visceral crisis.",
+      "date": "2026-07-21T00:00:00Z",
+      "date_display": "21 Jul 2026"
+    },
+    {
       "id": "0197cdb912",
       "title": "Dysbiosis-induced expansion of AXL-positive inflammatory type 3 dendritic cells triggers preclinical autoimmunity",
       "link": "https://www.nature.com/articles/s41590-026-02599-z",
@@ -207,6 +350,17 @@
       "category": "Original Article",
       "authors": "Grozdan Cvijetic, Valentina Ottaviani, Isabella O. Conway, Erfan Jabari, Mladen Mitrovic, Haiting Wang, Patrick Fernandes Rodrigues, Anastasia du Halgouet, Siqi Zhao, Harrison C…",
       "summary": "Nature Immunology, Published online: 21 July 2026; doi:10.1038/s41590-026-02599-z Cvijetic et al. show Notch2 deficiency leads to altered populations of CD11c+ dendritic cells, including loss of ESAM+ cDC2a and an increase in inflammatory AXL+ DC3s, which sense and respond to gut dysbiosis, promoting autoantibody…",
+      "date": "2026-07-21T00:00:00Z",
+      "date_display": "21 Jul 2026"
+    },
+    {
+      "id": "c14b264cbd",
+      "title": "The impact of microbial metabolites on host chromatin and epigenetic regulation",
+      "link": "https://www.nature.com/articles/s42255-026-01577-x",
+      "journal": "Nature Metabolism",
+      "category": "Original Article",
+      "authors": "Tohfa Kabir, Zoe K. Lawler, Leah A. Gates",
+      "summary": "Nature Metabolism, Published online: 21 July 2026; doi:10.1038/s42255-026-01577-x This Perspective describes the emerging roles of microbiota-derived metabolites in influencing host chromatin and thereby gene regulation and host physiology.",
       "date": "2026-07-21T00:00:00Z",
       "date_display": "21 Jul 2026"
     },
@@ -288,6 +442,17 @@
       "date_display": "17 Jul 2026"
     },
     {
+      "id": "902a33679e",
+      "title": "Androgen loss contributes to neuroinflammation and promotes brain tumor growth",
+      "link": "https://www.nature.com/articles/s43018-026-01214-2",
+      "journal": "Nature Cancer",
+      "category": "Original Article",
+      "authors": "Heathcliff Dorado García",
+      "summary": "Nature Cancer, Published online: 17 July 2026; doi:10.1038/s43018-026-01214-2 Androgen loss contributes to neuroinflammation and promotes brain tumor growth",
+      "date": "2026-07-17T00:00:00Z",
+      "date_display": "17 Jul 2026"
+    },
+    {
       "id": "a2474d8b8f",
       "title": "Author Correction: DNA sensing and associated type 1 interferon signaling contributes to progression of radiation-induced liver injury",
       "link": "https://www.nature.com/articles/s41423-026-01449-0",
@@ -332,6 +497,28 @@
       "date_display": "17 Jul 2026"
     },
     {
+      "id": "8f4fc46e3f",
+      "title": "Leukemic and normal hematopoietic stemness is influenced by transposable elements",
+      "link": "https://www.nature.com/articles/s43018-026-01213-3",
+      "journal": "Nature Cancer",
+      "category": "Original Article",
+      "authors": "Ioanna Pavlaki",
+      "summary": "Nature Cancer, Published online: 16 July 2026; doi:10.1038/s43018-026-01213-3 Leukemic and normal hematopoietic stemness is influenced by transposable elements",
+      "date": "2026-07-16T00:00:00Z",
+      "date_display": "16 Jul 2026"
+    },
+    {
+      "id": "07a242dc8c",
+      "title": "Author Correction: Disrupting the phase separation of KAT8–IRF1 diminishes PD-L1 expression and promotes antitumor immunity",
+      "link": "https://www.nature.com/articles/s43018-026-01218-y",
+      "journal": "Nature Cancer",
+      "category": "Original Article",
+      "authors": "Yuanzhong Wu, Liwen Zhou, Yezi Zou, Yijun Zhang, Meifang Zhang, Liping Xu, Lisi Zheng, Wenting He, Kuai Yu, Ting Li, Xia Zhang, Zhenxuan Chen, Ruhua Zhang, Penghui Zhou, Nu Zhang…",
+      "summary": "Nature Cancer, Published online: 16 July 2026; doi:10.1038/s43018-026-01218-y Author Correction: Disrupting the phase separation of KAT8–IRF1 diminishes PD-L1 expression and promotes antitumor immunity",
+      "date": "2026-07-16T00:00:00Z",
+      "date_display": "16 Jul 2026"
+    },
+    {
       "id": "07573e8e8f",
       "title": "BRAF Inhibition–Associated Nuclear Remodeling is Linked to Cancer-Associated Fibroblast Activation",
       "link": "https://aacrjournals.org/cancerrescommun/article/6/7/1693/786601/BRAF-Inhibition-Associated-Nuclear-Remodeling-is",
@@ -352,6 +539,28 @@
       "summary": "Nature Reviews Immunology, Published online: 16 July 2026; doi:10.1038/s41577-026-01330-1 Interleukin-18 (IL-18) shapes tumour immunity through tightly regulated, context-dependent effects on T cells, NK cells and the tumour microenvironment. Emerging therapeutic strategies, including engineered cellular therapies and…",
       "date": "2026-07-16T00:00:00Z",
       "date_display": "16 Jul 2026"
+    },
+    {
+      "id": "7651c0c91f",
+      "title": "Mix-and-match engineering to modulate cytokine signaling",
+      "link": "https://www.nature.com/articles/s43018-026-01212-4",
+      "journal": "Nature Cancer",
+      "category": "Original Article",
+      "authors": "Heathcliff Dorado García",
+      "summary": "Nature Cancer, Published online: 15 July 2026; doi:10.1038/s43018-026-01212-4 Mix-and-match engineering to modulate cytokine signaling",
+      "date": "2026-07-15T00:00:00Z",
+      "date_display": "15 Jul 2026"
+    },
+    {
+      "id": "285227687e",
+      "title": "A polyadenylation enzyme rewires metabolism to fuel AML",
+      "link": "https://www.nature.com/articles/s43018-026-01180-9",
+      "journal": "Nature Cancer",
+      "category": "Original Article",
+      "authors": "Animesh Kar, Daniel Herranz",
+      "summary": "Nature Cancer, Published online: 15 July 2026; doi:10.1038/s43018-026-01180-9 mRNA polyadenylation is a tightly controlled process, but its role in cancer remains poorly understood. A study now shows that the RNA-modifying enzyme poly(A) polymerase α (PAPOLA) is crucial for acute myeloid leukemia generation and…",
+      "date": "2026-07-15T00:00:00Z",
+      "date_display": "15 Jul 2026"
     },
     {
       "id": "83ca5bd816",
@@ -684,17 +893,6 @@
       "date_display": "1 Jul 2026"
     },
     {
-      "id": "d2f5b50ccb",
-      "title": "Increasing Burden of Early-Onset Cancers: Disentangling the Contributions of Changes in Risk from Demographic Shifts",
-      "link": "https://aacrjournals.org/cancerrescommun/article/6/7/1539/786318/Increasing-Burden-of-Early-Onset-Cancers",
-      "journal": "Cancer Research",
-      "category": "Original Article",
-      "authors": "Axelle Braggion, Bernadette Wilhelmina Antonia van der Linden, Stefano Tancredi, Sabine Rohrmann, Stéphane Cullati, Arnaud Chiolero",
-      "summary": "Abstract The burden of early-onset cancers is increasing, attracting scientific and media attention. There is, however, a need to disentangle the contribution of changes in risk, that is, age-standardized rate, due to changes in carcinogenic exposure or detection practices, from the contribution of population growth…",
-      "date": "2026-07-01T00:00:00Z",
-      "date_display": "1 Jul 2026"
-    },
-    {
       "id": "9d7ad7c6a8",
       "title": "Sex-Based Differences in Circulating microRNA and Metabolite Signatures Associated with Physical Activity in Lynch Syndrome Carriers",
       "link": "https://aacrjournals.org/cancerpreventionresearch/article/19/7/415/785937/Sex-Based-Differences-in-Circulating-microRNA-and",
@@ -748,28 +946,6 @@
       "summary": "Abstract Chemoprevention for gastric cancer remains underdeveloped despite a well-defined premalignant window and a substantial burden in high-risk populations. Two phase IIa trials conducted in Puerto Rico and Honduras evaluated curcuminoids and eflornithine in patients with gastric premalignant conditions…",
       "date": "2026-07-01T00:00:00Z",
       "date_display": "1 Jul 2026"
-    },
-    {
-      "id": "ffdbb5bad9",
-      "title": "Itaconate induces noncanonical AIM2-dependent PANoptosis in sepsis",
-      "link": "https://www.nature.com/articles/s41423-026-01428-5",
-      "journal": "Cellular and Molecular Immunology",
-      "category": "Original Article",
-      "authors": "Hayeon Kim, SangJoon Lee",
-      "summary": "Cellular & Molecular Immunology, Published online: 25 June 2026; doi:10.1038/s41423-026-01428-5 Itaconate induces noncanonical AIM2-dependent PANoptosis in sepsis",
-      "date": "2026-06-25T00:00:00Z",
-      "date_display": "25 Jun 2026"
-    },
-    {
-      "id": "fe81859065",
-      "title": "USP9X trims STAT1 to curb oncostatin M activity and intestinal inflammation",
-      "link": "https://www.nature.com/articles/s41423-026-01445-4",
-      "journal": "Cellular and Molecular Immunology",
-      "category": "Original Article",
-      "authors": "Ahmed N. Hegazy",
-      "summary": "Cellular & Molecular Immunology, Published online: 25 June 2026; doi:10.1038/s41423-026-01445-4 USP9X trims STAT1 to curb oncostatin M activity and intestinal inflammation",
-      "date": "2026-06-25T00:00:00Z",
-      "date_display": "25 Jun 2026"
     }
   ]
 }
