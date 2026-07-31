@@ -1,6 +1,17 @@
 {
-  "updated": "2026-07-30T08:04:11Z",
+  "updated": "2026-07-31T08:29:31Z",
   "papers": [
+    {
+      "id": "6412c74c77",
+      "title": "An ear way to calm the airways",
+      "link": "https://www.nature.com/articles/s41577-026-01346-7",
+      "journal": "Nature Reviews Immunology",
+      "category": "Review Article",
+      "authors": "Yvonne Bordon",
+      "summary": "Nature Reviews Immunology, Published online: 30 July 2026; doi:10.1038/s41577-026-01346-7 Stimulating the auricular branch of the vagus nerve can suppress allergic airway inflammation in mice.",
+      "date": "2026-07-30T00:00:00Z",
+      "date_display": "30 Jul 2026"
+    },
     {
       "id": "a97d245767",
       "title": "Retraction Note: Targeted activation of ferroptosis in colorectal cancer via LGR4 targeting overcomes acquired drug resistance",
@@ -9,39 +20,6 @@
       "category": "Original Article",
       "authors": "Hao Zheng, Jinming Liu, Qi Cheng, Qianping Zhang, Yaoyao Zhang, Lingyu Jiang, Yan Huang, Wenlei Li, Yanping Zhao, Guo Chen, Fan Yu, Lei Liu, Yanjun Li, Xudong Liao, Lai Xu, Yi…",
       "summary": "Nature Cancer, Published online: 29 July 2026; doi:10.1038/s43018-026-01224-0 Retraction Note: Targeted activation of ferroptosis in colorectal cancer via LGR4 targeting overcomes acquired drug resistance",
-      "date": "2026-07-29T00:00:00Z",
-      "date_display": "29 Jul 2026"
-    },
-    {
-      "id": "5f14d5ca59",
-      "title": "Short-chain fatty acids",
-      "link": "https://www.nature.com/articles/s42255-026-01579-9",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "Aygul Dagbasi, Mingzhu Cai, Aanya Hirdaramani, Aylin Hanyaloglu, Douglas J. Morrison, Gary Frost",
-      "summary": "Nature Metabolism, Published online: 29 July 2026; doi:10.1038/s42255-026-01579-9 This Review provides an overview of the biology of short-chain fatty acids, with a focus on their synthesis, signalling and physiological effects, highlighting their translational potential for metabolic and inflammatory diseases.",
-      "date": "2026-07-29T00:00:00Z",
-      "date_display": "29 Jul 2026"
-    },
-    {
-      "id": "e976210134",
-      "title": "Tumor cell-released autophagosome (TRAP) programs inflammatory CAFs to drive the immune-excluded TIME through C3a",
-      "link": "https://www.nature.com/articles/s41423-026-01452-5",
-      "journal": "Cellular and Molecular Immunology",
-      "category": "Original Article",
-      "authors": "Xuru Wang, Yiting Wei, Chengdong Wu, Xiaohe Zhou, Xiaotong Sun, Xiaoyue Du, Jinpeng Chen, Jing Chen, Wenqi Zhang, Xiangwei Bo, Yunpeng Zhang, Bo Shen, Shaodi Wen, Lixin Wang",
-      "summary": "Cellular & Molecular Immunology, Published online: 29 July 2026; doi:10.1038/s41423-026-01452-5 Tumor cell-released autophagosome (TRAP) programs inflammatory CAFs to drive the immune-excluded TIME through C3a",
-      "date": "2026-07-29T00:00:00Z",
-      "date_display": "29 Jul 2026"
-    },
-    {
-      "id": "8e47b984d7",
-      "title": "NLRC3 enhances antitumor immunity by specifically negatively regulating M-MDSCs in a STING-dependent manner",
-      "link": "https://www.nature.com/articles/s41423-026-01453-4",
-      "journal": "Cellular and Molecular Immunology",
-      "category": "Original Article",
-      "authors": "Yuling Fu, Xiaoxia Zhan, Shousheng Liu, Qinhan Xie, Shijie Song, Suwan Wu, Junli Sheng, Huiru He, Xiaolong You, Qiao Ling, Xiaodan Yang, Zulaya Abudureyimu, Wenhao Lu, Wen Li, Jia…",
-      "summary": "Cellular & Molecular Immunology, Published online: 29 July 2026; doi:10.1038/s41423-026-01453-4 NLRC3 enhances antitumor immunity by specifically negatively regulating M-MDSCs in a STING-dependent manner",
       "date": "2026-07-29T00:00:00Z",
       "date_display": "29 Jul 2026"
     },
@@ -145,28 +123,6 @@
       "date_display": "28 Jul 2026"
     },
     {
-      "id": "11533ae78e",
-      "title": "Microbial catalysts unlock vitamin bioproduction",
-      "link": "https://www.nature.com/articles/s42255-026-01584-y",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "Alejandro I. Ramirez, Lukas Ernst, Jay D. Keasling",
-      "summary": "Nature Metabolism, Published online: 27 July 2026; doi:10.1038/s42255-026-01584-y The sustainable production of vitamin E in microbial cell factories has been restricted to tocotrienol derivatives. In this issue of Nature Metabolism, Zhang, Li and Cao et al. leverage non-classical enzymatic catalysts that are…",
-      "date": "2026-07-27T00:00:00Z",
-      "date_display": "27 Jul 2026"
-    },
-    {
-      "id": "5f3129109b",
-      "title": "A non-classical biosynthetic route enables tocopherol synthesis in bacteria",
-      "link": "https://www.nature.com/articles/s42255-026-01576-y",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "Yang Zhang, Zhizhen Li, Lichuang Cao, Yan Wang, Junyi Wang, Haofeng Chen, Wenhao Li, Xinyu Gao, Qingchen Li, Zhengxin Chen, Kaixuan Xu, Xiangpeng Yang, Xiangrui Wu, Jintao Luo…",
-      "summary": "Nature Metabolism, Published online: 27 July 2026; doi:10.1038/s42255-026-01576-y The study reports a non-classical tocopherol pathway in Rhodobacter that enables heterologous α-tocopherol synthesis by bypassing DMPBQ via a γ/β-tocopherol methyltransferase.",
-      "date": "2026-07-27T00:00:00Z",
-      "date_display": "27 Jul 2026"
-    },
-    {
       "id": "69cf568884",
       "title": "Schlafen 11 Is Overexpressed in Multiple Myeloma and Undergoes Nucleolar Translocation in Response to Bortezomib",
       "link": "https://aacrjournals.org/cancerrescommun/article/6/7/1777/787086/Schlafen-11-Is-Overexpressed-in-Multiple-Myeloma",
@@ -222,17 +178,6 @@
       "date_display": "24 Jul 2026"
     },
     {
-      "id": "dff0efdf76",
-      "title": "Distinct brain regions mediate regulation of food intake in response to GIPR agonism or antagonism",
-      "link": "https://www.nature.com/articles/s42255-026-01575-z",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "Jo Edward Lewis, Mireia Montaner, Danae Nuzzaci, Paula-Peace James-Okoro, Norio Harada, Nobuya Inagaki, W. Scott Dodson, Patrick J. Knerr, Jonathan D. Douros, Fiona Mary Gribble…",
-      "summary": "Nature Metabolism, Published online: 24 July 2026; doi:10.1038/s42255-026-01575-z The study employs region-specific knockout of the glucose-dependent insulinotropic polypeptide receptor (GIPR) in either the area postrema or hypothalamus of mice to determine how GIPR agonism and antagonism regulate food intake and body…",
-      "date": "2026-07-24T00:00:00Z",
-      "date_display": "24 Jul 2026"
-    },
-    {
       "id": "71d89d407a",
       "title": "Association of Cumulative Proton Pump Inhibitor Use with Prostate Cancer Risk and Outcomes: A Population-Based Cohort Study",
       "link": "https://aacrjournals.org/cancerrescommun/article/6/7/1769/786991/Association-of-Cumulative-Proton-Pump-Inhibitor",
@@ -251,17 +196,6 @@
       "category": "Original Article",
       "authors": "Galit Alter",
       "summary": "Nature Immunology, Published online: 23 July 2026; doi:10.1038/s41590-026-02600-9 A protective tuberculosis vaccine is needed. Two mRNA vaccines against Mycobacterium tuberculosis infection exhibit robust immunogenicity and efficacy in rodents. Those same vaccines are currently in clinical trials.",
-      "date": "2026-07-23T00:00:00Z",
-      "date_display": "23 Jul 2026"
-    },
-    {
-      "id": "d1ccef5e96",
-      "title": "Mitochondrial metabolism determines chemotherapy sensitivity in colorectal cancer",
-      "link": "https://www.nature.com/articles/s42255-026-01578-w",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "Deborah Y. Moss, Connor N. Brown, Andrew M. Shaw, Christopher McCann, Nikita Lewis, Matilda Downs, Rebecca Wurelly, Ciara Cunningham, Aaron Philips, Niamh Doherty, Sarah…",
-      "summary": "Nature Metabolism, Published online: 23 July 2026; doi:10.1038/s42255-026-01578-w Mitochondrial oxidative metabolism is found to strongly affect the response of colorectal cancer (CRC) cells to the chemotherapeutic drug 5-fluorouracil (5FU). Targeting mitochondrial metabolism sensitizes CRC cells to 5FU.",
       "date": "2026-07-23T00:00:00Z",
       "date_display": "23 Jul 2026"
     },
@@ -286,28 +220,6 @@
       "summary": "Nature Reviews Immunology, Published online: 23 July 2026; doi:10.1038/s41577-026-01340-z Understanding human biology in health and disease has entered a new era, one defined not just by better tools but by a fundamental shift in how biological knowledge is generated.",
       "date": "2026-07-23T00:00:00Z",
       "date_display": "23 Jul 2026"
-    },
-    {
-      "id": "42058d2c56",
-      "title": "Ascites-derived lipid barrier at the T cell synapse",
-      "link": "https://www.nature.com/articles/s42255-026-01564-2",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "Teresa Manzo",
-      "summary": "Nature Metabolism, Published online: 22 July 2026; doi:10.1038/s42255-026-01564-2 Ovarian cancer ascites can blunt T cell attack, but the earliest steps affected have remained unclear. In this issue of Nature Metabolism, Brown et al. show that ascites-derived lipids disrupt T cell receptor organization and early…",
-      "date": "2026-07-22T00:00:00Z",
-      "date_display": "22 Jul 2026"
-    },
-    {
-      "id": "600532bcfe",
-      "title": "Lipids in ovarian cancer ascites impair T cell activation by disrupting TCR dynamics",
-      "link": "https://www.nature.com/articles/s42255-026-01557-1",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "Erica G. Brown, Ewoud B. Compeer, Zhiyang Gan, Andre R. Kelly, Alexander A. Shestov, Laura Córdoba-Espejo, Mitchell T. Evans, Alan Y. Liu, Noelle H. Naughton, Tanay S. Parnaik…",
-      "summary": "Nature Metabolism, Published online: 22 July 2026; doi:10.1038/s42255-026-01557-1 This study demonstrates that lipids in ascites impair T cell activation through disrupting TCR dynamics, which has translational implications for adoptive T cell therapies.",
-      "date": "2026-07-22T00:00:00Z",
-      "date_display": "22 Jul 2026"
     },
     {
       "id": "28550a9ee6",
@@ -350,17 +262,6 @@
       "category": "Original Article",
       "authors": "Grozdan Cvijetic, Valentina Ottaviani, Isabella O. Conway, Erfan Jabari, Mladen Mitrovic, Haiting Wang, Patrick Fernandes Rodrigues, Anastasia du Halgouet, Siqi Zhao, Harrison C…",
       "summary": "Nature Immunology, Published online: 21 July 2026; doi:10.1038/s41590-026-02599-z Cvijetic et al. show Notch2 deficiency leads to altered populations of CD11c+ dendritic cells, including loss of ESAM+ cDC2a and an increase in inflammatory AXL+ DC3s, which sense and respond to gut dysbiosis, promoting autoantibody…",
-      "date": "2026-07-21T00:00:00Z",
-      "date_display": "21 Jul 2026"
-    },
-    {
-      "id": "c14b264cbd",
-      "title": "The impact of microbial metabolites on host chromatin and epigenetic regulation",
-      "link": "https://www.nature.com/articles/s42255-026-01577-x",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "Tohfa Kabir, Zoe K. Lawler, Leah A. Gates",
-      "summary": "Nature Metabolism, Published online: 21 July 2026; doi:10.1038/s42255-026-01577-x This Perspective describes the emerging roles of microbiota-derived metabolites in influencing host chromatin and thereby gene regulation and host physiology.",
       "date": "2026-07-21T00:00:00Z",
       "date_display": "21 Jul 2026"
     },
@@ -449,28 +350,6 @@
       "category": "Original Article",
       "authors": "Heathcliff Dorado García",
       "summary": "Nature Cancer, Published online: 17 July 2026; doi:10.1038/s43018-026-01214-2 Androgen loss contributes to neuroinflammation and promotes brain tumor growth",
-      "date": "2026-07-17T00:00:00Z",
-      "date_display": "17 Jul 2026"
-    },
-    {
-      "id": "a2474d8b8f",
-      "title": "Author Correction: DNA sensing and associated type 1 interferon signaling contributes to progression of radiation-induced liver injury",
-      "link": "https://www.nature.com/articles/s41423-026-01449-0",
-      "journal": "Cellular and Molecular Immunology",
-      "category": "Original Article",
-      "authors": "Shisuo Du, Genwen Chen, Baoying Yuan, Yong Hu, Ping Yang, Yixing Chen, Qianqian Zhao, Jian Zhou, Jia Fan, Zhaochong Zeng",
-      "summary": "Cellular & Molecular Immunology, Published online: 17 July 2026; doi:10.1038/s41423-026-01449-0 Author Correction: DNA sensing and associated type 1 interferon signaling contributes to progression of radiation-induced liver injury",
-      "date": "2026-07-17T00:00:00Z",
-      "date_display": "17 Jul 2026"
-    },
-    {
-      "id": "97662ed16b",
-      "title": "The Parkinson’s disease-linked G2019S mutation of LRRK2 increases NADPH oxidase-2 activity in neutrophils for superior control of bacterial infections",
-      "link": "https://www.nature.com/articles/s41423-026-01451-6",
-      "journal": "Cellular and Molecular Immunology",
-      "category": "Original Article",
-      "authors": "Kate Hurley, Rachel Kaul, Sahil Yadav, Dikchha Rijal, Leila Sam, Avni Bhan, Rayan El Hamra, Ardeshir Ariana, Adam Mahdi, Willem Brandt, Julianna J. Tomlinson, Michael G…",
-      "summary": "Cellular & Molecular Immunology, Published online: 17 July 2026; doi:10.1038/s41423-026-01451-6 The Parkinson’s disease-linked G2019S mutation of LRRK2 increases NADPH oxidase-2 activity in neutrophils for superior control of bacterial infections",
       "date": "2026-07-17T00:00:00Z",
       "date_display": "17 Jul 2026"
     },
@@ -618,28 +497,6 @@
       "date_display": "14 Jul 2026"
     },
     {
-      "id": "7098482368",
-      "title": "Unifying the hallmarks of major depression through neuroimmune–metabolic–oxidative (NIMETOX) dysregulation: a mechanistic systems framework",
-      "link": "https://www.nature.com/articles/s41423-026-01448-1",
-      "journal": "Cellular and Molecular Immunology",
-      "category": "Original Article",
-      "authors": "Michael Maes, Abbas F. Almulla, Drozdstoj Stoyanov, Yingqiang Zhang",
-      "summary": "Cellular & Molecular Immunology, Published online: 13 July 2026; doi:10.1038/s41423-026-01448-1 Unifying the hallmarks of major depression through neuroimmune–metabolic–oxidative (NIMETOX) dysregulation: a mechanistic systems framework",
-      "date": "2026-07-13T00:00:00Z",
-      "date_display": "13 Jul 2026"
-    },
-    {
-      "id": "a41298236e",
-      "title": "Macrophage CCRL2 promotes NLRP3 inflammasome activation to exacerbate atherosclerosis",
-      "link": "https://www.nature.com/articles/s41423-026-01450-7",
-      "journal": "Cellular and Molecular Immunology",
-      "category": "Original Article",
-      "authors": "Qian Cai, Zhen Duan, Zhongwei Yang, Yaxin Luo, Ming Liu, Chao Wu, Tianyao Wang, Yu Wang, Lingfeng Liang, Qing Liu, Jin Yu, Dan Meng, Chen Jiang, Rui He",
-      "summary": "Cellular & Molecular Immunology, Published online: 13 July 2026; doi:10.1038/s41423-026-01450-7 Macrophage CCRL2 promotes NLRP3 inflammasome activation to exacerbate atherosclerosis",
-      "date": "2026-07-13T00:00:00Z",
-      "date_display": "13 Jul 2026"
-    },
-    {
       "id": "e83a9e879f",
       "title": "Peptide-Reactive T-cell Response as a Novel Biomarker in Patients with Head and Neck Cancer Treated with Anti–PD-1 Antibody",
       "link": "https://aacrjournals.org/cancerrescommun/article/6/7/1656/786594/Peptide-Reactive-T-cell-Response-as-a-Novel",
@@ -691,17 +548,6 @@
       "category": "Original Article",
       "authors": "Margaret R. Smith-Oliver, Deepa Gautam, Grace C. Petrarca, Megan E. Sullivan, Emily M. Clarke, Giovanni Goggi, Milos Spasic, Natalie Kane, Jared Brown, Harvey G. Roweth, Joanna…",
       "summary": "Abstract Tumor-associated platelets (TAP), which are reprogrammed by tumor-derived signals to acquire immunosuppressive properties, represent an emerging mechanism of immune evasion in triple-negative breast cancer (TNBC). Although immune checkpoint inhibitors have shown promise, their efficacy is frequently limited…",
-      "date": "2026-07-10T00:00:00Z",
-      "date_display": "10 Jul 2026"
-    },
-    {
-      "id": "696550bd09",
-      "title": "Psychological stress in mice induces ageing-like HSC dysfunction through intestinal dysbiosis",
-      "link": "https://www.nature.com/articles/s41577-026-01336-9",
-      "journal": "Nature Reviews Immunology",
-      "category": "Review Article",
-      "authors": "Kirsty Minton",
-      "summary": "Nature Reviews Immunology, Published online: 10 July 2026; doi:10.1038/s41577-026-01336-9 A study by Tian et al. reports that psychological stress suppresses neuronal activity in brain regions that innervate the gut, leading to intestinal dysbiosis, reduced production of spermidine and ferroptotic stress of HSCs.",
       "date": "2026-07-10T00:00:00Z",
       "date_display": "10 Jul 2026"
     },
@@ -869,28 +715,6 @@
       "summary": "Nature Reviews Cancer, Published online: 02 July 2026; doi:10.1038/s41568-026-00951-x In this Review, Iacobucci and Mullighan discuss how advances in genomic, transcriptomic and epigenomic profiling of acute lymphoblastic leukaemia have revealed molecular heterogeneity, lineage plasticity and mechanisms of treatment…",
       "date": "2026-07-02T00:00:00Z",
       "date_display": "2 Jul 2026"
-    },
-    {
-      "id": "682c637c8c",
-      "title": "Targeting SPP1 requires moving beyond ligand blockade",
-      "link": "https://www.nature.com/articles/s41423-026-01446-3",
-      "journal": "Cellular and Molecular Immunology",
-      "category": "Original Article",
-      "authors": "Liangzhan Sun, Zemin Zhang",
-      "summary": "Cellular & Molecular Immunology, Published online: 01 July 2026; doi:10.1038/s41423-026-01446-3 Targeting SPP1 requires moving beyond ligand blockade",
-      "date": "2026-07-01T00:00:00Z",
-      "date_display": "1 Jul 2026"
-    },
-    {
-      "id": "90f5b9f358",
-      "title": "FAM234A acts as a switch between Th17 and Treg cell fate decisions that control inflammatory bowel disease",
-      "link": "https://www.nature.com/articles/s41423-026-01439-2",
-      "journal": "Cellular and Molecular Immunology",
-      "category": "Original Article",
-      "authors": "Zhaoqi Zhang, Chenxu Zhao, Lingyun Sun, Tong Lei, Jinglin Xu, Guiying Wang, Yong Zhao",
-      "summary": "Cellular & Molecular Immunology, Published online: 01 July 2026; doi:10.1038/s41423-026-01439-2 FAM234A acts as a switch between Th17 and Treg cell fate decisions that control inflammatory bowel disease",
-      "date": "2026-07-01T00:00:00Z",
-      "date_display": "1 Jul 2026"
     },
     {
       "id": "9d7ad7c6a8",
