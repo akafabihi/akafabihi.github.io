@@ -1,6 +1,72 @@
 {
-  "updated": "2026-08-05T08:13:11Z",
+  "updated": "2026-08-06T08:11:49Z",
   "papers": [
+    {
+      "id": "391c462521",
+      "title": "Insights from the ESMO Targeted Anticancer Therapies Asia Congress 2026",
+      "link": "https://www.nature.com/articles/s43018-026-01215-1",
+      "journal": "Nature Cancer",
+      "category": "Original Article",
+      "authors": "Vincenzo Giacco",
+      "summary": "Nature Cancer, Published online: 05 August 2026; doi:10.1038/s43018-026-01215-1 The latest ESMO Targeted Anticancer Therapies Asia Congress brought together researchers, clinicians and industry experts to discuss how advances in molecular oncology, cell therapies, artificial intelligence and translational science are…",
+      "date": "2026-08-05T00:00:00Z",
+      "date_display": "5 Aug 2026"
+    },
+    {
+      "id": "dbdf9b9fb4",
+      "title": "Tumoral extracellular vesicles and particles reprogram interstitial macrophages in the lung to promote vascular permeability and metastasis",
+      "link": "https://www.nature.com/articles/s43018-026-01209-z",
+      "journal": "Nature Cancer",
+      "category": "Original Article",
+      "authors": "Shani Dror, Inbal Wortzel, Serena Lucotti, Yura Seo, Jianlong Li, Lee Shaashua, Irina Matei, Nancy Boudreau, Haiying Zhang, Maider Astorkia-Amiama, Doron Betel, Han Sang Kim, Jai…",
+      "summary": "Nature Cancer, Published online: 05 August 2026; doi:10.1038/s43018-026-01209-z Dror et al. show that tumor-derived extracellular vesicles and particles reprogram interstitial macrophages during the formation of the lung premetastatic niche, thereby increasing vascular permeability and promoting metastatic potential.",
+      "date": "2026-08-05T00:00:00Z",
+      "date_display": "5 Aug 2026"
+    },
+    {
+      "id": "5a4cf4e784",
+      "title": "Fc-optimized GITR antibody enhances a CD4 T cell–dendritic cell crosstalk to promote antitumor immunity",
+      "link": "https://www.nature.com/articles/s43018-026-01207-1",
+      "journal": "Nature Cancer",
+      "category": "Original Article",
+      "authors": "Yahel Avraham, Natasha Barth, Tzlil Yair Bar-On, Barak Toval, Aviya Habshush Menachem, Jasmine Blanga, Ella Herzog, Hagar Rotem, Yuval Shapir Itai, Tali Feferman, Moshe Biton…",
+      "summary": "Nature Cancer, Published online: 05 August 2026; doi:10.1038/s43018-026-01207-1 Avraham et al. engineered an anti-GITR human antibody with an optimized Fc domain that engages the activating Fcγ receptors IIa and IIIa to enhance antitumor efficacy through the depletion of regulatory T cells and activation of CD4+ T…",
+      "date": "2026-08-05T00:00:00Z",
+      "date_display": "5 Aug 2026"
+    },
+    {
+      "id": "e91d472168",
+      "title": "Palmitoylation modulates neutrophil anti-tumour function in liver metastasis",
+      "link": "https://www.nature.com/articles/s42255-026-01581-1",
+      "journal": "Nature Metabolism",
+      "category": "Original Article",
+      "authors": "Liang Zhou, Jun Cui",
+      "summary": "Nature Metabolism, Published online: 05 August 2026; doi:10.1038/s42255-026-01581-1 How liver metastases evade immunity remains unclear. A new study published in Nature Metabolism reveals that DHHC17-driven laminin 511 palmitoylation and its subsequent secretion blunts neutrophil-mediated killing of metastatic cancer…",
+      "date": "2026-08-05T00:00:00Z",
+      "date_display": "5 Aug 2026"
+    },
+    {
+      "id": "cd240562cc",
+      "title": "Palmitate promotes liver metastases by decreasing neutrophil antitumour behaviour",
+      "link": "https://www.nature.com/articles/s42255-026-01582-0",
+      "journal": "Nature Metabolism",
+      "category": "Original Article",
+      "authors": "Anke Vandekeere, Juan Fernández-García, Yiming Peng-Winkler, Miguel Martín Pérez, Ming Liu, Sara Isabel Fernandes, Janine Theile, Philipp Willnow, Sanne Verheul, Gitte Zels…",
+      "summary": "Nature Metabolism, Published online: 05 August 2026; doi:10.1038/s42255-026-01582-0 DHHC17-mediated palmitoylation promotes laminin-511 stabilization and availability in the liver metastatic niche, which decreases the cancer cell-killing capacity of neutrophils.",
+      "date": "2026-08-05T00:00:00Z",
+      "date_display": "5 Aug 2026"
+    },
+    {
+      "id": "91cc11ed81",
+      "title": "Phase I Study of Oncolytic Virus VV1 as Monotherapy or in Combination with Avelumab in Patients with Relapsed Refractory Solid Tumors",
+      "link": "https://aacrjournals.org/cancerrescommun/article/6/8/1862/787281/Phase-I-Study-of-Oncolytic-Virus-VV1-as",
+      "journal": "Cancer Research",
+      "category": "Original Article",
+      "authors": "Jaime R. Merchan, Manish R. Patel, Timothy P. Cripe, Matthew O. Old, Jen Boughton, Rosa M. Diaz, Kah-Whye Peng, Stephen J. Russell, Luke Russell, Nandakumar Packiriswamy, Erol…",
+      "summary": "Abstract Purpose: VV1 is designed to induce selective oncolysis of tumor cells and amplify cellular antitumor immune responses. This open-label, phase I, multicenter clinical trial assessed the safety and tolerability of VV1 monotherapy administered intratumorally or intravenously or administered intravenously in…",
+      "date": "2026-08-05T00:00:00Z",
+      "date_display": "5 Aug 2026"
+    },
     {
       "id": "405ac6006d",
       "title": "Targeting Wild-type NTRK in NTRK Fusion–Negative Lung Cancer Decreases Brain Metastases",
@@ -134,6 +200,28 @@
       "date_display": "3 Aug 2026"
     },
     {
+      "id": "069b19c374",
+      "title": "Accelerated ageing confers early-onset cancer risk",
+      "link": "https://www.nature.com/articles/s41568-026-00967-3",
+      "journal": "Nature Reviews Cancer",
+      "category": "Review Article",
+      "authors": "Anna Dart",
+      "summary": "Nature Reviews Cancer, Published online: 03 August 2026; doi:10.1038/s41568-026-00967-3 Tian et al. conducted an observational cohort study utilizing data from biobanks in the UK and USA, finding that more advanced biological ageing compared to chronological age may be a risk factor for early-onset solid cancers with…",
+      "date": "2026-08-03T00:00:00Z",
+      "date_display": "3 Aug 2026"
+    },
+    {
+      "id": "69a7c028a5",
+      "title": "Converging engineered models of cancer and artificial intelligence",
+      "link": "https://www.nature.com/articles/s41568-026-00966-4",
+      "journal": "Nature Reviews Cancer",
+      "category": "Review Article",
+      "authors": "Carlos F. Guimarães, Rui L. Reis",
+      "summary": "Nature Reviews Cancer, Published online: 03 August 2026; doi:10.1038/s41568-026-00966-4 No existing model can reliably predict how an individual cancer will evolve. In this Comment, Guimarães and Reis argue that the future of precision oncology lies not in increasingly sophisticated in vitro tumour models or in…",
+      "date": "2026-08-03T00:00:00Z",
+      "date_display": "3 Aug 2026"
+    },
+    {
       "id": "6c25a51b74",
       "title": "Dynamic expression of IL-21 in effector CD8 T cells helps control chronic infections",
       "link": "https://www.science.org/doi/abs/10.1126/sciimmunol.aec5171?af=R",
@@ -178,6 +266,17 @@
       "date_display": "31 Jul 2026"
     },
     {
+      "id": "3e0e7daa4f",
+      "title": "Author Correction: p21-activated kinase 4 counteracts PKA-dependent lipolysis by phosphorylating FABP4 and HSL",
+      "link": "https://www.nature.com/articles/s42255-026-01597-7",
+      "journal": "Nature Metabolism",
+      "category": "Original Article",
+      "authors": "Hwang Chan Yu, Yong Geun Jeon, Ann-Yae Na, Chang Yeob Han, Mi Rin Lee, Jae Do Yang, Hee Chul Yu, Jung Beom Son, Nam Doo Kim, Jae Bum Kim, Sangkyu Lee, Eun Ju Bae, Byung-Hyun Park",
+      "summary": "Nature Metabolism, Published online: 31 July 2026; doi:10.1038/s42255-026-01597-7 Author Correction: p21-activated kinase 4 counteracts PKA-dependent lipolysis by phosphorylating FABP4 and HSL",
+      "date": "2026-07-31T00:00:00Z",
+      "date_display": "31 Jul 2026"
+    },
+    {
       "id": "fd617c03a8",
       "title": "Platelet-derived serotonin epigenetically programs macrophage alternative activation to orchestrate type 2 airway inflammation",
       "link": "https://www.nature.com/articles/s41423-026-01455-2",
@@ -207,6 +306,17 @@
       "category": "Original Article",
       "authors": "Hao Zheng, Jinming Liu, Qi Cheng, Qianping Zhang, Yaoyao Zhang, Lingyu Jiang, Yan Huang, Wenlei Li, Yanping Zhao, Guo Chen, Fan Yu, Lei Liu, Yanjun Li, Xudong Liao, Lai Xu, Yi…",
       "summary": "Nature Cancer, Published online: 29 July 2026; doi:10.1038/s43018-026-01224-0 Retraction Note: Targeted activation of ferroptosis in colorectal cancer via LGR4 targeting overcomes acquired drug resistance",
+      "date": "2026-07-29T00:00:00Z",
+      "date_display": "29 Jul 2026"
+    },
+    {
+      "id": "5f14d5ca59",
+      "title": "Short-chain fatty acids",
+      "link": "https://www.nature.com/articles/s42255-026-01579-9",
+      "journal": "Nature Metabolism",
+      "category": "Original Article",
+      "authors": "Aygul Dagbasi, Mingzhu Cai, Aanya Hirdaramani, Aylin Hanyaloglu, Douglas J. Morrison, Gary Frost",
+      "summary": "Nature Metabolism, Published online: 29 July 2026; doi:10.1038/s42255-026-01579-9 This Review provides an overview of the biology of short-chain fatty acids, with a focus on their synthesis, signalling and physiological effects, highlighting their translational potential for metabolic and inflammatory diseases.",
       "date": "2026-07-29T00:00:00Z",
       "date_display": "29 Jul 2026"
     },
@@ -288,6 +398,61 @@
       "date_display": "28 Jul 2026"
     },
     {
+      "id": "59b8efb21e",
+      "title": "The DNA damage response and cancer immunotherapy",
+      "link": "https://www.nature.com/articles/s41568-026-00958-4",
+      "journal": "Nature Reviews Cancer",
+      "category": "Review Article",
+      "authors": "Sheng Hong, Guo-Min Li",
+      "summary": "Nature Reviews Cancer, Published online: 28 July 2026; doi:10.1038/s41568-026-00958-4 In this Review, Hong and Li explore how defects in DNA damage response (DDR) pathways shape tumour immunogenicity and influence responses to immune checkpoint inhibitors. They highlight shared immunological consequences across…",
+      "date": "2026-07-28T00:00:00Z",
+      "date_display": "28 Jul 2026"
+    },
+    {
+      "id": "11533ae78e",
+      "title": "Microbial catalysts unlock vitamin bioproduction",
+      "link": "https://www.nature.com/articles/s42255-026-01584-y",
+      "journal": "Nature Metabolism",
+      "category": "Original Article",
+      "authors": "Alejandro I. Ramirez, Lukas Ernst, Jay D. Keasling",
+      "summary": "Nature Metabolism, Published online: 27 July 2026; doi:10.1038/s42255-026-01584-y The sustainable production of vitamin E in microbial cell factories has been restricted to tocotrienol derivatives. In this issue of Nature Metabolism, Zhang, Li and Cao et al. leverage non-classical enzymatic catalysts that are…",
+      "date": "2026-07-27T00:00:00Z",
+      "date_display": "27 Jul 2026"
+    },
+    {
+      "id": "5f3129109b",
+      "title": "A non-classical biosynthetic route enables tocopherol synthesis in bacteria",
+      "link": "https://www.nature.com/articles/s42255-026-01576-y",
+      "journal": "Nature Metabolism",
+      "category": "Original Article",
+      "authors": "Yang Zhang, Zhizhen Li, Lichuang Cao, Yan Wang, Junyi Wang, Haofeng Chen, Wenhao Li, Xinyu Gao, Qingchen Li, Zhengxin Chen, Kaixuan Xu, Xiangpeng Yang, Xiangrui Wu, Jintao Luo…",
+      "summary": "Nature Metabolism, Published online: 27 July 2026; doi:10.1038/s42255-026-01576-y The study reports a non-classical tocopherol pathway in Rhodobacter that enables heterologous α-tocopherol synthesis by bypassing DMPBQ via a γ/β-tocopherol methyltransferase.",
+      "date": "2026-07-27T00:00:00Z",
+      "date_display": "27 Jul 2026"
+    },
+    {
+      "id": "90e1207c00",
+      "title": "Who gets told what is impossible?",
+      "link": "https://www.nature.com/articles/s41568-026-00961-9",
+      "journal": "Nature Reviews Cancer",
+      "category": "Review Article",
+      "authors": "Johanna A. Joyce",
+      "summary": "Nature Reviews Cancer, Published online: 27 July 2026; doi:10.1038/s41568-026-00961-9 Twenty-five years after the launch of Nature Reviews Cancer, the experiences of women in cancer research have changed in important ways, with gains in visibility, representation and recognition. In this World View, Joyce reflects on…",
+      "date": "2026-07-27T00:00:00Z",
+      "date_display": "27 Jul 2026"
+    },
+    {
+      "id": "442b526eb3",
+      "title": "Igniting antitumour immunity with cancer cell pyroptosis",
+      "link": "https://www.nature.com/articles/s41568-026-00959-3",
+      "journal": "Nature Reviews Cancer",
+      "category": "Review Article",
+      "authors": "Xin Liu, Elena Goldberg, Jonathan C. Kagan, Hao Wu",
+      "summary": "Nature Reviews Cancer, Published online: 27 July 2026; doi:10.1038/s41568-026-00959-3 In this Review, Liu et al. discuss how pyroptosis, executed by a family of pore-forming proteins known as gasdermins, can induce antitumour immunity, which might be therapeutically leveraged for synergy with existing cancer…",
+      "date": "2026-07-27T00:00:00Z",
+      "date_display": "27 Jul 2026"
+    },
+    {
       "id": "30ff1e3134",
       "title": "Dynamic regulation of lysine and arginine metabolism promotes immune evasion by limiting T cell function in cancer",
       "link": "https://www.science.org/doi/abs/10.1126/sciimmunol.aeb7315?af=R",
@@ -308,6 +473,28 @@
       "summary": "Science Immunology, Volume 11, Issue 121, July 2026.",
       "date": "2026-07-24T07:00:00Z",
       "date_display": "24 Jul 2026"
+    },
+    {
+      "id": "dff0efdf76",
+      "title": "Distinct brain regions mediate regulation of food intake in response to GIPR agonism or antagonism",
+      "link": "https://www.nature.com/articles/s42255-026-01575-z",
+      "journal": "Nature Metabolism",
+      "category": "Original Article",
+      "authors": "Jo Edward Lewis, Mireia Montaner, Danae Nuzzaci, Paula-Peace James-Okoro, Norio Harada, Nobuya Inagaki, W. Scott Dodson, Patrick J. Knerr, Jonathan D. Douros, Fiona Mary Gribble…",
+      "summary": "Nature Metabolism, Published online: 24 July 2026; doi:10.1038/s42255-026-01575-z The study employs region-specific knockout of the glucose-dependent insulinotropic polypeptide receptor (GIPR) in either the area postrema or hypothalamus of mice to determine how GIPR agonism and antagonism regulate food intake and body…",
+      "date": "2026-07-24T00:00:00Z",
+      "date_display": "24 Jul 2026"
+    },
+    {
+      "id": "d1ccef5e96",
+      "title": "Mitochondrial metabolism determines chemotherapy sensitivity in colorectal cancer",
+      "link": "https://www.nature.com/articles/s42255-026-01578-w",
+      "journal": "Nature Metabolism",
+      "category": "Original Article",
+      "authors": "Deborah Y. Moss, Connor N. Brown, Andrew M. Shaw, Christopher McCann, Nikita Lewis, Matilda Downs, Rebecca Wurelly, Ciara Cunningham, Aaron Philips, Niamh Doherty, Sarah…",
+      "summary": "Nature Metabolism, Published online: 23 July 2026; doi:10.1038/s42255-026-01578-w Mitochondrial oxidative metabolism is found to strongly affect the response of colorectal cancer (CRC) cells to the chemotherapeutic drug 5-fluorouracil (5FU). Targeting mitochondrial metabolism sensitizes CRC cells to 5FU.",
+      "date": "2026-07-23T00:00:00Z",
+      "date_display": "23 Jul 2026"
     },
     {
       "id": "b30db0d1a5",
@@ -354,6 +541,17 @@
       "date_display": "21 Jul 2026"
     },
     {
+      "id": "1a4172d259",
+      "title": "A viral coding circRNA contributes to HPV-driven oncogenesis",
+      "link": "https://www.nature.com/articles/s41568-026-00962-8",
+      "journal": "Nature Reviews Cancer",
+      "category": "Review Article",
+      "authors": "J. Omar Muñoz-Bello, Marcela Lizano",
+      "summary": "Nature Reviews Cancer, Published online: 21 July 2026; doi:10.1038/s41568-026-00962-8 In this Journal Club, Muñoz-Bello and Lizano discuss the discovery of circE7, a protein-coding circular RNA generated by back-splicing in high-risk HPV that drives E7 expression and tumour growth, revealing a previously unappreciated…",
+      "date": "2026-07-21T00:00:00Z",
+      "date_display": "21 Jul 2026"
+    },
+    {
       "id": "6a81ec514d",
       "title": "Mucosal tissue cues shape B cell memory through the IgA BCR",
       "link": "https://www.science.org/doi/abs/10.1126/sciimmunol.adv1149?af=R",
@@ -373,17 +571,6 @@
       "authors": "Yufan Zheng, Hannah E. Dobson, Makheni Jean Pierre, Lillian B. LeBlanc, Chinaemerem U. Onyishi, Dominic P. Golec, Nathan Carrillo, Anshu Deewan, Claudia A. Rivera, Eduard Ansaldo…",
       "summary": "Science Immunology, Volume 11, Issue 121, July 2026.",
       "date": "2026-07-17T07:00:00Z",
-      "date_display": "17 Jul 2026"
-    },
-    {
-      "id": "902a33679e",
-      "title": "Androgen loss contributes to neuroinflammation and promotes brain tumor growth",
-      "link": "https://www.nature.com/articles/s43018-026-01214-2",
-      "journal": "Nature Cancer",
-      "category": "Original Article",
-      "authors": "Heathcliff Dorado García",
-      "summary": "Nature Cancer, Published online: 17 July 2026; doi:10.1038/s43018-026-01214-2 Androgen loss contributes to neuroinflammation and promotes brain tumor growth",
-      "date": "2026-07-17T00:00:00Z",
       "date_display": "17 Jul 2026"
     },
     {
@@ -420,28 +607,6 @@
       "date_display": "17 Jul 2026"
     },
     {
-      "id": "8f4fc46e3f",
-      "title": "Leukemic and normal hematopoietic stemness is influenced by transposable elements",
-      "link": "https://www.nature.com/articles/s43018-026-01213-3",
-      "journal": "Nature Cancer",
-      "category": "Original Article",
-      "authors": "Ioanna Pavlaki",
-      "summary": "Nature Cancer, Published online: 16 July 2026; doi:10.1038/s43018-026-01213-3 Leukemic and normal hematopoietic stemness is influenced by transposable elements",
-      "date": "2026-07-16T00:00:00Z",
-      "date_display": "16 Jul 2026"
-    },
-    {
-      "id": "07a242dc8c",
-      "title": "Author Correction: Disrupting the phase separation of KAT8–IRF1 diminishes PD-L1 expression and promotes antitumor immunity",
-      "link": "https://www.nature.com/articles/s43018-026-01218-y",
-      "journal": "Nature Cancer",
-      "category": "Original Article",
-      "authors": "Yuanzhong Wu, Liwen Zhou, Yezi Zou, Yijun Zhang, Meifang Zhang, Liping Xu, Lisi Zheng, Wenting He, Kuai Yu, Ting Li, Xia Zhang, Zhenxuan Chen, Ruhua Zhang, Penghui Zhou, Nu Zhang…",
-      "summary": "Nature Cancer, Published online: 16 July 2026; doi:10.1038/s43018-026-01218-y Author Correction: Disrupting the phase separation of KAT8–IRF1 diminishes PD-L1 expression and promotes antitumor immunity",
-      "date": "2026-07-16T00:00:00Z",
-      "date_display": "16 Jul 2026"
-    },
-    {
       "id": "0a062fdefb",
       "title": "Interleukin-18 armours antitumour immune effectors",
       "link": "https://www.nature.com/articles/s41577-026-01330-1",
@@ -451,6 +616,28 @@
       "summary": "Nature Reviews Immunology, Published online: 16 July 2026; doi:10.1038/s41577-026-01330-1 Interleukin-18 (IL-18) shapes tumour immunity through tightly regulated, context-dependent effects on T cells, NK cells and the tumour microenvironment. Emerging therapeutic strategies, including engineered cellular therapies and…",
       "date": "2026-07-16T00:00:00Z",
       "date_display": "16 Jul 2026"
+    },
+    {
+      "id": "583b0c1481",
+      "title": "Cuproptosis promotes antitumour immunity",
+      "link": "https://www.nature.com/articles/s41568-026-00964-6",
+      "journal": "Nature Reviews Cancer",
+      "category": "Review Article",
+      "authors": "Daniela Senft",
+      "summary": "Nature Reviews Cancer, Published online: 15 July 2026; doi:10.1038/s41568-026-00964-6 In a recent study, Lei, Lu, Xu et al. identify cuproptosis as a form of immunogenic cell death that stimulates adaptive antitumour immunity. In turn, CD8⁺ T cell-derived IFNγ enhances tumour sensitivity to cuproptosis through…",
+      "date": "2026-07-15T00:00:00Z",
+      "date_display": "15 Jul 2026"
+    },
+    {
+      "id": "08374036b2",
+      "title": "GABA takes the edge off anti-tumour immunity",
+      "link": "https://www.nature.com/articles/s41568-026-00963-7",
+      "journal": "Nature Reviews Cancer",
+      "category": "Review Article",
+      "authors": "Gabrielle Brewer",
+      "summary": "Nature Reviews Cancer, Published online: 15 July 2026; doi:10.1038/s41568-026-00963-7 Glioblastoma exhibits sex-specific differences in disease progression, incidence and immune regulation. Now, Pathak et al. identify GABA (γ-aminobutyric acid) as a key driver of granulocytic myeloid-derived suppressor cell-mediated…",
+      "date": "2026-07-15T00:00:00Z",
+      "date_display": "15 Jul 2026"
     },
     {
       "id": "d0f0a3a95f",
