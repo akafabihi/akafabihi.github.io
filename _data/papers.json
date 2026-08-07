@@ -1,38 +1,27 @@
 {
-  "updated": "2026-08-06T08:11:49Z",
+  "updated": "2026-08-07T06:57:13Z",
   "papers": [
     {
-      "id": "391c462521",
-      "title": "Insights from the ESMO Targeted Anticancer Therapies Asia Congress 2026",
-      "link": "https://www.nature.com/articles/s43018-026-01215-1",
-      "journal": "Nature Cancer",
+      "id": "37e3ac3910",
+      "title": "Evaluation of Biomarkers for Sacituzumab Govitecan in Metastatic Non–Small Cell Lung Cancer: Insights From the EVOKE-01 Study",
+      "link": "https://aacrjournals.org/cancerrescommun/article/6/8/1875/787312/Evaluation-of-Biomarkers-for-Sacituzumab-Govitecan",
+      "journal": "Cancer Research",
       "category": "Original Article",
-      "authors": "Vincenzo Giacco",
-      "summary": "Nature Cancer, Published online: 05 August 2026; doi:10.1038/s43018-026-01215-1 The latest ESMO Targeted Anticancer Therapies Asia Congress brought together researchers, clinicians and industry experts to discuss how advances in molecular oncology, cell therapies, artificial intelligence and translational science are…",
-      "date": "2026-08-05T00:00:00Z",
-      "date_display": "5 Aug 2026"
+      "authors": "Enriqueta Felip, Peiwen Kuo, Pilar Garrido, Christos Chouaid, Giannis Mountzios, Marcello Tiseo, Davey B. Daniel, Marianna Zavodovskaya, Shan Tang, Linda Su-Feher, Riddhi Patel…",
+      "summary": "Abstract Purpose: This exploratory analysis assessed predictive biomarkers for sacituzumab govitecan (SG) in the open-label, phase III EVOKE-01 study of SG versus docetaxel in non–small cell lung cancer (NSCLC). Patients and Methods: Trophoblast cell-surface antigen (Trop) 2 membrane protein expression was analyzed…",
+      "date": "2026-08-06T00:00:00Z",
+      "date_display": "6 Aug 2026"
     },
     {
-      "id": "dbdf9b9fb4",
-      "title": "Tumoral extracellular vesicles and particles reprogram interstitial macrophages in the lung to promote vascular permeability and metastasis",
-      "link": "https://www.nature.com/articles/s43018-026-01209-z",
-      "journal": "Nature Cancer",
-      "category": "Original Article",
-      "authors": "Shani Dror, Inbal Wortzel, Serena Lucotti, Yura Seo, Jianlong Li, Lee Shaashua, Irina Matei, Nancy Boudreau, Haiying Zhang, Maider Astorkia-Amiama, Doron Betel, Han Sang Kim, Jai…",
-      "summary": "Nature Cancer, Published online: 05 August 2026; doi:10.1038/s43018-026-01209-z Dror et al. show that tumor-derived extracellular vesicles and particles reprogram interstitial macrophages during the formation of the lung premetastatic niche, thereby increasing vascular permeability and promoting metastatic potential.",
-      "date": "2026-08-05T00:00:00Z",
-      "date_display": "5 Aug 2026"
-    },
-    {
-      "id": "5a4cf4e784",
-      "title": "Fc-optimized GITR antibody enhances a CD4 T cell–dendritic cell crosstalk to promote antitumor immunity",
-      "link": "https://www.nature.com/articles/s43018-026-01207-1",
-      "journal": "Nature Cancer",
-      "category": "Original Article",
-      "authors": "Yahel Avraham, Natasha Barth, Tzlil Yair Bar-On, Barak Toval, Aviya Habshush Menachem, Jasmine Blanga, Ella Herzog, Hagar Rotem, Yuval Shapir Itai, Tali Feferman, Moshe Biton…",
-      "summary": "Nature Cancer, Published online: 05 August 2026; doi:10.1038/s43018-026-01207-1 Avraham et al. engineered an anti-GITR human antibody with an optimized Fc domain that engages the activating Fcγ receptors IIa and IIIa to enhance antitumor efficacy through the depletion of regulatory T cells and activation of CD4+ T…",
-      "date": "2026-08-05T00:00:00Z",
-      "date_display": "5 Aug 2026"
+      "id": "209129437b",
+      "title": "Academic biomedical research is national defence",
+      "link": "https://www.nature.com/articles/s41577-026-01341-y",
+      "journal": "Nature Reviews Immunology",
+      "category": "Review Article",
+      "authors": "Miriam Merad",
+      "summary": "Nature Reviews Immunology, Published online: 06 August 2026; doi:10.1038/s41577-026-01341-y Academic biomedical research is national defence",
+      "date": "2026-08-06T00:00:00Z",
+      "date_display": "6 Aug 2026"
     },
     {
       "id": "e91d472168",
@@ -77,28 +66,6 @@
       "summary": "Abstract The central nervous system (CNS) is a common site of metastasis for both non–small cell and small cell lung cancer, yet the therapeutic strategies to prevent and decrease lung cancer brain metastases (BM) remain limited. Tyrosine kinase inhibitors have shown promising results in increasing overall response in…",
       "date": "2026-08-04T00:00:00Z",
       "date_display": "4 Aug 2026"
-    },
-    {
-      "id": "62a681da38",
-      "title": "Copper dependency in leukemia metabolism",
-      "link": "https://www.nature.com/articles/s43018-026-01205-3",
-      "journal": "Nature Cancer",
-      "category": "Original Article",
-      "authors": "Sarada Achyutuni, Jian Xu",
-      "summary": "Nature Cancer, Published online: 03 August 2026; doi:10.1038/s43018-026-01205-3 Despite their crucial roles in physiology, the contributions of trace metals to cancer fitness and therapy response remain unclear. Combining a CRISPR screen with functional and metabolic studies, recent work identifies copper homeostasis…",
-      "date": "2026-08-03T00:00:00Z",
-      "date_display": "3 Aug 2026"
-    },
-    {
-      "id": "1b52fb2d42",
-      "title": "Author Correction: IDH1 -mutant vaccine in newly diagnosed astrocytoma: final analysis of the multicenter, single-arm, open-label, first-in-human phase 1 NOA16 trial",
-      "link": "https://www.nature.com/articles/s43018-026-01227-x",
-      "journal": "Nature Cancer",
-      "category": "Original Article",
-      "authors": "Lukas Bunse, Katharina Lindner, Antje Wick, Angelika Freitag, Lisa-Marie Lanz, Dominic Edelmann, Abigail Suwala, Michael O. Breckwoldt, Inga Harting, Felix Sahm, Richard F…",
-      "summary": "Nature Cancer, Published online: 03 August 2026; doi:10.1038/s43018-026-01227-x Author Correction: IDH1 -mutant vaccine in newly diagnosed astrocytoma: final analysis of the multicenter, single-arm, open-label, first-in-human phase 1 NOA16 trial",
-      "date": "2026-08-03T00:00:00Z",
-      "date_display": "3 Aug 2026"
     },
     {
       "id": "8c77be1dd4",
@@ -200,28 +167,6 @@
       "date_display": "3 Aug 2026"
     },
     {
-      "id": "069b19c374",
-      "title": "Accelerated ageing confers early-onset cancer risk",
-      "link": "https://www.nature.com/articles/s41568-026-00967-3",
-      "journal": "Nature Reviews Cancer",
-      "category": "Review Article",
-      "authors": "Anna Dart",
-      "summary": "Nature Reviews Cancer, Published online: 03 August 2026; doi:10.1038/s41568-026-00967-3 Tian et al. conducted an observational cohort study utilizing data from biobanks in the UK and USA, finding that more advanced biological ageing compared to chronological age may be a risk factor for early-onset solid cancers with…",
-      "date": "2026-08-03T00:00:00Z",
-      "date_display": "3 Aug 2026"
-    },
-    {
-      "id": "69a7c028a5",
-      "title": "Converging engineered models of cancer and artificial intelligence",
-      "link": "https://www.nature.com/articles/s41568-026-00966-4",
-      "journal": "Nature Reviews Cancer",
-      "category": "Review Article",
-      "authors": "Carlos F. Guimarães, Rui L. Reis",
-      "summary": "Nature Reviews Cancer, Published online: 03 August 2026; doi:10.1038/s41568-026-00966-4 No existing model can reliably predict how an individual cancer will evolve. In this Comment, Guimarães and Reis argue that the future of precision oncology lies not in increasingly sophisticated in vitro tumour models or in…",
-      "date": "2026-08-03T00:00:00Z",
-      "date_display": "3 Aug 2026"
-    },
-    {
       "id": "6c25a51b74",
       "title": "Dynamic expression of IL-21 in effector CD8 T cells helps control chronic infections",
       "link": "https://www.science.org/doi/abs/10.1126/sciimmunol.aec5171?af=R",
@@ -299,17 +244,6 @@
       "date_display": "30 Jul 2026"
     },
     {
-      "id": "a97d245767",
-      "title": "Retraction Note: Targeted activation of ferroptosis in colorectal cancer via LGR4 targeting overcomes acquired drug resistance",
-      "link": "https://www.nature.com/articles/s43018-026-01224-0",
-      "journal": "Nature Cancer",
-      "category": "Original Article",
-      "authors": "Hao Zheng, Jinming Liu, Qi Cheng, Qianping Zhang, Yaoyao Zhang, Lingyu Jiang, Yan Huang, Wenlei Li, Yanping Zhao, Guo Chen, Fan Yu, Lei Liu, Yanjun Li, Xudong Liao, Lai Xu, Yi…",
-      "summary": "Nature Cancer, Published online: 29 July 2026; doi:10.1038/s43018-026-01224-0 Retraction Note: Targeted activation of ferroptosis in colorectal cancer via LGR4 targeting overcomes acquired drug resistance",
-      "date": "2026-07-29T00:00:00Z",
-      "date_display": "29 Jul 2026"
-    },
-    {
       "id": "5f14d5ca59",
       "title": "Short-chain fatty acids",
       "link": "https://www.nature.com/articles/s42255-026-01579-9",
@@ -341,17 +275,6 @@
       "summary": "Cellular & Molecular Immunology, Published online: 29 July 2026; doi:10.1038/s41423-026-01453-4 NLRC3 enhances antitumor immunity by specifically negatively regulating M-MDSCs in a STING-dependent manner",
       "date": "2026-07-29T00:00:00Z",
       "date_display": "29 Jul 2026"
-    },
-    {
-      "id": "9b14bc8fe2",
-      "title": "Iron-ing out ferroptosis-mediated T cell dysfunction in cancer",
-      "link": "https://www.nature.com/articles/s43018-026-01204-4",
-      "journal": "Nature Cancer",
-      "category": "Original Article",
-      "authors": "Emily B. Derrick, Paul A. Beavis",
-      "summary": "Nature Cancer, Published online: 28 July 2026; doi:10.1038/s43018-026-01204-4 T cell dysfunction restrains the efficacy of immune checkpoint blockade and CAR-T cell-based cancer therapies. Iron-mediated ferroptosis is now shown to contribute to the dysfunction of endogenous T cells and CAR-T cells, suggesting that…",
-      "date": "2026-07-28T00:00:00Z",
-      "date_display": "28 Jul 2026"
     },
     {
       "id": "49884c12b2",
@@ -398,17 +321,6 @@
       "date_display": "28 Jul 2026"
     },
     {
-      "id": "59b8efb21e",
-      "title": "The DNA damage response and cancer immunotherapy",
-      "link": "https://www.nature.com/articles/s41568-026-00958-4",
-      "journal": "Nature Reviews Cancer",
-      "category": "Review Article",
-      "authors": "Sheng Hong, Guo-Min Li",
-      "summary": "Nature Reviews Cancer, Published online: 28 July 2026; doi:10.1038/s41568-026-00958-4 In this Review, Hong and Li explore how defects in DNA damage response (DDR) pathways shape tumour immunogenicity and influence responses to immune checkpoint inhibitors. They highlight shared immunological consequences across…",
-      "date": "2026-07-28T00:00:00Z",
-      "date_display": "28 Jul 2026"
-    },
-    {
       "id": "11533ae78e",
       "title": "Microbial catalysts unlock vitamin bioproduction",
       "link": "https://www.nature.com/articles/s42255-026-01584-y",
@@ -427,28 +339,6 @@
       "category": "Original Article",
       "authors": "Yang Zhang, Zhizhen Li, Lichuang Cao, Yan Wang, Junyi Wang, Haofeng Chen, Wenhao Li, Xinyu Gao, Qingchen Li, Zhengxin Chen, Kaixuan Xu, Xiangpeng Yang, Xiangrui Wu, Jintao Luo…",
       "summary": "Nature Metabolism, Published online: 27 July 2026; doi:10.1038/s42255-026-01576-y The study reports a non-classical tocopherol pathway in Rhodobacter that enables heterologous α-tocopherol synthesis by bypassing DMPBQ via a γ/β-tocopherol methyltransferase.",
-      "date": "2026-07-27T00:00:00Z",
-      "date_display": "27 Jul 2026"
-    },
-    {
-      "id": "90e1207c00",
-      "title": "Who gets told what is impossible?",
-      "link": "https://www.nature.com/articles/s41568-026-00961-9",
-      "journal": "Nature Reviews Cancer",
-      "category": "Review Article",
-      "authors": "Johanna A. Joyce",
-      "summary": "Nature Reviews Cancer, Published online: 27 July 2026; doi:10.1038/s41568-026-00961-9 Twenty-five years after the launch of Nature Reviews Cancer, the experiences of women in cancer research have changed in important ways, with gains in visibility, representation and recognition. In this World View, Joyce reflects on…",
-      "date": "2026-07-27T00:00:00Z",
-      "date_display": "27 Jul 2026"
-    },
-    {
-      "id": "442b526eb3",
-      "title": "Igniting antitumour immunity with cancer cell pyroptosis",
-      "link": "https://www.nature.com/articles/s41568-026-00959-3",
-      "journal": "Nature Reviews Cancer",
-      "category": "Review Article",
-      "authors": "Xin Liu, Elena Goldberg, Jonathan C. Kagan, Hao Wu",
-      "summary": "Nature Reviews Cancer, Published online: 27 July 2026; doi:10.1038/s41568-026-00959-3 In this Review, Liu et al. discuss how pyroptosis, executed by a family of pore-forming proteins known as gasdermins, can induce antitumour immunity, which might be therapeutically leveraged for synergy with existing cancer…",
       "date": "2026-07-27T00:00:00Z",
       "date_display": "27 Jul 2026"
     },
@@ -519,17 +409,6 @@
       "date_display": "22 Jul 2026"
     },
     {
-      "id": "2076a97c08",
-      "title": "Dalpiciclib plus endocrine therapy in women with HR + /HER2 − advanced breast cancer and visceral crisis: a multicenter, nonrandomized, phase 2 DARVIN trial",
-      "link": "https://www.nature.com/articles/s43018-026-01208-0",
-      "journal": "Nature Cancer",
-      "category": "Original Article",
-      "authors": "Hongnan Mo, Yuee Teng, Li Cai, Huihui Li, Xinhong Wu, Jing Yao, Yu Wang, Dan Lv, Xuenan Peng, Shuchun Wang, Rongrong Chen, Xin Yi, Qingyao Shang, Youwen He, Ji Liu, Zheng Pang…",
-      "summary": "Nature Cancer, Published online: 21 July 2026; doi:10.1038/s43018-026-01208-0 In this multicenter, nonrandomized, phase 2 trial, Ma and colleagues report the results of treatment with dalpiciclib plus endocrine therapy in persons with HR+/HER2− advanced breast cancer experiencing visceral crisis.",
-      "date": "2026-07-21T00:00:00Z",
-      "date_display": "21 Jul 2026"
-    },
-    {
       "id": "991cf19c8b",
       "title": "Drug holidays restore exhausted T cell responses to PD1 blockade",
       "link": "https://www.nature.com/articles/s41577-026-01343-w",
@@ -537,17 +416,6 @@
       "category": "Review Article",
       "authors": "Chih-Wei Chu, Kenneth Hu",
       "summary": "Nature Reviews Immunology, Published online: 21 July 2026; doi:10.1038/s41577-026-01343-w A preprint by Ngiow et al. shows that intermittent PD1 blockade incorporating a ‘drug holiday’ preserves the proliferative and differentiation capacity of progenitor exhausted T cells.",
-      "date": "2026-07-21T00:00:00Z",
-      "date_display": "21 Jul 2026"
-    },
-    {
-      "id": "1a4172d259",
-      "title": "A viral coding circRNA contributes to HPV-driven oncogenesis",
-      "link": "https://www.nature.com/articles/s41568-026-00962-8",
-      "journal": "Nature Reviews Cancer",
-      "category": "Review Article",
-      "authors": "J. Omar Muñoz-Bello, Marcela Lizano",
-      "summary": "Nature Reviews Cancer, Published online: 21 July 2026; doi:10.1038/s41568-026-00962-8 In this Journal Club, Muñoz-Bello and Lizano discuss the discovery of circE7, a protein-coding circular RNA generated by back-splicing in high-risk HPV that drives E7 expression and tumour growth, revealing a previously unappreciated…",
       "date": "2026-07-21T00:00:00Z",
       "date_display": "21 Jul 2026"
     },
@@ -618,28 +486,6 @@
       "date_display": "16 Jul 2026"
     },
     {
-      "id": "583b0c1481",
-      "title": "Cuproptosis promotes antitumour immunity",
-      "link": "https://www.nature.com/articles/s41568-026-00964-6",
-      "journal": "Nature Reviews Cancer",
-      "category": "Review Article",
-      "authors": "Daniela Senft",
-      "summary": "Nature Reviews Cancer, Published online: 15 July 2026; doi:10.1038/s41568-026-00964-6 In a recent study, Lei, Lu, Xu et al. identify cuproptosis as a form of immunogenic cell death that stimulates adaptive antitumour immunity. In turn, CD8⁺ T cell-derived IFNγ enhances tumour sensitivity to cuproptosis through…",
-      "date": "2026-07-15T00:00:00Z",
-      "date_display": "15 Jul 2026"
-    },
-    {
-      "id": "08374036b2",
-      "title": "GABA takes the edge off anti-tumour immunity",
-      "link": "https://www.nature.com/articles/s41568-026-00963-7",
-      "journal": "Nature Reviews Cancer",
-      "category": "Review Article",
-      "authors": "Gabrielle Brewer",
-      "summary": "Nature Reviews Cancer, Published online: 15 July 2026; doi:10.1038/s41568-026-00963-7 Glioblastoma exhibits sex-specific differences in disease progression, incidence and immune regulation. Now, Pathak et al. identify GABA (γ-aminobutyric acid) as a key driver of granulocytic myeloid-derived suppressor cell-mediated…",
-      "date": "2026-07-15T00:00:00Z",
-      "date_display": "15 Jul 2026"
-    },
-    {
       "id": "d0f0a3a95f",
       "title": "Programming macrophage polarization with synthetic cytokine receptors",
       "link": "https://www.nature.com/articles/s41577-026-01338-7",
@@ -669,17 +515,6 @@
       "category": "Original Article",
       "authors": "Qian Cai, Zhen Duan, Zhongwei Yang, Yaxin Luo, Ming Liu, Chao Wu, Tianyao Wang, Yu Wang, Lingfeng Liang, Qing Liu, Jin Yu, Dan Meng, Chen Jiang, Rui He",
       "summary": "Cellular & Molecular Immunology, Published online: 13 July 2026; doi:10.1038/s41423-026-01450-7 Macrophage CCRL2 promotes NLRP3 inflammasome activation to exacerbate atherosclerosis",
-      "date": "2026-07-13T00:00:00Z",
-      "date_display": "13 Jul 2026"
-    },
-    {
-      "id": "bc8668549f",
-      "title": "The challenge and promise of studying human antigen-specific T cells",
-      "link": "https://www.nature.com/articles/s41577-026-01331-0",
-      "journal": "Nature Reviews Immunology",
-      "category": "Review Article",
-      "authors": "Sam Farrar, Elie Antoun, Julian C. Knight, Yanchun Peng, Tao Dong",
-      "summary": "Nature Reviews Immunology, Published online: 13 July 2026; doi:10.1038/s41577-026-01331-0 Antigen-specific T cells underpin immunity, cancer surveillance and autoimmunity, yet remain difficult to study. This Review describes the technologies and computational approaches that are helping to link T cell receptor…",
       "date": "2026-07-13T00:00:00Z",
       "date_display": "13 Jul 2026"
     },
