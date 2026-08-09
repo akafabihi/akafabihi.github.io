@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08T06:30:51Z",
+  "updated": "2026-08-09T06:34:56Z",
   "papers": [
     {
       "id": "53cd809aa6",
@@ -68,6 +68,17 @@
       "date_display": "7 Aug 2026"
     },
     {
+      "id": "2f0e24fecf",
+      "title": "Charting intratumor heterogeneity from bench to bedside",
+      "link": "https://www.nature.com/articles/s43018-026-01198-z",
+      "journal": "Nature Cancer",
+      "category": "Original Article",
+      "authors": "Jonathan C. M. Wan, Nicholas McGranahan, Charles Swanton",
+      "summary": "Nature Cancer, Published online: 07 August 2026; doi:10.1038/s43018-026-01198-z Swanton and colleagues provide an overview on intratumor heterogeneity and cancer evolution arising from genetic factors and non-genetic regulation of cancer cells, the tumor microenvironment and the immune system.",
+      "date": "2026-08-07T00:00:00Z",
+      "date_display": "7 Aug 2026"
+    },
+    {
       "id": "a7069f9c03",
       "title": "Author Correction: The kinase MST4 limits inflammatory responses through direct phosphorylation of the adaptor TRAF6",
       "link": "https://www.nature.com/articles/s41590-026-02634-z",
@@ -75,17 +86,6 @@
       "category": "Original Article",
       "authors": "Shi Jiao, Zhen Zhang, Chuanchuan Li, Min Huang, Zhubing Shi, Yanyan Wang, Xiaomin Song, Heng Liu, Chunyang Li, Min Chen, Wenjia Wang, Yun Zhao, Zhengfan Jiang, Hongyan Wang…",
       "summary": "Nature Immunology, Published online: 07 August 2026; doi:10.1038/s41590-026-02634-z Author Correction: The kinase MST4 limits inflammatory responses through direct phosphorylation of the adaptor TRAF6",
-      "date": "2026-08-07T00:00:00Z",
-      "date_display": "7 Aug 2026"
-    },
-    {
-      "id": "fa6090f016",
-      "title": "Career pathways, part 20",
-      "link": "https://www.nature.com/articles/s42255-026-01596-8",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "Adelheid Lempradl, Lauren V. Albrecht",
-      "summary": "Nature Metabolism, Published online: 07 August 2026; doi:10.1038/s42255-026-01596-8 Academic careers are shaped by scientific discovery, professional networks, mentorship and the challenges of balancing research with personal and professional responsibilities. In this instalment of our Career Pathways series, Adelheid…",
       "date": "2026-08-07T00:00:00Z",
       "date_display": "7 Aug 2026"
     },
@@ -141,28 +141,6 @@
       "category": "Original Article",
       "authors": "Yahel Avraham, Natasha Barth, Tzlil Yair Bar-On, Barak Toval, Aviya Habshush Menachem, Jasmine Blanga, Ella Herzog, Hagar Rotem, Yuval Shapir Itai, Tali Feferman, Moshe Biton…",
       "summary": "Nature Cancer, Published online: 05 August 2026; doi:10.1038/s43018-026-01207-1 Avraham et al. engineered an anti-GITR human antibody with an optimized Fc domain that engages the activating Fcγ receptors IIa and IIIa to enhance antitumor efficacy through the depletion of regulatory T cells and activation of CD4+ T…",
-      "date": "2026-08-05T00:00:00Z",
-      "date_display": "5 Aug 2026"
-    },
-    {
-      "id": "e91d472168",
-      "title": "Palmitoylation modulates neutrophil anti-tumour function in liver metastasis",
-      "link": "https://www.nature.com/articles/s42255-026-01581-1",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "Liang Zhou, Jun Cui",
-      "summary": "Nature Metabolism, Published online: 05 August 2026; doi:10.1038/s42255-026-01581-1 How liver metastases evade immunity remains unclear. A new study published in Nature Metabolism reveals that DHHC17-driven laminin 511 palmitoylation and its subsequent secretion blunts neutrophil-mediated killing of metastatic cancer…",
-      "date": "2026-08-05T00:00:00Z",
-      "date_display": "5 Aug 2026"
-    },
-    {
-      "id": "cd240562cc",
-      "title": "Palmitate promotes liver metastases by decreasing neutrophil antitumour behaviour",
-      "link": "https://www.nature.com/articles/s42255-026-01582-0",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "Anke Vandekeere, Juan Fernández-García, Yiming Peng-Winkler, Miguel Martín Pérez, Ming Liu, Sara Isabel Fernandes, Janine Theile, Philipp Willnow, Sanne Verheul, Gitte Zels…",
-      "summary": "Nature Metabolism, Published online: 05 August 2026; doi:10.1038/s42255-026-01582-0 DHHC17-mediated palmitoylation promotes laminin-511 stabilization and availability in the liver metastatic niche, which decreases the cancer cell-killing capacity of neutrophils.",
       "date": "2026-08-05T00:00:00Z",
       "date_display": "5 Aug 2026"
     },
@@ -354,17 +332,6 @@
       "date_display": "31 Jul 2026"
     },
     {
-      "id": "3e0e7daa4f",
-      "title": "Author Correction: p21-activated kinase 4 counteracts PKA-dependent lipolysis by phosphorylating FABP4 and HSL",
-      "link": "https://www.nature.com/articles/s42255-026-01597-7",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "Hwang Chan Yu, Yong Geun Jeon, Ann-Yae Na, Chang Yeob Han, Mi Rin Lee, Jae Do Yang, Hee Chul Yu, Jung Beom Son, Nam Doo Kim, Jae Bum Kim, Sangkyu Lee, Eun Ju Bae, Byung-Hyun Park",
-      "summary": "Nature Metabolism, Published online: 31 July 2026; doi:10.1038/s42255-026-01597-7 Author Correction: p21-activated kinase 4 counteracts PKA-dependent lipolysis by phosphorylating FABP4 and HSL",
-      "date": "2026-07-31T00:00:00Z",
-      "date_display": "31 Jul 2026"
-    },
-    {
       "id": "fd617c03a8",
       "title": "Platelet-derived serotonin epigenetically programs macrophage alternative activation to orchestrate type 2 airway inflammation",
       "link": "https://www.nature.com/articles/s41423-026-01455-2",
@@ -394,17 +361,6 @@
       "category": "Original Article",
       "authors": "Hao Zheng, Jinming Liu, Qi Cheng, Qianping Zhang, Yaoyao Zhang, Lingyu Jiang, Yan Huang, Wenlei Li, Yanping Zhao, Guo Chen, Fan Yu, Lei Liu, Yanjun Li, Xudong Liao, Lai Xu, Yi…",
       "summary": "Nature Cancer, Published online: 29 July 2026; doi:10.1038/s43018-026-01224-0 Retraction Note: Targeted activation of ferroptosis in colorectal cancer via LGR4 targeting overcomes acquired drug resistance",
-      "date": "2026-07-29T00:00:00Z",
-      "date_display": "29 Jul 2026"
-    },
-    {
-      "id": "5f14d5ca59",
-      "title": "Short-chain fatty acids",
-      "link": "https://www.nature.com/articles/s42255-026-01579-9",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "Aygul Dagbasi, Mingzhu Cai, Aanya Hirdaramani, Aylin Hanyaloglu, Douglas J. Morrison, Gary Frost",
-      "summary": "Nature Metabolism, Published online: 29 July 2026; doi:10.1038/s42255-026-01579-9 This Review provides an overview of the biology of short-chain fatty acids, with a focus on their synthesis, signalling and physiological effects, highlighting their translational potential for metabolic and inflammatory diseases.",
       "date": "2026-07-29T00:00:00Z",
       "date_display": "29 Jul 2026"
     },
@@ -486,28 +442,6 @@
       "date_display": "28 Jul 2026"
     },
     {
-      "id": "11533ae78e",
-      "title": "Microbial catalysts unlock vitamin bioproduction",
-      "link": "https://www.nature.com/articles/s42255-026-01584-y",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "Alejandro I. Ramirez, Lukas Ernst, Jay D. Keasling",
-      "summary": "Nature Metabolism, Published online: 27 July 2026; doi:10.1038/s42255-026-01584-y The sustainable production of vitamin E in microbial cell factories has been restricted to tocotrienol derivatives. In this issue of Nature Metabolism, Zhang, Li and Cao et al. leverage non-classical enzymatic catalysts that are…",
-      "date": "2026-07-27T00:00:00Z",
-      "date_display": "27 Jul 2026"
-    },
-    {
-      "id": "5f3129109b",
-      "title": "A non-classical biosynthetic route enables tocopherol synthesis in bacteria",
-      "link": "https://www.nature.com/articles/s42255-026-01576-y",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "Yang Zhang, Zhizhen Li, Lichuang Cao, Yan Wang, Junyi Wang, Haofeng Chen, Wenhao Li, Xinyu Gao, Qingchen Li, Zhengxin Chen, Kaixuan Xu, Xiangpeng Yang, Xiangrui Wu, Jintao Luo…",
-      "summary": "Nature Metabolism, Published online: 27 July 2026; doi:10.1038/s42255-026-01576-y The study reports a non-classical tocopherol pathway in Rhodobacter that enables heterologous α-tocopherol synthesis by bypassing DMPBQ via a γ/β-tocopherol methyltransferase.",
-      "date": "2026-07-27T00:00:00Z",
-      "date_display": "27 Jul 2026"
-    },
-    {
       "id": "90e1207c00",
       "title": "Who gets told what is impossible?",
       "link": "https://www.nature.com/articles/s41568-026-00961-9",
@@ -530,17 +464,6 @@
       "date_display": "27 Jul 2026"
     },
     {
-      "id": "dff0efdf76",
-      "title": "Distinct brain regions mediate regulation of food intake in response to GIPR agonism or antagonism",
-      "link": "https://www.nature.com/articles/s42255-026-01575-z",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "Jo Edward Lewis, Mireia Montaner, Danae Nuzzaci, Paula-Peace James-Okoro, Norio Harada, Nobuya Inagaki, W. Scott Dodson, Patrick J. Knerr, Jonathan D. Douros, Fiona Mary Gribble…",
-      "summary": "Nature Metabolism, Published online: 24 July 2026; doi:10.1038/s42255-026-01575-z The study employs region-specific knockout of the glucose-dependent insulinotropic polypeptide receptor (GIPR) in either the area postrema or hypothalamus of mice to determine how GIPR agonism and antagonism regulate food intake and body…",
-      "date": "2026-07-24T00:00:00Z",
-      "date_display": "24 Jul 2026"
-    },
-    {
       "id": "b30db0d1a5",
       "title": "How Big Data and AI are revolutionizing human immunology",
       "link": "https://www.nature.com/articles/s41577-026-01340-z",
@@ -561,17 +484,6 @@
       "summary": "Nature Reviews Immunology, Published online: 22 July 2026; doi:10.1038/s41577-026-01342-x A preprint by Delclaux et al. reports that dendritic cells recirculate tumour antigen to the draining lymph nodes to re-engage tumour-egressed T cells and sustain the antitumour response.",
       "date": "2026-07-22T00:00:00Z",
       "date_display": "22 Jul 2026"
-    },
-    {
-      "id": "2076a97c08",
-      "title": "Dalpiciclib plus endocrine therapy in women with HR + /HER2 − advanced breast cancer and visceral crisis: a multicenter, nonrandomized, phase 2 DARVIN trial",
-      "link": "https://www.nature.com/articles/s43018-026-01208-0",
-      "journal": "Nature Cancer",
-      "category": "Original Article",
-      "authors": "Hongnan Mo, Yuee Teng, Li Cai, Huihui Li, Xinhong Wu, Jing Yao, Yu Wang, Dan Lv, Xuenan Peng, Shuchun Wang, Rongrong Chen, Xin Yi, Qingyao Shang, Youwen He, Ji Liu, Zheng Pang…",
-      "summary": "Nature Cancer, Published online: 21 July 2026; doi:10.1038/s43018-026-01208-0 In this multicenter, nonrandomized, phase 2 trial, Ma and colleagues report the results of treatment with dalpiciclib plus endocrine therapy in persons with HR+/HER2− advanced breast cancer experiencing visceral crisis.",
-      "date": "2026-07-21T00:00:00Z",
-      "date_display": "21 Jul 2026"
     },
     {
       "id": "991cf19c8b",
