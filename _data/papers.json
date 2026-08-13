@@ -1,6 +1,39 @@
 {
-  "updated": "2026-08-12T07:04:26Z",
+  "updated": "2026-08-13T07:08:21Z",
   "papers": [
+    {
+      "id": "d9fb4b45bb",
+      "title": "Integrating AI in clinical decision-making",
+      "link": "https://www.nature.com/articles/s43018-026-01230-2",
+      "journal": "Nature Cancer",
+      "category": "Original Article",
+      "authors": "Vincenzo Giacco",
+      "summary": "Nature Cancer, Published online: 12 August 2026; doi:10.1038/s43018-026-01230-2 Integrating AI in clinical decision-making",
+      "date": "2026-08-12T00:00:00Z",
+      "date_display": "12 Aug 2026"
+    },
+    {
+      "id": "27a3b656e9",
+      "title": "TIM3-targeted delivery of venetoclax overcomes drug resistance and reinvigorates NK cell activity in acute myeloid leukemia",
+      "link": "https://www.nature.com/articles/s43018-026-01217-z",
+      "journal": "Nature Cancer",
+      "category": "Original Article",
+      "authors": "Qiwei Wang, Jingyi Li, Xin Zeng, Lina Liu, Huan Lu, Yin Zhao, Yan Huang, Rui Wang, Chen Wang, Yingli Han, Yishan Ye, Yanmin Zhao, Jimin Shi, Yi Luo, Weiyan Zheng, Yongxian Hu…",
+      "summary": "Nature Cancer, Published online: 12 August 2026; doi:10.1038/s43018-026-01217-z Qian and colleagues report the characterization of venetoclax-loaded nanoparticles conjugated with anti-CD16 and anti-TIM3 antibodies, showing that the platform overcomes venetoclax resistance and reinvigorates natural killer cell activity…",
+      "date": "2026-08-12T00:00:00Z",
+      "date_display": "12 Aug 2026"
+    },
+    {
+      "id": "62917e9f10",
+      "title": "Epigenetic modulation of stromal cell states underpins pathological tissue niches in Crohn’s disease",
+      "link": "https://www.nature.com/articles/s41590-026-02617-0",
+      "journal": "Nature Immunology",
+      "category": "Original Article",
+      "authors": "Simon Koplev, Osheen Sharma, Simon Woelfel, Ni Huang, Mathilde Pohin, Adrian Feile, Maria Warschinke, Mikel Rezola Artero, Sharujan Suthakaran, Ioannis Sarropoulos, J. Patrick…",
+      "summary": "Nature Immunology, Published online: 12 August 2026; doi:10.1038/s41590-026-02617-0 The authors provide a multiomic single-cell and spatial atlas of Crohn’s disease, focusing on the crosstalk between immune and stromal cells and heterogeneity around mucosal lesions.",
+      "date": "2026-08-12T00:00:00Z",
+      "date_display": "12 Aug 2026"
+    },
     {
       "id": "bf4b95a85f",
       "title": "TIF1γ regulates stability of regulatory T cells during inflammation",
@@ -46,6 +79,50 @@
       "date_display": "11 Aug 2026"
     },
     {
+      "id": "7d111739ce",
+      "title": "Different lysosomal insults, one microglial fate",
+      "link": "https://www.cell.com/immunity/fulltext/S1074-7613(26)00315-8?rss=yes",
+      "journal": "Immunity",
+      "category": "Original Article",
+      "authors": "Baiping Wang, Hui Zheng",
+      "summary": "Genetic associations point to a connection between lysosomal function and neurodegeneration. In this issue of Immunity, Balak et al. and Tejwani et al. show that genetically distinct lysosomal insults converge on a shared MITF/TFE-driven epigenetic program that underlies disease-associated microglial states, thereby…",
+      "date": "2026-08-11T00:00:00Z",
+      "date_display": "11 Aug 2026"
+    },
+    {
+      "id": "90f7db3f85",
+      "title": "The cost of persistence: MEK and metabolic demand",
+      "link": "https://www.cell.com/immunity/fulltext/S1074-7613(26)00311-0?rss=yes",
+      "journal": "Immunity",
+      "category": "Original Article",
+      "authors": "Ewelina Sobierajska, Christopher B. Medina",
+      "summary": "The metabolic mechanisms linking chronic TCR stimulation to T cell exhaustion remain incompletely understood. Mitra and colleagues show that sustained MEK signaling drives the bioenergetic demands of chronic activation to promote terminal exhaustion, whereas MEK inhibition maintains progenitor-like T cells.",
+      "date": "2026-08-11T00:00:00Z",
+      "date_display": "11 Aug 2026"
+    },
+    {
+      "id": "94f501ee07",
+      "title": "Peripheral vision: Treg cell induction in the gut",
+      "link": "https://www.cell.com/immunity/fulltext/S1074-7613(26)00312-2?rss=yes",
+      "journal": "Immunity",
+      "category": "Original Article",
+      "authors": "Taylor A. Graham, Peter A. Savage",
+      "summary": "Some regulatory T (Treg) cells differentiate at peripheral sites in response to antigens derived from innocuous sources. In this issue of Immunity, Chi et al. examine an extensive array of T cell receptors with specificity for self, microbial, or dietary antigens to define the rules governing peripheral Treg cell…",
+      "date": "2026-08-11T00:00:00Z",
+      "date_display": "11 Aug 2026"
+    },
+    {
+      "id": "076c11d92b",
+      "title": "Copy and paste: Humanizing IgH 155 kb at a time",
+      "link": "https://www.cell.com/immunity/fulltext/S1074-7613(26)00314-6?rss=yes",
+      "journal": "Immunity",
+      "category": "Original Article",
+      "authors": "Tianli Xiao, Richard A. Flavell",
+      "summary": "Generating mice that express human antibodies is a lengthy and labor-intensive process. Knocking in human gene segments into mice has potential, but how large a gene segment can be knocked into a zygote? Nair et al. insert a 155-kb human VH locus directly into mouse zygotes by CRISPR-mediated homology-directed repair…",
+      "date": "2026-08-11T00:00:00Z",
+      "date_display": "11 Aug 2026"
+    },
+    {
       "id": "ef31e5e7ef",
       "title": "Glioblastoma Subtypes Exhibit Distinct Migration Mechanics and Immune Responses",
       "link": "https://aacrjournals.org/cancerrescommun/article/6/8/1898/787387/Glioblastoma-Subtypes-Exhibit-Distinct-Migration",
@@ -75,6 +152,17 @@
       "category": "Original Article",
       "authors": "Wei Hu, Zhong-Min Wang, Yongqiang Feng, Michail Schizas, Beatrice E. Hoyos, Joris van der Veeken, Jacob G. Verter, Regina Bou-Puerto, Alexander Y. Rudensky",
       "summary": "Nature Immunology, Published online: 10 August 2026; doi:10.1038/s41590-026-02640-1 Author Correction: Regulatory T cells function in established systemic inflammation and reverse fatal autoimmunity",
+      "date": "2026-08-10T00:00:00Z",
+      "date_display": "10 Aug 2026"
+    },
+    {
+      "id": "d8bee756b5",
+      "title": "Beyond BCL-2: What drives venetoclax resistance in acute myeloid leukemia?",
+      "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00313-2?rss=yes",
+      "journal": "Cancer Cell",
+      "category": "Original Article",
+      "authors": "Anna Skwarska, Marina Konopleva",
+      "summary": "The BCL-2 inhibitor venetoclax has transformed outcomes for older or frail patients with acute myeloid leukemia (AML), and its resistance mechanisms are becoming better defined, including compensatory and lineage-associated switches toward MCL-1 or BCL-xL dependence, oncogenic signaling activation, blast phenotype…",
       "date": "2026-08-10T00:00:00Z",
       "date_display": "10 Aug 2026"
     },
@@ -167,6 +255,17 @@
       "date_display": "7 Aug 2026"
     },
     {
+      "id": "2f0e24fecf",
+      "title": "Charting intratumor heterogeneity from bench to bedside",
+      "link": "https://www.nature.com/articles/s43018-026-01198-z",
+      "journal": "Nature Cancer",
+      "category": "Original Article",
+      "authors": "Jonathan C. M. Wan, Nicholas McGranahan, Charles Swanton",
+      "summary": "Nature Cancer, Published online: 07 August 2026; doi:10.1038/s43018-026-01198-z Swanton and colleagues provide an overview on intratumor heterogeneity and cancer evolution arising from genetic factors and non-genetic regulation of cancer cells, the tumor microenvironment and the immune system.",
+      "date": "2026-08-07T00:00:00Z",
+      "date_display": "7 Aug 2026"
+    },
+    {
       "id": "a7069f9c03",
       "title": "Author Correction: The kinase MST4 limits inflammatory responses through direct phosphorylation of the adaptor TRAF6",
       "link": "https://www.nature.com/articles/s41590-026-02634-z",
@@ -211,6 +310,39 @@
       "date_display": "6 Aug 2026"
     },
     {
+      "id": "391c462521",
+      "title": "Insights from the ESMO Targeted Anticancer Therapies Asia Congress 2026",
+      "link": "https://www.nature.com/articles/s43018-026-01215-1",
+      "journal": "Nature Cancer",
+      "category": "Original Article",
+      "authors": "Vincenzo Giacco",
+      "summary": "Nature Cancer, Published online: 05 August 2026; doi:10.1038/s43018-026-01215-1 The latest ESMO Targeted Anticancer Therapies Asia Congress brought together researchers, clinicians and industry experts to discuss how advances in molecular oncology, cell therapies, artificial intelligence and translational science are…",
+      "date": "2026-08-05T00:00:00Z",
+      "date_display": "5 Aug 2026"
+    },
+    {
+      "id": "dbdf9b9fb4",
+      "title": "Tumoral extracellular vesicles and particles reprogram interstitial macrophages in the lung to promote vascular permeability and metastasis",
+      "link": "https://www.nature.com/articles/s43018-026-01209-z",
+      "journal": "Nature Cancer",
+      "category": "Original Article",
+      "authors": "Shani Dror, Inbal Wortzel, Serena Lucotti, Yura Seo, Jianlong Li, Lee Shaashua, Irina Matei, Nancy Boudreau, Haiying Zhang, Maider Astorkia-Amiama, Doron Betel, Han Sang Kim, Jai…",
+      "summary": "Nature Cancer, Published online: 05 August 2026; doi:10.1038/s43018-026-01209-z Dror et al. show that tumor-derived extracellular vesicles and particles reprogram interstitial macrophages during the formation of the lung premetastatic niche, thereby increasing vascular permeability and promoting metastatic potential.",
+      "date": "2026-08-05T00:00:00Z",
+      "date_display": "5 Aug 2026"
+    },
+    {
+      "id": "5a4cf4e784",
+      "title": "Fc-optimized GITR antibody enhances a CD4 T cell–dendritic cell crosstalk to promote antitumor immunity",
+      "link": "https://www.nature.com/articles/s43018-026-01207-1",
+      "journal": "Nature Cancer",
+      "category": "Original Article",
+      "authors": "Yahel Avraham, Natasha Barth, Tzlil Yair Bar-On, Barak Toval, Aviya Habshush Menachem, Jasmine Blanga, Ella Herzog, Hagar Rotem, Yuval Shapir Itai, Tali Feferman, Moshe Biton…",
+      "summary": "Nature Cancer, Published online: 05 August 2026; doi:10.1038/s43018-026-01207-1 Avraham et al. engineered an anti-GITR human antibody with an optimized Fc domain that engages the activating Fcγ receptors IIa and IIIa to enhance antitumor efficacy through the depletion of regulatory T cells and activation of CD4+ T…",
+      "date": "2026-08-05T00:00:00Z",
+      "date_display": "5 Aug 2026"
+    },
+    {
       "id": "e91d472168",
       "title": "Palmitoylation modulates neutrophil anti-tumour function in liver metastasis",
       "link": "https://www.nature.com/articles/s42255-026-01581-1",
@@ -244,6 +376,105 @@
       "date_display": "5 Aug 2026"
     },
     {
+      "id": "8d3eecdff1",
+      "title": "CCR7+ activated dendritic cells are essential for spontaneous and immunotherapy-driven anti-tumor immunity",
+      "link": "https://www.cell.com/immunity/fulltext/S1074-7613(26)00278-5?rss=yes",
+      "journal": "Immunity",
+      "category": "Original Article",
+      "authors": "Maria A. Koufaki, Erin Richardson, Eduardo Bonavita, Richard Reeves, Agrin Moeini, Shih-Chieh Chiang, Antonia Banyard, Massimo Russo, Charles H. Earnshaw, Charlotte R. Bell…",
+      "summary": "Dendritic cells (DCs) can acquire distinct functional states. To examine how different DC states orchestrate anti-tumor immunity, Koufaki et al. develop mouse models to label and ablate CCR7+ DCs and find that this activation state is essential for tumor control by uniquely priming tumor-specific cytotoxic T…",
+      "date": "2026-08-04T00:00:00Z",
+      "date_display": "4 Aug 2026"
+    },
+    {
+      "id": "b618e0c3e6",
+      "title": "Decoding neural signals to build metabolic therapies",
+      "link": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00236-6?rss=yes",
+      "journal": "Cell Metabolism",
+      "category": "Original Article",
+      "authors": "Tune H. Pers, Amber L. Alhadeff, Martin G. Myers, Alice E. Adriaenssens, Henning Fenselau, Sarah A. Stanley, Virginie Mansuy-Aubert, Ana I. Domingos, Alejandro Caicedo, Beste Mutlu",
+      "summary": "Ongoing research points to neural circuits as the major targets for the incretin-mimetic drugs that are transforming obesity treatment. In this Voices piece, we asked researchers to discuss their work on how central and peripheral pathways influence energy balance and metabolism, and what next steps are needed to…",
+      "date": "2026-08-04T00:00:00Z",
+      "date_display": "4 Aug 2026"
+    },
+    {
+      "id": "ac0013c383",
+      "title": "Methionine tuning for health without frailty",
+      "link": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00239-1?rss=yes",
+      "journal": "Cell Metabolism",
+      "category": "Original Article",
+      "authors": "Amanda Garrido, Nathan L. Price, Rafael de Cabo",
+      "summary": "Dietary protein quality, not merely quantity, shapes metabolic health and aging trajectories. Fanti et al. show that moderate methionine supplementation to a low-protein, Mediterranean-inspired diet activates a GH-GLP-1-FGF21 axis that reduces adiposity and frailty without caloric restriction; their findings provide a…",
+      "date": "2026-08-04T00:00:00Z",
+      "date_display": "4 Aug 2026"
+    },
+    {
+      "id": "444d6e29a4",
+      "title": "A mitochondrial antioxidant axis fuels iron addiction in colorectal cancer",
+      "link": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00237-8?rss=yes",
+      "journal": "Cell Metabolism",
+      "category": "Original Article",
+      "authors": "Le Jin Sun, Gina M. DeNicola",
+      "summary": "Colorectal cancer (CRC) cells accumulate iron to fuel proliferation yet paradoxically resist its toxicity. Jain et al. reveal that heme stabilizes succinate dehydrogenase subunit C, sustaining complex II-dependent coenzyme Q reduction and its redistribution to the plasma membrane, enabling CRC cells to buffer…",
+      "date": "2026-08-04T00:00:00Z",
+      "date_display": "4 Aug 2026"
+    },
+    {
+      "id": "0cdf5afc89",
+      "title": "Microglia go beyond surveillance to fuel neuronal protein synthesis on demand",
+      "link": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00223-8?rss=yes",
+      "journal": "Cell Metabolism",
+      "category": "Original Article",
+      "authors": "Stefano Pluchino, Evridiki Asimakidou",
+      "summary": "In this issue of Cell Metabolism, Adler et al. demonstrate that microglia coordinate multicellular metabolic interactions within the neurovascular niche. They identify microglia-derived cysteine-rich angiogenic inducer 61 (CYR61) as a mediator promoting cerebral glucose uptake and neuronal protein synthesis, thereby…",
+      "date": "2026-08-04T00:00:00Z",
+      "date_display": "4 Aug 2026"
+    },
+    {
+      "id": "57b14b42d4",
+      "title": "When lactate speaks: Rewiring astrocyte-neuron metabolism in Alzheimer’s disease",
+      "link": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00192-0?rss=yes",
+      "journal": "Cell Metabolism",
+      "category": "Original Article",
+      "authors": "Jessica Furtado, Marc Schneeberger",
+      "summary": "Metabolic dysfunction is a defining but poorly understood feature of Alzheimer’s disease. Du et al. show that a brain-penetrant GLP-1 receptor agonist rewires astrocyte-neuron metabolic coupling through lactate-driven histone lactylation, linking astrocytic glycolysis to neuronal lipid homeostasis and positioning…",
+      "date": "2026-08-04T00:00:00Z",
+      "date_display": "4 Aug 2026"
+    },
+    {
+      "id": "90248d61fe",
+      "title": "The Hormone Cell Atlas decodes the human endocrine system, one cell at a time",
+      "link": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00245-7?rss=yes",
+      "journal": "Cell Metabolism",
+      "category": "Original Article",
+      "authors": "Dominique Langin, André C. Carpentier",
+      "summary": "Farooqi, Teichmann, and collaborators developed the Hormone Cell Atlas, a 14-million-cell dataset mapping hormone production and sensitivity across 47 human tissues. Their findings expand knowledge on sites of production and receiver cells, opening new avenues in endocrinology and metabolism.",
+      "date": "2026-08-04T00:00:00Z",
+      "date_display": "4 Aug 2026"
+    },
+    {
+      "id": "3932304cc7",
+      "title": "Pulsatile FXR activation for liver diseases",
+      "link": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00278-0?rss=yes",
+      "journal": "Cell Metabolism",
+      "category": "Original Article",
+      "authors": "Pingxin Sun, Ke Feng, Wenlin Li",
+      "summary": "Sustained receptor activation is often prioritized in drug development. Zang and colleagues challenge this paradigm with linafexor, a rapidly cleared farnesoid X receptor agonist that produces pulsatile activation, preserves receptor responsiveness, reduces broad transcriptional disruption, and improves efficacy and…",
+      "date": "2026-08-04T00:00:00Z",
+      "date_display": "4 Aug 2026"
+    },
+    {
+      "id": "c768f22d75",
+      "title": "Weight-loss-independent actions of GLP-1 medicines",
+      "link": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00279-2?rss=yes",
+      "journal": "Cell Metabolism",
+      "category": "Original Article",
+      "authors": "Maria J. Gonzalez-Rellan, Daniel J. Drucker",
+      "summary": "The unprecedented broad efficacy of GLP-1 medicines reflects mechanisms beyond weight loss. GLP-1R agonism recruits neural and immune circuits, inter-organ communication, and engages local GLP-1Rs to improve cardiovascular, renal, hepatic, musculoskeletal, and organismal health. Defining dose-response relationships…",
+      "date": "2026-08-04T00:00:00Z",
+      "date_display": "4 Aug 2026"
+    },
+    {
       "id": "405ac6006d",
       "title": "Targeting Wild-type NTRK in NTRK Fusion–Negative Lung Cancer Decreases Brain Metastases",
       "link": "https://aacrjournals.org/cancerrescommun/article/6/8/1850/787258/Targeting-Wild-type-NTRK-in-NTRK-Fusion-Negative",
@@ -253,6 +484,28 @@
       "summary": "Abstract The central nervous system (CNS) is a common site of metastasis for both non–small cell and small cell lung cancer, yet the therapeutic strategies to prevent and decrease lung cancer brain metastases (BM) remain limited. Tyrosine kinase inhibitors have shown promising results in increasing overall response in…",
       "date": "2026-08-04T00:00:00Z",
       "date_display": "4 Aug 2026"
+    },
+    {
+      "id": "62a681da38",
+      "title": "Copper dependency in leukemia metabolism",
+      "link": "https://www.nature.com/articles/s43018-026-01205-3",
+      "journal": "Nature Cancer",
+      "category": "Original Article",
+      "authors": "Sarada Achyutuni, Jian Xu",
+      "summary": "Nature Cancer, Published online: 03 August 2026; doi:10.1038/s43018-026-01205-3 Despite their crucial roles in physiology, the contributions of trace metals to cancer fitness and therapy response remain unclear. Combining a CRISPR screen with functional and metabolic studies, recent work identifies copper homeostasis…",
+      "date": "2026-08-03T00:00:00Z",
+      "date_display": "3 Aug 2026"
+    },
+    {
+      "id": "1b52fb2d42",
+      "title": "Author Correction: IDH1 -mutant vaccine in newly diagnosed astrocytoma: final analysis of the multicenter, single-arm, open-label, first-in-human phase 1 NOA16 trial",
+      "link": "https://www.nature.com/articles/s43018-026-01227-x",
+      "journal": "Nature Cancer",
+      "category": "Original Article",
+      "authors": "Lukas Bunse, Katharina Lindner, Antje Wick, Angelika Freitag, Lisa-Marie Lanz, Dominic Edelmann, Abigail Suwala, Michael O. Breckwoldt, Inga Harting, Felix Sahm, Richard F…",
+      "summary": "Nature Cancer, Published online: 03 August 2026; doi:10.1038/s43018-026-01227-x Author Correction: IDH1 -mutant vaccine in newly diagnosed astrocytoma: final analysis of the multicenter, single-arm, open-label, first-in-human phase 1 NOA16 trial",
+      "date": "2026-08-03T00:00:00Z",
+      "date_display": "3 Aug 2026"
     },
     {
       "id": "8c77be1dd4",
@@ -273,6 +526,28 @@
       "category": "Original Article",
       "authors": "Benjamin J. Schmiedel, Cristian Gonzalez-Colin, Vicente Fajardo-Rosas, Job Rocha, Hayley Simon, Johannes Ottensmeier, Ignacio E. Ramírez-Bernabé, April Cano, Angel De la Cruz…",
       "summary": "Nature Immunology, Published online: 03 August 2026; doi:10.1038/s41590-026-02596-2 Schmiedel et al. present a human lung immune cell atlas linking disease-associated genetic variants to gene expression in tissue-resident immune cells.",
+      "date": "2026-08-03T00:00:00Z",
+      "date_display": "3 Aug 2026"
+    },
+    {
+      "id": "9048a2b980",
+      "title": "Lysosomal dysfunction drives a transcriptional and epigenetic signature found in disease-associated microglia in neurodegenerative diseases",
+      "link": "https://www.cell.com/immunity/fulltext/S1074-7613(26)00307-9?rss=yes",
+      "journal": "Immunity",
+      "category": "Original Article",
+      "authors": "Christopher D. Balak, Johannes C.M. Schlachetzki, Addison J. Lana, Elizabeth West, Christine Hong, Jordan DuGal, Yi Zhou, Benjamin Li, Nathanael J. Spann, Payam Saisan, Vishal…",
+      "summary": "Lysosomal dysfunction is associated with neurodegeneration. Balak et al. examine the cell-specific effects of lysosomal dysfunction in an MPS-IIIA (Sgsh−/−) model and find that microglia are disproportionately affected. Mechanistically, the MITF/TFE transcription factors cooperate with AP-1/ATF, C/EBP, and PU.1 to…",
+      "date": "2026-08-03T00:00:00Z",
+      "date_display": "3 Aug 2026"
+    },
+    {
+      "id": "418dff27f5",
+      "title": "Progranulin deficiency-induced lysosomal dysfunction drives maladaptive myeloid cell states through the MITF/TFE transcription factors",
+      "link": "https://www.cell.com/immunity/fulltext/S1074-7613(26)00308-0?rss=yes",
+      "journal": "Immunity",
+      "category": "Original Article",
+      "authors": "Leon Tejwani, Catherine M. Heffner, Christopher Balak, Lukas L. Skuja, David Tatarakis, Anil Rana, Seungyoon B. Yu, Gabriel A. Fitzgerald, Connie Ha, Gabrielly Lunkes de Melo…",
+      "summary": "Mutations in proteins with roles in lysosomal function, including progranulin, are linked with neurodegenerative diseases. Tejwani, Heffner, et al. demonstrate that lysosomal dysfunction is sufficient to drive epigenetic, transcriptional, and functional remodeling of microglia and macrophages, including in the context…",
       "date": "2026-08-03T00:00:00Z",
       "date_display": "3 Aug 2026"
     },
@@ -376,15 +651,48 @@
       "date_display": "3 Aug 2026"
     },
     {
-      "id": "1ed98b014f",
-      "title": "Author Correction: Mitochondrial DNA oxidation propagates autoimmunity by enabling plasmacytoid dendritic cells to induce T FH differentiation",
-      "link": "https://www.nature.com/articles/s41590-026-02630-3",
-      "journal": "Nature Immunology",
-      "category": "Original Article",
-      "authors": "Hongxu Xian, Kosuke Watari, Masafumi Ohira, Jonathan S. Brito, Peng He, Janset Onyuru, Elina I. Zuniga, Hal M. Hoffman, Michael Karin",
-      "summary": "Nature Immunology, Published online: 31 July 2026; doi:10.1038/s41590-026-02630-3 Author Correction: Mitochondrial DNA oxidation propagates autoimmunity by enabling plasmacytoid dendritic cells to induce T FH differentiation",
-      "date": "2026-07-31T00:00:00Z",
-      "date_display": "31 Jul 2026"
+      "id": "a2b4557c0a",
+      "title": "Advisory Board and Contents",
+      "link": "https://www.cell.com/trends/cancer/fulltext/S2405-8033(26)00174-3?rss=yes",
+      "journal": "Trends in Cancer",
+      "category": "Review Article",
+      "authors": "",
+      "summary": "",
+      "date": "2026-08-01T00:00:00Z",
+      "date_display": "1 Aug 2026"
+    },
+    {
+      "id": "609ad117c4",
+      "title": "Subscription & copyright page",
+      "link": "https://www.cell.com/trends/cancer/fulltext/S2405-8033(26)00177-9?rss=yes",
+      "journal": "Trends in Cancer",
+      "category": "Review Article",
+      "authors": "",
+      "summary": "",
+      "date": "2026-08-01T00:00:00Z",
+      "date_display": "1 Aug 2026"
+    },
+    {
+      "id": "9facf4469c",
+      "title": "Advisory Board and Contents",
+      "link": "https://www.cell.com/trends/cell-biology/fulltext/S0962-8924(26)00139-X?rss=yes",
+      "journal": "Trends in Cell Biology",
+      "category": "Review Article",
+      "authors": "",
+      "summary": "",
+      "date": "2026-08-01T00:00:00Z",
+      "date_display": "1 Aug 2026"
+    },
+    {
+      "id": "6d1deb92d0",
+      "title": "Subscription and Copyright Information",
+      "link": "https://www.cell.com/trends/cell-biology/fulltext/S0962-8924(26)00142-X?rss=yes",
+      "journal": "Trends in Cell Biology",
+      "category": "Review Article",
+      "authors": "",
+      "summary": "",
+      "date": "2026-08-01T00:00:00Z",
+      "date_display": "1 Aug 2026"
     },
     {
       "id": "3e0e7daa4f",
@@ -398,6 +706,17 @@
       "date_display": "31 Jul 2026"
     },
     {
+      "id": "80235bde6e",
+      "title": "Mapping micrometastatic seeds of relapse",
+      "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00345-4?rss=yes",
+      "journal": "Cancer Cell",
+      "category": "Original Article",
+      "authors": "Hui Ting Grace Yeo, Iain Beehuat Tan",
+      "summary": "In this issue of Cancer Cell, Liu et al. apply spatial multi-omics to map colorectal cancer micrometastases across primary tumors and matched liver and lung metastases, revealing liver micrometastases as an early evolved, stem-like, immune-suppressed residual disease state linked to a six-gene recurrence signature.",
+      "date": "2026-07-31T00:00:00Z",
+      "date_display": "31 Jul 2026"
+    },
+    {
       "id": "fd617c03a8",
       "title": "Platelet-derived serotonin epigenetically programs macrophage alternative activation to orchestrate type 2 airway inflammation",
       "link": "https://www.nature.com/articles/s41423-026-01455-2",
@@ -405,6 +724,17 @@
       "category": "Original Article",
       "authors": "Ru Tang, Guofang Xia, Ying Zhu, Jinhong Sheng, Zhihan Liu, Song Mao, Jiayao Zhou, Yuelong Gu, Shilei Pu, Zhipeng Li, Hai Lin, Congfeng Xu, Hongqing Xu, Feng Zhang, Yongxu Zhao…",
       "summary": "Cellular & Molecular Immunology, Published online: 30 July 2026; doi:10.1038/s41423-026-01455-2 Platelet-derived serotonin epigenetically programs macrophage alternative activation to orchestrate type 2 airway inflammation",
+      "date": "2026-07-30T00:00:00Z",
+      "date_display": "30 Jul 2026"
+    },
+    {
+      "id": "3856ff71c0",
+      "title": "The liver-secreted protein FGL1 restrains a subset of innate-like B cell responses via the receptor TACI",
+      "link": "https://www.cell.com/immunity/fulltext/S1074-7613(26)00304-3?rss=yes",
+      "journal": "Immunity",
+      "category": "Original Article",
+      "authors": "Tina Tianjiao Su, Jianwei He, Yuge Wang, Jiaoyan Huang, Baozhu Huang, Ala Nassar, Laure Willen, Mahya Eslami, Chunxiang Wu, Meiyi Huang, Jianping Zhang, Runxia Gu, Lan Ji, Ti…",
+      "summary": "Negative regulatory ligands have been underexplored for B cells. Su et al. identify fibrinogen-like protein 1 (FGL1) as a new inhibitory ligand for a transmembrane activator and calcium-modulator and cyclophilin ligand interactor (TACI) on a subset of B cells, exploring the biochemistry, function, and potential…",
       "date": "2026-07-30T00:00:00Z",
       "date_display": "30 Jul 2026"
     },
@@ -451,6 +781,61 @@
       "summary": "Cellular & Molecular Immunology, Published online: 29 July 2026; doi:10.1038/s41423-026-01453-4 NLRC3 enhances antitumor immunity by specifically negatively regulating M-MDSCs in a STING-dependent manner",
       "date": "2026-07-29T00:00:00Z",
       "date_display": "29 Jul 2026"
+    },
+    {
+      "id": "dbe41842f8",
+      "title": "Bile acids in cancer: From metabolism to immunomodulation",
+      "link": "https://www.cell.com/immunity/fulltext/S1074-7613(26)00279-7?rss=yes",
+      "journal": "Immunity",
+      "category": "Original Article",
+      "authors": "Qian Fang, Kai Markus Schneider",
+      "summary": "Fang and Schneider review how bile acids connect host metabolism, microbial ecology, and tumor immunity. They present a spatial and cell-type-aware framework for bile acid immunomodulation and discuss therapeutic opportunities to remodel bile acid-immune circuits in cancer.",
+      "date": "2026-07-29T00:00:00Z",
+      "date_display": "29 Jul 2026"
+    },
+    {
+      "id": "fe7a525366",
+      "title": "Dysbiosis-associated bile acids slam the brakes on immune checkpoint therapy",
+      "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00300-4?rss=yes",
+      "journal": "Cancer Cell",
+      "category": "Original Article",
+      "authors": "Chi Chun Wong, Jun Yu",
+      "summary": "Antibiotics compromise the efficacy of immune checkpoint inhibition (ICI) therapy in cancer, but the underlying mechanism remains unclear. In this issue of Cancer Cell, Mallard de La Varende et al. identify dysbiosis-associated tauro-conjugated bile acids as drivers of ICI non-response and γ-glutamyl transferase (γGT)…",
+      "date": "2026-07-29T00:00:00Z",
+      "date_display": "29 Jul 2026"
+    },
+    {
+      "id": "a81c2fe5b1",
+      "title": "Subclinical cholestasis is a hallmark of gut dysbiosis causing resistance to cancer immunotherapy",
+      "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00309-0?rss=yes",
+      "journal": "Cancer Cell",
+      "category": "Original Article",
+      "authors": "Anne-Laure Mallard de La Varende, Ai-Ling Tian, Simon Thomas, Imran Lahmar, Meriem Messaoudene, Sijing Li, Omar Motiño, Hortense Guillaume-dit-Taunière, Valerio Iebba, Yoan…",
+      "summary": "Mallard de La Varende et al. demonstrate that gut dysbiosis impairs tumor immunosurveillance through the gut-liver axis, causing subclinical cholestasis and immunotherapy resistance in tumors distant from gastrointestinal and hepatic tissues. Gut dysbiosis triggers plasma elevation of γ-glutamyl transferase, increase…",
+      "date": "2026-07-29T00:00:00Z",
+      "date_display": "29 Jul 2026"
+    },
+    {
+      "id": "55e0dc02ba",
+      "title": "TCR origin and specificity to environmental or self-antigens on distinct antigen-presenting cells determine peripheral Treg cell differentiation",
+      "link": "https://www.cell.com/immunity/fulltext/S1074-7613(26)00277-3?rss=yes",
+      "journal": "Immunity",
+      "category": "Original Article",
+      "authors": "Xinxin Chi, Charlotte H. Wang, Yollanda Franco Parisotto, William A. Nyberg, Vanja Cabric, Adelaide Gelineau, Yi Cao, David L. Owen, Jonas Ambjörnsson, Diane Mathis, Justin…",
+      "summary": "Using CRISPR-based TCR editing, Chi et al. systematically compare gut TCRs recognizing dietary, microbial, and self-antigens to define the principles that govern peripheral Treg cell differentiation. They find that TCR identity encodes pTreg cell generation, phenotype, and antigen-presenting cell dependence…",
+      "date": "2026-07-28T00:00:00Z",
+      "date_display": "28 Jul 2026"
+    },
+    {
+      "id": "be41811578",
+      "title": "Environmentally induced cell stiffening shapes metastatic site selection by tuning the immune vulnerability of cancer cells",
+      "link": "https://www.cell.com/immunity/fulltext/S1074-7613(26)00276-1?rss=yes",
+      "journal": "Immunity",
+      "category": "Original Article",
+      "authors": "Yassmin A. Elbanna, Maria Tello-Lafoz, Aliya Holland, Ye Zhang, Chengyuan Li, Seema Amin, Zhenghan Wang, Jun-Goo Kwak, Alexandrina Yakimov, Anastasiia Vaska, Esther Lee, Myra…",
+      "summary": "Adherent cells mimic the mechanical properties of their surroundings, becoming stiffer in more rigid environments and softer in more compliant ones. Elbanna et al. find that this environmentally induced stiffening response shapes metastatic site distribution by preferentially sensitizing cancer cells to cytotoxic…",
+      "date": "2026-07-28T00:00:00Z",
+      "date_display": "28 Jul 2026"
     },
     {
       "id": "59b8efb21e",
@@ -508,6 +893,17 @@
       "date_display": "27 Jul 2026"
     },
     {
+      "id": "7cf7ca9b2c",
+      "title": "Disease-associated microglia adopt stage-specific phenotypes that regulate T cell fate and immunity in glioma",
+      "link": "https://www.cell.com/immunity/fulltext/S1074-7613(26)00275-X?rss=yes",
+      "journal": "Immunity",
+      "category": "Original Article",
+      "authors": "Jiawen Qian, Chen Wang, Yi Zhang, Congwen Li, Yingying Zeng, Shuangyan Zhang, Fei Gao, Yiwen Zhu, Peiliang Cai, Zhongyuan Zhang, Yanan Hu, Xiaotong Yu, Benoit Kloeckner, Marco…",
+      "summary": "How brain-resident microglia regulate T cell immunity during glioma progression remains unclear. Qian et al. show that disease-associated microglia (DAMs) are not fixed suppressors but instead evolve with tumor stage. DAMs transition from antigen-presenting and checkpoint-regulatory states to T cell-clearing programs…",
+      "date": "2026-07-24T00:00:00Z",
+      "date_display": "24 Jul 2026"
+    },
+    {
       "id": "b30db0d1a5",
       "title": "How Big Data and AI are revolutionizing human immunology",
       "link": "https://www.nature.com/articles/s41577-026-01340-z",
@@ -552,6 +948,28 @@
       "date_display": "21 Jul 2026"
     },
     {
+      "id": "f48e76b7ef",
+      "title": "Elevation of JAML Promotes Diabetic Kidney Disease by Modulating Podocyte Lipid Metabolism",
+      "link": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00284-6?rss=yes",
+      "journal": "Cell Metabolism",
+      "category": "Original Article",
+      "authors": "Yi Fu, Yu Sun, Mei Wang, Yunfeng Hou, Wei Huang, Di Zhou, Ziying Wang, Shuting Yang, Wei Tang, Junhui Zhen, Yujia Li, Xiaojie Wang, Min Liu, Yan Zhang, Baobao Wang, Guangyi Liu…",
+      "summary": "(Cell Metabolism 32, 1052–1062.e1–e8; December 1, 2020)",
+      "date": "2026-07-20T00:00:00Z",
+      "date_display": "20 Jul 2026"
+    },
+    {
+      "id": "3d9e6fe8a2",
+      "title": "High-Mobility Group Box 1 Is Essential for Mitochondrial Quality Control",
+      "link": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00282-2?rss=yes",
+      "journal": "Cell Metabolism",
+      "category": "Original Article",
+      "authors": "Daolin Tang, Rui Kang, Kristen M. Livesey, Guido Kroemer, Timothy R. Billiar, Bennett Van Houten, Herbert J. Zeh, Michael T. Lotze",
+      "summary": "(Cell Metabolism 13, 701–711; June 8, 2011)",
+      "date": "2026-07-18T00:00:00Z",
+      "date_display": "18 Jul 2026"
+    },
+    {
       "id": "a2474d8b8f",
       "title": "Author Correction: DNA sensing and associated type 1 interferon signaling contributes to progression of radiation-induced liver injury",
       "link": "https://www.nature.com/articles/s41423-026-01449-0",
@@ -574,6 +992,39 @@
       "date_display": "17 Jul 2026"
     },
     {
+      "id": "18fe603a9b",
+      "title": "Purine and pyrimidine-based bacterial cyclic dinucleotides egress the phagosome and activate the innate immune sensor STING",
+      "link": "https://www.cell.com/immunity/fulltext/S1074-7613(26)00274-8?rss=yes",
+      "journal": "Immunity",
+      "category": "Original Article",
+      "authors": "Stephanie A. Ragland, Katherine E. Lindblad, Yao Li, Joon H. Choi, Daniel Okin, Joshua Q. Mao, Desmond Richmond-Buccola, Daniela R. Coronado, Madison R. Brown, Scott B. Snapper…",
+      "summary": "Innate immune recognition of bacteria is thought to center on cell-surface or endosomal pattern recognition receptors such as TLRs. Ragland et al. identify an intraphagosomal cyclic dinucleotide (CDN)-host transporter-STING axis, wherein cytoplasmic STING acts as a common sensor of diverse bacteria, capable of…",
+      "date": "2026-07-17T00:00:00Z",
+      "date_display": "17 Jul 2026"
+    },
+    {
+      "id": "fa662ead17",
+      "title": "Bile Acid and Inflammation Activate Gastric Cardia Stem Cells in a Mouse Model of Barrett-Like Metaplasia",
+      "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00343-0?rss=yes",
+      "journal": "Cancer Cell",
+      "category": "Original Article",
+      "authors": "Michael Quante, Govind Bhagat, Julian A. Abrams, Frederic Marache, Pamela Good, Michele D. Lee, Yoomi Lee, Richard Friedman, Samuel Asfaha, Zinaida Dubeykovskaya, Umar Mahmood…",
+      "summary": "(Cancer Cell 21, 36–51; January 17, 2012)",
+      "date": "2026-07-17T00:00:00Z",
+      "date_display": "17 Jul 2026"
+    },
+    {
+      "id": "e406ae46fb",
+      "title": "CHD4 Has Oncogenic Functions in Initiating and Maintaining Epigenetic Suppression of Multiple Tumor Suppressor Genes",
+      "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00346-6?rss=yes",
+      "journal": "Cancer Cell",
+      "category": "Original Article",
+      "authors": "Limin Xia, Wenjie Huang, Marina Bellani, Michael M. Seidman, Kaichun Wu, Daiming Fan, Yongzhan Nie, Yi Cai, Yang W. Zhang, Li-Rong Yu, Huili Li, Cynthia A. Zahnow, Wenbing Xie…",
+      "summary": "(Cancer Cell 31, 653–668.e1–e7; May 8, 2017)",
+      "date": "2026-07-17T00:00:00Z",
+      "date_display": "17 Jul 2026"
+    },
+    {
       "id": "039ccaba45",
       "title": "Macrophages are constitutive architects of tissue integrity",
       "link": "https://www.nature.com/articles/s41577-026-01334-x",
@@ -583,6 +1034,28 @@
       "summary": "Nature Reviews Immunology, Published online: 17 July 2026; doi:10.1038/s41577-026-01334-x The lineage distinction between inflammatory, defence-oriented, monocyte-derived macrophages and resident macrophages dedicated to tissue maintenance calls into question the primordial function of macrophages and offers untapped…",
       "date": "2026-07-17T00:00:00Z",
       "date_display": "17 Jul 2026"
+    },
+    {
+      "id": "30476af7a1",
+      "title": "PD-1 blockade unleashes local hepatitis B virus-related B cell response inhibiting hepatocellular carcinoma",
+      "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00297-7?rss=yes",
+      "journal": "Cancer Cell",
+      "category": "Original Article",
+      "authors": "Shuling Chen, Yuanqi Wang, Jingying Chen, Wenxuan Xie, Jianyu Chen, Guanrui Liao, Xiaoxue Ren, Kai Lei, Yuting Zhang, Shu Wang, Ye Yang, Youmei Kang, Qiaoyi Chen, Yixi Wen…",
+      "summary": "Following perioperative anti-PD-1 therapy in hepatocellular carcinoma, Chen et al. report two distinct subtypes of late-recurrence patients characterized by either T cell or B cell dominant responses within tumors. Through single-cell spatial transcriptomics and antibody cloning experiments, they show that anti-PD-1…",
+      "date": "2026-07-16T00:00:00Z",
+      "date_display": "16 Jul 2026"
+    },
+    {
+      "id": "a784fc0f41",
+      "title": "Perioperative tislelizumab plus chemotherapy for locally advanced gastric cancer: A randomized, prospective phase 2 trial",
+      "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00302-8?rss=yes",
+      "journal": "Cancer Cell",
+      "category": "Original Article",
+      "authors": "Zhiyuan Xu, Can Hu, Litao Yang, Pengfei Yu, Yanqiang Zhang, Jiahui Chen, Guoliang Zheng, Xiaodong Chen, Tao Zhang, Weiyang He, Xiangyu Meng, Panpan Yu, Yian Du, Xiaowen Liu…",
+      "summary": "Xu et al. report a biomarker-stratified, randomized, multicenter phase 2 trial of perioperative immunochemotherapy in patients with tumor-specific (ts)MHC-II-positive or -negative gastric/gastroesophageal junction cancer (GC/GEJC). Perioperative immunochemotherapy significantly improved the major pathologic response…",
+      "date": "2026-07-15T00:00:00Z",
+      "date_display": "15 Jul 2026"
     },
     {
       "id": "583b0c1481",
@@ -629,6 +1102,171 @@
       "date_display": "13 Jul 2026"
     },
     {
+      "id": "186c2ea37a",
+      "title": "MEK-dependent bioenergetic demand drives terminal CD8+ T cell exhaustion",
+      "link": "https://www.cell.com/immunity/fulltext/S1074-7613(26)00263-3?rss=yes",
+      "journal": "Immunity",
+      "category": "Original Article",
+      "authors": "Tanmana Mitra, Jahan Rahman, Madeline Hwee, Yan-Ting Chen, Ruben Jose Jesus Faustino Ramos, Hui Liu, Travis Hartman, Justin Cross, Miguel de Jesus, Morgan Huse, Valerie Longo, Pat…",
+      "summary": "Mitra et al. examine how chronic antigen stimulation of CD8+ T cells leads to this metabolic dysfunction and find that MEK-driven ATP demand drives terminal T cell exhaustion by supporting protein synthesis at the expense of NAD+-dependent proliferation. MEK inhibition restores proliferative capacity and maintains a…",
+      "date": "2026-07-13T00:00:00Z",
+      "date_display": "13 Jul 2026"
+    },
+    {
+      "id": "1c6bebf498",
+      "title": "Neural checkpoint therapy in lung cancer",
+      "link": "https://www.cell.com/trends/cancer/fulltext/S2405-8033(26)00142-1?rss=yes",
+      "journal": "Trends in Cancer",
+      "category": "Review Article",
+      "authors": "Glori Das, Hong Zhao, Stephen T.C. Wong",
+      "summary": "Sensory nerves are emerging as regulators of tumor immunity. A newly identified Nav1.8+ neuron–calcitonin gene-related peptide axis in lung adenocarcinoma links nociceptive signaling to impaired tertiary lymphoid structure formation and immune escape, suggesting that neural checkpoint blockade may help remodel…",
+      "date": "2026-07-13T00:00:00Z",
+      "date_display": "13 Jul 2026"
+    },
+    {
+      "id": "0296e1c321",
+      "title": "Microbial bile acids: Immunomodulatory signals in the tumor microenvironment",
+      "link": "https://www.cell.com/trends/cancer/fulltext/S2405-8033(26)00141-X?rss=yes",
+      "journal": "Trends in Cancer",
+      "category": "Review Article",
+      "authors": "Shuyi Mi, Qiwen Wang, Dingjiacheng Jia",
+      "summary": "Microbial metabolites can act as systemic signals that connect gut dysbiosis to tumor immune remodeling. Recently, Li et al. showed that gut microbiota-derived deoxycholic acid activates the farnesoid X receptor–nuclear factor κB–interleukin-6 axis in breast cancer cells, promoting the recruitment of granulocytic…",
+      "date": "2026-07-13T00:00:00Z",
+      "date_display": "13 Jul 2026"
+    },
+    {
+      "id": "9b836d51dd",
+      "title": "CRISPR-mediated precise large fragment insertion in zygotes enables rapid generation of humanized immunoglobulin heavy-chain mice",
+      "link": "https://www.cell.com/immunity/fulltext/S1074-7613(26)00259-1?rss=yes",
+      "journal": "Immunity",
+      "category": "Original Article",
+      "authors": "Usha Nair, Madhav Akauliya, John E. Warner, Shivang Parikh, Larance Ronsard, Maria Ssozi, Larissa Rays Wahba, Abigail G. Esposito, Brendon Kelley, Caitlin McCarthy, Stephanie R…",
+      "summary": "Current CRISPR-Cas9 methods are restricted to small genomic edits. Nair et al. report the rapid generation of knock-in mice expressing human immunoglobulin (Ig) by precise deletion of the 2.4-Mb murine Ig heavy-chain locus and insertion of a 155-kb human fragment. B cells in knock-in mice undergo class switching and…",
+      "date": "2026-07-09T00:00:00Z",
+      "date_display": "9 Jul 2026"
+    },
+    {
+      "id": "d7c61def6c",
+      "title": "Your neighbors matter: Adjacent cancer cells dampen TLS function",
+      "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00298-9?rss=yes",
+      "journal": "Cancer Cell",
+      "category": "Original Article",
+      "authors": "Nicholas J. Salgia, Jason B. Muhitch",
+      "summary": "In this issue of Cancer Cell, Hernández-Verdin et al. reveal why some tumors with tertiary lymphoid structures (TLSs) resist immunotherapy: their findings identify cancer-derived gamma-aminobutyric acid (GABA) as an immunosuppressant factor resulting in dysfunctional TLS and immunotherapy resistance. Targeting GABA…",
+      "date": "2026-07-09T00:00:00Z",
+      "date_display": "9 Jul 2026"
+    },
+    {
+      "id": "beefe15bb4",
+      "title": "Stressed bones and glioblastoma",
+      "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00294-1?rss=yes",
+      "journal": "Cancer Cell",
+      "category": "Original Article",
+      "authors": "Manuel Valiente",
+      "summary": "Chronic stress has long been associated with poor cancer outcomes, yet the mechanisms linking systemic stress responses to glioblastoma progression remain poorly understood. In this issue of Cancer Cell, Yang et al. identify a stress-induced brain-bone marrow axis that rewires monocyte differentiation toward…",
+      "date": "2026-07-09T00:00:00Z",
+      "date_display": "9 Jul 2026"
+    },
+    {
+      "id": "d74b0c4c9c",
+      "title": "Menin in normal and malignant megakaryopoiesis",
+      "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00299-0?rss=yes",
+      "journal": "Cancer Cell",
+      "category": "Original Article",
+      "authors": "Justin C. Wheat, Sheng F. Cai",
+      "summary": "Severe thrombocytopenia is a known complication of menin inhibitor therapy; however, the mechanism underlying this effect is unknown. In this issue of Cancer Cell, Wen et al. demonstrate that menin is a key component of normal megakaryopoiesis and establish menin as a therapeutic vulnerability in myeloproliferative…",
+      "date": "2026-07-09T00:00:00Z",
+      "date_display": "9 Jul 2026"
+    },
+    {
+      "id": "e2c04fe37a",
+      "title": "Spatial multi-omics landscape of colorectal cancer macro- and micrometastases",
+      "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00296-5?rss=yes",
+      "journal": "Cancer Cell",
+      "category": "Original Article",
+      "authors": "Yang Liu, Akshaya S. Jadhav, Yuwen Pan, Jianlong Liao, Isha Khanduri, Yunhe Liu, Riham Katkhuda, Wei Lu, Kyung Serk Cho, Zhimin Tong, Tieling Zhou, Kangyu Lin, Baohua Sun, Mei…",
+      "summary": "Liu et al. integrate spatial transcriptomic, genomic, and proteomic profiling to map colorectal cancer metastases. They reveal early clonal divergence, stem-like features, and immunosuppressive microenvironments with T cell exhaustion in micrometastases, and identify a colorectal liver micrometastasis (CLiMi)-specific…",
+      "date": "2026-07-09T00:00:00Z",
+      "date_display": "9 Jul 2026"
+    },
+    {
+      "id": "652b138114",
+      "title": "Menin-dependent megakaryocyte proliferation and fibrosis in myeloproliferative neoplasms",
+      "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00295-3?rss=yes",
+      "journal": "Cancer Cell",
+      "category": "Original Article",
+      "authors": "Jeremy Wen, Anitria Cotton, Rashid Mehmood, Man Mohan, Trent Hall, Amber L. Broadhurst, Kevin Zhang, Yunusa Olufadi, Guolian Kang, Bridget Marcellino, John Mascarenhas, Ronald…",
+      "summary": "Wen et al. show that menin inhibition suppresses megakaryopoiesis in the myeloproliferative neoplasms, an area of unmet medical need due to disease progression despite current therapies. In preclinical models, the menin inhibitor revumenib exhibits striking anti-tumor activity, supporting its further investigation as…",
+      "date": "2026-07-09T00:00:00Z",
+      "date_display": "9 Jul 2026"
+    },
+    {
+      "id": "fc2a7ca28c",
+      "title": "GABA promotes resistance to immunotherapy in patients with TLS-positive tumors",
+      "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00293-X?rss=yes",
+      "journal": "Cancer Cell",
+      "category": "Original Article",
+      "authors": "Isaias Hernández-Verdin, Anne Calvez, Cheng-Ming Sun, Antoine Bougoüin, Pierre Hirt, Eric Pinaud, Matthew J. Smith, Craig E. Wheelock, Virginie Verkarre, Yann-Alexandre Vano…",
+      "summary": "Hernández-Verdin et al. show that tumor-derived gamma-aminobutyric acid (GABA) contributes to immunotherapy resistance in TLS-positive tumors. Integrated spatial and functional analyses reveal that GABA induces TLS dysfunction and inhibits B cell activity via GABAB receptor interaction and metabolic reprogramming…",
+      "date": "2026-07-09T00:00:00Z",
+      "date_display": "9 Jul 2026"
+    },
+    {
+      "id": "2b7a0d446c",
+      "title": "Exclusion of immune cells by vascular gates",
+      "link": "https://www.cell.com/trends/cancer/fulltext/S2405-8033(26)00138-X?rss=yes",
+      "journal": "Trends in Cancer",
+      "category": "Review Article",
+      "authors": "Eric E. Gardner, Carl M. Gay",
+      "summary": "Neuroendocrine carcinomas, including small cell lung cancers, are notable for their immune desert phenotype, even with the addition of immunotherapies. While this has been attributed to absent antigen presentation, Wang and colleagues demonstrate the existence of a vascular barrier that limits T cell infiltration and…",
+      "date": "2026-07-09T00:00:00Z",
+      "date_display": "9 Jul 2026"
+    },
+    {
+      "id": "075b12806d",
+      "title": "A novel mechanism of autophagy-dependent immunosuppression in cancer?",
+      "link": "https://www.cell.com/trends/cancer/fulltext/S2405-8033(26)00139-1?rss=yes",
+      "journal": "Trends in Cancer",
+      "category": "Review Article",
+      "authors": "Flavie Naulin, Lorenzo Galluzzi",
+      "summary": "Autophagy underlies several immunosuppressive mechanisms that collectively endow cancer cells with prominent immunoevasive features. Recent data from Hoslett et al. demonstrate that a specialized variant of autophagy commonly known as nucleophagy actively removes PARP1 molecules trapped on DNA upon pharmacological…",
+      "date": "2026-07-09T00:00:00Z",
+      "date_display": "9 Jul 2026"
+    },
+    {
+      "id": "e53d3b0804",
+      "title": "Insulin resistance and type 2 diabetes as allostatic responses to chronic nutrient excess",
+      "link": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00238-X?rss=yes",
+      "journal": "Cell Metabolism",
+      "category": "Original Article",
+      "authors": "Marc Prentki, Christopher J. Nolan, David E. James, Bernard Thorens, Christopher J. Rhodes, Barbara E. Corkey, Charlotte Ling, Philippe Froguel, Chantal Mathieu, Jean-François…",
+      "summary": "Challenging dogmas, Prentki et al. propose an alternative paradigm of obesity-related type 2 diabetes, interpreting insulin resistance, reduced glucose-induced insulin secretion, mild hyperglycemia, and glucosuria not as primary pathological abnormalities but as beneficial allostatic responses to nutrient excess…",
+      "date": "2026-07-07T00:00:00Z",
+      "date_display": "7 Jul 2026"
+    },
+    {
+      "id": "a08ff4508f",
+      "title": "B cell-derived type I interferon sustains T cell functionality upon strong TCR stimulation during chronic infection",
+      "link": "https://www.cell.com/immunity/fulltext/S1074-7613(26)00254-2?rss=yes",
+      "journal": "Immunity",
+      "category": "Original Article",
+      "authors": "Catarina Gago da Graça, Yuxi Cao, Sining Li, Anna F. Lindemann, Leonie Heyden, Sharanya K.M. Wijesinghe, Annika Poch, Minh-Hanh T. Nguyen, Nhat T. Huynh-Anh, Elena Daum, Danielle…",
+      "summary": "Extrinsic factors that support CD8+ T cell responses during chronic viral infection are incompletely defined. Gago da Graça et al. identify a crucial role for B cells in triggering type I interferon production, thereby promoting T cell effector formation in response to high antigen exposure, as seen in chronic…",
+      "date": "2026-07-02T00:00:00Z",
+      "date_display": "2 Jul 2026"
+    },
+    {
+      "id": "cf68be577f",
+      "title": "Circadian Homeostasis of Liver Metabolism Suppresses Hepatocarcinogenesis",
+      "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00306-5?rss=yes",
+      "journal": "Cancer Cell",
+      "category": "Original Article",
+      "authors": "Nicole M. Kettner, Horatio Voicu, Milton J. Finegold, Cristian Coarfa, Arun Sreekumar, Nagireddy Putluri, Chinenye A. Katchy, Choogon Lee, David D. Moore, Loning Fu",
+      "summary": "(Cancer Cell 30, 909–924; December 12, 2016)",
+      "date": "2026-07-02T00:00:00Z",
+      "date_display": "2 Jul 2026"
+    },
+    {
       "id": "682c637c8c",
       "title": "Targeting SPP1 requires moving beyond ligand blockade",
       "link": "https://www.nature.com/articles/s41423-026-01446-3",
@@ -638,6 +1276,50 @@
       "summary": "Cellular & Molecular Immunology, Published online: 01 July 2026; doi:10.1038/s41423-026-01446-3 Targeting SPP1 requires moving beyond ligand blockade",
       "date": "2026-07-01T00:00:00Z",
       "date_display": "1 Jul 2026"
+    },
+    {
+      "id": "26138f7d93",
+      "title": "Advisory Board and Contents",
+      "link": "https://www.cell.com/trends/immunology/fulltext/S1471-4906(26)00168-7?rss=yes",
+      "journal": "Trends in Immunology",
+      "category": "Review Article",
+      "authors": "",
+      "summary": "",
+      "date": "2026-07-01T00:00:00Z",
+      "date_display": "1 Jul 2026"
+    },
+    {
+      "id": "7b0895b527",
+      "title": "Subscription and Copyright Information",
+      "link": "https://www.cell.com/trends/immunology/fulltext/S1471-4906(26)00171-7?rss=yes",
+      "journal": "Trends in Immunology",
+      "category": "Review Article",
+      "authors": "",
+      "summary": "",
+      "date": "2026-07-01T00:00:00Z",
+      "date_display": "1 Jul 2026"
+    },
+    {
+      "id": "a96773e3f1",
+      "title": "Vascular RhoJ Is an Effective and Selective Target for Tumor Angiogenesis and Vascular Disruption",
+      "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00301-6?rss=yes",
+      "journal": "Cancer Cell",
+      "category": "Original Article",
+      "authors": "Chan Kim, Hanseul Yang, Yoko Fukushima, Phei Er Saw, Junyeop Lee, Jin-Sung Park, Intae Park, Jinmyung Jung, Hiroshi Kataoka, Doheon Lee, Won Do Heo, Injune Kim, Sangyong Jon, Ralf…",
+      "summary": "(Cancer Cell 25, 102–117; January 13, 2014)",
+      "date": "2026-06-30T00:00:00Z",
+      "date_display": "30 Jun 2026"
+    },
+    {
+      "id": "8944fdf6e5",
+      "title": "AARS1 promotes tumor progression and immune evasion via ATF6 lactylation-mediated tryptophan metabolism in hepatocellular carcinoma",
+      "link": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00229-9?rss=yes",
+      "journal": "Cell Metabolism",
+      "category": "Original Article",
+      "authors": "Yiming Wang, Fan Li, Jiongyuan Li, Tianning Huang, Tian Huang, Nan Zhang, Yiran Li, Ziyu Xun, Zhe Zhu, Qiaorui Tan, Xuanyu Zhao, Liangwei Zou, Mingjian Piao, Chengjie Li, Boyu…",
+      "summary": "Wang et al. identify a metabolic-immune feedback circuit in hepatocellular carcinoma, in which tumor cell-intrinsic AARS1-mediated ATF6 lactylation activates the TDO2-kynurenine axis to promote Treg differentiation and immunosuppression, while Treg-derived eNAMPT enhances tumor glycolysis and lactate production…",
+      "date": "2026-06-30T00:00:00Z",
+      "date_display": "30 Jun 2026"
     }
   ]
 }
