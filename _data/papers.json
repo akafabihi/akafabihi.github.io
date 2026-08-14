@@ -1,6 +1,94 @@
 {
-  "updated": "2026-08-13T07:08:21Z",
+  "updated": "2026-08-14T07:04:40Z",
   "papers": [
+    {
+      "id": "468d2288f0",
+      "title": "Local AI agent brings tumor board expertise to hematological malignancies",
+      "link": "https://www.nature.com/articles/s43018-026-01228-w",
+      "journal": "Nature Cancer",
+      "category": "Original Article",
+      "authors": "Sha Yu",
+      "summary": "Nature Cancer, Published online: 13 August 2026; doi:10.1038/s43018-026-01228-w Local AI agent brings tumor board expertise to hematological malignancies",
+      "date": "2026-08-13T00:00:00Z",
+      "date_display": "13 Aug 2026"
+    },
+    {
+      "id": "eff10dabd6",
+      "title": "Cold sensing and the parabrachial nucleus",
+      "link": "https://www.nature.com/articles/s42255-026-01571-3",
+      "journal": "Nature Metabolism",
+      "category": "Original Article",
+      "authors": "Óscar Freire-Agulleiro, Miguel López",
+      "summary": "Nature Metabolism, Published online: 13 August 2026; doi:10.1038/s42255-026-01571-3 The neural mechanisms integrating cold sensory input with adaptive thermoregulation remain incompletely understood. A new study published in Nature Metabolism identifies cold-activated neurons in the parabrachial nucleus as recipients…",
+      "date": "2026-08-13T00:00:00Z",
+      "date_display": "13 Aug 2026"
+    },
+    {
+      "id": "58de55d818",
+      "title": "Parabrachial neurons orchestrate cold-induced homeostatic responses",
+      "link": "https://www.nature.com/articles/s42255-026-01565-1",
+      "journal": "Nature Metabolism",
+      "category": "Original Article",
+      "authors": "Sieun Jung, Anna Kondaurova, Myungsun Lee, JiSoo Jennifer Kwon, Hyeyoung Shin, Sung-Yon Kim",
+      "summary": "Nature Metabolism, Published online: 13 August 2026; doi:10.1038/s42255-026-01565-1 Using activity-dependent genetic labelling in mice, the authors identify cold-activated neurons in the parabrachial nucleus that coordinate autonomic, metabolic, behavioural and affective adaptations to cold exposure.",
+      "date": "2026-08-13T00:00:00Z",
+      "date_display": "13 Aug 2026"
+    },
+    {
+      "id": "50dcf9871d",
+      "title": "The FAM234A-USP4 axis governs T-cell fate through the dual regulation of mTOR and RORγt",
+      "link": "https://www.nature.com/articles/s41423-026-01454-3",
+      "journal": "Cellular and Molecular Immunology",
+      "category": "Original Article",
+      "authors": "Hai Wang, Deyu Fang",
+      "summary": "Cellular & Molecular Immunology, Published online: 13 August 2026; doi:10.1038/s41423-026-01454-3 The FAM234A-USP4 axis governs T-cell fate through the dual regulation of mTOR and RORγt",
+      "date": "2026-08-13T00:00:00Z",
+      "date_display": "13 Aug 2026"
+    },
+    {
+      "id": "9d07a6670b",
+      "title": "MARCH2/3 target FcγRI for K27-linked polyubiquitination and degradation to restrict the inflammatory response",
+      "link": "https://www.nature.com/articles/s41423-026-01457-0",
+      "journal": "Cellular and Molecular Immunology",
+      "category": "Original Article",
+      "authors": "Qi Zhang, Xu Chen, Xu Zhang, Shi-Tong Lu, Jin-Xi Yu, Hong Bai, Hong-Bing Shu, Shu Li",
+      "summary": "Cellular & Molecular Immunology, Published online: 13 August 2026; doi:10.1038/s41423-026-01457-0 MARCH2/3 target FcγRI for K27-linked polyubiquitination and degradation to restrict the inflammatory response",
+      "date": "2026-08-13T00:00:00Z",
+      "date_display": "13 Aug 2026"
+    },
+    {
+      "id": "64dd29110b",
+      "title": "IL-17D reprograms CD93 + antigen-presenting cells in the glioblastoma microenvironment",
+      "link": "https://www.nature.com/articles/s41423-026-01458-z",
+      "journal": "Cellular and Molecular Immunology",
+      "category": "Original Article",
+      "authors": "Weijie Tang, Shuyuan Zhang, Yanhua Qi, Boyan Li, Zijie Gao, Ziwen Pan, Jiawei Qiu, Hao Xue, Gang Li, Shaobo Wang",
+      "summary": "Cellular & Molecular Immunology, Published online: 13 August 2026; doi:10.1038/s41423-026-01458-z IL-17D reprograms CD93 + antigen-presenting cells in the glioblastoma microenvironment",
+      "date": "2026-08-13T00:00:00Z",
+      "date_display": "13 Aug 2026"
+    },
+    {
+      "id": "45e1f210cc",
+      "title": "Radiation-induced CD200 + tumor-associated macrophages suppress eosinophil-mediated antitumor immunity through CD200R signaling in hepatocellular carcinoma",
+      "link": "https://www.nature.com/articles/s41423-026-01456-1",
+      "journal": "Cellular and Molecular Immunology",
+      "category": "Original Article",
+      "authors": "Kun Li, Siqi Li, Dongbo Qiu, Xiusheng Qiu, Haoyuan Yu, Yi Xiong, Wei Liang, Zhixing Liang, Shuqun Cheng, Hua Li, Yunfei Qin, Yang Yang, Linsen Ye",
+      "summary": "Cellular & Molecular Immunology, Published online: 13 August 2026; doi:10.1038/s41423-026-01456-1 Radiation-induced CD200 + tumor-associated macrophages suppress eosinophil-mediated antitumor immunity through CD200R signaling in hepatocellular carcinoma",
+      "date": "2026-08-13T00:00:00Z",
+      "date_display": "13 Aug 2026"
+    },
+    {
+      "id": "ce6d2e3fe0",
+      "title": "Combination AURKA and WEE1 Inhibition Exhibits Efficacy in EGFR or Pan-ERBB Inhibitor–Resistant Head and Neck Squamous Cell Carcinoma",
+      "link": "https://aacrjournals.org/cancerrescommun/article/6/8/1916/787417/Combination-AURKA-and-WEE1-Inhibition-Exhibits",
+      "journal": "Cancer Research",
+      "category": "Original Article",
+      "authors": "Flaviane N. Silva, Jong Woo Lee, Theodore T. Nguyen, Fiona M. Goeckel, Tetyana Bagnyukova, Hossein Borghaei, Erica A. Golemis, Barbara A. Burtness",
+      "summary": "Abstract More than 600,000 cases of head and neck squamous cell carcinoma (HNSCC) are diagnosed globally each year. Many HNSCCs overexpress the ERBB family member epidermal growth factor receptor (EGFR), and EGFR inhibitors (EGFRi) and pan-ERBB inhibitors (ERBBi) are clinically active in the treatment of locally…",
+      "date": "2026-08-13T00:00:00Z",
+      "date_display": "13 Aug 2026"
+    },
     {
       "id": "d9fb4b45bb",
       "title": "Integrating AI in clinical decision-making",
@@ -497,17 +585,6 @@
       "date_display": "3 Aug 2026"
     },
     {
-      "id": "1b52fb2d42",
-      "title": "Author Correction: IDH1 -mutant vaccine in newly diagnosed astrocytoma: final analysis of the multicenter, single-arm, open-label, first-in-human phase 1 NOA16 trial",
-      "link": "https://www.nature.com/articles/s43018-026-01227-x",
-      "journal": "Nature Cancer",
-      "category": "Original Article",
-      "authors": "Lukas Bunse, Katharina Lindner, Antje Wick, Angelika Freitag, Lisa-Marie Lanz, Dominic Edelmann, Abigail Suwala, Michael O. Breckwoldt, Inga Harting, Felix Sahm, Richard F…",
-      "summary": "Nature Cancer, Published online: 03 August 2026; doi:10.1038/s43018-026-01227-x Author Correction: IDH1 -mutant vaccine in newly diagnosed astrocytoma: final analysis of the multicenter, single-arm, open-label, first-in-human phase 1 NOA16 trial",
-      "date": "2026-08-03T00:00:00Z",
-      "date_display": "3 Aug 2026"
-    },
-    {
       "id": "8c77be1dd4",
       "title": "Author Correction: 2B or not 2B is the question in DC ontogeny",
       "link": "https://www.nature.com/articles/s41590-026-02633-0",
@@ -849,28 +926,6 @@
       "date_display": "28 Jul 2026"
     },
     {
-      "id": "11533ae78e",
-      "title": "Microbial catalysts unlock vitamin bioproduction",
-      "link": "https://www.nature.com/articles/s42255-026-01584-y",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "Alejandro I. Ramirez, Lukas Ernst, Jay D. Keasling",
-      "summary": "Nature Metabolism, Published online: 27 July 2026; doi:10.1038/s42255-026-01584-y The sustainable production of vitamin E in microbial cell factories has been restricted to tocotrienol derivatives. In this issue of Nature Metabolism, Zhang, Li and Cao et al. leverage non-classical enzymatic catalysts that are…",
-      "date": "2026-07-27T00:00:00Z",
-      "date_display": "27 Jul 2026"
-    },
-    {
-      "id": "5f3129109b",
-      "title": "A non-classical biosynthetic route enables tocopherol synthesis in bacteria",
-      "link": "https://www.nature.com/articles/s42255-026-01576-y",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "Yang Zhang, Zhizhen Li, Lichuang Cao, Yan Wang, Junyi Wang, Haofeng Chen, Wenhao Li, Xinyu Gao, Qingchen Li, Zhengxin Chen, Kaixuan Xu, Xiangpeng Yang, Xiangrui Wu, Jintao Luo…",
-      "summary": "Nature Metabolism, Published online: 27 July 2026; doi:10.1038/s42255-026-01576-y The study reports a non-classical tocopherol pathway in Rhodobacter that enables heterologous α-tocopherol synthesis by bypassing DMPBQ via a γ/β-tocopherol methyltransferase.",
-      "date": "2026-07-27T00:00:00Z",
-      "date_display": "27 Jul 2026"
-    },
-    {
       "id": "90e1207c00",
       "title": "Who gets told what is impossible?",
       "link": "https://www.nature.com/articles/s41568-026-00961-9",
@@ -981,17 +1036,6 @@
       "date_display": "17 Jul 2026"
     },
     {
-      "id": "97662ed16b",
-      "title": "The Parkinson’s disease-linked G2019S mutation of LRRK2 increases NADPH oxidase-2 activity in neutrophils for superior control of bacterial infections",
-      "link": "https://www.nature.com/articles/s41423-026-01451-6",
-      "journal": "Cellular and Molecular Immunology",
-      "category": "Original Article",
-      "authors": "Kate Hurley, Rachel Kaul, Sahil Yadav, Dikchha Rijal, Leila Sam, Avni Bhan, Rayan El Hamra, Ardeshir Ariana, Adam Mahdi, Willem Brandt, Julianna J. Tomlinson, Michael G…",
-      "summary": "Cellular & Molecular Immunology, Published online: 17 July 2026; doi:10.1038/s41423-026-01451-6 The Parkinson’s disease-linked G2019S mutation of LRRK2 increases NADPH oxidase-2 activity in neutrophils for superior control of bacterial infections",
-      "date": "2026-07-17T00:00:00Z",
-      "date_display": "17 Jul 2026"
-    },
-    {
       "id": "18fe603a9b",
       "title": "Purine and pyrimidine-based bacterial cyclic dinucleotides egress the phagosome and activate the innate immune sensor STING",
       "link": "https://www.cell.com/immunity/fulltext/S1074-7613(26)00274-8?rss=yes",
@@ -1078,28 +1122,6 @@
       "summary": "Nature Reviews Cancer, Published online: 15 July 2026; doi:10.1038/s41568-026-00963-7 Glioblastoma exhibits sex-specific differences in disease progression, incidence and immune regulation. Now, Pathak et al. identify GABA (γ-aminobutyric acid) as a key driver of granulocytic myeloid-derived suppressor cell-mediated…",
       "date": "2026-07-15T00:00:00Z",
       "date_display": "15 Jul 2026"
-    },
-    {
-      "id": "7098482368",
-      "title": "Unifying the hallmarks of major depression through neuroimmune–metabolic–oxidative (NIMETOX) dysregulation: a mechanistic systems framework",
-      "link": "https://www.nature.com/articles/s41423-026-01448-1",
-      "journal": "Cellular and Molecular Immunology",
-      "category": "Original Article",
-      "authors": "Michael Maes, Abbas F. Almulla, Drozdstoj Stoyanov, Yingqiang Zhang",
-      "summary": "Cellular & Molecular Immunology, Published online: 13 July 2026; doi:10.1038/s41423-026-01448-1 Unifying the hallmarks of major depression through neuroimmune–metabolic–oxidative (NIMETOX) dysregulation: a mechanistic systems framework",
-      "date": "2026-07-13T00:00:00Z",
-      "date_display": "13 Jul 2026"
-    },
-    {
-      "id": "a41298236e",
-      "title": "Macrophage CCRL2 promotes NLRP3 inflammasome activation to exacerbate atherosclerosis",
-      "link": "https://www.nature.com/articles/s41423-026-01450-7",
-      "journal": "Cellular and Molecular Immunology",
-      "category": "Original Article",
-      "authors": "Qian Cai, Zhen Duan, Zhongwei Yang, Yaxin Luo, Ming Liu, Chao Wu, Tianyao Wang, Yu Wang, Lingfeng Liang, Qing Liu, Jin Yu, Dan Meng, Chen Jiang, Rui He",
-      "summary": "Cellular & Molecular Immunology, Published online: 13 July 2026; doi:10.1038/s41423-026-01450-7 Macrophage CCRL2 promotes NLRP3 inflammasome activation to exacerbate atherosclerosis",
-      "date": "2026-07-13T00:00:00Z",
-      "date_display": "13 Jul 2026"
     },
     {
       "id": "186c2ea37a",
@@ -1267,17 +1289,6 @@
       "date_display": "2 Jul 2026"
     },
     {
-      "id": "682c637c8c",
-      "title": "Targeting SPP1 requires moving beyond ligand blockade",
-      "link": "https://www.nature.com/articles/s41423-026-01446-3",
-      "journal": "Cellular and Molecular Immunology",
-      "category": "Original Article",
-      "authors": "Liangzhan Sun, Zemin Zhang",
-      "summary": "Cellular & Molecular Immunology, Published online: 01 July 2026; doi:10.1038/s41423-026-01446-3 Targeting SPP1 requires moving beyond ligand blockade",
-      "date": "2026-07-01T00:00:00Z",
-      "date_display": "1 Jul 2026"
-    },
-    {
       "id": "26138f7d93",
       "title": "Advisory Board and Contents",
       "link": "https://www.cell.com/trends/immunology/fulltext/S1471-4906(26)00168-7?rss=yes",
@@ -1307,17 +1318,6 @@
       "category": "Original Article",
       "authors": "Chan Kim, Hanseul Yang, Yoko Fukushima, Phei Er Saw, Junyeop Lee, Jin-Sung Park, Intae Park, Jinmyung Jung, Hiroshi Kataoka, Doheon Lee, Won Do Heo, Injune Kim, Sangyong Jon, Ralf…",
       "summary": "(Cancer Cell 25, 102–117; January 13, 2014)",
-      "date": "2026-06-30T00:00:00Z",
-      "date_display": "30 Jun 2026"
-    },
-    {
-      "id": "8944fdf6e5",
-      "title": "AARS1 promotes tumor progression and immune evasion via ATF6 lactylation-mediated tryptophan metabolism in hepatocellular carcinoma",
-      "link": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00229-9?rss=yes",
-      "journal": "Cell Metabolism",
-      "category": "Original Article",
-      "authors": "Yiming Wang, Fan Li, Jiongyuan Li, Tianning Huang, Tian Huang, Nan Zhang, Yiran Li, Ziyu Xun, Zhe Zhu, Qiaorui Tan, Xuanyu Zhao, Liangwei Zou, Mingjian Piao, Chengjie Li, Boyu…",
-      "summary": "Wang et al. identify a metabolic-immune feedback circuit in hepatocellular carcinoma, in which tumor cell-intrinsic AARS1-mediated ATF6 lactylation activates the TDO2-kynurenine axis to promote Treg differentiation and immunosuppression, while Treg-derived eNAMPT enhances tumor glycolysis and lactate production…",
       "date": "2026-06-30T00:00:00Z",
       "date_display": "30 Jun 2026"
     }
