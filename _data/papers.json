@@ -1,6 +1,94 @@
 {
-  "updated": "2026-08-18T06:22:13Z",
+  "updated": "2026-08-19T06:22:59Z",
   "papers": [
+    {
+      "id": "a433e0e364",
+      "title": "A lactate–α-ketoglutarate metabolic circuit in tumor-infiltrating regulatory T cells accelerates tumor progression by inducing NK cell senescence",
+      "link": "https://www.nature.com/articles/s43018-026-01210-6",
+      "journal": "Nature Cancer",
+      "category": "Original Article",
+      "authors": "Tiezhu Shi, Yufeng Ding, Ying Chen, Xiangyin Tan, Fangfang Qu, Dongwei Xu, Xinyu Liu, Yixue Li, Yan-fang Liu, Xiaolin Zhang, Guanzhen Yu, Jialiang Shao, Xiongjun Wang",
+      "summary": "Nature Cancer, Published online: 18 August 2026; doi:10.1038/s43018-026-01210-6 Shi et al show that a lactate–α-ketoglutarate metabolic circuit in tumor-infiltrating regulatory T cells promotes WNT2-mediated senescence-like features in natural killer cells and disrupting this axis hinders tumor progression.",
+      "date": "2026-08-18T00:00:00Z",
+      "date_display": "18 Aug 2026"
+    },
+    {
+      "id": "09d50d5d87",
+      "title": "Antigen-sampling gut cells moonlight as organizers of immune defense",
+      "link": "https://www.nature.com/articles/s41590-026-02612-5",
+      "journal": "Nature Immunology",
+      "category": "Original Article",
+      "authors": "",
+      "summary": "Nature Immunology, Published online: 18 August 2026; doi:10.1038/s41590-026-02612-5 Microfold cells are known for ferrying gut antigens to immune cells to trigger antibody responses. We identify a second function for microfold cells in Peyer’s patches in establishing a spatial niche that positions group 3 innate…",
+      "date": "2026-08-18T00:00:00Z",
+      "date_display": "18 Aug 2026"
+    },
+    {
+      "id": "8c265e2d3d",
+      "title": "From data to discovery: a unified framework for human immunology",
+      "link": "https://www.nature.com/articles/s41590-026-02624-1",
+      "journal": "Nature Immunology",
+      "category": "Original Article",
+      "authors": "Ruth R. Montgomery, Matthew C. Altman, Daniel Rotrosen, Bali Pulendran, Nadine Rouphael, Frances E. Lund",
+      "summary": "Nature Immunology, Published online: 18 August 2026; doi:10.1038/s41590-026-02624-1 High-throughput, high-dimensional profiling technologies have transformed the ability to generate and test hypotheses of human immunology. Investment in infrastructure has catalyzed the expansion of human cohorts and data repositories…",
+      "date": "2026-08-18T00:00:00Z",
+      "date_display": "18 Aug 2026"
+    },
+    {
+      "id": "54a51b2f2c",
+      "title": "Neutrophil-integrated syncytial CAR macrophage for cancer immunotherapy",
+      "link": "https://www.nature.com/articles/s41590-026-02615-2",
+      "journal": "Nature Immunology",
+      "category": "Original Article",
+      "authors": "Tianyi Tian, Siyu Zhao, Tian Tian, Wenjing Li, Zhenzhen Zhang, Tianzi Shi, Xiaonan Li, Xiong Liu, Hongbo Xu, Yuanyuan Guo, Boheng Zhang, Wei Jiang, Boning Niu, Zhiping Zhang",
+      "summary": "Nature Immunology, Published online: 18 August 2026; doi:10.1038/s41590-026-02615-2 Here the authors create a syncytial chimeric antigen receptor (CAR) cell that fuses CAR macrophages with neutrophils, equipping these cells with the antitumor functions from both cell types.",
+      "date": "2026-08-18T00:00:00Z",
+      "date_display": "18 Aug 2026"
+    },
+    {
+      "id": "dcb4924895",
+      "title": "Hallmarks of the multidimensional immune response to trauma in humans",
+      "link": "https://www.nature.com/articles/s41590-026-02618-z",
+      "journal": "Nature Immunology",
+      "category": "Original Article",
+      "authors": "Markus Huber-Lang, Tianmeng Chen, Rebecca Halbgebauer, Timothy Billiar",
+      "summary": "Nature Immunology, Published online: 18 August 2026; doi:10.1038/s41590-026-02618-z Huber-Lang et al. review the multidimensional immune response to trauma. The Review discusses innate and adaptive immunity across neuroendocrine, endovascular and metabolic axes in the setting of traumatic injury.",
+      "date": "2026-08-18T00:00:00Z",
+      "date_display": "18 Aug 2026"
+    },
+    {
+      "id": "62388797b3",
+      "title": "Blocking the m 6 Am methyltransferase PCIF1 in macrophages attenuates colitis progression by preventing neuronal damage",
+      "link": "https://www.nature.com/articles/s41423-026-01459-y",
+      "journal": "Cellular and Molecular Immunology",
+      "category": "Original Article",
+      "authors": "Chenbo Ding, Jiachen Zhao, Tian Zhao, Ye Xiao, Kai Li, Xiao Liu, Xuyang Ge, Demeng Qin, Zhiqian Huang, Yu Zhang, Hua Liu, Zhiqing Diao, Youqiong Ye, Richard A. Flavell, Cheng Luo…",
+      "summary": "Cellular & Molecular Immunology, Published online: 18 August 2026; doi:10.1038/s41423-026-01459-y Blocking the m 6 Am methyltransferase PCIF1 in macrophages attenuates colitis progression by preventing neuronal damage",
+      "date": "2026-08-18T00:00:00Z",
+      "date_display": "18 Aug 2026"
+    },
+    {
+      "id": "13e748513f",
+      "title": "An Integrated Spatial Multi-Omics Workflow for Sequential RNA and Protein Profiling in FFPE Tumor Tissue",
+      "link": "https://aacrjournals.org/cancerrescommun/article/6/8/1963/787464/An-Integrated-Spatial-Multi-Omics-Workflow-for",
+      "journal": "Cancer Research",
+      "category": "Original Article",
+      "authors": "Merrin Mary Eapen, Qanber Raza, Lucy Chhuo, Annabel Faulkner, Abhishek K. Singh, Hao Xu, Atefeh Khakpoor, Erin Coll, Liang Lim, Nick Zabinyakov, Liang Qiao, Anna Di Bartolomeo…",
+      "summary": "Abstract Understanding complex cellular niches, such as tertiary lymphoid structures, requires spatially resolved, multi-omics approaches that link transcriptional states and protein expression levels within individual cells. Here, we present an integrated spatial multi-omics workflow that enables sequential mapping…",
+      "date": "2026-08-18T00:00:00Z",
+      "date_display": "18 Aug 2026"
+    },
+    {
+      "id": "60f8ff210f",
+      "title": "Why adaptive immunity?",
+      "link": "https://www.nature.com/articles/s41577-026-01350-x",
+      "journal": "Nature Reviews Immunology",
+      "category": "Review Article",
+      "authors": "Caetano Reis e Sousa",
+      "summary": "Nature Reviews Immunology, Published online: 18 August 2026; doi:10.1038/s41577-026-01350-x Adaptive immunity is indispensable to vertebrates, yet most living organisms defend themselves perfectly well without it. Here, I ask why somatically diversified antigen recognition evolved and whether its original advantage…",
+      "date": "2026-08-18T00:00:00Z",
+      "date_display": "18 Aug 2026"
+    },
     {
       "id": "491ad7e9d6",
       "title": "Low-protein diet enhances antitumor immunity in pancreatic cancer through microbiota-derived UDP-galactose",
@@ -68,17 +156,6 @@
       "date_display": "17 Aug 2026"
     },
     {
-      "id": "025ccf012b",
-      "title": "Author Correction: Maternal exercise prevents metabolic disorders in offspring mice through SERPINA3C",
-      "link": "https://www.nature.com/articles/s42255-026-01609-6",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "Yang Li, Ruo-Ying Li, Jie-Ying Zhu, Min Chen, Wang-Jing Mu, Hong-Yang Luo, Shan Li, Lin-Jing Yan, Meng-Ting Yin, Xin Li, Hu-Min Chen, Liang Guo",
-      "summary": "Nature Metabolism, Published online: 16 August 2026; doi:10.1038/s42255-026-01609-6 Author Correction: Maternal exercise prevents metabolic disorders in offspring mice through SERPINA3C",
-      "date": "2026-08-16T00:00:00Z",
-      "date_display": "16 Aug 2026"
-    },
-    {
       "id": "e1a7c21d7c",
       "title": "A dendritic cell autophagy–neutrophil axis limits intratumoral STING immunotherapy",
       "link": "https://www.science.org/doi/abs/10.1126/sciimmunol.adw6399?af=R",
@@ -112,50 +189,6 @@
       "date_display": "14 Aug 2026"
     },
     {
-      "id": "23e18416f7",
-      "title": "Immune imprinting in a changing world",
-      "link": "https://www.nature.com/articles/s41590-026-02629-w",
-      "journal": "Nature Immunology",
-      "category": "Original Article",
-      "authors": "Daniel M. Altmann, Rosemary J. Boyton",
-      "summary": "Nature Immunology, Published online: 14 August 2026; doi:10.1038/s41590-026-02629-w Research on SARS-CoV-2 shows that effective immunity can arise from a balance between recalling existing immune memory and generating new variant-specific antibodies, with important implications for designing future vaccines.",
-      "date": "2026-08-14T00:00:00Z",
-      "date_display": "14 Aug 2026"
-    },
-    {
-      "id": "bfed4995df",
-      "title": "TIF1γ holds the line against regulatory T cell plasticity",
-      "link": "https://www.nature.com/articles/s41590-026-02620-5",
-      "journal": "Nature Immunology",
-      "category": "Original Article",
-      "authors": "Fotini Gounari, Khashayarsha Khazaie",
-      "summary": "Nature Immunology, Published online: 14 August 2026; doi:10.1038/s41590-026-02620-5 A mechanistic understanding of how regulatory T cell plasticity is controlled remains lacking. A study shows that TIF1γ modulates this plasticity by restraining β-catenin signaling.",
-      "date": "2026-08-14T00:00:00Z",
-      "date_display": "14 Aug 2026"
-    },
-    {
-      "id": "2b77726e62",
-      "title": "Accelerating the research response to the Bundibugyo virus emergency",
-      "link": "https://www.nature.com/articles/s41590-026-02623-2",
-      "journal": "Nature Immunology",
-      "category": "Original Article",
-      "authors": "Mariah P. Csolle, Bronwyn A. Bailey, Yuna Chung, Tsharni R. Zazryn, Tari Turner, David S. Khoury, Miles P. Davenport",
-      "summary": "Nature Immunology, Published online: 14 August 2026; doi:10.1038/s41590-026-02623-2 In the context of a Public Health Emergency of International Concern, such as the Bundibugyo virus outbreak, the research community requires rapid access to information to guide an effective response. Evidence mapping brings together…",
-      "date": "2026-08-14T00:00:00Z",
-      "date_display": "14 Aug 2026"
-    },
-    {
-      "id": "573bcdd877",
-      "title": "Peyer’s patch M cells organize an epithelial niche that sustains group 3 innate lymphoid cells and IL-22",
-      "link": "https://www.nature.com/articles/s41590-026-02606-3",
-      "journal": "Nature Immunology",
-      "category": "Original Article",
-      "authors": "Wang H. J. Cao, Yue You, Nancy Wang, M. Zeeshan Chaudhry, Huiyang Yu, Peter T. Bell, Ellesandra C. Noye, Renae Denman, Byungchul Lee, Abbey Waddington, Junpeng Ye, Jaring…",
-      "summary": "Nature Immunology, Published online: 14 August 2026; doi:10.1038/s41590-026-02606-3 Belz and colleagues show that Peyer’s patch M cells are required for ILC3 localization, proliferation and IL-22 production within the dome epithelium.",
-      "date": "2026-08-14T00:00:00Z",
-      "date_display": "14 Aug 2026"
-    },
-    {
       "id": "1926f51463",
       "title": "Febuxostat Enhances the Antitumor Efficacy of 2-Fluoroadenine and 5′-Methylthioadenosine in MTAP -Deleted Cancer",
       "link": "https://aacrjournals.org/cancerrescommun/article/6/8/1933/787435/Febuxostat-Enhances-the-Antitumor-Efficacy-of-2",
@@ -185,28 +218,6 @@
       "category": "Original Article",
       "authors": "Sha Yu",
       "summary": "Nature Cancer, Published online: 13 August 2026; doi:10.1038/s43018-026-01228-w Local AI agent brings tumor board expertise to hematological malignancies",
-      "date": "2026-08-13T00:00:00Z",
-      "date_display": "13 Aug 2026"
-    },
-    {
-      "id": "eff10dabd6",
-      "title": "Cold sensing and the parabrachial nucleus",
-      "link": "https://www.nature.com/articles/s42255-026-01571-3",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "Óscar Freire-Agulleiro, Miguel López",
-      "summary": "Nature Metabolism, Published online: 13 August 2026; doi:10.1038/s42255-026-01571-3 The neural mechanisms integrating cold sensory input with adaptive thermoregulation remain incompletely understood. A new study published in Nature Metabolism identifies cold-activated neurons in the parabrachial nucleus as recipients…",
-      "date": "2026-08-13T00:00:00Z",
-      "date_display": "13 Aug 2026"
-    },
-    {
-      "id": "58de55d818",
-      "title": "Parabrachial neurons orchestrate cold-induced homeostatic responses",
-      "link": "https://www.nature.com/articles/s42255-026-01565-1",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "Sieun Jung, Anna Kondaurova, Myungsun Lee, JiSoo Jennifer Kwon, Hyeyoung Shin, Sung-Yon Kim",
-      "summary": "Nature Metabolism, Published online: 13 August 2026; doi:10.1038/s42255-026-01565-1 Using activity-dependent genetic labelling in mice, the authors identify cold-activated neurons in the parabrachial nucleus that coordinate autonomic, metabolic, behavioural and affective adaptations to cold exposure.",
       "date": "2026-08-13T00:00:00Z",
       "date_display": "13 Aug 2026"
     },
@@ -286,17 +297,6 @@
       "summary": "Nature Cancer, Published online: 12 August 2026; doi:10.1038/s43018-026-01217-z Qian and colleagues report the characterization of venetoclax-loaded nanoparticles conjugated with anti-CD16 and anti-TIM3 antibodies, showing that the platform overcomes venetoclax resistance and reinvigorates natural killer cell activity…",
       "date": "2026-08-12T00:00:00Z",
       "date_display": "12 Aug 2026"
-    },
-    {
-      "id": "494747f04b",
-      "title": "Author Correction: The perineurium integrates leptin with its sympathetic outflow to protect against obesity",
-      "link": "https://www.nature.com/articles/s42255-026-01605-w",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "Gitalee Sarker, Emma Haberman, Anandhakumar Chandran, Thomas Monfeuga, Cyrielle Maroteau, Sofia Lundh, David S. Oliveira, Andrea Raimondi, Karin Ziegler, Tiago Gomes, Tiago N…",
-      "summary": "Nature Metabolism, Published online: 11 August 2026; doi:10.1038/s42255-026-01605-w Author Correction: The perineurium integrates leptin with its sympathetic outflow to protect against obesity",
-      "date": "2026-08-11T00:00:00Z",
-      "date_display": "11 Aug 2026"
     },
     {
       "id": "7d111739ce",
@@ -475,17 +475,6 @@
       "date_display": "7 Aug 2026"
     },
     {
-      "id": "fa6090f016",
-      "title": "Career pathways, part 20",
-      "link": "https://www.nature.com/articles/s42255-026-01596-8",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "Adelheid Lempradl, Lauren V. Albrecht",
-      "summary": "Nature Metabolism, Published online: 07 August 2026; doi:10.1038/s42255-026-01596-8 Academic careers are shaped by scientific discovery, professional networks, mentorship and the challenges of balancing research with personal and professional responsibilities. In this instalment of our Career Pathways series, Adelheid…",
-      "date": "2026-08-07T00:00:00Z",
-      "date_display": "7 Aug 2026"
-    },
-    {
       "id": "37e3ac3910",
       "title": "Evaluation of Biomarkers for Sacituzumab Govitecan in Metastatic Non–Small Cell Lung Cancer: Insights From the EVOKE-01 Study",
       "link": "https://aacrjournals.org/cancerrescommun/article/6/8/1875/787312/Evaluation-of-Biomarkers-for-Sacituzumab-Govitecan",
@@ -526,39 +515,6 @@
       "category": "Original Article",
       "authors": "Shani Dror, Inbal Wortzel, Serena Lucotti, Yura Seo, Jianlong Li, Lee Shaashua, Irina Matei, Nancy Boudreau, Haiying Zhang, Maider Astorkia-Amiama, Doron Betel, Han Sang Kim, Jai…",
       "summary": "Nature Cancer, Published online: 05 August 2026; doi:10.1038/s43018-026-01209-z Dror et al. show that tumor-derived extracellular vesicles and particles reprogram interstitial macrophages during the formation of the lung premetastatic niche, thereby increasing vascular permeability and promoting metastatic potential.",
-      "date": "2026-08-05T00:00:00Z",
-      "date_display": "5 Aug 2026"
-    },
-    {
-      "id": "5a4cf4e784",
-      "title": "Fc-optimized GITR antibody enhances a CD4 T cell–dendritic cell crosstalk to promote antitumor immunity",
-      "link": "https://www.nature.com/articles/s43018-026-01207-1",
-      "journal": "Nature Cancer",
-      "category": "Original Article",
-      "authors": "Yahel Avraham, Natasha Barth, Tzlil Yair Bar-On, Barak Toval, Aviya Habshush Menachem, Jasmine Blanga, Ella Herzog, Hagar Rotem, Yuval Shapir Itai, Tali Feferman, Moshe Biton…",
-      "summary": "Nature Cancer, Published online: 05 August 2026; doi:10.1038/s43018-026-01207-1 Avraham et al. engineered an anti-GITR human antibody with an optimized Fc domain that engages the activating Fcγ receptors IIa and IIIa to enhance antitumor efficacy through the depletion of regulatory T cells and activation of CD4+ T…",
-      "date": "2026-08-05T00:00:00Z",
-      "date_display": "5 Aug 2026"
-    },
-    {
-      "id": "e91d472168",
-      "title": "Palmitoylation modulates neutrophil anti-tumour function in liver metastasis",
-      "link": "https://www.nature.com/articles/s42255-026-01581-1",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "Liang Zhou, Jun Cui",
-      "summary": "Nature Metabolism, Published online: 05 August 2026; doi:10.1038/s42255-026-01581-1 How liver metastases evade immunity remains unclear. A new study published in Nature Metabolism reveals that DHHC17-driven laminin 511 palmitoylation and its subsequent secretion blunts neutrophil-mediated killing of metastatic cancer…",
-      "date": "2026-08-05T00:00:00Z",
-      "date_display": "5 Aug 2026"
-    },
-    {
-      "id": "cd240562cc",
-      "title": "Palmitate promotes liver metastases by decreasing neutrophil antitumour behaviour",
-      "link": "https://www.nature.com/articles/s42255-026-01582-0",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "Anke Vandekeere, Juan Fernández-García, Yiming Peng-Winkler, Miguel Martín Pérez, Ming Liu, Sara Isabel Fernandes, Janine Theile, Philipp Willnow, Sanne Verheul, Gitte Zels…",
-      "summary": "Nature Metabolism, Published online: 05 August 2026; doi:10.1038/s42255-026-01582-0 DHHC17-mediated palmitoylation promotes laminin-511 stabilization and availability in the liver metastatic niche, which decreases the cancer cell-killing capacity of neutrophils.",
       "date": "2026-08-05T00:00:00Z",
       "date_display": "5 Aug 2026"
     },
@@ -849,17 +805,6 @@
       "date_display": "1 Aug 2026"
     },
     {
-      "id": "3e0e7daa4f",
-      "title": "Author Correction: p21-activated kinase 4 counteracts PKA-dependent lipolysis by phosphorylating FABP4 and HSL",
-      "link": "https://www.nature.com/articles/s42255-026-01597-7",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "Hwang Chan Yu, Yong Geun Jeon, Ann-Yae Na, Chang Yeob Han, Mi Rin Lee, Jae Do Yang, Hee Chul Yu, Jung Beom Son, Nam Doo Kim, Jae Bum Kim, Sangkyu Lee, Eun Ju Bae, Byung-Hyun Park",
-      "summary": "Nature Metabolism, Published online: 31 July 2026; doi:10.1038/s42255-026-01597-7 Author Correction: p21-activated kinase 4 counteracts PKA-dependent lipolysis by phosphorylating FABP4 and HSL",
-      "date": "2026-07-31T00:00:00Z",
-      "date_display": "31 Jul 2026"
-    },
-    {
       "id": "80235bde6e",
       "title": "Mapping micrometastatic seeds of relapse",
       "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00345-4?rss=yes",
@@ -1091,17 +1036,6 @@
       "date_display": "18 Jul 2026"
     },
     {
-      "id": "a2474d8b8f",
-      "title": "Author Correction: DNA sensing and associated type 1 interferon signaling contributes to progression of radiation-induced liver injury",
-      "link": "https://www.nature.com/articles/s41423-026-01449-0",
-      "journal": "Cellular and Molecular Immunology",
-      "category": "Original Article",
-      "authors": "Shisuo Du, Genwen Chen, Baoying Yuan, Yong Hu, Ping Yang, Yixing Chen, Qianqian Zhao, Jian Zhou, Jia Fan, Zhaochong Zeng",
-      "summary": "Cellular & Molecular Immunology, Published online: 17 July 2026; doi:10.1038/s41423-026-01449-0 Author Correction: DNA sensing and associated type 1 interferon signaling contributes to progression of radiation-induced liver injury",
-      "date": "2026-07-17T00:00:00Z",
-      "date_display": "17 Jul 2026"
-    },
-    {
       "id": "18fe603a9b",
       "title": "Purine and pyrimidine-based bacterial cyclic dinucleotides egress the phagosome and activate the innate immune sensor STING",
       "link": "https://www.cell.com/immunity/fulltext/S1074-7613(26)00274-8?rss=yes",
@@ -1131,17 +1065,6 @@
       "category": "Original Article",
       "authors": "Limin Xia, Wenjie Huang, Marina Bellani, Michael M. Seidman, Kaichun Wu, Daiming Fan, Yongzhan Nie, Yi Cai, Yang W. Zhang, Li-Rong Yu, Huili Li, Cynthia A. Zahnow, Wenbing Xie…",
       "summary": "(Cancer Cell 31, 653–668.e1–e7; May 8, 2017)",
-      "date": "2026-07-17T00:00:00Z",
-      "date_display": "17 Jul 2026"
-    },
-    {
-      "id": "039ccaba45",
-      "title": "Macrophages are constitutive architects of tissue integrity",
-      "link": "https://www.nature.com/articles/s41577-026-01334-x",
-      "journal": "Nature Reviews Immunology",
-      "category": "Review Article",
-      "authors": "Miriam Merad",
-      "summary": "Nature Reviews Immunology, Published online: 17 July 2026; doi:10.1038/s41577-026-01334-x The lineage distinction between inflammatory, defence-oriented, monocyte-derived macrophages and resident macrophages dedicated to tissue maintenance calls into question the primordial function of macrophages and offers untapped…",
       "date": "2026-07-17T00:00:00Z",
       "date_display": "17 Jul 2026"
     },
@@ -1320,6 +1243,83 @@
       "summary": "Challenging dogmas, Prentki et al. propose an alternative paradigm of obesity-related type 2 diabetes, interpreting insulin resistance, reduced glucose-induced insulin secretion, mild hyperglycemia, and glucosuria not as primary pathological abnormalities but as beneficial allostatic responses to nutrient excess…",
       "date": "2026-07-07T00:00:00Z",
       "date_display": "7 Jul 2026"
+    },
+    {
+      "id": "a08ff4508f",
+      "title": "B cell-derived type I interferon sustains T cell functionality upon strong TCR stimulation during chronic infection",
+      "link": "https://www.cell.com/immunity/fulltext/S1074-7613(26)00254-2?rss=yes",
+      "journal": "Immunity",
+      "category": "Original Article",
+      "authors": "Catarina Gago da Graça, Yuxi Cao, Sining Li, Anna F. Lindemann, Leonie Heyden, Sharanya K.M. Wijesinghe, Annika Poch, Minh-Hanh T. Nguyen, Nhat T. Huynh-Anh, Elena Daum, Danielle…",
+      "summary": "Extrinsic factors that support CD8+ T cell responses during chronic viral infection are incompletely defined. Gago da Graça et al. identify a crucial role for B cells in triggering type I interferon production, thereby promoting T cell effector formation in response to high antigen exposure, as seen in chronic…",
+      "date": "2026-07-02T00:00:00Z",
+      "date_display": "2 Jul 2026"
+    },
+    {
+      "id": "cf68be577f",
+      "title": "Circadian Homeostasis of Liver Metabolism Suppresses Hepatocarcinogenesis",
+      "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00306-5?rss=yes",
+      "journal": "Cancer Cell",
+      "category": "Original Article",
+      "authors": "Nicole M. Kettner, Horatio Voicu, Milton J. Finegold, Cristian Coarfa, Arun Sreekumar, Nagireddy Putluri, Chinenye A. Katchy, Choogon Lee, David D. Moore, Loning Fu",
+      "summary": "(Cancer Cell 30, 909–924; December 12, 2016)",
+      "date": "2026-07-02T00:00:00Z",
+      "date_display": "2 Jul 2026"
+    },
+    {
+      "id": "26138f7d93",
+      "title": "Advisory Board and Contents",
+      "link": "https://www.cell.com/trends/immunology/fulltext/S1471-4906(26)00168-7?rss=yes",
+      "journal": "Trends in Immunology",
+      "category": "Review Article",
+      "authors": "",
+      "summary": "",
+      "date": "2026-07-01T00:00:00Z",
+      "date_display": "1 Jul 2026"
+    },
+    {
+      "id": "7b0895b527",
+      "title": "Subscription and Copyright Information",
+      "link": "https://www.cell.com/trends/immunology/fulltext/S1471-4906(26)00171-7?rss=yes",
+      "journal": "Trends in Immunology",
+      "category": "Review Article",
+      "authors": "",
+      "summary": "",
+      "date": "2026-07-01T00:00:00Z",
+      "date_display": "1 Jul 2026"
+    },
+    {
+      "id": "a96773e3f1",
+      "title": "Vascular RhoJ Is an Effective and Selective Target for Tumor Angiogenesis and Vascular Disruption",
+      "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00301-6?rss=yes",
+      "journal": "Cancer Cell",
+      "category": "Original Article",
+      "authors": "Chan Kim, Hanseul Yang, Yoko Fukushima, Phei Er Saw, Junyeop Lee, Jin-Sung Park, Intae Park, Jinmyung Jung, Hiroshi Kataoka, Doheon Lee, Won Do Heo, Injune Kim, Sangyong Jon, Ralf…",
+      "summary": "(Cancer Cell 25, 102–117; January 13, 2014)",
+      "date": "2026-06-30T00:00:00Z",
+      "date_display": "30 Jun 2026"
+    },
+    {
+      "id": "8944fdf6e5",
+      "title": "AARS1 promotes tumor progression and immune evasion via ATF6 lactylation-mediated tryptophan metabolism in hepatocellular carcinoma",
+      "link": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00229-9?rss=yes",
+      "journal": "Cell Metabolism",
+      "category": "Original Article",
+      "authors": "Yiming Wang, Fan Li, Jiongyuan Li, Tianning Huang, Tian Huang, Nan Zhang, Yiran Li, Ziyu Xun, Zhe Zhu, Qiaorui Tan, Xuanyu Zhao, Liangwei Zou, Mingjian Piao, Chengjie Li, Boyu…",
+      "summary": "Wang et al. identify a metabolic-immune feedback circuit in hepatocellular carcinoma, in which tumor cell-intrinsic AARS1-mediated ATF6 lactylation activates the TDO2-kynurenine axis to promote Treg differentiation and immunosuppression, while Treg-derived eNAMPT enhances tumor glycolysis and lactate production…",
+      "date": "2026-06-30T00:00:00Z",
+      "date_display": "30 Jun 2026"
+    },
+    {
+      "id": "3ed85a1b19",
+      "title": "Reactive species as regulators of immune cell metabolism, tolerance, and autoimmunity",
+      "link": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00228-7?rss=yes",
+      "journal": "Cell Metabolism",
+      "category": "Original Article",
+      "authors": "Takumi Kobayashi, Dirk Brenner",
+      "summary": "Reactive species, including reactive oxygen species, act as both essential signals and drivers of pathology in immune cells. Kobayashi and Brenner review how redox chemistry shapes immune cell metabolism, tolerance, and autoimmunity, and how cell-type-specific redox modulation could open precise therapeutic avenues…",
+      "date": "2026-06-29T00:00:00Z",
+      "date_display": "29 Jun 2026"
     }
   ]
 }
