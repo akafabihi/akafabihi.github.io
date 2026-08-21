@@ -1,28 +1,6 @@
 {
-  "updated": "2026-08-20T06:23:13Z",
+  "updated": "2026-08-21T06:23:59Z",
   "papers": [
-    {
-      "id": "06b6d60cf2",
-      "title": "Plakophilin 1 suppresses keratinocyte innate immune responses through DExD/H helicases",
-      "link": "https://www.nature.com/articles/s41423-026-01462-3",
-      "journal": "Cellular and Molecular Immunology",
-      "category": "Original Article",
-      "authors": "René Keil, Danny Misiak, Stefan Hüttelmaier, Frederik Tellkamp, Marcus Krüger, Mechthild Hatzfeld",
-      "summary": "Cellular & Molecular Immunology, Published online: 19 August 2026; doi:10.1038/s41423-026-01462-3 Plakophilin 1 suppresses keratinocyte innate immune responses through DExD/H helicases",
-      "date": "2026-08-19T00:00:00Z",
-      "date_display": "19 Aug 2026"
-    },
-    {
-      "id": "62388797b3",
-      "title": "Blocking the m 6 Am methyltransferase PCIF1 in macrophages attenuates colitis progression by preventing neuronal damage",
-      "link": "https://www.nature.com/articles/s41423-026-01459-y",
-      "journal": "Cellular and Molecular Immunology",
-      "category": "Original Article",
-      "authors": "Chenbo Ding, Jiachen Zhao, Tian Zhao, Ye Xiao, Kai Li, Xiao Liu, Xuyang Ge, Demeng Qin, Zhiqian Huang, Yu Zhang, Hua Liu, Zhiqing Diao, Youqiong Ye, Richard A. Flavell, Cheng Luo…",
-      "summary": "Cellular & Molecular Immunology, Published online: 18 August 2026; doi:10.1038/s41423-026-01459-y Blocking the m 6 Am methyltransferase PCIF1 in macrophages attenuates colitis progression by preventing neuronal damage",
-      "date": "2026-08-18T00:00:00Z",
-      "date_display": "18 Aug 2026"
-    },
     {
       "id": "13e748513f",
       "title": "An Integrated Spatial Multi-Omics Workflow for Sequential RNA and Protein Profiling in FFPE Tumor Tissue",
@@ -88,50 +66,6 @@
       "summary": "Abstract Homozygous deletion of the methylthioadenosine phosphorylase ( MTAP ) gene is a frequent genetic alteration in cancer. The MTAP enzyme, which creates adenine from 5′-methylthioadenosine (MTA), is constitutively expressed in all tissues throughout the body. Previously, we described a novel strategy to…",
       "date": "2026-08-14T00:00:00Z",
       "date_display": "14 Aug 2026"
-    },
-    {
-      "id": "50dcf9871d",
-      "title": "The FAM234A-USP4 axis governs T-cell fate through the dual regulation of mTOR and RORγt",
-      "link": "https://www.nature.com/articles/s41423-026-01454-3",
-      "journal": "Cellular and Molecular Immunology",
-      "category": "Original Article",
-      "authors": "Hai Wang, Deyu Fang",
-      "summary": "Cellular & Molecular Immunology, Published online: 13 August 2026; doi:10.1038/s41423-026-01454-3 The FAM234A-USP4 axis governs T-cell fate through the dual regulation of mTOR and RORγt",
-      "date": "2026-08-13T00:00:00Z",
-      "date_display": "13 Aug 2026"
-    },
-    {
-      "id": "9d07a6670b",
-      "title": "MARCH2/3 target FcγRI for K27-linked polyubiquitination and degradation to restrict the inflammatory response",
-      "link": "https://www.nature.com/articles/s41423-026-01457-0",
-      "journal": "Cellular and Molecular Immunology",
-      "category": "Original Article",
-      "authors": "Qi Zhang, Xu Chen, Xu Zhang, Shi-Tong Lu, Jin-Xi Yu, Hong Bai, Hong-Bing Shu, Shu Li",
-      "summary": "Cellular & Molecular Immunology, Published online: 13 August 2026; doi:10.1038/s41423-026-01457-0 MARCH2/3 target FcγRI for K27-linked polyubiquitination and degradation to restrict the inflammatory response",
-      "date": "2026-08-13T00:00:00Z",
-      "date_display": "13 Aug 2026"
-    },
-    {
-      "id": "64dd29110b",
-      "title": "IL-17D reprograms CD93 + antigen-presenting cells in the glioblastoma microenvironment",
-      "link": "https://www.nature.com/articles/s41423-026-01458-z",
-      "journal": "Cellular and Molecular Immunology",
-      "category": "Original Article",
-      "authors": "Weijie Tang, Shuyuan Zhang, Yanhua Qi, Boyan Li, Zijie Gao, Ziwen Pan, Jiawei Qiu, Hao Xue, Gang Li, Shaobo Wang",
-      "summary": "Cellular & Molecular Immunology, Published online: 13 August 2026; doi:10.1038/s41423-026-01458-z IL-17D reprograms CD93 + antigen-presenting cells in the glioblastoma microenvironment",
-      "date": "2026-08-13T00:00:00Z",
-      "date_display": "13 Aug 2026"
-    },
-    {
-      "id": "45e1f210cc",
-      "title": "Radiation-induced CD200 + tumor-associated macrophages suppress eosinophil-mediated antitumor immunity through CD200R signaling in hepatocellular carcinoma",
-      "link": "https://www.nature.com/articles/s41423-026-01456-1",
-      "journal": "Cellular and Molecular Immunology",
-      "category": "Original Article",
-      "authors": "Kun Li, Siqi Li, Dongbo Qiu, Xiusheng Qiu, Haoyuan Yu, Yi Xiong, Wei Liang, Zhixing Liang, Shuqun Cheng, Hua Li, Yunfei Qin, Yang Yang, Linsen Ye",
-      "summary": "Cellular & Molecular Immunology, Published online: 13 August 2026; doi:10.1038/s41423-026-01456-1 Radiation-induced CD200 + tumor-associated macrophages suppress eosinophil-mediated antitumor immunity through CD200R signaling in hepatocellular carcinoma",
-      "date": "2026-08-13T00:00:00Z",
-      "date_display": "13 Aug 2026"
     },
     {
       "id": "ce6d2e3fe0",
@@ -519,6 +453,28 @@
       "date_display": "3 Aug 2026"
     },
     {
+      "id": "99692965a2",
+      "title": "Advisory Board and Contents",
+      "link": "https://www.cell.com/trends/immunology/fulltext/S1471-4906(26)00196-1?rss=yes",
+      "journal": "Trends in Immunology",
+      "category": "Review Article",
+      "authors": "",
+      "summary": "",
+      "date": "2026-08-01T00:00:00Z",
+      "date_display": "1 Aug 2026"
+    },
+    {
+      "id": "671c10ff04",
+      "title": "Subscription and Copyright Information",
+      "link": "https://www.cell.com/trends/immunology/fulltext/S1471-4906(26)00199-7?rss=yes",
+      "journal": "Trends in Immunology",
+      "category": "Review Article",
+      "authors": "",
+      "summary": "",
+      "date": "2026-08-01T00:00:00Z",
+      "date_display": "1 Aug 2026"
+    },
+    {
       "id": "a2b4557c0a",
       "title": "Advisory Board and Contents",
       "link": "https://www.cell.com/trends/cancer/fulltext/S2405-8033(26)00174-3?rss=yes",
@@ -574,15 +530,15 @@
       "date_display": "31 Jul 2026"
     },
     {
-      "id": "fd617c03a8",
-      "title": "Platelet-derived serotonin epigenetically programs macrophage alternative activation to orchestrate type 2 airway inflammation",
-      "link": "https://www.nature.com/articles/s41423-026-01455-2",
-      "journal": "Cellular and Molecular Immunology",
-      "category": "Original Article",
-      "authors": "Ru Tang, Guofang Xia, Ying Zhu, Jinhong Sheng, Zhihan Liu, Song Mao, Jiayao Zhou, Yuelong Gu, Shilei Pu, Zhipeng Li, Hai Lin, Congfeng Xu, Hongqing Xu, Feng Zhang, Yongxu Zhao…",
-      "summary": "Cellular & Molecular Immunology, Published online: 30 July 2026; doi:10.1038/s41423-026-01455-2 Platelet-derived serotonin epigenetically programs macrophage alternative activation to orchestrate type 2 airway inflammation",
-      "date": "2026-07-30T00:00:00Z",
-      "date_display": "30 Jul 2026"
+      "id": "a95ae42d98",
+      "title": "SenSpots: when B cells age in place",
+      "link": "https://www.cell.com/trends/immunology/fulltext/S1471-4906(26)00187-0?rss=yes",
+      "journal": "Trends in Immunology",
+      "category": "Review Article",
+      "authors": "Qianzhao Ji, Guang-Hui Liu, Jing Qu",
+      "summary": "Spatial multi-omics of aging human lymph nodes by Fan and colleagues reveals that immunosenescence manifests as focal B cell coalescence into ‘SenSpots’ within germinal centers, where concerted epigenetic, transcriptional, proteomic, and metabolic reprogramming spatially orchestrates the decline of humoral immunity.",
+      "date": "2026-07-31T00:00:00Z",
+      "date_display": "31 Jul 2026"
     },
     {
       "id": "3856ff71c0",
@@ -594,17 +550,6 @@
       "summary": "Negative regulatory ligands have been underexplored for B cells. Su et al. identify fibrinogen-like protein 1 (FGL1) as a new inhibitory ligand for a transmembrane activator and calcium-modulator and cyclophilin ligand interactor (TACI) on a subset of B cells, exploring the biochemistry, function, and potential…",
       "date": "2026-07-30T00:00:00Z",
       "date_display": "30 Jul 2026"
-    },
-    {
-      "id": "e976210134",
-      "title": "Tumor cell-released autophagosome (TRAP) programs inflammatory CAFs to drive the immune-excluded TIME through C3a",
-      "link": "https://www.nature.com/articles/s41423-026-01452-5",
-      "journal": "Cellular and Molecular Immunology",
-      "category": "Original Article",
-      "authors": "Xuru Wang, Yiting Wei, Chengdong Wu, Xiaohe Zhou, Xiaotong Sun, Xiaoyue Du, Jinpeng Chen, Jing Chen, Wenqi Zhang, Xiangwei Bo, Yunpeng Zhang, Bo Shen, Shaodi Wen, Lixin Wang",
-      "summary": "Cellular & Molecular Immunology, Published online: 29 July 2026; doi:10.1038/s41423-026-01452-5 Tumor cell-released autophagosome (TRAP) programs inflammatory CAFs to drive the immune-excluded TIME through C3a",
-      "date": "2026-07-29T00:00:00Z",
-      "date_display": "29 Jul 2026"
     },
     {
       "id": "dbe41842f8",
@@ -915,26 +860,15 @@
       "date_display": "2 Jul 2026"
     },
     {
-      "id": "26138f7d93",
-      "title": "Advisory Board and Contents",
-      "link": "https://www.cell.com/trends/immunology/fulltext/S1471-4906(26)00168-7?rss=yes",
+      "id": "931905676b",
+      "title": "IL-33 scripts cancer immunity",
+      "link": "https://www.cell.com/trends/immunology/fulltext/S1471-4906(26)00162-6?rss=yes",
       "journal": "Trends in Immunology",
       "category": "Review Article",
-      "authors": "",
-      "summary": "",
-      "date": "2026-07-01T00:00:00Z",
-      "date_display": "1 Jul 2026"
-    },
-    {
-      "id": "7b0895b527",
-      "title": "Subscription and Copyright Information",
-      "link": "https://www.cell.com/trends/immunology/fulltext/S1471-4906(26)00171-7?rss=yes",
-      "journal": "Trends in Immunology",
-      "category": "Review Article",
-      "authors": "",
-      "summary": "",
-      "date": "2026-07-01T00:00:00Z",
-      "date_display": "1 Jul 2026"
+      "authors": "Marek Wagner",
+      "summary": "Interleukin-33 (IL-33) is classically viewed as an alarmin, but in cancer, it may do more than merely initiate immunity. I propose that IL-33 scripts the trajectory of immunity through interconnected regulatory layers that influence how host responses are organized and ultimately resolved into either productive…",
+      "date": "2026-07-02T00:00:00Z",
+      "date_display": "2 Jul 2026"
     },
     {
       "id": "a96773e3f1",
@@ -1080,17 +1014,6 @@
       "date_display": "18 Jun 2026"
     },
     {
-      "id": "ca70675806",
-      "title": "Parental leave in immunology — 6",
-      "link": "https://www.cell.com/trends/immunology/fulltext/S1471-4906(26)00136-5?rss=yes",
-      "journal": "Trends in Immunology",
-      "category": "Review Article",
-      "authors": "Andrea Wieck",
-      "summary": "I am a biologist with training in Genetics and Molecular and Cellular Biology, but my path has always been guided by a deep interest in immunology and in understanding how life experiences shape our biology. During my PhD, including a period at Harvard Medical School (McLean Hospital), I began investigating how…",
-      "date": "2026-06-17T00:00:00Z",
-      "date_display": "17 Jun 2026"
-    },
-    {
       "id": "8242493e82",
       "title": "Atypical membrane fusion uncovered by a noncanonical mechanism",
       "link": "https://www.cell.com/trends/cell-biology/fulltext/S0962-8924(26)00100-5?rss=yes",
@@ -1100,17 +1023,6 @@
       "summary": "The bacterial-like identity of membranes in modern eukaryotes and the formation and disassembly of large hemifusion diaphragms during organelle fusion, remain unresolved problems in cell biology. In this forum, we comment on a noncanonical fusion pathway, supported by molecular simulations, which offers a unified…",
       "date": "2026-06-17T00:00:00Z",
       "date_display": "17 Jun 2026"
-    },
-    {
-      "id": "6259edb16d",
-      "title": "Context-dependent androgen control of T cell immunity",
-      "link": "https://www.cell.com/trends/immunology/fulltext/S1471-4906(26)00156-0?rss=yes",
-      "journal": "Trends in Immunology",
-      "category": "Review Article",
-      "authors": "Jianhua Xiong",
-      "summary": "While androgen deprivation is widely used in urological oncology to restrain tumor growth and prevent T cell exhaustion, Lee et al. reveal a striking reversal in glioblastoma. In glioblastoma, androgen loss triggers microglial cytokines, activates the hypothalamic–pituitary–adrenal axis, and induces…",
-      "date": "2026-06-16T00:00:00Z",
-      "date_display": "16 Jun 2026"
     },
     {
       "id": "90bc721c21",
@@ -1146,13 +1058,24 @@
       "date_display": "12 Jun 2026"
     },
     {
-      "id": "b55b1c0b08",
-      "title": "Parental leave in immunology — 5",
-      "link": "https://www.cell.com/trends/immunology/fulltext/S1471-4906(26)00135-3?rss=yes",
+      "id": "a6dd16d0f4",
+      "title": "Parental leave in immunology — 7",
+      "link": "https://www.cell.com/trends/immunology/fulltext/S1471-4906(26)00134-1?rss=yes",
       "journal": "Trends in Immunology",
       "category": "Review Article",
-      "authors": "Federica Facciotti",
-      "summary": "I am an immunologist with over 15 years of experience in translational biomedical research, specializing in T cell biology, autoimmune diseases, and gastrointestinal cancers. My work explores how immune cells maintain balance, drive inflammation, and regulate epithelial transformation, with a growing focus on…",
+      "authors": "Chiara M. Cattaneo",
+      "summary": "I am a cancer immunologist and a junior group leader in precision immuno-oncology in Milan, Italy. My work focuses on developing personalized immunotherapy strategies for solid tumors, generating patient-specific tumor-reactive T cells, and investigating how tumors escape immune surveillance. In November 2022, while I…",
+      "date": "2026-06-12T00:00:00Z",
+      "date_display": "12 Jun 2026"
+    },
+    {
+      "id": "ff76fcce0c",
+      "title": "Parental leave in immunology — 8",
+      "link": "https://www.cell.com/trends/immunology/fulltext/S1471-4906(26)00133-X?rss=yes",
+      "journal": "Trends in Immunology",
+      "category": "Review Article",
+      "authors": "Katharina Schmack",
+      "summary": "Katharina Schmack",
       "date": "2026-06-12T00:00:00Z",
       "date_display": "12 Jun 2026"
     },
@@ -1199,28 +1122,6 @@
       "summary": "Tumors are ecological systems shaped by continuous exchange with surrounding cells. The transfer of functional mitochondria, which reprograms malignant behavior, introduces a distinct layer to this ecology. Cancer evolution may proceed not solely through mutation and selection but also through the horizontal…",
       "date": "2026-06-10T00:00:00Z",
       "date_display": "10 Jun 2026"
-    },
-    {
-      "id": "623ebdfc35",
-      "title": "A PanIN-oramic view of early pancreatic cancer in 3D",
-      "link": "https://www.cell.com/trends/immunology/fulltext/S1471-4906(26)00132-8?rss=yes",
-      "journal": "Trends in Immunology",
-      "category": "Review Article",
-      "authors": "Alexander Cicala, Sebastian A. Dziadowicz, Peter M.K. Westcott",
-      "summary": "Pancreatic cancer is a deadly disease defined by an immunosuppressive microenvironment refractory to therapy. Kiemen et al. applied 3D histology, imaging mass cytometry, and spatially resolved DNA sequencing to human pancreata containing early precursors of the disease, revealing heterogeneous and mutation-specific…",
-      "date": "2026-06-09T00:00:00Z",
-      "date_display": "9 Jun 2026"
-    },
-    {
-      "id": "ea7b8df00b",
-      "title": "SIRT6 bridges glycolysis and epigenetics to neutrophilic asthma",
-      "link": "https://www.cell.com/trends/immunology/fulltext/S1471-4906(26)00127-4?rss=yes",
-      "journal": "Trends in Immunology",
-      "category": "Review Article",
-      "authors": "Zhan Wang, Xuewei Zhu",
-      "summary": "Neutrophil asthma is a severe, corticosteroid-resistant subtype characterized by airway neutrophilia and declining lung function. Su et al. identify a sirtuin 6–lactate dehydrogenase A–histone lactylation axis that links macrophage glycolysis to epigenetic chemokine regulation, offering mechanistic insight into…",
-      "date": "2026-06-05T00:00:00Z",
-      "date_display": "5 Jun 2026"
     },
     {
       "id": "3c152143da",
@@ -1320,6 +1221,105 @@
       "summary": "Errors in transcription and RNA processing generate aberrant transcripts that can produce truncated, nonfunctional, or dominant-negative proteins. RNA surveillance pathways, centered on the RNA exosome, recognize diverse processing defects and initiate targeted RNA degradation. These mechanisms also regulate the short…",
       "date": "2026-05-11T00:00:00Z",
       "date_display": "11 May 2026"
+    },
+    {
+      "id": "ea54ca060f",
+      "title": "Bioengineered systems to exploit tumor microenvironment metabolism",
+      "link": "https://www.cell.com/trends/cancer/fulltext/S2405-8033(26)00078-6?rss=yes",
+      "journal": "Trends in Cancer",
+      "category": "Review Article",
+      "authors": "Christine Sanganoo, Ilaria Caturegli, Zachary Mattes, Jordan Ryan, Wilson W. Wong, Mark W. Grinstaff",
+      "summary": "Our understanding of cancer metabolism has afforded the opportunity to develop therapies specific to tumor metabolic dysregulation. While molecular therapeutics targeting cancer metabolism have found success in the clinic, bioengineering approaches are nascent. Here, we describe key metabolic pathways and their…",
+      "date": "2026-05-06T00:00:00Z",
+      "date_display": "6 May 2026"
+    },
+    {
+      "id": "542ec10f86",
+      "title": "Exploiting immunogenic cell death to promote antitumor immunity",
+      "link": "https://www.cell.com/trends/immunology/fulltext/S1471-4906(26)00067-0?rss=yes",
+      "journal": "Trends in Immunology",
+      "category": "Review Article",
+      "authors": "Gabriele Casagrande Raffi, Siying Wang, Liqin Wang, Rene Bernards",
+      "summary": "Immunogenic cell death (ICD) converts the death of a tumor cell into an event sensed by the immune system. Recent studies show that distinct ICD modalities, including immunogenic apoptosis, pyroptosis, necroptosis, and hybrid forms such as PANoptosis, release defined sets of danger signals and cytokines that reshape…",
+      "date": "2026-04-16T00:00:00Z",
+      "date_display": "16 Apr 2026"
+    },
+    {
+      "id": "bfa7600dd4",
+      "title": "Skull channels as gateways for immune surveillance of the brain",
+      "link": "https://www.cell.com/trends/immunology/fulltext/S1471-4906(26)00068-2?rss=yes",
+      "journal": "Trends in Immunology",
+      "category": "Review Article",
+      "authors": "Elisa Eme-Scolan, Rejane Rua",
+      "summary": "The central nervous system (CNS), once considered immune privileged, is, in fact, protected by a dynamic immune compartment located in the meninges. These immune cells are crucial for brain protection, controlling neuroinflammation, and also supporting neural function. Recent studies show that meningeal immune cells…",
+      "date": "2026-04-09T00:00:00Z",
+      "date_display": "9 Apr 2026"
+    },
+    {
+      "id": "86ae3d4ea4",
+      "title": "Trained immunity responses across infectious diseases and cancer vaccines",
+      "link": "https://www.cell.com/trends/immunology/fulltext/S1471-4906(26)00066-9?rss=yes",
+      "journal": "Trends in Immunology",
+      "category": "Review Article",
+      "authors": "Kaiyu Fu, Rui Zhang, Yusi Wang, Rutie Yin, Li Yang",
+      "summary": "Trained immunity (TRIM), a paradigm-shifting concept in immunology, refers to the long-term functional reprogramming of innate immune cells, enabling enhanced responsiveness to secondary challenges through metabolic and epigenetic remodeling. This phenomenon bridges the gap between innate and adaptive immunity…",
+      "date": "2026-04-02T00:00:00Z",
+      "date_display": "2 Apr 2026"
+    },
+    {
+      "id": "d7bf0e1294",
+      "title": "Gut microbial metabolism via hippocampal indole-AhR signaling regulates emotional symptoms",
+      "link": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00097-5?rss=yes",
+      "journal": "Cell Metabolism",
+      "category": "Original Article",
+      "authors": "Ting-Ting Wang, Yan-Jia Luo, Wen Feng, Lian-Xiang Jiang, Qing-Song Yu, Yu-Ting He, Lizhi Guan, Bing-Qian Zhu, Hong Jiang, Min Li, Ruixin Liu, Jing Wang, Ya-Dong Li",
+      "summary": "Wang et al. reveal a gut-brain pathway linking intestinal microbes to emotional symptoms in IBS. Loss of A. shahii lowers microbial metabolite indole, weakening AhR signaling in the affective brain region. Restoring the A. shahii-indole axis or activating AhR with clinically approved diosmin rescues emotion in IBS.",
+      "date": "2026-04-01T00:00:00Z",
+      "date_display": "1 Apr 2026"
+    },
+    {
+      "id": "cfab2775bd",
+      "title": "Endothelial cells modulate immune cell responses during atherosclerosis",
+      "link": "https://www.cell.com/trends/immunology/fulltext/S1471-4906(26)00041-4?rss=yes",
+      "journal": "Trends in Immunology",
+      "category": "Review Article",
+      "authors": "Sanne van Kesteren, Lisa Smeehuijzen, Robert Stevenson, Jeffrey Kroon",
+      "summary": "Endothelial cells (ECs), which form the monolayer lining the vasculature, serve as critical gatekeepers of vascular homeostasis. They actively coordinate immune cell recruitment, adhesion, migration, and activation. Through tightly controlled expression and secretion of chemokines, cytokines, adhesion molecules, and…",
+      "date": "2026-03-30T00:00:00Z",
+      "date_display": "30 Mar 2026"
+    },
+    {
+      "id": "a16f6debe2",
+      "title": "Tetraploids or polyploid giants: who is truly dangerous?",
+      "link": "https://www.cell.com/trends/cell-biology/fulltext/S0962-8924(26)00034-6?rss=yes",
+      "journal": "Trends in Cell Biology",
+      "category": "Review Article",
+      "authors": "Mathew Bloomfield, Shivam Vora, Dinethra Epa, Brian Gabrielli, Daniela Cimini",
+      "summary": "Tetraploidy, resulting from a single whole-genome duplication (WGD) event, contributes to tumorigenesis by promoting genomic instability and functional diversity. In general, WGD beyond tetraploidy limits proliferative and tumorigenic potential, but an increasing number of studies suggest that polyploid giant cancer…",
+      "date": "2026-03-28T00:00:00Z",
+      "date_display": "28 Mar 2026"
+    },
+    {
+      "id": "3e8458841a",
+      "title": "H3K9 trimethylation homeostasis: mechanisms, crosstalk, and cancer relevance",
+      "link": "https://www.cell.com/trends/cell-biology/fulltext/S0962-8924(26)00020-6?rss=yes",
+      "journal": "Trends in Cell Biology",
+      "category": "Review Article",
+      "authors": "Liwen Zhou, Yuanzhong Wu, Tiebang Kang",
+      "summary": "Histone H3 lysine 9 trimethylation (H3K9me3) is a defining mark of heterochromatin that silences transposable elements, stabilizes chromosome architecture, and guides developmental trajectories. Recent studies conceptualize H3K9me3 homeostasis as the interplay of three interconnected phases: initiation, propagation…",
+      "date": "2026-03-26T00:00:00Z",
+      "date_display": "26 Mar 2026"
+    },
+    {
+      "id": "13a855b153",
+      "title": "Repair condensates and lipid domains in lysosome integrity",
+      "link": "https://www.cell.com/trends/cell-biology/fulltext/S0962-8924(26)00033-4?rss=yes",
+      "journal": "Trends in Cell Biology",
+      "category": "Review Article",
+      "authors": "Claudio Bussi, Weiping Li",
+      "summary": "Lysosomes are sophisticated signaling hubs whose function depends on membrane integrity. A breach of this barrier, known as lysosomal membrane permeabilization, triggers inflammation and cell death, driving pathologies from lysosomal storage disorders to neurodegeneration. Cells counter membrane damage with diverse…",
+      "date": "2026-03-25T00:00:00Z",
+      "date_display": "25 Mar 2026"
     }
   ]
 }
