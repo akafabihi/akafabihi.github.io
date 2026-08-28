@@ -1,6 +1,28 @@
 {
-  "updated": "2026-08-27T16:58:54Z",
+  "updated": "2026-08-28T17:48:24Z",
   "papers": [
+    {
+      "id": "7b0abf7456",
+      "title": "The long return on discovery science in cancer therapeutics",
+      "link": "https://www.nature.com/articles/s41568-026-00978-0",
+      "journal": "Nature Reviews Cancer",
+      "category": "Review Article",
+      "authors": "Cian Murphy, Samuel Hume, Charles Swanton",
+      "summary": "Nature Reviews Cancer, Published online: 28 August 2026; doi:10.1038/s41568-026-00978-0 Many advances in cancer treatment depend on discoveries made decades earlier. In this Comment, Murphy et al. discuss the histories of EGFR, HER2, CDK4/6 and RAS, highlighting how long translation can take and how clinical benefit…",
+      "date": "2026-08-28T00:00:00Z",
+      "date_display": "28 Aug 2026"
+    },
+    {
+      "id": "7bf1d7a98e",
+      "title": "Tumor Mutational Burden and Clinical Outcomes in Patients with Muscle-Invasive Bladder Cancer Treated with Neoadjuvant Chemotherapy",
+      "link": "https://aacrjournals.org/cancerrescommun/article/6/8/2010/787714/Tumor-Mutational-Burden-and-Clinical-Outcomes-in",
+      "journal": "Cancer Research",
+      "category": "Original Article",
+      "authors": "Earle F. Burgess, Landon C. Brown, Michael McCormack, Liang Liu, Nury Steuerwald, Ericson Stoen, Metamia Ciampricotti, Patrick M. Doherty, Edward Williams, Peter E. Clark, Wei…",
+      "summary": "Abstract Pathologic complete response (pCR) after cisplatin-based neoadjuvant chemotherapy (NAC) is associated with improved outcomes in muscle-invasive bladder cancer (MIBC), but genomic predictors of benefit remain unvalidated. Based on observations in lung cancer, we hypothesized that patients with MIBC with high…",
+      "date": "2026-08-27T00:00:00Z",
+      "date_display": "27 Aug 2026"
+    },
     {
       "id": "e551019291",
       "title": "Epigenetic regulation of B cell tolerance and dysfunction in autoimmune disease",
@@ -849,17 +871,6 @@
       "date_display": "3 Aug 2026"
     },
     {
-      "id": "69a7c028a5",
-      "title": "Converging engineered models of cancer and artificial intelligence",
-      "link": "https://www.nature.com/articles/s41568-026-00966-4",
-      "journal": "Nature Reviews Cancer",
-      "category": "Review Article",
-      "authors": "Carlos F. Guimarães, Rui L. Reis",
-      "summary": "Nature Reviews Cancer, Published online: 03 August 2026; doi:10.1038/s41568-026-00966-4 No existing model can reliably predict how an individual cancer will evolve. In this Comment, Guimarães and Reis argue that the future of precision oncology lies not in increasingly sophisticated in vitro tumour models or in…",
-      "date": "2026-08-03T00:00:00Z",
-      "date_display": "3 Aug 2026"
-    },
-    {
       "id": "99692965a2",
       "title": "Advisory Board and Contents",
       "link": "https://www.cell.com/trends/immunology/fulltext/S1471-4906(26)00196-1?rss=yes",
@@ -1309,17 +1320,6 @@
       "summary": "Reactive species, including reactive oxygen species, act as both essential signals and drivers of pathology in immune cells. Kobayashi and Brenner review how redox chemistry shapes immune cell metabolism, tolerance, and autoimmunity, and how cell-type-specific redox modulation could open precise therapeutic avenues…",
       "date": "2026-06-29T00:00:00Z",
       "date_display": "29 Jun 2026"
-    },
-    {
-      "id": "eda2c6e428",
-      "title": "Spindle errors: A stress test for epithelial robustness",
-      "link": "https://www.cell.com/trends/cell-biology/fulltext/S0962-8924(26)00106-6?rss=yes",
-      "journal": "Trends in Cell Biology",
-      "category": "Review Article",
-      "authors": "Harshath Amal, Thea Jacobs, Stefan Luschnig",
-      "summary": "Bosveld et al. uncover how epithelial tissue buffers mitotic spindle errors. In the Drosophila notum, cells displaced by spindle misorientation either reintegrate via cell-autonomous and nonautonomous forces or are eliminated. This coordinated response links cell and tissue mechanics, Hippo-dependent survival…",
-      "date": "2026-06-26T00:00:00Z",
-      "date_display": "26 Jun 2026"
     }
   ]
 }
