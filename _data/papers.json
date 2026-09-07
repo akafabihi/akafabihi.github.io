@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T09:48:51Z",
+  "updated": "2026-09-07T10:54:43Z",
   "papers": [
     {
       "id": "2414341486",
@@ -57,61 +57,6 @@
       "date_display": "4 Sep 2026"
     },
     {
-      "id": "0b6124b56d",
-      "title": "Author Correction: Combined alcohol and cannabinoid exposure leads to synergistic toxicity by affecting cerebellar Purkinje cells",
-      "link": "https://www.nature.com/articles/s42255-026-01602-z",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "Guichang Zou, Jing Xia, Heyi Luo, Dan Xiao, Jin Jin, Chenjian Miao, Xin Zuo, Qianqian Gao, Zhi Zhang, Tian Xue, Yezi You, Ye Zhang, Li Zhang, Wei Xiong",
-      "summary": "Nature Metabolism, Published online: 04 September 2026; doi:10.1038/s42255-026-01602-z Author Correction: Combined alcohol and cannabinoid exposure leads to synergistic toxicity by affecting cerebellar Purkinje cells",
-      "date": "2026-09-04T00:00:00Z",
-      "date_display": "4 Sep 2026"
-    },
-    {
-      "id": "941cd632a1",
-      "title": "Author Correction: Impaired cAMP–PKA–CREB1 signalling drives mitochondrial dysfunction in skeletal muscle during cancer cachexia",
-      "link": "https://www.nature.com/articles/s42255-026-01622-9",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "Elia Angelino, Lorenza Bodo, Roberta Sartori, Valeria Malacarne, Beatrice D’Anna, Nicolò Formaggio, Suvham Barua, Tommaso Raiteri, Andrea Lauria, Simone Reano, Alessandra…",
-      "summary": "Nature Metabolism, Published online: 04 September 2026; doi:10.1038/s42255-026-01622-9 Author Correction: Impaired cAMP–PKA–CREB1 signalling drives mitochondrial dysfunction in skeletal muscle during cancer cachexia",
-      "date": "2026-09-04T00:00:00Z",
-      "date_display": "4 Sep 2026"
-    },
-    {
-      "id": "e6f6b62863",
-      "title": "UBE2N flips the switch on for mitophagy and off for MASH",
-      "link": "https://www.nature.com/articles/s42255-026-01604-x",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "Emily D. Madigan, Sandro L. Matos, Michael J. Jurczak",
-      "summary": "Nature Metabolism, Published online: 04 September 2026; doi:10.1038/s42255-026-01604-x Mitochondrial homeostasis is tightly regulated to prevent hepatocyte injury. In this issue of Nature Metabolism, Wang et al. identify UBE2N as a switch that determines whether hepatocytes undergo protective mitophagy or pathogenic…",
-      "date": "2026-09-04T00:00:00Z",
-      "date_display": "4 Sep 2026"
-    },
-    {
-      "id": "a23d412c41",
-      "title": "Gut microbiota-derived imidazole propionate promotes primary sclerosing cholangitis via p38 signalling",
-      "link": "https://www.nature.com/articles/s42255-026-01600-1",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "Antonio Molinaro, Peder Rustøen Braadland, Guido Carpino, Alba Carreras, Marios Nikolaidis, Petra Hanzely, Katharina R. Beck, Ahmad H. Ali, Lars Bossen, Anna Frank, Annika…",
-      "summary": "Nature Metabolism, Published online: 04 September 2026; doi:10.1038/s42255-026-01600-1 The gut microbial metabolite imidazole propionate (ImP) is shown to promote primary sclerosing cholangitis (PSC) in mice. In humans with PSC, circulating ImP levels are elevated and correlated with poor survival.",
-      "date": "2026-09-04T00:00:00Z",
-      "date_display": "4 Sep 2026"
-    },
-    {
-      "id": "4c0cbba5c1",
-      "title": "UBE2N deficiency contributes to MASH development via p62-regulated mitophagy and PANoptosis",
-      "link": "https://www.nature.com/articles/s42255-026-01590-0",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "Feng Wang, Jin Lee, Jeong-Su Park, Meizhou Huang, Hwan Ma, Guoyan Sui, Zixiong Zhou, Michitaka Matsuda, So Yeon Kim, Takashi Tsuchiya, Xuefeng Wu, Haram Lee, Soohwan Oh, Hanseul…",
-      "summary": "Nature Metabolism, Published online: 04 September 2026; doi:10.1038/s42255-026-01590-0 Hepatocyte UBE2N regulates K63-linked ubiquitination of p62 to modulate mitophagy and PANoptosis in the context of MASH and fibrosis.",
-      "date": "2026-09-04T00:00:00Z",
-      "date_display": "4 Sep 2026"
-    },
-    {
       "id": "8e4a58970b",
       "title": "Neighborhood Factors and Treatment Outcomes in Pediatric Acute Lymphoblastic Leukemia: A REDIAL Consortium Report",
       "link": "https://aacrjournals.org/cancerrescommun/article/6/9/2079/787814/Neighborhood-Factors-and-Treatment-Outcomes-in",
@@ -121,6 +66,17 @@
       "summary": "Abstract Acute lymphoblastic leukemia (ALL) shows persistent outcome disparities among socioeconomically disadvantaged and Hispanic children. Neighborhood socioeconomic status (nSES) and residence in Hispanic enclaves may contribute to these disparities, yet their impact on pediatric ALL is unclear. We examined…",
       "date": "2026-09-04T00:00:00Z",
       "date_display": "4 Sep 2026"
+    },
+    {
+      "id": "b245b80d5b",
+      "title": "Targeting the FOXP3–T-bet interaction to restore Treg stability in IFN-γ–driven autoimmunity",
+      "link": "https://www.nature.com/articles/s41423-026-01468-x",
+      "journal": "Cellular and Molecular Immunology",
+      "category": "Original Article",
+      "authors": "Weiqi Zhang, Xinnan Liu, Zhiyong Gu, Jiahang Xu, Zheng Bao, Rui Liang, Zhenran Xu, Dan Teng, Guojun Qu, Qianru Huang, Yi Lei, Feng Xie, Na Tian, Yichao Han, Siyuan Qiang, Hecheng…",
+      "summary": "Cellular & Molecular Immunology, Published online: 03 September 2026; doi:10.1038/s41423-026-01468-x Targeting the FOXP3–T-bet interaction to restore Treg stability in IFN-γ–driven autoimmunity",
+      "date": "2026-09-03T00:00:00Z",
+      "date_display": "3 Sep 2026"
     },
     {
       "id": "480bc74f6c",
@@ -134,24 +90,13 @@
       "date_display": "3 Sep 2026"
     },
     {
-      "id": "d5c84dd63b",
-      "title": "Publisher Correction: Cell-specific DNA methylation in human alpha and beta cells regulates gene expression in type 2 diabetes",
-      "link": "https://www.nature.com/articles/s42255-026-01610-z",
-      "journal": "Nature Metabolism",
+      "id": "4a0dce6a06",
+      "title": "The NLRP3 inflammasome at the crossroads of innate immune signaling and cell death",
+      "link": "https://www.nature.com/articles/s41423-026-01463-2",
+      "journal": "Cellular and Molecular Immunology",
       "category": "Original Article",
-      "authors": "Jones K. Ofori, Sabrina Ruhrmann, Axel Lindström, Alexander Perfilyev, Melina Martin, Alexandros Karagiannopoulos, Lucia Scisciola, Katja Kost, Josefine Jönsson, Åsa Nilsson…",
-      "summary": "Nature Metabolism, Published online: 02 September 2026; doi:10.1038/s42255-026-01610-z Publisher Correction: Cell-specific DNA methylation in human alpha and beta cells regulates gene expression in type 2 diabetes",
-      "date": "2026-09-02T00:00:00Z",
-      "date_display": "2 Sep 2026"
-    },
-    {
-      "id": "f8991bbc4b",
-      "title": "Author Correction: Targeting MondoA–TXNIP restores antitumour immunity in lactic-acid-induced immunosuppressive microenvironment",
-      "link": "https://www.nature.com/articles/s42255-026-01608-7",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "Nannan Xu, Yemin Zhu, Yichao Han, Qi Liu, Lingfeng Tong, Yakui Li, Zhangbing Chen, Sijia Shao, Wenrui He, Mingrui Li, Yi Wang, Siyuan Qiang, Peiwei Chai, Peng Du, Wenyi Zhao…",
-      "summary": "Nature Metabolism, Published online: 02 September 2026; doi:10.1038/s42255-026-01608-7 Author Correction: Targeting MondoA–TXNIP restores antitumour immunity in lactic-acid-induced immunosuppressive microenvironment",
+      "authors": "Nanyang Xiao, Zexuan Lu, Destiny K. Cooper, Jueqi Chen",
+      "summary": "Cellular & Molecular Immunology, Published online: 02 September 2026; doi:10.1038/s41423-026-01463-2 The NLRP3 inflammasome at the crossroads of innate immune signaling and cell death",
       "date": "2026-09-02T00:00:00Z",
       "date_display": "2 Sep 2026"
     },
@@ -178,37 +123,15 @@
       "date_display": "2 Sep 2026"
     },
     {
-      "id": "344f01a79b",
-      "title": "l -Glutamine’s potential to enhance chemotherapy efficacy in advanced pancreatic cancer",
-      "link": "https://www.nature.com/articles/s43018-026-01231-1",
-      "journal": "Nature Cancer",
-      "category": "Original Article",
-      "authors": "",
-      "summary": "Nature Cancer, Published online: 01 September 2026; doi:10.1038/s43018-026-01231-1 The addition of oral l-glutamine to first-line gemcitabine plus nab-paclitaxel appears safe and is associated with improved survival outcomes and tumor responses compared with historical benchmarks in untreated advanced pancreatic…",
-      "date": "2026-09-01T00:00:00Z",
-      "date_display": "1 Sep 2026"
-    },
-    {
-      "id": "f599eef8d8",
-      "title": "Publisher Correction: Adjuvant personalized multivalent neoantigen DNA vaccination for MGMT unmethylated glioblastoma: a phase 1 trial",
-      "link": "https://www.nature.com/articles/s43018-026-01243-x",
-      "journal": "Nature Cancer",
-      "category": "Original Article",
-      "authors": "Elizabeth A. R. Garfinkle, Renzo Perales-Linares, Ryan C. Gimple, Alexandra J. Livingstone, Kaleigh F. Roberts, Omar H. Butt, S. Peter Goedegebuure, Michael D. McLellan, Gue Su…",
-      "summary": "Nature Cancer, Published online: 01 September 2026; doi:10.1038/s43018-026-01243-x Publisher Correction: Adjuvant personalized multivalent neoantigen DNA vaccination for MGMT unmethylated glioblastoma: a phase 1 trial",
-      "date": "2026-09-01T00:00:00Z",
-      "date_display": "1 Sep 2026"
-    },
-    {
-      "id": "ffd2de5b44",
-      "title": "SlideChat is a multimodal generative artificial intelligence assistant for whole-slide computational pathology across cancer types",
-      "link": "https://www.nature.com/articles/s43018-026-01220-4",
-      "journal": "Nature Cancer",
-      "category": "Original Article",
-      "authors": "Ying Chen, Chenglong Ma, Qiongqiong Li, Fang Yan, Yirong Chen, Tianbin Li, Jin Ye, Ming Hu, Yuxiang Lin, Yanjun Li, Guoan Wang, Huihui Xu, Hui Dong, Xiang Wang, Xiaoxiao Xu…",
-      "summary": "Nature Cancer, Published online: 01 September 2026; doi:10.1038/s43018-026-01220-4 Chen et al. have developed SlideChat, a multimodal generative artificial intelligence assistant, which they benchmark on 27 pathology tasks across 33 cancer types. Expert pathologists rated the assistant as clinically relevant and…",
-      "date": "2026-09-01T00:00:00Z",
-      "date_display": "1 Sep 2026"
+      "id": "d889dcebd1",
+      "title": "Expanding the reach of menin inhibitors",
+      "link": "https://www.nature.com/articles/s41568-026-00981-5",
+      "journal": "Nature Reviews Cancer",
+      "category": "Review Article",
+      "authors": "Daniela Senft",
+      "summary": "Nature Reviews Cancer, Published online: 02 September 2026; doi:10.1038/s41568-026-00981-5 Megakaryocytes contribute substantially to the pathogenesis of myeloproliferative neoplasms (MPNs), but therapeutic strategies targeting this lineage are lacking. Wen, Cotton et al. demonstrate that menin inhibition impairs…",
+      "date": "2026-09-02T00:00:00Z",
+      "date_display": "2 Sep 2026"
     },
     {
       "id": "e5deb5b93e",
@@ -240,6 +163,17 @@
       "category": "Original Article",
       "authors": "Toong Seng Tan, WeiWei Sun, Ce Gao, Mathias Viard, Lucy C. Walters, Melanie Lancien, Yuko Yuki, Tram N. Van, Carlos Casquero, Xuan Guo, Rebecca Hoh, David W. Haas, Nelson Michael…",
       "summary": "Nature Immunology, Published online: 01 September 2026; doi:10.1038/s41590-026-02637-w HIV reservoir cells are traditionally considered invisible to host immune responses due to viral latency. This work challenges this view by demonstrating that HIV persistence during long-term antiretroviral therapy is strongly…",
+      "date": "2026-09-01T00:00:00Z",
+      "date_display": "1 Sep 2026"
+    },
+    {
+      "id": "dc1be6d83f",
+      "title": "Author Correction: Platelet-derived serotonin epigenetically programs macrophage alternative activation to orchestrate type 2 airway inflammation",
+      "link": "https://www.nature.com/articles/s41423-026-01465-0",
+      "journal": "Cellular and Molecular Immunology",
+      "category": "Original Article",
+      "authors": "Ru Tang, Guofang Xia, Ying Zhu, Jinhong Shen, Zhihan Liu, Song Mao, Jiayao Zhou, Yuelong Gu, Shilei Pu, Zhipeng Li, Hai Lin, Congfeng Xu, Hongqing Xu, Feng Zhang, Yongxu Zhao…",
+      "summary": "Cellular & Molecular Immunology, Published online: 01 September 2026; doi:10.1038/s41423-026-01465-0 Author Correction: Platelet-derived serotonin epigenetically programs macrophage alternative activation to orchestrate type 2 airway inflammation",
       "date": "2026-09-01T00:00:00Z",
       "date_display": "1 Sep 2026"
     },
@@ -420,17 +354,6 @@
       "date_display": "1 Sep 2026"
     },
     {
-      "id": "a1c653a170",
-      "title": "l -Glutamine in combination with first-line gemcitabine and nab-paclitaxel in advanced pancreatic ductal adenocarcinoma: an open-label, single-arm, phase 1 GlutaPanc trial",
-      "link": "https://www.nature.com/articles/s43018-026-01225-z",
-      "journal": "Nature Cancer",
-      "category": "Original Article",
-      "authors": "Jun Gong, Hayato Muranaka, So Yung Choi, Mourad Tighiouart, Shrikant Bhute, Ezinne R. Aja, Jonathan P. Jacobs, Aleksandr Stotland, Jennifer Van Eyk, Omer H. M. Elmadbouh, Mouad…",
-      "summary": "Nature Cancer, Published online: 31 August 2026; doi:10.1038/s43018-026-01225-z In this open-label, single-arm, phase 1 GlutaPanc trial, Gong and colleagues report the safety and feasibility of l-glutamine in participants with advanced pancreatic ductal adenocarcinoma and determine the recommended phase 2 dose of…",
-      "date": "2026-08-31T00:00:00Z",
-      "date_display": "31 Aug 2026"
-    },
-    {
       "id": "dfb6f0660b",
       "title": "Good neighbors make lasting memory",
       "link": "https://www.nature.com/articles/s41590-026-02645-w",
@@ -464,15 +387,15 @@
       "date_display": "31 Aug 2026"
     },
     {
-      "id": "dbf94cd895",
-      "title": "Neutrophil proteases put the brakes on visceral beiging",
-      "link": "https://www.nature.com/articles/s42255-026-01606-9",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "Marcus J. Tol, Rinke Stienstra",
-      "summary": "Nature Metabolism, Published online: 31 August 2026; doi:10.1038/s42255-026-01606-9 Visceral and subcutaneous adipose tissue differ in their propensity for thermogenic remodelling, yet the mechanisms enforcing this depot specificity remain incompletely understood. Yuan et al. identify neutrophil-derived serine…",
-      "date": "2026-08-31T00:00:00Z",
-      "date_display": "31 Aug 2026"
+      "id": "7b0abf7456",
+      "title": "The long return on discovery science in cancer therapeutics",
+      "link": "https://www.nature.com/articles/s41568-026-00978-0",
+      "journal": "Nature Reviews Cancer",
+      "category": "Review Article",
+      "authors": "Cian Murphy, Samuel Hume, Charles Swanton",
+      "summary": "Nature Reviews Cancer, Published online: 28 August 2026; doi:10.1038/s41568-026-00978-0 Many advances in cancer treatment depend on discoveries made decades earlier. In this Comment, Murphy et al. discuss the histories of EGFR, HER2, CDK4/6 and RAS, highlighting how long translation can take and how clinical benefit…",
+      "date": "2026-08-28T00:00:00Z",
+      "date_display": "28 Aug 2026"
     },
     {
       "id": "e551019291",
@@ -508,26 +431,26 @@
       "date_display": "26 Aug 2026"
     },
     {
-      "id": "e64062de41",
-      "title": "Author Correction: Low-protein diet enhances antitumor immunity in pancreatic cancer through microbiota-derived UDP-galactose",
-      "link": "https://www.nature.com/articles/s43018-026-01241-z",
-      "journal": "Nature Cancer",
-      "category": "Original Article",
-      "authors": "Yueying Chen, Fulin Nian, Shengdi Wu, Tianli Yuan, Yifan Ma, Junyang Cao, Yuxiao Zhang, Wenfeng Liu, Wenqing Tang, Danying Zhang, Zi Li, Wei Lu, Fengwanni Wang, Xiulong Xia…",
-      "summary": "Nature Cancer, Published online: 25 August 2026; doi:10.1038/s43018-026-01241-z Author Correction: Low-protein diet enhances antitumor immunity in pancreatic cancer through microbiota-derived UDP-galactose",
-      "date": "2026-08-25T00:00:00Z",
-      "date_display": "25 Aug 2026"
+      "id": "b6a87287e8",
+      "title": "Early evidence of the carcinogenic effects of e-cigarette use",
+      "link": "https://www.nature.com/articles/s41568-026-00976-2",
+      "journal": "Nature Reviews Cancer",
+      "category": "Review Article",
+      "authors": "Yolanda I. Chirino, Estefany I. Medina-Reyes",
+      "summary": "Nature Reviews Cancer, Published online: 26 August 2026; doi:10.1038/s41568-026-00976-2 In this Journal Club, Yolanda Chirino and Estefany Medina-Reyes discuss a study that used mechanistic markers of carcinogenesis to provide early evidence of the potential cancer risks associated with e-cigarette exposure.",
+      "date": "2026-08-26T00:00:00Z",
+      "date_display": "26 Aug 2026"
     },
     {
-      "id": "1314ff78ae",
-      "title": "Galanin impairs tumor immunity in glioblastoma by promoting infiltration and ferroptosis resistance of myeloid-derived suppressor cells",
-      "link": "https://www.nature.com/articles/s43018-026-01221-3",
-      "journal": "Nature Cancer",
-      "category": "Original Article",
-      "authors": "Lizhi Pang, Yang Liu, Fei Zhou, Songlin Guo, Fatima Khan, Heba Ali, Hardik Shah, Sara Huber, Barbara Kofler, Craig M. Horbinski, Peiwen Chen",
-      "summary": "Nature Cancer, Published online: 25 August 2026; doi:10.1038/s43018-026-01221-3 Chen and colleagues report that the neuropeptide galanin impairs antitumor immunity in glioblastoma by interacting with its receptor GALR3 on monocytic myeloid-derived suppressor cells, promoting their infiltration and ferroptosis…",
-      "date": "2026-08-25T00:00:00Z",
-      "date_display": "25 Aug 2026"
+      "id": "5e8e49d500",
+      "title": "Shaping the future of early-onset colorectal cancer prevention",
+      "link": "https://www.nature.com/articles/s41568-026-00965-5",
+      "journal": "Nature Reviews Cancer",
+      "category": "Review Article",
+      "authors": "Ruiyi Tian, Sina Azadnajafabad, Erika A. Waters, Emily P. Balskus, Yasmine Belkaid, Jordana T. Bell, Sarah E. Berry, Jason D. Buenrostro, Curtis Huttenhower, Anisha Patel, Gary J…",
+      "summary": "Nature Reviews Cancer, Published online: 26 August 2026; doi:10.1038/s41568-026-00965-5 Early-onset colorectal cancer is rising globally. This Roadmap examines current knowledge gaps in risk factors, proposes an integrative conceptual model for risk factor discovery and prevention, and highlights the role of…",
+      "date": "2026-08-26T00:00:00Z",
+      "date_display": "26 Aug 2026"
     },
     {
       "id": "d9b286edbb",
@@ -537,6 +460,17 @@
       "category": "Original Article",
       "authors": "Stephanie Houston",
       "summary": "Nature Immunology, Published online: 25 August 2026; doi:10.1038/s41590-026-02647-8 Aging by impaired efferocytosis",
+      "date": "2026-08-25T00:00:00Z",
+      "date_display": "25 Aug 2026"
+    },
+    {
+      "id": "1943a50c92",
+      "title": "ABTB1, as an E3 ubiquitin ligase, suppresses Th17 cell differentiation and mitigates autoimmune inflammation by promoting STAT3 ubiquitination and degradation",
+      "link": "https://www.nature.com/articles/s41423-026-01464-1",
+      "journal": "Cellular and Molecular Immunology",
+      "category": "Original Article",
+      "authors": "Fei Xu, Shuang Zhao, Yan Jiang, Xiaoping Li, Wenjun Wang, Ying Zhou, Yufeng Wang, Peijie Zhu, Yu Shao, Guodong Qiao, Jiamin Cai, Mengyao Sun, Jiaoyang Li, Chuangli Hao, Yi Yang…",
+      "summary": "Cellular & Molecular Immunology, Published online: 25 August 2026; doi:10.1038/s41423-026-01464-1 ABTB1, as an E3 ubiquitin ligase, suppresses Th17 cell differentiation and mitigates autoimmune inflammation by promoting STAT3 ubiquitination and degradation",
       "date": "2026-08-25T00:00:00Z",
       "date_display": "25 Aug 2026"
     },
@@ -552,6 +486,39 @@
       "date_display": "25 Aug 2026"
     },
     {
+      "id": "82d2cee8c6",
+      "title": "Origins and consequences of oncogenic 3D chromatin remodelling",
+      "link": "https://www.nature.com/articles/s41568-026-00969-1",
+      "journal": "Nature Reviews Cancer",
+      "category": "Review Article",
+      "authors": "Gian Marco Franceschini, Konstantina Georgakopoulou, Giovanni Ciriello, Elisa Oricchio",
+      "summary": "Nature Reviews Cancer, Published online: 25 August 2026; doi:10.1038/s41568-026-00969-1 In this Review, Franceschini and colleagues discuss how remodelling of the 3D structure of chromatin in cancer is both a cause and a consequence of genetic and epigenetic alterations and highlight how chromatin 3D conformation…",
+      "date": "2026-08-25T00:00:00Z",
+      "date_display": "25 Aug 2026"
+    },
+    {
+      "id": "f802a6f00a",
+      "title": "NADPH oxidases in immunometabolism and disease pathology: mechanistic networks, pollutant triggers, and therapeutic frontiers",
+      "link": "https://www.nature.com/articles/s41423-026-01447-2",
+      "journal": "Cellular and Molecular Immunology",
+      "category": "Original Article",
+      "authors": "M. Thakur, D. Mutyala, A. A. Amoliga, M. Contin Ortega, S. Batra",
+      "summary": "Cellular & Molecular Immunology, Published online: 24 August 2026; doi:10.1038/s41423-026-01447-2 NADPH oxidases in immunometabolism and disease pathology: mechanistic networks, pollutant triggers, and therapeutic frontiers",
+      "date": "2026-08-24T00:00:00Z",
+      "date_display": "24 Aug 2026"
+    },
+    {
+      "id": "8adb7ae777",
+      "title": "Metabolic switch: lymphocytes and the onset of T-cell-mediated autoimmunity",
+      "link": "https://www.nature.com/articles/s41423-026-01460-5",
+      "journal": "Cellular and Molecular Immunology",
+      "category": "Original Article",
+      "authors": "Andisheh Mosaffa Jahromi, Fatemeh Mirzaei, Sara Mirzazadeh, Seppo Meri, Dieter Kabelitz, Kurosh Kalantar",
+      "summary": "Cellular & Molecular Immunology, Published online: 24 August 2026; doi:10.1038/s41423-026-01460-5 Metabolic switch: lymphocytes and the onset of T-cell-mediated autoimmunity",
+      "date": "2026-08-24T00:00:00Z",
+      "date_display": "24 Aug 2026"
+    },
+    {
       "id": "07ee2d46be",
       "title": "Can immunology still surprise itself?",
       "link": "https://www.nature.com/articles/s41577-026-01351-w",
@@ -563,26 +530,26 @@
       "date_display": "24 Aug 2026"
     },
     {
-      "id": "09330db2f2",
-      "title": "Coming full circle",
-      "link": "https://www.nature.com/articles/s43018-026-01219-x",
-      "journal": "Nature Cancer",
-      "category": "Original Article",
-      "authors": "Paul S. Mischel",
-      "summary": "Nature Cancer, Published online: 21 August 2026; doi:10.1038/s43018-026-01219-x Paul Mischel obtained his MD from Cornell University Medical College, trained in anatomic and neuropathology at UCLA and did post-doctoral research training in Louis Reichardt’s lab at HHMI/UCSF. He is the Fortinet Founders Professor, vice…",
-      "date": "2026-08-21T00:00:00Z",
-      "date_display": "21 Aug 2026"
+      "id": "168fc56941",
+      "title": "Brain barriers at the crossroads of glioma immune surveillance and immunotherapy response",
+      "link": "https://www.nature.com/articles/s41568-026-00960-w",
+      "journal": "Nature Reviews Cancer",
+      "category": "Review Article",
+      "authors": "Britta Engelhardt, Michael Platten",
+      "summary": "Nature Reviews Cancer, Published online: 20 August 2026; doi:10.1038/s41568-026-00960-w Immunotherapy remains largely ineffective in gliomas despite success in other cancers. In this Review, Engelhardt and Platten outline how central nervous system immune privilege is enforced by specialized brain barriers that…",
+      "date": "2026-08-20T00:00:00Z",
+      "date_display": "20 Aug 2026"
     },
     {
-      "id": "3e244a321a",
-      "title": "Rewiring immunity with in vivo CAR T cell engineering",
-      "link": "https://www.nature.com/articles/s43018-026-01216-0",
-      "journal": "Nature Cancer",
+      "id": "06b6d60cf2",
+      "title": "Plakophilin 1 suppresses keratinocyte innate immune responses through DExD/H helicases",
+      "link": "https://www.nature.com/articles/s41423-026-01462-3",
+      "journal": "Cellular and Molecular Immunology",
       "category": "Original Article",
-      "authors": "Clare Y. Slaney, Rachel Xu, Shiyi Wu, Kevin Sek, Colin W. Pouton, Michael Dickinson, Michael H. Kershaw, Phillip K. Darcy",
-      "summary": "Nature Cancer, Published online: 21 August 2026; doi:10.1038/s43018-026-01216-0 Darcy and colleagues discuss the recent technological advances in CAR T cell in vivo engineering and the challenges in its translational application for cancer therapy.",
-      "date": "2026-08-21T00:00:00Z",
-      "date_display": "21 Aug 2026"
+      "authors": "René Keil, Danny Misiak, Stefan Hüttelmaier, Frederik Tellkamp, Marcus Krüger, Mechthild Hatzfeld",
+      "summary": "Cellular & Molecular Immunology, Published online: 19 August 2026; doi:10.1038/s41423-026-01462-3 Plakophilin 1 suppresses keratinocyte innate immune responses through DExD/H helicases",
+      "date": "2026-08-19T00:00:00Z",
+      "date_display": "19 Aug 2026"
     },
     {
       "id": "fdc7217130",
@@ -607,6 +574,28 @@
       "date_display": "19 Aug 2026"
     },
     {
+      "id": "d9ca6f086f",
+      "title": "Epigenetic changes linked to cell replication connect ageing with cancer risk",
+      "link": "https://www.nature.com/articles/s41568-026-00972-6",
+      "journal": "Nature Reviews Cancer",
+      "category": "Review Article",
+      "authors": "Sandra Romero-Cordoba",
+      "summary": "Nature Reviews Cancer, Published online: 19 August 2026; doi:10.1038/s41568-026-00972-6 In this Journal Club, Sandra Romero-Cordoba discusses a study that identifies a replication-associated DNA methylation signature, termed CellDRIFT, providing evidence that epigenetic drift linked to cell division may contribute to…",
+      "date": "2026-08-19T00:00:00Z",
+      "date_display": "19 Aug 2026"
+    },
+    {
+      "id": "62388797b3",
+      "title": "Blocking the m 6 Am methyltransferase PCIF1 in macrophages attenuates colitis progression by preventing neuronal damage",
+      "link": "https://www.nature.com/articles/s41423-026-01459-y",
+      "journal": "Cellular and Molecular Immunology",
+      "category": "Original Article",
+      "authors": "Chenbo Ding, Jiachen Zhao, Tian Zhao, Ye Xiao, Kai Li, Xiao Liu, Xuyang Ge, Demeng Qin, Zhiqian Huang, Yu Zhang, Hua Liu, Zhiqing Diao, Youqiong Ye, Richard A. Flavell, Cheng Luo…",
+      "summary": "Cellular & Molecular Immunology, Published online: 18 August 2026; doi:10.1038/s41423-026-01459-y Blocking the m 6 Am methyltransferase PCIF1 in macrophages attenuates colitis progression by preventing neuronal damage",
+      "date": "2026-08-18T00:00:00Z",
+      "date_display": "18 Aug 2026"
+    },
+    {
       "id": "60f8ff210f",
       "title": "Why adaptive immunity?",
       "link": "https://www.nature.com/articles/s41577-026-01350-x",
@@ -627,6 +616,17 @@
       "summary": "Protein restriction extends lifespan across species and engages many hallmarks of aging. We propose that these diverse responses can be understood as components of a single coordinated physiological state. This response involves both cellular nutrient sensing and endocrine and neural coordination, with enhanced…",
       "date": "2026-08-17T00:00:00Z",
       "date_display": "17 Aug 2026"
+    },
+    {
+      "id": "a73d11d4fc",
+      "title": "An early shot at stopping PDAC",
+      "link": "https://www.nature.com/articles/s41568-026-00971-7",
+      "journal": "Nature Reviews Cancer",
+      "category": "Review Article",
+      "authors": "Gabrielle Brewer",
+      "summary": "Nature Reviews Cancer, Published online: 14 August 2026; doi:10.1038/s41568-026-00971-7 The progression of pancreatic ductal adenocarcinoma (PDAC) from precursor lesions presents an opportunity for cancer prevention. Haldar et al. developed mKRAS-VAX, a peptide vaccine targeting six common KRAS mutations in PDAC, and…",
+      "date": "2026-08-14T00:00:00Z",
+      "date_display": "14 Aug 2026"
     },
     {
       "id": "ef5f83942b",
