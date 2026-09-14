@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T10:44:07Z",
+  "updated": "2026-09-14T11:07:09Z",
   "papers": [
     {
       "id": "e932f20aba",
@@ -10,17 +10,6 @@
       "authors": "Shilin Gao, Quanwei Zhang, Asmita Banstola, Haoran Lu, Zhengkun Zhang, Zhilong Wang, Mei. X. Wu",
       "summary": "Science Immunology, Volume 11, Issue 123, September 2026.",
       "date": "2026-09-11T07:00:00Z",
-      "date_display": "11 Sep 2026"
-    },
-    {
-      "id": "b7412c2cb7",
-      "title": "MMSDH facilitates ACSL4 propionylation to counteract ferroptosis upon hypoxia and impairs PDAC chemotherapy efficacy",
-      "link": "https://www.nature.com/articles/s43018-026-01236-w",
-      "journal": "Nature Cancer",
-      "category": "Original Article",
-      "authors": "Peixiang Zheng, Yanni Lin, Meiyin Zhang, Zhiyuan Tang, Wenxing Qin, Min Xiao, Xue Sun, Yuli Shen, Zhiqiang Hu, Shuo Ru, Yuran Duan, Bofei Dong, Ting Wen, Mengdie Li, Hong Wu…",
-      "summary": "Nature Cancer, Published online: 11 September 2026; doi:10.1038/s43018-026-01236-w Zheng et al. describe how hypoxia-induced methylmalonate semialdehyde dehydrogenase lactylation promotes acyl-CoA synthetase long-chain family member 4 propionylation and degradation, thereby suppressing ferroptosis induced by…",
-      "date": "2026-09-11T00:00:00Z",
       "date_display": "11 Sep 2026"
     },
     {
@@ -154,17 +143,6 @@
       "summary": "Abstract Breast cancer is the most common cancer among women in the United States and the leading cause of cancer incidence and mortality among Hispanic/Latina (H/L) women. For women with a genetic predisposition to hereditary breast and ovarian cancer (HBOC), genetic counseling has been shown to aid in the…",
       "date": "2026-09-10T00:00:00Z",
       "date_display": "10 Sep 2026"
-    },
-    {
-      "id": "e0bce16067",
-      "title": "Commensal Nakaseomyces glabratus migrates into prostate tumors to accelerate cancer progression",
-      "link": "https://www.nature.com/articles/s43018-026-01229-9",
-      "journal": "Nature Cancer",
-      "category": "Original Article",
-      "authors": "Ping Lai, Lei Liu, Nicolò Pernigoni, Yingxi Du, Daniele Braga, Martina Troiani, Giuseppe Attanasio, Yuxin Li, Pan Song, Emiliano Pasquini, Tanja Rezzonico Jost, Xiaowen Huang…",
-      "summary": "Nature Cancer, Published online: 09 September 2026; doi:10.1038/s43018-026-01229-9 Lai et al. show that Nakaseomyces glabratus is enriched in fecal and tumor samples of patients with castration-resistant prostate cancer and that administration of the fungus accelerates cancer progression in prostate cancer-bearing…",
-      "date": "2026-09-09T00:00:00Z",
-      "date_display": "9 Sep 2026"
     },
     {
       "id": "0ce03f3c3e",
@@ -541,39 +519,6 @@
       "date_display": "2 Sep 2026"
     },
     {
-      "id": "344f01a79b",
-      "title": "l -Glutamine’s potential to enhance chemotherapy efficacy in advanced pancreatic cancer",
-      "link": "https://www.nature.com/articles/s43018-026-01231-1",
-      "journal": "Nature Cancer",
-      "category": "Original Article",
-      "authors": "",
-      "summary": "Nature Cancer, Published online: 01 September 2026; doi:10.1038/s43018-026-01231-1 The addition of oral l-glutamine to first-line gemcitabine plus nab-paclitaxel appears safe and is associated with improved survival outcomes and tumor responses compared with historical benchmarks in untreated advanced pancreatic…",
-      "date": "2026-09-01T00:00:00Z",
-      "date_display": "1 Sep 2026"
-    },
-    {
-      "id": "f599eef8d8",
-      "title": "Publisher Correction: Adjuvant personalized multivalent neoantigen DNA vaccination for MGMT unmethylated glioblastoma: a phase 1 trial",
-      "link": "https://www.nature.com/articles/s43018-026-01243-x",
-      "journal": "Nature Cancer",
-      "category": "Original Article",
-      "authors": "Elizabeth A. R. Garfinkle, Renzo Perales-Linares, Ryan C. Gimple, Alexandra J. Livingstone, Kaleigh F. Roberts, Omar H. Butt, S. Peter Goedegebuure, Michael D. McLellan, Gue Su…",
-      "summary": "Nature Cancer, Published online: 01 September 2026; doi:10.1038/s43018-026-01243-x Publisher Correction: Adjuvant personalized multivalent neoantigen DNA vaccination for MGMT unmethylated glioblastoma: a phase 1 trial",
-      "date": "2026-09-01T00:00:00Z",
-      "date_display": "1 Sep 2026"
-    },
-    {
-      "id": "ffd2de5b44",
-      "title": "SlideChat is a multimodal generative artificial intelligence assistant for whole-slide computational pathology across cancer types",
-      "link": "https://www.nature.com/articles/s43018-026-01220-4",
-      "journal": "Nature Cancer",
-      "category": "Original Article",
-      "authors": "Ying Chen, Chenglong Ma, Qiongqiong Li, Fang Yan, Yirong Chen, Tianbin Li, Jin Ye, Ming Hu, Yuxiang Lin, Yanjun Li, Guoan Wang, Huihui Xu, Hui Dong, Xiang Wang, Xiaoxiao Xu…",
-      "summary": "Nature Cancer, Published online: 01 September 2026; doi:10.1038/s43018-026-01220-4 Chen et al. have developed SlideChat, a multimodal generative artificial intelligence assistant, which they benchmark on 27 pathology tasks across 33 cancer types. Expert pathologists rated the assistant as clinically relevant and…",
-      "date": "2026-09-01T00:00:00Z",
-      "date_display": "1 Sep 2026"
-    },
-    {
       "id": "dc1be6d83f",
       "title": "Author Correction: Platelet-derived serotonin epigenetically programs macrophage alternative activation to orchestrate type 2 airway inflammation",
       "link": "https://www.nature.com/articles/s41423-026-01465-0",
@@ -783,17 +728,6 @@
       "date_display": "1 Sep 2026"
     },
     {
-      "id": "a1c653a170",
-      "title": "l -Glutamine in combination with first-line gemcitabine and nab-paclitaxel in advanced pancreatic ductal adenocarcinoma: an open-label, single-arm, phase 1 GlutaPanc trial",
-      "link": "https://www.nature.com/articles/s43018-026-01225-z",
-      "journal": "Nature Cancer",
-      "category": "Original Article",
-      "authors": "Jun Gong, Hayato Muranaka, So Yung Choi, Mourad Tighiouart, Shrikant Bhute, Ezinne R. Aja, Jonathan P. Jacobs, Aleksandr Stotland, Jennifer Van Eyk, Omer H. M. Elmadbouh, Mouad…",
-      "summary": "Nature Cancer, Published online: 31 August 2026; doi:10.1038/s43018-026-01225-z In this open-label, single-arm, phase 1 GlutaPanc trial, Gong and colleagues report the safety and feasibility of l-glutamine in participants with advanced pancreatic ductal adenocarcinoma and determine the recommended phase 2 dose of…",
-      "date": "2026-08-31T00:00:00Z",
-      "date_display": "31 Aug 2026"
-    },
-    {
       "id": "b2a54ba2f4",
       "title": "Temporal analyses of immune responses in sepsis reveal asynchrony between clinical stage of illness and immune states",
       "link": "https://www.cell.com/immunity/fulltext/S1074-7613(26)00325-0?rss=yes",
@@ -836,28 +770,6 @@
       "summary": "Nature Reviews Immunology, Published online: 27 August 2026; doi:10.1038/s41577-026-01348-5 Excessive glutamate receptor signalling contributes to central nervous system pathology in different neurological settings, including in epilepsy, Parkinson disease and multiple sclerosis. Here, the authors discuss the need to…",
       "date": "2026-08-27T00:00:00Z",
       "date_display": "27 Aug 2026"
-    },
-    {
-      "id": "e64062de41",
-      "title": "Author Correction: Low-protein diet enhances antitumor immunity in pancreatic cancer through microbiota-derived UDP-galactose",
-      "link": "https://www.nature.com/articles/s43018-026-01241-z",
-      "journal": "Nature Cancer",
-      "category": "Original Article",
-      "authors": "Yueying Chen, Fulin Nian, Shengdi Wu, Tianli Yuan, Yifan Ma, Junyang Cao, Yuxiao Zhang, Wenfeng Liu, Wenqing Tang, Danying Zhang, Zi Li, Wei Lu, Fengwanni Wang, Xiulong Xia…",
-      "summary": "Nature Cancer, Published online: 25 August 2026; doi:10.1038/s43018-026-01241-z Author Correction: Low-protein diet enhances antitumor immunity in pancreatic cancer through microbiota-derived UDP-galactose",
-      "date": "2026-08-25T00:00:00Z",
-      "date_display": "25 Aug 2026"
-    },
-    {
-      "id": "1314ff78ae",
-      "title": "Galanin impairs tumor immunity in glioblastoma by promoting infiltration and ferroptosis resistance of myeloid-derived suppressor cells",
-      "link": "https://www.nature.com/articles/s43018-026-01221-3",
-      "journal": "Nature Cancer",
-      "category": "Original Article",
-      "authors": "Lizhi Pang, Yang Liu, Fei Zhou, Songlin Guo, Fatima Khan, Heba Ali, Hardik Shah, Sara Huber, Barbara Kofler, Craig M. Horbinski, Peiwen Chen",
-      "summary": "Nature Cancer, Published online: 25 August 2026; doi:10.1038/s43018-026-01221-3 Chen and colleagues report that the neuropeptide galanin impairs antitumor immunity in glioblastoma by interacting with its receptor GALR3 on monocytic myeloid-derived suppressor cells, promoting their infiltration and ferroptosis…",
-      "date": "2026-08-25T00:00:00Z",
-      "date_display": "25 Aug 2026"
     },
     {
       "id": "1943a50c92",
@@ -1320,6 +1232,94 @@
       "summary": "Xu et al. report a biomarker-stratified, randomized, multicenter phase 2 trial of perioperative immunochemotherapy in patients with tumor-specific (ts)MHC-II-positive or -negative gastric/gastroesophageal junction cancer (GC/GEJC). Perioperative immunochemotherapy significantly improved the major pathologic response…",
       "date": "2026-07-15T00:00:00Z",
       "date_display": "15 Jul 2026"
+    },
+    {
+      "id": "f4605d6006",
+      "title": "Antigen-restricted Candida albicans Th17 cells link oral-gut immunity and adopt pathogenic features during intestinal inflammation",
+      "link": "https://www.cell.com/immunity/fulltext/S1074-7613(26)00264-5?rss=yes",
+      "journal": "Immunity",
+      "category": "Original Article",
+      "authors": "Gabriela Rios Martini, Philipp Hofmann, Ann-Kristin Kamps, Amos Weichberger, Ekaterina Tikhonova, Aidan Conroy, Xiangyu Pan, Diana Milagros Namuch, Laura Rathjens, Arne Bergfeld…",
+      "summary": "Martini, Hofmann, et al. identify C. albicans-specific Th17 cells targeting fungal EV proteins that predominantly reside in the human oral mucosa at homeostasis. However, these oral-residing cells exhibit TCR overlap with gut Th17 cells. During intestinal inflammation, C. albicans-specific Th17 cells retain their…",
+      "date": "2026-07-14T00:00:00Z",
+      "date_display": "14 Jul 2026"
+    },
+    {
+      "id": "6c7ce6659b",
+      "title": "Brown fat protects against hepatic oxidative stress by remodeling the circulating metabolome",
+      "link": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00246-9?rss=yes",
+      "journal": "Cell Metabolism",
+      "category": "Original Article",
+      "authors": "Dandan Wang, Mark Li, Tian Lu, Mami Matsushita, Juro Sakai, Masayuki Saito, Takeshi Yoneshiro, Shingo Kajimura",
+      "summary": "Brown fat controls metabolic health beyond thermogenesis, yet how it communicates with other organs through circulating metabolites remains poorly understood. Wang et al. systematically map brown-fat-associated circulating metabolites and identify a cold-inducible metabolite, 3-hydroxystearic acid, as a…",
+      "date": "2026-07-14T00:00:00Z",
+      "date_display": "14 Jul 2026"
+    },
+    {
+      "id": "260ea694f5",
+      "title": "Flavin adenine dinucleotide is an endogenous suppressor for cytosolic DNA and RNA sensors to modulate innate immunity",
+      "link": "https://www.cell.com/immunity/fulltext/S1074-7613(26)00261-X?rss=yes",
+      "journal": "Immunity",
+      "category": "Original Article",
+      "authors": "Yao Wang, Yanyan Shen, Jiayu Liu, Qi Qi, Yue Guo, Yunying Wang, Boyang Xie, Chunyan Yan, Yanhong Liu, Zhi Jin, Ruibo Wang, Aiping Cao, Juncheng Li, Zengqing Song, Jing Chen…",
+      "summary": "Precise control of cytosolic nucleic acid sensing is essential for immune homeostasis, yet endogenous metabolites that regulate both DNA and RNA sensing remain unidentified. Wang et al. identify FAD as a natural brake restraining both DNA- and RNA-triggered innate immunity. FAD deficiency aggravates autoinflammation…",
+      "date": "2026-07-13T00:00:00Z",
+      "date_display": "13 Jul 2026"
+    },
+    {
+      "id": "e87aaf9960",
+      "title": "Primed to squeeze: mechanical memory in confined migration",
+      "link": "https://www.cell.com/trends/cell-biology/fulltext/S0962-8924(26)00129-7?rss=yes",
+      "journal": "Trends in Cell Biology",
+      "category": "Review Article",
+      "authors": "Marine Luciano, Sylvain Gabriele",
+      "summary": "Do cells remember past mechanical experiences to prepare for future physical challenges? Holle et al. demonstrate that stiffness priming enhances confined migration through NFATC2-dependent programs. Beyond this specific mechanism, their work supports the emerging concept of mechanical memory as a hierarchy of…",
+      "date": "2026-07-10T00:00:00Z",
+      "date_display": "10 Jul 2026"
+    },
+    {
+      "id": "d7c61def6c",
+      "title": "Your neighbors matter: Adjacent cancer cells dampen TLS function",
+      "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00298-9?rss=yes",
+      "journal": "Cancer Cell",
+      "category": "Original Article",
+      "authors": "Nicholas J. Salgia, Jason B. Muhitch",
+      "summary": "In this issue of Cancer Cell, Hernández-Verdin et al. reveal why some tumors with tertiary lymphoid structures (TLSs) resist immunotherapy: their findings identify cancer-derived gamma-aminobutyric acid (GABA) as an immunosuppressant factor resulting in dysfunctional TLS and immunotherapy resistance. Targeting GABA…",
+      "date": "2026-07-09T00:00:00Z",
+      "date_display": "9 Jul 2026"
+    },
+    {
+      "id": "beefe15bb4",
+      "title": "Stressed bones and glioblastoma",
+      "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00294-1?rss=yes",
+      "journal": "Cancer Cell",
+      "category": "Original Article",
+      "authors": "Manuel Valiente",
+      "summary": "Chronic stress has long been associated with poor cancer outcomes, yet the mechanisms linking systemic stress responses to glioblastoma progression remain poorly understood. In this issue of Cancer Cell, Yang et al. identify a stress-induced brain-bone marrow axis that rewires monocyte differentiation toward…",
+      "date": "2026-07-09T00:00:00Z",
+      "date_display": "9 Jul 2026"
+    },
+    {
+      "id": "d74b0c4c9c",
+      "title": "Menin in normal and malignant megakaryopoiesis",
+      "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00299-0?rss=yes",
+      "journal": "Cancer Cell",
+      "category": "Original Article",
+      "authors": "Justin C. Wheat, Sheng F. Cai",
+      "summary": "Severe thrombocytopenia is a known complication of menin inhibitor therapy; however, the mechanism underlying this effect is unknown. In this issue of Cancer Cell, Wen et al. demonstrate that menin is a key component of normal megakaryopoiesis and establish menin as a therapeutic vulnerability in myeloproliferative…",
+      "date": "2026-07-09T00:00:00Z",
+      "date_display": "9 Jul 2026"
+    },
+    {
+      "id": "e2c04fe37a",
+      "title": "Spatial multi-omics landscape of colorectal cancer macro- and micrometastases",
+      "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00296-5?rss=yes",
+      "journal": "Cancer Cell",
+      "category": "Original Article",
+      "authors": "Yang Liu, Akshaya S. Jadhav, Yuwen Pan, Jianlong Liao, Isha Khanduri, Yunhe Liu, Riham Katkhuda, Wei Lu, Kyung Serk Cho, Zhimin Tong, Tieling Zhou, Kangyu Lin, Baohua Sun, Mei…",
+      "summary": "Liu et al. integrate spatial transcriptomic, genomic, and proteomic profiling to map colorectal cancer metastases. They reveal early clonal divergence, stem-like features, and immunosuppressive microenvironments with T cell exhaustion in micrometastases, and identify a colorectal liver micrometastasis (CLiMi)-specific…",
+      "date": "2026-07-09T00:00:00Z",
+      "date_display": "9 Jul 2026"
     }
   ]
 }
