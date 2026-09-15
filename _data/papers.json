@@ -1,6 +1,61 @@
 {
-  "updated": "2026-09-14T11:07:09Z",
+  "updated": "2026-09-15T10:36:07Z",
   "papers": [
+    {
+      "id": "8bd3d079b2",
+      "title": "Molecular residual disease: Charting a new path for treating resectable solid tumors",
+      "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00357-0?rss=yes",
+      "journal": "Cancer Cell",
+      "category": "Original Article",
+      "authors": "Shin Kobayashi, Tadayoshi Hashimoto, Hideaki Bando, Yoshiaki Nakamura, Aparna Parikh, Jeanne Tie, Qian Shi, Eiji Oki, Takayuki Yoshino",
+      "summary": "Molecular residual disease (MRD), detected via circulating tumor DNA (ctDNA) after curative-intent surgery, identifies resectable solid tumor patients at high recurrence risk, thereby enabling enriched trials with larger effect sizes and smaller samples. Yet enrichment narrows the eligible population and thus…",
+      "date": "2026-09-14T00:00:00Z",
+      "date_display": "14 Sep 2026"
+    },
+    {
+      "id": "90ca47347e",
+      "title": "Pancreatic ductal adenocarcinoma: The Vision of Heracles",
+      "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00352-1?rss=yes",
+      "journal": "Cancer Cell",
+      "category": "Original Article",
+      "authors": "Carmen Mota Reyes, Mara R. Goetz, Hana Algül, Alper Dogruoez, Chiara Falcomatà, Matthias M. Gaida, Kıvanç Görgülü, Yetiş Gültekin, Ibrahim Halil Gürcinar, Marie C. Hasselluhn…",
+      "summary": "Pancreatic ductal adenocarcinoma (PDAC) remains among the deadliest malignancies, as tumors evolve faster than therapies. Resistance is ecological, not merely KRAS driven, involving overlooked players like high-grade pancreatic intraepithelial neoplasias (PanINs), peripancreatic fat, stromal mechanics, myeloid-neural…",
+      "date": "2026-09-14T00:00:00Z",
+      "date_display": "14 Sep 2026"
+    },
+    {
+      "id": "4b968e5763",
+      "title": "Scherer’s map, remapped",
+      "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00358-2?rss=yes",
+      "journal": "Cancer Cell",
+      "category": "Original Article",
+      "authors": "Daniel J. Silver, Chang Xu, Justin D. Lathia",
+      "summary": "Scherer’s century-old classification of expansive and infiltrative glioma growth remains foundational to neuro-oncology. In this issue of Cancer Cell, Hoefflin et al. use spatial RNA and protein profiling of IDH-mutant gliomas to reveal hypoxia and necrosis as organizing centers of expansive growth and white-matter…",
+      "date": "2026-09-14T00:00:00Z",
+      "date_display": "14 Sep 2026"
+    },
+    {
+      "id": "b0092748c1",
+      "title": "Spatial analysis reveals the evolving organization of IDH-mutant glioma",
+      "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00382-X?rss=yes",
+      "journal": "Cancer Cell",
+      "category": "Original Article",
+      "authors": "Rouven Hoefflin, Alissa C. Greenwald, Noam Galili Darnell, Christopher W. Mount, Yali Tiomkin, L. Nicolas Gonzalez Castro, Zebin Wen, Dor Simkin, Angelica B. Patterson, Inna…",
+      "summary": "Hoefflin et al. define organizational principles of IDH-mutant gliomas using multimodal spatial profiling. They identify three spatial archetypes across histological grades and reveal that brain anatomy and hypoxia represent distinct spatial organizing forces, with the white-gray matter junction acting as a functional…",
+      "date": "2026-09-14T00:00:00Z",
+      "date_display": "14 Sep 2026"
+    },
+    {
+      "id": "2ffb2db612",
+      "title": "Supermeres Containing the Discoidin Domain Receptor 1 Extracellular Domain Promote Collagen Alignment and Immune Exclusion in Microsatellite-Stable Colorectal Cancer",
+      "link": "https://aacrjournals.org/cancerrescommun/article/6/9/2149/788042/Supermeres-Containing-the-Discoidin-Domain",
+      "journal": "Cancer Research",
+      "category": "Original Article",
+      "authors": "Maxwell S. Hamilton, Samuel T. Ellis, Zheng Cao, Oleg S. Tutanov, Alan J. Simmons, Radhika Aramandla, James N. Higginbotham, Marisol Ramirez, Katherine W. Schnee, Matthew E…",
+      "summary": "Abstract Immune checkpoint blockade (ICB) is an effective treatment for microsatellite instability–high (MSI-H) colorectal cancers that are highly infiltrated by CD8 + T cells. Microsatellite-stable (MSS) colorectal cancers are unresponsive to ICB, at least in part, due to the paucity of intratumoral CD8 + T cells. We…",
+      "date": "2026-09-14T00:00:00Z",
+      "date_display": "14 Sep 2026"
+    },
     {
       "id": "e932f20aba",
       "title": "AMnESTI reverses age-associated lung immune decline to drive heterosubtypic protection by inactivated influenza vaccines",
@@ -24,61 +79,6 @@
       "date_display": "11 Sep 2026"
     },
     {
-      "id": "fe89ffcfd5",
-      "title": "Childhood proteomic signatures that predict adult cardiometabolic disease",
-      "link": "https://www.nature.com/articles/s42255-026-01588-8",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "",
-      "summary": "Nature Metabolism, Published online: 11 September 2026; doi:10.1038/s42255-026-01588-8 Early signs of cardiovascular–kidney–metabolic disease (CKMD) emerge before 20 years of age, but methods to identify CKMD risk in children are limited. We identified a proteomic and phenotypic signature of CKMD in children that is…",
-      "date": "2026-09-11T00:00:00Z",
-      "date_display": "11 Sep 2026"
-    },
-    {
-      "id": "9ad77e075f",
-      "title": "Pick and choose",
-      "link": "https://www.nature.com/articles/s42255-026-01623-8",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "",
-      "summary": "Nature Metabolism, Published online: 11 September 2026; doi:10.1038/s42255-026-01623-8 Great science comes in all shapes and sizes. Choosing the most suitable article type is key to managing the expectations of readers, editors and reviewers alike.",
-      "date": "2026-09-11T00:00:00Z",
-      "date_display": "11 Sep 2026"
-    },
-    {
-      "id": "de8242baac",
-      "title": "Argininosuccinate signalling drives carbon replenishment in B cell acute lymphoblastic leukaemia",
-      "link": "https://www.nature.com/articles/s42255-026-01593-x",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "",
-      "summary": "Nature Metabolism, Published online: 11 September 2026; doi:10.1038/s42255-026-01593-x Argininosuccinate synthase 1 (ASS1) phosphorylation is elevated in samples from patients with B cell acute lymphoblastic leukaemia and in leukaemic cells. As ASS1-derived argininosuccinate was found to activate cytosolic NT5C2 to…",
-      "date": "2026-09-11T00:00:00Z",
-      "date_display": "11 Sep 2026"
-    },
-    {
-      "id": "2ba25cce9f",
-      "title": "Paediatric proteomic signatures of cardiometabolic disease-associated traits predict adult disease outcomes",
-      "link": "https://www.nature.com/articles/s42255-026-01589-7",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "Joshua M. Landman, Heather M. Highland, Andrew S. Perry, Annie G. Howard, Quanhu Sheng, Anna Lorenz, Alexandra B. Palmer, Shilin Zhao, Wanying Zhu, Xinruo Zhang, Victoria L…",
-      "summary": "Nature Metabolism, Published online: 11 September 2026; doi:10.1038/s42255-026-01589-7 By linking cardiovascular–kidney–metabolic disease (CKMD) phenotypes to the proteome of children and adolescents, the authors show that paediatric CKMD proteomic signatures predict cardiometabolic disease outcomes in adulthood.",
-      "date": "2026-09-11T00:00:00Z",
-      "date_display": "11 Sep 2026"
-    },
-    {
-      "id": "87d264152c",
-      "title": "αTIGIT-guided IL-15 mimetics drive potent and safe antitumor immunity by restoring tumor-infiltrating T cells",
-      "link": "https://www.nature.com/articles/s41423-026-01467-y",
-      "journal": "Cellular and Molecular Immunology",
-      "category": "Original Article",
-      "authors": "Xiangming Liu, Nan Li, Yumeng Chen, Zijun Xie, Tao Huang, Shijie Li, Xinxin Wang, Ruiqi Zhang, Xiaohong Yu, Huiqin Meng, Jingya Guo, Yang Liu, Yang-Xin Fu, Zaopeng Yang",
-      "summary": "Cellular & Molecular Immunology, Published online: 11 September 2026; doi:10.1038/s41423-026-01467-y αTIGIT-guided IL-15 mimetics drive potent and safe antitumor immunity by restoring tumor-infiltrating T cells",
-      "date": "2026-09-11T00:00:00Z",
-      "date_display": "11 Sep 2026"
-    },
-    {
       "id": "a4710574d8",
       "title": "Ribonucleotide Reductase Inhibition Triggers Ferroptosis in Genetically Defined Subsets of Non–Small Cell Lung Cancer",
       "link": "https://aacrjournals.org/cancerrescommun/article/6/9/2136/788028/Ribonucleotide-Reductase-Inhibition-Triggers",
@@ -86,17 +86,6 @@
       "category": "Original Article",
       "authors": "Utsav Sen, Dalia Natour, Subhamoy Chakraborty, Elisa Gobbini, Chih-wei Fan, Calvin Koelbel, Andrew Elliott, Ari M. Vanderwalde, Hossein Borghaei, Balazs Halmos, Deniz Demircioglu…",
       "summary": "Abstract Non–small cell lung cancer (NSCLC) is responsible for the majority of cancer-related mortality worldwide. Lung adenocarcinoma is the most common NSCLC subtype. Despite advances in targeted therapies, treatment resistance remains a critical challenge. Ribonucleotide reductase (RNR), a crucial enzyme in…",
-      "date": "2026-09-11T00:00:00Z",
-      "date_display": "11 Sep 2026"
-    },
-    {
-      "id": "bd92db0a1c",
-      "title": "Making breast cancer innovation deliver for every woman",
-      "link": "https://www.nature.com/articles/s41568-026-00982-4",
-      "journal": "Nature Reviews Cancer",
-      "category": "Review Article",
-      "authors": "Miriam Mutebi",
-      "summary": "Nature Reviews Cancer, Published online: 11 September 2026; doi:10.1038/s41568-026-00982-4 Despite remarkable advances in our understanding of breast cancer biology and in the diagnosis and treatment of the disease, outcomes remain deeply influenced by where people live, how health systems function and whether care…",
       "date": "2026-09-11T00:00:00Z",
       "date_display": "11 Sep 2026"
     },
@@ -119,17 +108,6 @@
       "category": "Original Article",
       "authors": "",
       "summary": "Nature Immunology, Published online: 10 September 2026; doi:10.1038/s41590-026-02670-9 In a mouse skin infection model, microbial adhesion to CD11c+ myeloid cells activates PIEZO1 and an LTB4–IL-1α–CXCL1 cascade that recruits neutrophils before Toll-like receptor signaling becomes dominant. These findings identify a…",
-      "date": "2026-09-10T00:00:00Z",
-      "date_display": "10 Sep 2026"
-    },
-    {
-      "id": "d2670ca9a0",
-      "title": "ALKBH5 activates creatine-driven thermogenesis by stabilizing CKB mRNA in response to cold",
-      "link": "https://www.nature.com/articles/s42255-026-01592-y",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "Yinliang Zhang, Chunyuan Du, Wei Qiao, Ping Qiu, Chaofan Xu, Xiaohan Yang, Jingran Hao, Dong Zhao, Xiaochen Gai, Yongsheng Chang",
-      "summary": "Nature Metabolism, Published online: 10 September 2026; doi:10.1038/s42255-026-01592-y Adipose tissue ALKBH5 responds to cold and adrenergic stimulation and improves stability of CKB mRNA by m6A demethylation, leading to increased energy expenditure and thermogenesis independent of UCP1 in mice.",
       "date": "2026-09-10T00:00:00Z",
       "date_display": "10 Sep 2026"
     },
@@ -189,28 +167,6 @@
       "date_display": "9 Sep 2026"
     },
     {
-      "id": "eb3063db4c",
-      "title": "Author Correction: Lac-Phe induces hypophagia by inhibiting AgRP neurons in mice",
-      "link": "https://www.nature.com/articles/s42255-026-01624-7",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "Hailan Liu, Veronica L. Li, Qingzhuo Liu, Yao Liu, Cunjin Su, Hueyxian Wong, Na Yin, Hesong Liu, Xing Fang, Kristine M. McDermott, Hueyzhong Wong, Meng Yu, Longlong Tu, Jonathan…",
-      "summary": "Nature Metabolism, Published online: 09 September 2026; doi:10.1038/s42255-026-01624-7 Author Correction: Lac-Phe induces hypophagia by inhibiting AgRP neurons in mice",
-      "date": "2026-09-09T00:00:00Z",
-      "date_display": "9 Sep 2026"
-    },
-    {
-      "id": "d54d75d3f9",
-      "title": "GVC-Calc enables large-scale analysis of continuous glucose monitoring data",
-      "link": "https://www.nature.com/articles/s42255-026-01611-y",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "Diana M. Thomas, Ethan Collins, Karoline Hood, Leanne M. Redman, Kaja Falkenhain, Sarah Berry, Kate Bermingham, Andrew Lee, Antonio Mastroberardino, Austin Semmel, Rachel Gidaro…",
-      "summary": "Nature Metabolism, Published online: 09 September 2026; doi:10.1038/s42255-026-01611-y GVC-Calc enables large-scale analysis of continuous glucose monitoring data",
-      "date": "2026-09-09T00:00:00Z",
-      "date_display": "9 Sep 2026"
-    },
-    {
       "id": "83739b5480",
       "title": "Spindle Assembly Checkpoint Competency Determines Sensitivity to KIF18A Inhibition in Small Cell Lung Cancer",
       "link": "https://aacrjournals.org/cancerrescommun/article/6/9/2110/787884/Spindle-Assembly-Checkpoint-Competency-Determines",
@@ -222,17 +178,6 @@
       "date_display": "9 Sep 2026"
     },
     {
-      "id": "7c3d1380aa",
-      "title": "A guide to understanding tumour evolution through the lens of population genetics",
-      "link": "https://www.nature.com/articles/s41568-026-00973-5",
-      "journal": "Nature Reviews Cancer",
-      "category": "Review Article",
-      "authors": "Giulio Caravagna, Trevor A. Graham, Andrea Sottoriva",
-      "summary": "Nature Reviews Cancer, Published online: 09 September 2026; doi:10.1038/s41568-026-00973-5 Population genetics provides a quantitative framework for interpreting cancer genomes as records of tumour evolution. This Review outlines how models of mutation, selection and drift enable inference of tumour dynamics from…",
-      "date": "2026-09-09T00:00:00Z",
-      "date_display": "9 Sep 2026"
-    },
-    {
       "id": "816bc7373b",
       "title": "Neutrophil-hybrid CAR-macrophages bring double trouble to tumors",
       "link": "https://www.nature.com/articles/s41590-026-02650-z",
@@ -240,17 +185,6 @@
       "category": "Original Article",
       "authors": "Marie Siwicki, Paul Kubes",
       "summary": "Nature Immunology, Published online: 08 September 2026; doi:10.1038/s41590-026-02650-z Chimeric antigen receptors (CARs) have revolutionized engineered cell therapies for cancer. Impressive anti-tumor effects have now been achieved by fitting CARs onto fused macrophage–neutrophil hybrid syncytial, with a promising…",
-      "date": "2026-09-08T00:00:00Z",
-      "date_display": "8 Sep 2026"
-    },
-    {
-      "id": "67802cdaf7",
-      "title": "Increasing cytosolic NADPH to mimic exercise",
-      "link": "https://www.nature.com/articles/s42255-026-01580-2",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "Bryce J. Carpenter, Pieterjan Dierickx",
-      "summary": "Nature Metabolism, Published online: 08 September 2026; doi:10.1038/s42255-026-01580-2 In this issue of Nature Metabolism, Wu et al. reveal that cytosolic NADPH, a pentose phosphate pathway metabolite, drives a physiological cardiac hypertrophic response that is protective against heart attack injury and can be raised…",
       "date": "2026-09-08T00:00:00Z",
       "date_display": "8 Sep 2026"
     },
@@ -310,50 +244,6 @@
       "date_display": "8 Sep 2026"
     },
     {
-      "id": "39995bafe0",
-      "title": "Reflecting on 25 years of cancer research: transformative advances and unmet expectations",
-      "link": "https://www.nature.com/articles/s41568-026-00974-4",
-      "journal": "Nature Reviews Cancer",
-      "category": "Review Article",
-      "authors": "Allan Balmain, René Bernards, Hans Clevers, Karen H. Vousden, Paul Workman, Marinka Zitnik",
-      "summary": "Nature Reviews Cancer, Published online: 08 September 2026; doi:10.1038/s41568-026-00974-4 To mark the 25th anniversary of Nature Reviews Cancer, six researchers reflect on the conceptual advances that have reshaped cancer research — from somatic mosaicism, functional genomics and cancer stem cells to tumour…",
-      "date": "2026-09-08T00:00:00Z",
-      "date_display": "8 Sep 2026"
-    },
-    {
-      "id": "ba126a2ff2",
-      "title": "A single-cell lens into the co-evolution of genotypes and phenotypes in cancer",
-      "link": "https://www.nature.com/articles/s41568-026-00970-8",
-      "journal": "Nature Reviews Cancer",
-      "category": "Review Article",
-      "authors": "Franco Izzo, Tamara Prieto, Catherine Potenski, Dan A. Landau",
-      "summary": "Nature Reviews Cancer, Published online: 08 September 2026; doi:10.1038/s41568-026-00970-8 In this Review, Izzo et al. discuss how single-cell multimodal sequencing enables genotype–phenotype mapping and, when combined with phylogenetic reconstruction, provide insights into clonal evolution, cell state plasticity, and…",
-      "date": "2026-09-08T00:00:00Z",
-      "date_display": "8 Sep 2026"
-    },
-    {
-      "id": "fdef1ba6fe",
-      "title": "p97-mediated proteostasis is a checkpoint for late-stage thymocyte positive selection",
-      "link": "https://www.nature.com/articles/s41423-026-01466-z",
-      "journal": "Cellular and Molecular Immunology",
-      "category": "Original Article",
-      "authors": "Ruixian Yu, Weihong Zhang, Yi Han, Wenjia Wang, Yan Meng, Pingping Nie, Cuiwei Zhang, Zaisheng Ye, Bin Yan, Zhaocai Zhou, Shi Jiao",
-      "summary": "Cellular & Molecular Immunology, Published online: 07 September 2026; doi:10.1038/s41423-026-01466-z p97-mediated proteostasis is a checkpoint for late-stage thymocyte positive selection",
-      "date": "2026-09-07T00:00:00Z",
-      "date_display": "7 Sep 2026"
-    },
-    {
-      "id": "5e0e0ad693",
-      "title": "HnRNPK restrains memory precursor and plasma cell differentiation to control germinal center B-cell output",
-      "link": "https://www.nature.com/articles/s41423-026-01469-w",
-      "journal": "Cellular and Molecular Immunology",
-      "category": "Original Article",
-      "authors": "Jiayuan Li, Jing Wang, Silu Li, Changxu Chen, Chengyu Yang, Zhenya Liu, Xiaosu Ke, Zhuanhuai Wang, Bin Wang, Hui Li, Gui-Xin Ruan, Xijun Ou, Hengjun Huang",
-      "summary": "Cellular & Molecular Immunology, Published online: 07 September 2026; doi:10.1038/s41423-026-01469-w HnRNPK restrains memory precursor and plasma cell differentiation to control germinal center B-cell output",
-      "date": "2026-09-07T00:00:00Z",
-      "date_display": "7 Sep 2026"
-    },
-    {
       "id": "f7309f60de",
       "title": "Patient-Level KRAS G12C Prevalence among Hispanic/Latino and Non-Hispanic White Patients in Real-world Clinicogenomic Cohorts",
       "link": "https://aacrjournals.org/cancerrescommun/article/6/9/2090/787843/Patient-Level-KRAS-G12C-Prevalence-among-Hispanic",
@@ -361,28 +251,6 @@
       "category": "Original Article",
       "authors": "",
       "summary": "Abstract KRAS G12C is a treatment-defining biomarker in non–small cell lung cancer (NSCLC), particularly lung adenocarcinoma. Hispanic/Latino (H/L) patients remain undercharacterized in precision oncology datasets, and patient-level KRAS G12C prevalence has not been consistently quantified using strict ethnicity…",
-      "date": "2026-09-07T00:00:00Z",
-      "date_display": "7 Sep 2026"
-    },
-    {
-      "id": "08e758dd21",
-      "title": "Neutrophils in cancer",
-      "link": "https://www.nature.com/articles/s41568-026-00968-2",
-      "journal": "Nature Reviews Cancer",
-      "category": "Review Article",
-      "authors": "Markus I. Diehl, Pamela A. Basto, Matthew A. Abikenari, Ian L. Linde, Derick Okwan-Duodu, Edgar G. Engleman",
-      "summary": "Nature Reviews Cancer, Published online: 07 September 2026; doi:10.1038/s41568-026-00968-2 Neutrophils exhibit context-dependent pro-tumour and antitumour functions in cancer. In this Review, Diehl, Basto et al. examine neutrophil roles in tumour progression and metastasis, drawing parallels with non-cancer contexts…",
-      "date": "2026-09-07T00:00:00Z",
-      "date_display": "7 Sep 2026"
-    },
-    {
-      "id": "b2530e4c67",
-      "title": "The next 25 years of cancer research: emerging perspectives and priorities",
-      "link": "https://www.nature.com/articles/s41568-026-00975-3",
-      "journal": "Nature Reviews Cancer",
-      "category": "Review Article",
-      "authors": "Myriam Chalabi, Tim H. H. Coorens, Leanne Li, James L. Reading, Shensi Shen, Ewa Szczurek",
-      "summary": "Nature Reviews Cancer, Published online: 07 September 2026; doi:10.1038/s41568-026-00975-3 To mark the 25th anniversary of Nature Reviews Cancer, six emerging cancer researchers share their perspectives on the future of the field, highlighting conceptual opportunities, challenging established paradigms and identifying…",
       "date": "2026-09-07T00:00:00Z",
       "date_display": "7 Sep 2026"
     },
@@ -453,17 +321,6 @@
       "date_display": "4 Sep 2026"
     },
     {
-      "id": "b245b80d5b",
-      "title": "Targeting the FOXP3–T-bet interaction to restore Treg stability in IFN-γ–driven autoimmunity",
-      "link": "https://www.nature.com/articles/s41423-026-01468-x",
-      "journal": "Cellular and Molecular Immunology",
-      "category": "Original Article",
-      "authors": "Weiqi Zhang, Xinnan Liu, Zhiyong Gu, Jiahang Xu, Zheng Bao, Rui Liang, Zhenran Xu, Dan Teng, Guojun Qu, Qianru Huang, Yi Lei, Feng Xie, Na Tian, Yichao Han, Siyuan Qiang, Hecheng…",
-      "summary": "Cellular & Molecular Immunology, Published online: 03 September 2026; doi:10.1038/s41423-026-01468-x Targeting the FOXP3–T-bet interaction to restore Treg stability in IFN-γ–driven autoimmunity",
-      "date": "2026-09-03T00:00:00Z",
-      "date_display": "3 Sep 2026"
-    },
-    {
       "id": "480bc74f6c",
       "title": "Advancing Prostate Cancer Survivorship through Transatlantic Consortium Science: The iCCaRE Initiative",
       "link": "https://aacrjournals.org/cancerrescommun/article/6/9/2067/787793/Advancing-Prostate-Cancer-Survivorship-through",
@@ -473,17 +330,6 @@
       "summary": "Abstract Black/African American populations, globally, bear the greatest prostate cancer burden compared with other racial/ethnic groups. Addressing prostate cancer disparities in Black men is complex, requiring a patient-centered, community-centric, and comprehensive approach. This study integrates Inclusive Cancer…",
       "date": "2026-09-03T00:00:00Z",
       "date_display": "3 Sep 2026"
-    },
-    {
-      "id": "4a0dce6a06",
-      "title": "The NLRP3 inflammasome at the crossroads of innate immune signaling and cell death",
-      "link": "https://www.nature.com/articles/s41423-026-01463-2",
-      "journal": "Cellular and Molecular Immunology",
-      "category": "Original Article",
-      "authors": "Nanyang Xiao, Zexuan Lu, Destiny K. Cooper, Jueqi Chen",
-      "summary": "Cellular & Molecular Immunology, Published online: 02 September 2026; doi:10.1038/s41423-026-01463-2 The NLRP3 inflammasome at the crossroads of innate immune signaling and cell death",
-      "date": "2026-09-02T00:00:00Z",
-      "date_display": "2 Sep 2026"
     },
     {
       "id": "b92cbf6176",
@@ -508,24 +354,46 @@
       "date_display": "2 Sep 2026"
     },
     {
-      "id": "d889dcebd1",
-      "title": "Expanding the reach of menin inhibitors",
-      "link": "https://www.nature.com/articles/s41568-026-00981-5",
-      "journal": "Nature Reviews Cancer",
-      "category": "Review Article",
-      "authors": "Daniela Senft",
-      "summary": "Nature Reviews Cancer, Published online: 02 September 2026; doi:10.1038/s41568-026-00981-5 Megakaryocytes contribute substantially to the pathogenesis of myeloproliferative neoplasms (MPNs), but therapeutic strategies targeting this lineage are lacking. Wen, Cotton et al. demonstrate that menin inhibition impairs…",
-      "date": "2026-09-02T00:00:00Z",
-      "date_display": "2 Sep 2026"
+      "id": "ba40b29563",
+      "title": "TIME in motion: How response takes shape",
+      "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00303-X?rss=yes",
+      "journal": "Cancer Cell",
+      "category": "Original Article",
+      "authors": "Wee Loong Chin, Willem Joost Lesterhuis",
+      "summary": "Biomarkers for immune checkpoint inhibitors have largely treated the tumor immune microenvironment as a fixed property. In this issue of Cancer Cell, Lin et al. assemble a longitudinal pan-cancer single-cell atlas and show that the direction of immune-state remodeling during therapy is more informative than baseline…",
+      "date": "2026-09-01T00:00:00Z",
+      "date_display": "1 Sep 2026"
     },
     {
-      "id": "dc1be6d83f",
-      "title": "Author Correction: Platelet-derived serotonin epigenetically programs macrophage alternative activation to orchestrate type 2 airway inflammation",
-      "link": "https://www.nature.com/articles/s41423-026-01465-0",
-      "journal": "Cellular and Molecular Immunology",
+      "id": "ae6d745b83",
+      "title": "Tumor evolution shapes metastatic competence in colorectal cancer",
+      "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00351-X?rss=yes",
+      "journal": "Cancer Cell",
       "category": "Original Article",
-      "authors": "Ru Tang, Guofang Xia, Ying Zhu, Jinhong Shen, Zhihan Liu, Song Mao, Jiayao Zhou, Yuelong Gu, Shilei Pu, Zhipeng Li, Hai Lin, Congfeng Xu, Hongqing Xu, Feng Zhang, Yongxu Zhao…",
-      "summary": "Cellular & Molecular Immunology, Published online: 01 September 2026; doi:10.1038/s41423-026-01465-0 Author Correction: Platelet-derived serotonin epigenetically programs macrophage alternative activation to orchestrate type 2 airway inflammation",
+      "authors": "Mathijs P. Verhagen, Louis Vermeulen",
+      "summary": "In this issue of Cancer Cell, Manca et al. investigate the genomic evolution and metastatic tropism of over 7,000 colorectal cancers. Integrating primary tumor location, genomic alterations, and clinical variables, they reveal how distinct patterns of tumor evolution shape metastatic competence and impact organ…",
+      "date": "2026-09-01T00:00:00Z",
+      "date_display": "1 Sep 2026"
+    },
+    {
+      "id": "1ca1c78a58",
+      "title": "Integrated clinicogenomic analysis reveals the evolution and metastatic tropisms of advanced colorectal cancer",
+      "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00360-0?rss=yes",
+      "journal": "Cancer Cell",
+      "category": "Original Article",
+      "authors": "Paolo Manca, Henry Walch, Jierui Xu, Natalie Small, Ayush Kris, Evan Seffar, Allison Richards, Tiffany Xue, Adam Price, Mark T.A. Donoghue, Christopher Fong, Michele Waters…",
+      "summary": "Manca et al. analyze >7,000 colorectal cancers, integrating next-generation sequencing and clinical data. They define tumor genomics, clonality and dosage of mutations, and metastatic tropisms and their effects on patient outcomes. Incorporating metastatic sites, primary tumor location, and genomics, they develop an…",
+      "date": "2026-09-01T00:00:00Z",
+      "date_display": "1 Sep 2026"
+    },
+    {
+      "id": "a090f77cf2",
+      "title": "Tumor immune microenvironment remodeling predicts response to checkpoint inhibitor therapy",
+      "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00384-3?rss=yes",
+      "journal": "Cancer Cell",
+      "category": "Original Article",
+      "authors": "Zhongyang Lin, Mitalee Chandra, Nalini Srinivas, Selma Ugurel, Jürgen C. Becker, Dvir Aran",
+      "summary": "Lin et al. assemble a longitudinal pan-cancer single-cell atlas that tracks how the tumor immune microenvironment remodels during checkpoint inhibitor therapy. They show that the direction of remodeling, rather than the pre-treatment state, predicts response and translate these dynamics into a baseline gene signature…",
       "date": "2026-09-01T00:00:00Z",
       "date_display": "1 Sep 2026"
     },
@@ -739,13 +607,13 @@
       "date_display": "28 Aug 2026"
     },
     {
-      "id": "7b0abf7456",
-      "title": "The long return on discovery science in cancer therapeutics",
-      "link": "https://www.nature.com/articles/s41568-026-00978-0",
-      "journal": "Nature Reviews Cancer",
-      "category": "Review Article",
-      "authors": "Cian Murphy, Samuel Hume, Charles Swanton",
-      "summary": "Nature Reviews Cancer, Published online: 28 August 2026; doi:10.1038/s41568-026-00978-0 Many advances in cancer treatment depend on discoveries made decades earlier. In this Comment, Murphy et al. discuss the histories of EGFR, HER2, CDK4/6 and RAS, highlighting how long translation can take and how clinical benefit…",
+      "id": "a7d8d05896",
+      "title": "Axes of biological variation in diffuse large B cell lymphoma",
+      "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00395-8?rss=yes",
+      "journal": "Cancer Cell",
+      "category": "Original Article",
+      "authors": "Boya Wang, George Wright, Julius C. Enssle, Xin Yu, James D. Phelan, Yandan Yang, Arthur Shaffer,  Arvin E. Ruiz, Da Wei Huang, Zana Coulibaly, Michael Kelly, Bao Tran, Stefania…",
+      "summary": "(Cancer Cell 44, 567–585.e1–e12; March 9, 2026)",
       "date": "2026-08-28T00:00:00Z",
       "date_display": "28 Aug 2026"
     },
@@ -772,15 +640,15 @@
       "date_display": "27 Aug 2026"
     },
     {
-      "id": "1943a50c92",
-      "title": "ABTB1, as an E3 ubiquitin ligase, suppresses Th17 cell differentiation and mitigates autoimmune inflammation by promoting STAT3 ubiquitination and degradation",
-      "link": "https://www.nature.com/articles/s41423-026-01464-1",
-      "journal": "Cellular and Molecular Immunology",
+      "id": "16d96e16bf",
+      "title": "MDMX acts as a pervasive preleukemic-to-acute myeloid leukemia transition mechanism",
+      "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00391-0?rss=yes",
+      "journal": "Cancer Cell",
       "category": "Original Article",
-      "authors": "Fei Xu, Shuang Zhao, Yan Jiang, Xiaoping Li, Wenjun Wang, Ying Zhou, Yufeng Wang, Peijie Zhu, Yu Shao, Guodong Qiao, Jiamin Cai, Mengyao Sun, Jiaoyang Li, Chuangli Hao, Yi Yang…",
-      "summary": "Cellular & Molecular Immunology, Published online: 25 August 2026; doi:10.1038/s41423-026-01464-1 ABTB1, as an E3 ubiquitin ligase, suppresses Th17 cell differentiation and mitigates autoimmune inflammation by promoting STAT3 ubiquitination and degradation",
-      "date": "2026-08-25T00:00:00Z",
-      "date_display": "25 Aug 2026"
+      "authors": "Koki Ueda, Rajni Kumari, Emily Schwenger, Justin C. Wheat, Oliver Bohorquez, Swathi-Rao Narayanagari, Samuel J. Taylor, Luis A. Carvajal, Kith Pradhan, Boris Bartholdy, Tihomira…",
+      "summary": "(Cancer Cell 39, 529–547.e1–e7; April 12, 2021)",
+      "date": "2026-08-26T00:00:00Z",
+      "date_display": "26 Aug 2026"
     },
     {
       "id": "2ca13dbf66",
@@ -792,17 +660,6 @@
       "summary": "Nature Reviews Immunology, Published online: 25 August 2026; doi:10.1038/s41577-026-01352-9 Checkpoint inhibitors, CAR T cells and bispecific T cell engagers have demonstrated the transformative potential of cancer immunotherapy. However, progress has slowed as efforts have focused on replicating PD-(L)1 blockade…",
       "date": "2026-08-25T00:00:00Z",
       "date_display": "25 Aug 2026"
-    },
-    {
-      "id": "f802a6f00a",
-      "title": "NADPH oxidases in immunometabolism and disease pathology: mechanistic networks, pollutant triggers, and therapeutic frontiers",
-      "link": "https://www.nature.com/articles/s41423-026-01447-2",
-      "journal": "Cellular and Molecular Immunology",
-      "category": "Original Article",
-      "authors": "M. Thakur, D. Mutyala, A. A. Amoliga, M. Contin Ortega, S. Batra",
-      "summary": "Cellular & Molecular Immunology, Published online: 24 August 2026; doi:10.1038/s41423-026-01447-2 NADPH oxidases in immunometabolism and disease pathology: mechanistic networks, pollutant triggers, and therapeutic frontiers",
-      "date": "2026-08-24T00:00:00Z",
-      "date_display": "24 Aug 2026"
     },
     {
       "id": "0b94676091",
@@ -871,6 +728,17 @@
       "date_display": "19 Aug 2026"
     },
     {
+      "id": "b0985c9cd7",
+      "title": "Biological aging and the hidden architecture of early-onset cancer risk",
+      "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00356-9?rss=yes",
+      "journal": "Cancer Cell",
+      "category": "Original Article",
+      "authors": "Ammal Abbasi, Ludmil B. Alexandrov",
+      "summary": "Across birth cohorts, in a Nature Medicine study, Tian et al. identify larger biological age gaps associated with early-onset lung, colorectal, and uterine cancers across birth cohorts. These findings position biological age as an integrative marker of physiological dysregulation. Future work combining aging clocks…",
+      "date": "2026-08-18T00:00:00Z",
+      "date_display": "18 Aug 2026"
+    },
+    {
       "id": "60f8ff210f",
       "title": "Why adaptive immunity?",
       "link": "https://www.nature.com/articles/s41577-026-01350-x",
@@ -937,6 +805,28 @@
       "date_display": "13 Aug 2026"
     },
     {
+      "id": "27b00deeab",
+      "title": "EGFR-targeting ADCs: From oncogene addiction to antigen-guided drug delivery",
+      "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00344-2?rss=yes",
+      "journal": "Cancer Cell",
+      "category": "Original Article",
+      "authors": "Lihui Liu, Kailun Fei, Jie Wang",
+      "summary": "In this issue of Cancer Cell, Li et al. report a first-in-human phase 1 study of SYS6010, an epidermal growth factor receptor (EGFR)-targeting antibody-drug conjugate, in advanced solid tumors. The study highlights how EGFR-directed therapy moves beyond kinase inhibition toward antigen-guided cytotoxic delivery in…",
+      "date": "2026-08-13T00:00:00Z",
+      "date_display": "13 Aug 2026"
+    },
+    {
+      "id": "259fb223b5",
+      "title": "SYS6010, epidermal growth factor receptor-targeting antibody-drug conjugate for advanced non-small cell lung cancer: A phase 1 trial",
+      "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00350-8?rss=yes",
+      "journal": "Cancer Cell",
+      "category": "Original Article",
+      "authors": "Zi-Ming Li, Zhen Zhou, Zhi-Yong He, Liang Han, Jian Fang, Hong-Mei Sun, Hai-Feng Liu, Ming-Xia Wang, Yi-Bing Liu, Xiu-Juan Qu, Yu Yao, Yi Gong, Yan Yu, Hua-Qiu Shi, Yan Wang…",
+      "summary": "Li et al. report results from a first-in-human study showing that SYS6010, an EGFR-targeted antibody-drug conjugate, demonstrates encouraging antitumor activity with a tolerable safety profile in pretreated advanced NSCLC, providing evidence that warrants further clinical development.",
+      "date": "2026-08-13T00:00:00Z",
+      "date_display": "13 Aug 2026"
+    },
+    {
       "id": "ef5f83942b",
       "title": "Beta2-adrenergic stimulation by fenoterol increases energy expenditure without activating human brown adipose tissue",
       "link": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00285-8?rss=yes",
@@ -970,13 +860,24 @@
       "date_display": "11 Aug 2026"
     },
     {
-      "id": "d8bee756b5",
-      "title": "Beyond BCL-2: What drives venetoclax resistance in acute myeloid leukemia?",
-      "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00313-2?rss=yes",
+      "id": "6c1de7ccd3",
+      "title": "Latent tumor killers awakened",
+      "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00308-9?rss=yes",
       "journal": "Cancer Cell",
       "category": "Original Article",
-      "authors": "Anna Skwarska, Marina Konopleva",
-      "summary": "The BCL-2 inhibitor venetoclax has transformed outcomes for older or frail patients with acute myeloid leukemia (AML), and its resistance mechanisms are becoming better defined, including compensatory and lineage-associated switches toward MCL-1 or BCL-xL dependence, oncogenic signaling activation, blast phenotype…",
+      "authors": "Haochen Yang, Chenqi Xu",
+      "summary": "In this issue of Cancer Cell, Kehl et al. construct a single-cell atlas of bone marrow T cells from patients with bone marrow-resident malignancies, identifying tumor-reactive populations existing in a state of latent competence. A 15-gene signature identifies this subset, which is expanded by immunotherapies and…",
+      "date": "2026-08-10T00:00:00Z",
+      "date_display": "10 Aug 2026"
+    },
+    {
+      "id": "cf6d731681",
+      "title": "Latent effector T cells mediate immunotherapy responses in the bone marrow microenvironment",
+      "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00349-1?rss=yes",
+      "journal": "Cancer Cell",
+      "category": "Original Article",
+      "authors": "Niklas Kehl, Tim R. Wagner, Simon Steiger, Tamara Boschert, Michael Kilian, Antonia Schach, Julius J. Michel, Kane Foster, Gabrielle M. Hernandez, Claudia Ctortecka, Anna D…",
+      "summary": "Kehl et al. characterize tumor-reactive T cells in the bone marrow of patients with multiple myeloma and AML. These cells adopt an effector state distinct from exhausted solid tumor TILs. The TFiT classifier stratifies immunotherapy, but not chemotherapy, response, identifying a latent, therapeutically engageable…",
       "date": "2026-08-10T00:00:00Z",
       "date_display": "10 Aug 2026"
     },
@@ -1014,6 +915,17 @@
       "date_display": "4 Aug 2026"
     },
     {
+      "id": "0b64671239",
+      "title": "A stress-adaptive lipid kinase axis defines metabolic vulnerabilities in neuroendocrine prostate cancer",
+      "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00312-0?rss=yes",
+      "journal": "Cancer Cell",
+      "category": "Original Article",
+      "authors": "Yang Zheng, Caleb Cheng, Yizhi Cao, Gabriel Cruz, Yuping Zhang, Radha Paturu, Somnath Mahapatra, Jing Hu, Rahul Mannan, Hüseyin Karabürk, Rupam Bhattacharyya, Yitong Yin, Yi Zhao…",
+      "summary": "Zheng et al. identify a PIKfyve-ER stress-lipogenesis axis that enables neuroendocrine prostate cancer cells to tolerate elevated basal ER stress through PIKfyve-dependent lysosomal homeostasis and SREBP-driven lipogenesis. Dual inhibition of PIKfyve and FASN disrupts these adaptive pathways, driving terminal UPR…",
+      "date": "2026-08-03T00:00:00Z",
+      "date_display": "3 Aug 2026"
+    },
+    {
       "id": "99692965a2",
       "title": "Advisory Board and Contents",
       "link": "https://www.cell.com/trends/immunology/fulltext/S1471-4906(26)00196-1?rss=yes",
@@ -1034,17 +946,6 @@
       "summary": "",
       "date": "2026-08-01T00:00:00Z",
       "date_display": "1 Aug 2026"
-    },
-    {
-      "id": "80235bde6e",
-      "title": "Mapping micrometastatic seeds of relapse",
-      "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00345-4?rss=yes",
-      "journal": "Cancer Cell",
-      "category": "Original Article",
-      "authors": "Hui Ting Grace Yeo, Iain Beehuat Tan",
-      "summary": "In this issue of Cancer Cell, Liu et al. apply spatial multi-omics to map colorectal cancer micrometastases across primary tumors and matched liver and lung metastases, revealing liver micrometastases as an early evolved, stem-like, immune-suppressed residual disease state linked to a six-gene recurrence signature.",
-      "date": "2026-07-31T00:00:00Z",
-      "date_display": "31 Jul 2026"
     },
     {
       "id": "a95ae42d98",
@@ -1080,26 +981,48 @@
       "date_display": "30 Jul 2026"
     },
     {
-      "id": "fe7a525366",
-      "title": "Dysbiosis-associated bile acids slam the brakes on immune checkpoint therapy",
-      "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00300-4?rss=yes",
+      "id": "c5dbd467b8",
+      "title": "Depletion of an immature cord blood NK subset reverses trogocytosis-driven CAR NK dysfunction",
+      "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00304-1?rss=yes",
       "journal": "Cancer Cell",
       "category": "Original Article",
-      "authors": "Chi Chun Wong, Jun Yu",
-      "summary": "Antibiotics compromise the efficacy of immune checkpoint inhibition (ICI) therapy in cancer, but the underlying mechanism remains unclear. In this issue of Cancer Cell, Mallard de La Varende et al. identify dysbiosis-associated tauro-conjugated bile acids as drivers of ICI non-response and γ-glutamyl transferase (γGT)…",
+      "authors": "Ye Li, Huihui Fan, Guohui Wang, Xin Wang, Rafet Basar, Maliha Nuzhat Munir, Nadima Uprety, Rejeena Shrestha, Ludovica La Posta, Bin Liu, Jeffrey Wilson, Prashant Menon, Natalie…",
+      "summary": "Li et al. identify a previously unrecognized NK cell subset that limits cord blood-derived CAR-NK cell therapy by diverting tumor targeting and promoting self-directed fratricide and show that donor cell composition shapes efficacy while offering a practical manufacturing strategy to improve consistency, persistence…",
       "date": "2026-07-29T00:00:00Z",
       "date_display": "29 Jul 2026"
     },
     {
-      "id": "a81c2fe5b1",
-      "title": "Subclinical cholestasis is a hallmark of gut dysbiosis causing resistance to cancer immunotherapy",
-      "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00309-0?rss=yes",
+      "id": "c590fd1893",
+      "title": "Tumor-infiltrating plasma cell targets as a source for immunotherapies",
+      "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00307-7?rss=yes",
       "journal": "Cancer Cell",
       "category": "Original Article",
-      "authors": "Anne-Laure Mallard de La Varende, Ai-Ling Tian, Simon Thomas, Imran Lahmar, Meriem Messaoudene, Sijing Li, Omar Motiño, Hortense Guillaume-dit-Taunière, Valerio Iebba, Yoan…",
-      "summary": "Mallard de La Varende et al. demonstrate that gut dysbiosis impairs tumor immunosurveillance through the gut-liver axis, causing subclinical cholestasis and immunotherapy resistance in tumors distant from gastrointestinal and hepatic tissues. Gut dysbiosis triggers plasma elevation of γ-glutamyl transferase, increase…",
-      "date": "2026-07-29T00:00:00Z",
-      "date_display": "29 Jul 2026"
+      "authors": "Georgia Lattanzi, Daniel Hollern",
+      "summary": "Tumor-infiltrating plasma cells are key responders to immunotherapy. In this issue of Cancer Cell, Meyerhoff et al. show that plasma cells from lung lesions of anti-PD-1-treated patients target citrullinated proteins. Engineering CAR T cells with these plasma cells scFv reveals anti-tumor specificity without adverse…",
+      "date": "2026-07-27T00:00:00Z",
+      "date_display": "27 Jul 2026"
+    },
+    {
+      "id": "9c3d4181a2",
+      "title": "Tumor-infiltrating plasma cell profiling after PD-1 blockade reveals tumor-specific antibodies",
+      "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00310-7?rss=yes",
+      "journal": "Cancer Cell",
+      "category": "Original Article",
+      "authors": "R. Ryan Meyerhoff, Alan Chen, Jenny O’Brien, Carmen M. Anadon, Luis Uriel Lopez Bailon, Dayan Carrion-Estrada, Koravit Poysungnoen, Jared Lindenberger, Gabor Kemeny, Liliana…",
+      "summary": "Meyerhoff et al. identify tumor-infiltrating plasma cells as a source of antibodies with therapeutic potential. Their lead antibody, PC-1, recognizes citrullinated antigens on cancer and tumor-promoting myeloid cells and can be repurposed to guide CAR T cell therapy.",
+      "date": "2026-07-27T00:00:00Z",
+      "date_display": "27 Jul 2026"
+    },
+    {
+      "id": "e651f2e9ba",
+      "title": "A self-amplifying nerve-fibroblast circuit drives colorectal cancer progression",
+      "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00305-3?rss=yes",
+      "journal": "Cancer Cell",
+      "category": "Original Article",
+      "authors": "Hiroki Kobayashi, Tadashi Iida, Yosuke Ochiai, Akihiro Sakai, Ruth A. White, Yi Zeng, Xiaofei Zhi, Jin Qian, Feijing Wu, Biyun Zheng, Junya Arai, Masahiro Hata, Hualong Zheng…",
+      "summary": "Kobayashi et al. demonstrate that cholinergic signaling induces NTN1 secretion from colorectal CAFs, which in turn enhances intratumoral cholinergic innervation. Increased acetylcholine and CAF-derived NTN1 then accelerate cancer cell growth through tumoral CHRM3 and UNC5B. Blocking CHRM3 or NTN1 may represent a…",
+      "date": "2026-07-24T00:00:00Z",
+      "date_display": "24 Jul 2026"
     },
     {
       "id": "ee9c615837",
@@ -1168,39 +1091,6 @@
       "date_display": "17 Jul 2026"
     },
     {
-      "id": "fa662ead17",
-      "title": "Bile Acid and Inflammation Activate Gastric Cardia Stem Cells in a Mouse Model of Barrett-Like Metaplasia",
-      "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00343-0?rss=yes",
-      "journal": "Cancer Cell",
-      "category": "Original Article",
-      "authors": "Michael Quante, Govind Bhagat, Julian A. Abrams, Frederic Marache, Pamela Good, Michele D. Lee, Yoomi Lee, Richard Friedman, Samuel Asfaha, Zinaida Dubeykovskaya, Umar Mahmood…",
-      "summary": "(Cancer Cell 21, 36–51; January 17, 2012)",
-      "date": "2026-07-17T00:00:00Z",
-      "date_display": "17 Jul 2026"
-    },
-    {
-      "id": "e406ae46fb",
-      "title": "CHD4 Has Oncogenic Functions in Initiating and Maintaining Epigenetic Suppression of Multiple Tumor Suppressor Genes",
-      "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00346-6?rss=yes",
-      "journal": "Cancer Cell",
-      "category": "Original Article",
-      "authors": "Limin Xia, Wenjie Huang, Marina Bellani, Michael M. Seidman, Kaichun Wu, Daiming Fan, Yongzhan Nie, Yi Cai, Yang W. Zhang, Li-Rong Yu, Huili Li, Cynthia A. Zahnow, Wenbing Xie…",
-      "summary": "(Cancer Cell 31, 653–668.e1–e7; May 8, 2017)",
-      "date": "2026-07-17T00:00:00Z",
-      "date_display": "17 Jul 2026"
-    },
-    {
-      "id": "30476af7a1",
-      "title": "PD-1 blockade unleashes local hepatitis B virus-related B cell response inhibiting hepatocellular carcinoma",
-      "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00297-7?rss=yes",
-      "journal": "Cancer Cell",
-      "category": "Original Article",
-      "authors": "Shuling Chen, Yuanqi Wang, Jingying Chen, Wenxuan Xie, Jianyu Chen, Guanrui Liao, Xiaoxue Ren, Kai Lei, Yuting Zhang, Shu Wang, Ye Yang, Youmei Kang, Qiaoyi Chen, Yixi Wen…",
-      "summary": "Following perioperative anti-PD-1 therapy in hepatocellular carcinoma, Chen et al. report two distinct subtypes of late-recurrence patients characterized by either T cell or B cell dominant responses within tumors. Through single-cell spatial transcriptomics and antibody cloning experiments, they show that anti-PD-1…",
-      "date": "2026-07-16T00:00:00Z",
-      "date_display": "16 Jul 2026"
-    },
-    {
       "id": "2e0b33c13f",
       "title": "FGF21 synergizes with leptin to counteract obesity-related metabolic comorbidities by reversing hepatic leptin resistance",
       "link": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00247-0?rss=yes",
@@ -1219,17 +1109,6 @@
       "category": "Original Article",
       "authors": "Rintaro Shibuya, Nobuya Abe, Keaton Song, Nathan D. Rossen, Masato Tamari, Zhen Wang, Zili Xie, Yuki Abe, Hisato Iriki, Ayana Iijima, Lydia Zamidar, Xu Li, Xia Meng, Andras…",
       "summary": "Bioelectronic technologies are being deployed to treat many inflammatory conditions using transcutaneous auricular nerve stimulation. Shibuya et al. employ viral tracing, chemogenetics, and optogenetics to unveil a sensory skin-lung vagal reflex that suppresses allergic airway inflammation. They identify the…",
-      "date": "2026-07-15T00:00:00Z",
-      "date_display": "15 Jul 2026"
-    },
-    {
-      "id": "a784fc0f41",
-      "title": "Perioperative tislelizumab plus chemotherapy for locally advanced gastric cancer: A randomized, prospective phase 2 trial",
-      "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00302-8?rss=yes",
-      "journal": "Cancer Cell",
-      "category": "Original Article",
-      "authors": "Zhiyuan Xu, Can Hu, Litao Yang, Pengfei Yu, Yanqiang Zhang, Jiahui Chen, Guoliang Zheng, Xiaodong Chen, Tao Zhang, Weiyang He, Xiangyu Meng, Panpan Yu, Yian Du, Xiaowen Liu…",
-      "summary": "Xu et al. report a biomarker-stratified, randomized, multicenter phase 2 trial of perioperative immunochemotherapy in patients with tumor-specific (ts)MHC-II-positive or -negative gastric/gastroesophageal junction cancer (GC/GEJC). Perioperative immunochemotherapy significantly improved the major pathologic response…",
       "date": "2026-07-15T00:00:00Z",
       "date_display": "15 Jul 2026"
     },
@@ -1278,48 +1157,169 @@
       "date_display": "10 Jul 2026"
     },
     {
-      "id": "d7c61def6c",
-      "title": "Your neighbors matter: Adjacent cancer cells dampen TLS function",
-      "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00298-9?rss=yes",
-      "journal": "Cancer Cell",
-      "category": "Original Article",
-      "authors": "Nicholas J. Salgia, Jason B. Muhitch",
-      "summary": "In this issue of Cancer Cell, Hernández-Verdin et al. reveal why some tumors with tertiary lymphoid structures (TLSs) resist immunotherapy: their findings identify cancer-derived gamma-aminobutyric acid (GABA) as an immunosuppressant factor resulting in dysfunctional TLS and immunotherapy resistance. Targeting GABA…",
+      "id": "8817fe7839",
+      "title": "The octameric shift in plant immune signaling",
+      "link": "https://www.cell.com/trends/cell-biology/fulltext/S0962-8924(26)00128-5?rss=yes",
+      "journal": "Trends in Cell Biology",
+      "category": "Review Article",
+      "authors": "Tofazzal Islam",
+      "summary": "Nucleotide-binding leucine-rich repeat (NLR) receptors are ubiquitous intracellular sensors. Guo et al. recently revealed that the wheat CCG10-NLR, Wheat Autoimmunity 3, forms a previously undescribed plant octameric resistosome to mediate cell death and immunity. This discovery uncovers a distinct configuration…",
       "date": "2026-07-09T00:00:00Z",
       "date_display": "9 Jul 2026"
     },
     {
-      "id": "beefe15bb4",
-      "title": "Stressed bones and glioblastoma",
-      "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00294-1?rss=yes",
-      "journal": "Cancer Cell",
+      "id": "2d5463308b",
+      "title": "Transcription factor BHLHE40 expression in group 3 innate lymphoid cells and RORγt⁺ antigen-presenting cells coordinates intestinal immunity",
+      "link": "https://www.cell.com/immunity/fulltext/S1074-7613(26)00258-X?rss=yes",
+      "journal": "Immunity",
       "category": "Original Article",
-      "authors": "Manuel Valiente",
-      "summary": "Chronic stress has long been associated with poor cancer outcomes, yet the mechanisms linking systemic stress responses to glioblastoma progression remain poorly understood. In this issue of Cancer Cell, Yang et al. identify a stress-induced brain-bone marrow axis that rewires monocyte differentiation toward…",
-      "date": "2026-07-09T00:00:00Z",
-      "date_display": "9 Jul 2026"
+      "authors": "Wei Yang, Silvia Pires, Emre Cardakli, Manabu Nagayama, Chloe Scott, Nancy Tran, Seun Oguntunmibi, Tara R. Bradstreet, Ashlee M. Webber, Maider Astorkia, Doron Betel, Gretchen…",
+      "summary": "The ability to maintain tolerance at mucosal barrier surfaces is critical for immune homeostasis. Yang et al. identify Bhlhe40 as a central regulator linking innate and adaptive intestinal immunity. By coordinating ILC3 effector responses with RORγt⁺ antigen-presenting cells, Bhlhe40 integrates inflammatory and…",
+      "date": "2026-07-07T00:00:00Z",
+      "date_display": "7 Jul 2026"
     },
     {
-      "id": "d74b0c4c9c",
-      "title": "Menin in normal and malignant megakaryopoiesis",
-      "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00299-0?rss=yes",
-      "journal": "Cancer Cell",
-      "category": "Original Article",
-      "authors": "Justin C. Wheat, Sheng F. Cai",
-      "summary": "Severe thrombocytopenia is a known complication of menin inhibitor therapy; however, the mechanism underlying this effect is unknown. In this issue of Cancer Cell, Wen et al. demonstrate that menin is a key component of normal megakaryopoiesis and establish menin as a therapeutic vulnerability in myeloproliferative…",
-      "date": "2026-07-09T00:00:00Z",
-      "date_display": "9 Jul 2026"
+      "id": "931905676b",
+      "title": "IL-33 scripts cancer immunity",
+      "link": "https://www.cell.com/trends/immunology/fulltext/S1471-4906(26)00162-6?rss=yes",
+      "journal": "Trends in Immunology",
+      "category": "Review Article",
+      "authors": "Marek Wagner",
+      "summary": "Interleukin-33 (IL-33) is classically viewed as an alarmin, but in cancer, it may do more than merely initiate immunity. I propose that IL-33 scripts the trajectory of immunity through interconnected regulatory layers that influence how host responses are organized and ultimately resolved into either productive…",
+      "date": "2026-07-02T00:00:00Z",
+      "date_display": "2 Jul 2026"
     },
     {
-      "id": "e2c04fe37a",
-      "title": "Spatial multi-omics landscape of colorectal cancer macro- and micrometastases",
-      "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00296-5?rss=yes",
-      "journal": "Cancer Cell",
+      "id": "38d4aabcce",
+      "title": "Gut microbiota-derived lysine phenylacetylation impairs mitochondrial function and is alleviated by SIRT3",
+      "link": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00226-3?rss=yes",
+      "journal": "Cell Metabolism",
       "category": "Original Article",
-      "authors": "Yang Liu, Akshaya S. Jadhav, Yuwen Pan, Jianlong Liao, Isha Khanduri, Yunhe Liu, Riham Katkhuda, Wei Lu, Kyung Serk Cho, Zhimin Tong, Tieling Zhou, Kangyu Lin, Baohua Sun, Mei…",
-      "summary": "Liu et al. integrate spatial transcriptomic, genomic, and proteomic profiling to map colorectal cancer metastases. They reveal early clonal divergence, stem-like features, and immunosuppressive microenvironments with T cell exhaustion in micrometastases, and identify a colorectal liver micrometastasis (CLiMi)-specific…",
-      "date": "2026-07-09T00:00:00Z",
-      "date_display": "9 Jul 2026"
+      "authors": "Wei Du, Jun-Yu Xu, Yufeng Li, Mingya Zhang, Yidan Huang, Shaoqian Zhao, Ying Zhou, Lei Zhao, Kexin Xu, Linhui Zhai, Wensi Zhao, Jia Liu, Jiahui Ni, Junxiao Dai, Tianxian Liu, Jie…",
+      "summary": "Du et al. reported a novel gut microbe-derived lysine phenylacetylation (Kpaa) originating from dietary phenylalanine. This modification, which is regulated by SIRT3, disrupts mitochondrial function and impairs insulin signaling. Mechanistically, HSP60 phenylacetylation damages the mitochondrial unfolded protein…",
+      "date": "2026-06-24T00:00:00Z",
+      "date_display": "24 Jun 2026"
+    },
+    {
+      "id": "4c5adbc6a0",
+      "title": "Multicellular ecosystems: Linking cellular diversity to tissue function and disease",
+      "link": "https://www.cell.com/trends/cell-biology/fulltext/S0962-8924(26)00104-2?rss=yes",
+      "journal": "Trends in Cell Biology",
+      "category": "Review Article",
+      "authors": "Qiang Shi, Fei Tang, Yihan Chen, Zemin Zhang",
+      "summary": "Tissue function emerges from coordinated interactions among diverse cell populations, whereas disruption of these interactions can lead to dysfunction. Recent advances in single-cell and spatial genomics have not only cataloged cellular diversity but also revealed how tissues are organized as dynamic multicellular…",
+      "date": "2026-06-24T00:00:00Z",
+      "date_display": "24 Jun 2026"
+    },
+    {
+      "id": "1567f03752",
+      "title": "The value of a shared lab: Our insights",
+      "link": "https://www.cell.com/trends/cell-biology/fulltext/S0962-8924(26)00099-1?rss=yes",
+      "journal": "Trends in Cell Biology",
+      "category": "Review Article",
+      "authors": "Benedetta Artegiani, Delilah Hendriks",
+      "summary": "Tackling scientific questions benefits from different points of view. Coleading a lab by two scientists may stimulate scientific discussion while also providing a different form of mentorship. Here, we share our experience in running a joint lab and discuss how this form of dual leadership contributes to collaborative…",
+      "date": "2026-06-18T00:00:00Z",
+      "date_display": "18 Jun 2026"
+    },
+    {
+      "id": "674e36a9df",
+      "title": "The senescence-stiffening loop: Extracellular matrix remodeling, hypoperfusion, and mitochondrial dysfunction drive tissue aging",
+      "link": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00193-2?rss=yes",
+      "journal": "Cell Metabolism",
+      "category": "Original Article",
+      "authors": "Luigi Ferrucci, Stefano Donega, Allison B. Herman, Rafael de Cabo, Myriam Gorospe",
+      "summary": "Stiffening of the extracellular matrix, declining microvascular perfusion, and mitochondrial dysfunction reinforce one another to drive tissue aging. This perspective outlines a unifying matrix-vascular-metabolic axis and highlights potential entry points to preserve tissue resilience and function with age.",
+      "date": "2026-06-15T00:00:00Z",
+      "date_display": "15 Jun 2026"
+    },
+    {
+      "id": "a6dd16d0f4",
+      "title": "Parental leave in immunology — 7",
+      "link": "https://www.cell.com/trends/immunology/fulltext/S1471-4906(26)00134-1?rss=yes",
+      "journal": "Trends in Immunology",
+      "category": "Review Article",
+      "authors": "Chiara M. Cattaneo",
+      "summary": "I am a cancer immunologist and a junior group leader in precision immuno-oncology in Milan, Italy. My work focuses on developing personalized immunotherapy strategies for solid tumors, generating patient-specific tumor-reactive T cells, and investigating how tumors escape immune surveillance. In November 2022, while I…",
+      "date": "2026-06-12T00:00:00Z",
+      "date_display": "12 Jun 2026"
+    },
+    {
+      "id": "ff76fcce0c",
+      "title": "Parental leave in immunology — 8",
+      "link": "https://www.cell.com/trends/immunology/fulltext/S1471-4906(26)00133-X?rss=yes",
+      "journal": "Trends in Immunology",
+      "category": "Review Article",
+      "authors": "Katharina Schmack",
+      "summary": "Katharina Schmack",
+      "date": "2026-06-12T00:00:00Z",
+      "date_display": "12 Jun 2026"
+    },
+    {
+      "id": "b0e137090f",
+      "title": "Aging: Barrier or catalyst of cancer?",
+      "link": "https://www.cell.com/trends/cancer/fulltext/S2405-8033(26)00125-1?rss=yes",
+      "journal": "Trends in Cancer",
+      "category": "Review Article",
+      "authors": "Anda Huna, Nadine Martin, David Bernard",
+      "summary": "Aging is a major risk factor for cancer, yet its role in cancer biology remains largely unexplored and often overlooked. Interestingly, studies assessing the impact of aging on oncogenic KrasG12D-driven lung tumor initiation, early progression, and metastasis have reported both pro- or antitumoral effects, which are…",
+      "date": "2026-06-11T00:00:00Z",
+      "date_display": "11 Jun 2026"
+    },
+    {
+      "id": "be9bb7da34",
+      "title": "Defying inflammation-driven early-onset colorectal cancer: predict, prevent, and personalize",
+      "link": "https://www.cell.com/trends/cancer/fulltext/S2405-8033(26)00108-1?rss=yes",
+      "journal": "Trends in Cancer",
+      "category": "Review Article",
+      "authors": "Taniya Murikkinthara Samuel, Samson Mathews Samuel, Elizabeth Varghese, Bini Sreenesh, Dietrich Büsselberg",
+      "summary": "Early-life exposure to both modifiable and nonmodifiable risk factors may induce chronic low-grade inflammation (CLGI), a silent threat potentially driving the rising incidence of early-onset colorectal cancer (EOCRC). Notably, CLGI could promote EOCRC by altering the proinflammatory and immune microenvironment that…",
+      "date": "2026-06-10T00:00:00Z",
+      "date_display": "10 Jun 2026"
+    },
+    {
+      "id": "cf5e0ec49a",
+      "title": "Condensates in fusion oncoprotein-driven leukemia: new biology and therapeutic opportunities",
+      "link": "https://www.cell.com/trends/cancer/fulltext/S2405-8033(26)00085-3?rss=yes",
+      "journal": "Trends in Cancer",
+      "category": "Review Article",
+      "authors": "Nicole L. Michmerhuizen, Richard W. Kriwacki, Charles G. Mullighan",
+      "summary": "Chromosomal rearrangements leading to the formation of fusion oncoproteins (FOs) are drivers of leukemia and other cancers. Many such FOs are now known to localize in nuclear or cytoplasmic condensates formed through the process of phase separation (PS). FO-associated condensates facilitate the spatiotemporal…",
+      "date": "2026-06-09T00:00:00Z",
+      "date_display": "9 Jun 2026"
+    },
+    {
+      "id": "7bc6bf517c",
+      "title": "The impact of aging on antitumor immunity and cancer immunotherapy",
+      "link": "https://www.cell.com/trends/cancer/fulltext/S2405-8033(26)00106-8?rss=yes",
+      "journal": "Trends in Cancer",
+      "category": "Review Article",
+      "authors": "Claudia Cifuentes Caballero, Ilaria Delle Fontane, Helen C. Hope, Nicola Vannini",
+      "summary": "Aging is the first risk factor associated with cancer, predominantly due to cumulative somatic mutations and a profound decline in antitumor immunity. The aging process remodels immune function across hematopoietic, adaptive, and innate compartments through interconnected processes, including hematopoietic stem cell…",
+      "date": "2026-06-01T00:00:00Z",
+      "date_display": "1 Jun 2026"
+    },
+    {
+      "id": "669b370c31",
+      "title": "Pro-aging effects of chronic glucocorticoid signaling",
+      "link": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00187-7?rss=yes",
+      "journal": "Cell Metabolism",
+      "category": "Original Article",
+      "authors": "Flavia Lambertucci, Frederic Castinetti, Isabelle Martins, Carlos López-Otín, Guido Kroemer",
+      "summary": "Glucocorticoids regulate stress responses, metabolism, and inflammation, and chronic exposure promotes processes resembling accelerated aging through impaired autophagy, mitochondrial function, and cellular homeostasis. Kroemer and colleagues review how persistent GC signaling drives age-related diseases, examine the…",
+      "date": "2026-05-28T00:00:00Z",
+      "date_display": "28 May 2026"
+    },
+    {
+      "id": "09962ee02c",
+      "title": "Hyocholic acids shape neonatal immune tolerance and microbiota assembly",
+      "link": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00154-3?rss=yes",
+      "journal": "Cell Metabolism",
+      "category": "Original Article",
+      "authors": "Xiaojiao Zheng, Jieyi Wang, Yimin Sun, Huiheng Zhang, Yajun Tang, Junliang Kuang, Fuxin Jiao, Chuhui Zhou, Mengyu Xia, Jiaqin Ren, Yu Cai, Changliang Yao, Aihua Zhao, Chun Qu, Lu…",
+      "summary": "Human neonates harbor abundant hyocholic acids (HCAs), synthesized by fetal hepatic CYP3A7 as unique primary bile acids distinct from classic CA and CDCA. Acting as a transient intestinal immune buffer, HCAs promote Treg cells and suppress Th17 cells, facilitating homeostatic microbiome colonization and protecting…",
+      "date": "2026-05-20T00:00:00Z",
+      "date_display": "20 May 2026"
     }
   ]
 }
