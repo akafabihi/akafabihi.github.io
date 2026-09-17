@@ -1,6 +1,28 @@
 {
-  "updated": "2026-09-16T10:24:25Z",
+  "updated": "2026-09-17T10:34:11Z",
   "papers": [
+    {
+      "id": "768cc5aaec",
+      "title": "Spatiotemporal single-cell profiling reveals T cell clonal dynamics and phenotypic plasticity in human graft-versus-host disease",
+      "link": "https://www.nature.com/articles/s41590-026-02631-2",
+      "journal": "Nature Immunology",
+      "category": "Original Article",
+      "authors": "Lingting Shi, Ajna Uzuni, Ximi K. Wang, Michael Pressler, David W. Harle, Shami Chakrabarti, Rodney Macedo, Kirubel Belay, Christian A. Gordillo, Thomas McMahon-Skates, Erik Raps…",
+      "summary": "Nature Immunology, Published online: 17 September 2026; doi:10.1038/s41590-026-02631-2 Shi et al. use a spatiotemporal framework to profile alloreactive T cells in humans undergoing hematopoietic cell transplantation and demonstrate how severe graft‑versus‑host disease is driven by tissue-resident memory programs that…",
+      "date": "2026-09-17T00:00:00Z",
+      "date_display": "17 Sep 2026"
+    },
+    {
+      "id": "61e1be16ea",
+      "title": "Effects of time-restricted eating in early-stage Huntington’s disease: a pilot study",
+      "link": "https://www.nature.com/articles/s42255-026-01612-x",
+      "journal": "Nature Metabolism",
+      "category": "Original Article",
+      "authors": "Russell G. Wells, Lee E. Neilson, Andrew W. McHill, Nora E. Gray, Joseph F. Quinn, Amie L. Hiller",
+      "summary": "Nature Metabolism, Published online: 17 September 2026; doi:10.1038/s42255-026-01612-x A 12-week pilot study suggests that time-restricted eating is well tolerated and associated with favourable clinical outcomes in individuals with early-stage Huntington’s disease.",
+      "date": "2026-09-17T00:00:00Z",
+      "date_display": "17 Sep 2026"
+    },
     {
       "id": "b7f14a3b9a",
       "title": "Local antibody-driven response to anti-PD-1 blockade",
@@ -9,6 +31,39 @@
       "category": "Original Article",
       "authors": "Heathcliff Dorado García",
       "summary": "Nature Cancer, Published online: 16 September 2026; doi:10.1038/s43018-026-01246-8 Local antibody-driven response to anti-PD-1 blockade",
+      "date": "2026-09-16T00:00:00Z",
+      "date_display": "16 Sep 2026"
+    },
+    {
+      "id": "1e9785e205",
+      "title": "Author Correction: The transcription factor TCF-1 initiates the differentiation of T FH cells during acute viral infection",
+      "link": "https://www.nature.com/articles/s41590-026-02681-6",
+      "journal": "Nature Immunology",
+      "category": "Original Article",
+      "authors": "Lifan Xu, Yi Cao, Zhunyi Xie, Qizhao Huang, Qiang Bai, Xia Yang, Ran He, Yaxing Hao, Haoqiang Wang, Tingting Zhao, Zhonglei Fan, Aijian Qin, Jianqiang Ye, Xinyuan Zhou, Lilin Ye…",
+      "summary": "Nature Immunology, Published online: 16 September 2026; doi:10.1038/s41590-026-02681-6 Author Correction: The transcription factor TCF-1 initiates the differentiation of T FH cells during acute viral infection",
+      "date": "2026-09-16T00:00:00Z",
+      "date_display": "16 Sep 2026"
+    },
+    {
+      "id": "95e91ed102",
+      "title": "Dan Kastner (1951–2026)",
+      "link": "https://www.nature.com/articles/s41590-026-02667-4",
+      "journal": "Nature Immunology",
+      "category": "Original Article",
+      "authors": "Seth L. Masters",
+      "summary": "Nature Immunology, Published online: 16 September 2026; doi:10.1038/s41590-026-02667-4 Dan Kastner (1951–2026)",
+      "date": "2026-09-16T00:00:00Z",
+      "date_display": "16 Sep 2026"
+    },
+    {
+      "id": "88554240ad",
+      "title": "A Phase Ib/II Study of Atezolizumab in Combination with Thiopurine Therapy in Patients with Metastatic Solid Tumors and Intermediate Tumor Mutational Burden",
+      "link": "https://aacrjournals.org/cancerrescommun/article/6/9/2177/788355/A-Phase-Ib-II-Study-of-Atezolizumab-in-Combination",
+      "journal": "Cancer Research",
+      "category": "Original Article",
+      "authors": "Christine Federspiel Secher, Martin Højgaard, Iben Spanggaard, Ane Yde Schmidt, Yuliu Guo, Luca Robinson, Daniela De Zio, Linea N. Toksvang, Frederik Otzen Bagger, Kjeld…",
+      "summary": "Abstract Purpose: The Thiopurine Enhanced Mutations for PD-1/Ligand-1 Efficacy (TEMPLE) study was a phase Ib/II trial evaluating the safety, tolerability, and efficacy of atezolizumab combined with thiopurine therapy in patients with metastatic solid tumors, aiming to increase tumor mutational burden (TMB) through…",
       "date": "2026-09-16T00:00:00Z",
       "date_display": "16 Sep 2026"
     },
@@ -31,6 +86,72 @@
       "category": "Original Article",
       "authors": "Julieta Afonso",
       "summary": "Nature Cancer, Published online: 15 September 2026; doi:10.1038/s43018-026-01245-9 Engineering botulinum neurotoxin into anti-cancer agents",
+      "date": "2026-09-15T00:00:00Z",
+      "date_display": "15 Sep 2026"
+    },
+    {
+      "id": "9ab4a29f9f",
+      "title": "Author Correction: Asparagine deprivation enhances T cell antitumour response in patients via ROS-mediated metabolic and signal adaptations",
+      "link": "https://www.nature.com/articles/s42255-026-01633-6",
+      "journal": "Nature Metabolism",
+      "category": "Original Article",
+      "authors": "Hsuan-Chia Chang, Chung-Ying Tsai, Cheng-Lung Hsu, Tzong-Shyuan Tai, Mei-Ling Cheng, Yu-Ming Chuang, Hsiang-Yu Tang, Kun-Ju Lin, Jia-Jin Chen, Szu-Han Chang, Yi-Ching Ko, Yu-Wen…",
+      "summary": "Nature Metabolism, Published online: 15 September 2026; doi:10.1038/s42255-026-01633-6 Author Correction: Asparagine deprivation enhances T cell antitumour response in patients via ROS-mediated metabolic and signal adaptations",
+      "date": "2026-09-15T00:00:00Z",
+      "date_display": "15 Sep 2026"
+    },
+    {
+      "id": "0ec0b9bf86",
+      "title": "Author Correction: A glucose-like metabolite deficient in diabetes inhibits cellular entry of SARS-CoV-2",
+      "link": "https://www.nature.com/articles/s42255-026-01634-5",
+      "journal": "Nature Metabolism",
+      "category": "Original Article",
+      "authors": "Liangqin Tong, Xiaoping Xiao, Min Li, Shisong Fang, Enhao Ma, Xi Yu, Yibin Zhu, Chunli Wu, Deyu Tian, Fan Yang, Jing Sun, Jing Qu, Nianzhen Zheng, Shumin Liao, Wanbo Tai…",
+      "summary": "Nature Metabolism, Published online: 15 September 2026; doi:10.1038/s42255-026-01634-5 Author Correction: A glucose-like metabolite deficient in diabetes inhibits cellular entry of SARS-CoV-2",
+      "date": "2026-09-15T00:00:00Z",
+      "date_display": "15 Sep 2026"
+    },
+    {
+      "id": "cdcb739ed6",
+      "title": "The high price of ‘free’ cysteine",
+      "link": "https://www.nature.com/articles/s42255-026-01620-x",
+      "journal": "Nature Metabolism",
+      "category": "Original Article",
+      "authors": "Megan Cheah, Jessalyn M. Ubellacker",
+      "summary": "Nature Metabolism, Published online: 15 September 2026; doi:10.1038/s42255-026-01620-x Cells depend on cysteine, but excess free cysteine comes at a price. Nakamura et al. show that excess cysteine disrupts mitochondrial iron homeostasis, which drives a distinct iron-dependent cell death, revealing why cells rapidly…",
+      "date": "2026-09-15T00:00:00Z",
+      "date_display": "15 Sep 2026"
+    },
+    {
+      "id": "9e33afb80e",
+      "title": "Author Correction: Human gut microbial aromatic amino acid and related metabolites prevent obesity through intestinal immune control",
+      "link": "https://www.nature.com/articles/s42255-026-01632-7",
+      "journal": "Nature Metabolism",
+      "category": "Original Article",
+      "authors": "Zengliang Jiang, Liuqing He, Diyin Li, Laibao Zhuo, Lingjun Chen, Rui-Qi Shi, Jianhua Luo, Yuhui Feng, Yuhui Liang, Danyang Li, Xiao Congmei, Yuanqing Fu, Yu-ming Chen, Ju-Sheng…",
+      "summary": "Nature Metabolism, Published online: 15 September 2026; doi:10.1038/s42255-026-01632-7 Author Correction: Human gut microbial aromatic amino acid and related metabolites prevent obesity through intestinal immune control",
+      "date": "2026-09-15T00:00:00Z",
+      "date_display": "15 Sep 2026"
+    },
+    {
+      "id": "b3dfab284b",
+      "title": "Cagrilintide and retatrutide combination therapy enhances weight loss and metabolic outcomes in obese male rats",
+      "link": "https://www.nature.com/articles/s42255-026-01603-y",
+      "journal": "Nature Metabolism",
+      "category": "Original Article",
+      "authors": "Jonas Petersen, Christoffer Merrild, Stephanie Kjærulff Holm, Nigel Kurgan, Shad Hassan, Cecilie Vad Mathiesen, Stina Börchers, Charlotte Svendsen, Sergio D’Anna, Nicoline R…",
+      "summary": "Nature Metabolism, Published online: 15 September 2026; doi:10.1038/s42255-026-01603-y Combination therapy with retatrutide and cagrilintide lowers body weight and improves markers of metabolic health in obese, male rats more efficiently than equimolar monotherapies and matched-dose combinations incorporating…",
+      "date": "2026-09-15T00:00:00Z",
+      "date_display": "15 Sep 2026"
+    },
+    {
+      "id": "902fbd01ec",
+      "title": "Cysteine excess triggers a mitochondrial iron-dependent cell death",
+      "link": "https://www.nature.com/articles/s42255-026-01616-7",
+      "journal": "Nature Metabolism",
+      "category": "Original Article",
+      "authors": "Toshitaka Nakamura, Ayaka Inoki, Nupur K. Das, Brandon Chen, Artem Khan, Yuyang Liu, Beste Uygur, Frederick S. Yen, Gokhan Unlu, Yatrik M. Shah, Kıvanç Birsoy",
+      "summary": "Nature Metabolism, Published online: 15 September 2026; doi:10.1038/s42255-026-01616-7 Using a genome-wide CRISPR screen, the authors demonstrate that excess cysteine drives mitochondrial iron accumulation and iron–sulfur cluster failure, triggering a distinct iron-dependent cell death pathway.",
       "date": "2026-09-15T00:00:00Z",
       "date_display": "15 Sep 2026"
     },
@@ -156,6 +277,28 @@
       "date_display": "11 Sep 2026"
     },
     {
+      "id": "e37b4e7cd8",
+      "title": "ANKRD11 deficiency reprograms CD8 + T cell differentiation to enhance immunity in chronic infection and cancer",
+      "link": "https://www.nature.com/articles/s41590-026-02652-x",
+      "journal": "Nature Immunology",
+      "category": "Original Article",
+      "authors": "Wei Xu, Jie Guo, Xue Cao, Liping Li, Pei Xiao, Xinchao Zhang, Qiuzhu Jin, Fuping Zhang, Baidong Hou, Minghui Li, Xuyu Zhou",
+      "summary": "Nature Immunology, Published online: 11 September 2026; doi:10.1038/s41590-026-02652-x CD8+ T cell dysfunction is a major obstacle to hepatitis B virus (HBV) clearance and antitumor immunity. Zhou and colleagues identify a T cell receptor targeting a clinically relevant HBV epitope and reveal ANKRD11 as a key…",
+      "date": "2026-09-11T00:00:00Z",
+      "date_display": "11 Sep 2026"
+    },
+    {
+      "id": "fe89ffcfd5",
+      "title": "Childhood proteomic signatures that predict adult cardiometabolic disease",
+      "link": "https://www.nature.com/articles/s42255-026-01588-8",
+      "journal": "Nature Metabolism",
+      "category": "Original Article",
+      "authors": "",
+      "summary": "Nature Metabolism, Published online: 11 September 2026; doi:10.1038/s42255-026-01588-8 Early signs of cardiovascular–kidney–metabolic disease (CKMD) emerge before 20 years of age, but methods to identify CKMD risk in children are limited. We identified a proteomic and phenotypic signature of CKMD in children that is…",
+      "date": "2026-09-11T00:00:00Z",
+      "date_display": "11 Sep 2026"
+    },
+    {
       "id": "a4710574d8",
       "title": "Ribonucleotide Reductase Inhibition Triggers Ferroptosis in Genetically Defined Subsets of Non–Small Cell Lung Cancer",
       "link": "https://aacrjournals.org/cancerrescommun/article/6/9/2136/788028/Ribonucleotide-Reductase-Inhibition-Triggers",
@@ -178,6 +321,28 @@
       "date_display": "11 Sep 2026"
     },
     {
+      "id": "b3b79d9bbd",
+      "title": "Author Correction: A novel CAF population coordinates hyper-suppressive regulatory T cell recruitment and localization in lung cancer",
+      "link": "https://www.nature.com/articles/s41590-026-02680-7",
+      "journal": "Nature Immunology",
+      "category": "Original Article",
+      "authors": "Olivia R. Ringham, Monica Rivera, Lucas F. Loffredo, Melih Arda Ozsoy, Christina M. Healy, Maye F. Cheng, Yinuo Jin, Noah Chen, Kenia de los Santos-Alexis, Elham Azizi, Anjali…",
+      "summary": "Nature Immunology, Published online: 10 September 2026; doi:10.1038/s41590-026-02680-7 Author Correction: A novel CAF population coordinates hyper-suppressive regulatory T cell recruitment and localization in lung cancer",
+      "date": "2026-09-10T00:00:00Z",
+      "date_display": "10 Sep 2026"
+    },
+    {
+      "id": "3fc58450c2",
+      "title": "Dendritic cells sense microbial adhesion to launch innate immunity",
+      "link": "https://www.nature.com/articles/s41590-026-02670-9",
+      "journal": "Nature Immunology",
+      "category": "Original Article",
+      "authors": "",
+      "summary": "Nature Immunology, Published online: 10 September 2026; doi:10.1038/s41590-026-02670-9 In a mouse skin infection model, microbial adhesion to CD11c+ myeloid cells activates PIEZO1 and an LTB4–IL-1α–CXCL1 cascade that recruits neutrophils before Toll-like receptor signaling becomes dominant. These findings identify a…",
+      "date": "2026-09-10T00:00:00Z",
+      "date_display": "10 Sep 2026"
+    },
+    {
       "id": "d90aabd264",
       "title": "Community-Based Hereditary Breast and Ovarian Cancer Family History Assessment and Genetic Testing among Spanish-Speaking Hispanic/Latina Women in California",
       "link": "https://aacrjournals.org/cancerrescommun/article/6/9/2126/787928/Community-Based-Hereditary-Breast-and-Ovarian",
@@ -196,6 +361,28 @@
       "category": "Original Article",
       "authors": "Ping Lai, Lei Liu, Nicolò Pernigoni, Yingxi Du, Daniele Braga, Martina Troiani, Giuseppe Attanasio, Yuxin Li, Pan Song, Emiliano Pasquini, Tanja Rezzonico Jost, Xiaowen Huang…",
       "summary": "Nature Cancer, Published online: 09 September 2026; doi:10.1038/s43018-026-01229-9 Lai et al. show that Nakaseomyces glabratus is enriched in fecal and tumor samples of patients with castration-resistant prostate cancer and that administration of the fungus accelerates cancer progression in prostate cancer-bearing…",
+      "date": "2026-09-09T00:00:00Z",
+      "date_display": "9 Sep 2026"
+    },
+    {
+      "id": "0ce03f3c3e",
+      "title": "CD8 + T cells kill tumors by proxy",
+      "link": "https://www.nature.com/articles/s41590-026-02664-7",
+      "journal": "Nature Immunology",
+      "category": "Original Article",
+      "authors": "",
+      "summary": "Nature Immunology, Published online: 09 September 2026; doi:10.1038/s41590-026-02664-7 We found that antiviral CD8+ T cells can deputize the local innate immune system to destroy tumors. Thus, CD8+ T cells can kill by proxy, which has ramifications for cancer treatment and general mechanisms of CD8+ T cell function.",
+      "date": "2026-09-09T00:00:00Z",
+      "date_display": "9 Sep 2026"
+    },
+    {
+      "id": "90a389f535",
+      "title": "The overlooked plasticity of monocytes in uterine homeostasis",
+      "link": "https://www.nature.com/articles/s41590-026-02658-5",
+      "journal": "Nature Immunology",
+      "category": "Original Article",
+      "authors": "",
+      "summary": "Nature Immunology, Published online: 09 September 2026; doi:10.1038/s41590-026-02658-5 Myeloid cell immunophenotyping in women and functional studies in mice indicated that monocytes contribute to both inflammation and tissue remodeling in the uterus and dynamically regulate tissue homeostasis throughout the…",
       "date": "2026-09-09T00:00:00Z",
       "date_display": "9 Sep 2026"
     },
@@ -1133,193 +1320,6 @@
       "summary": "(Cell Metabolism 36, 193–208.e1–e8; January 2, 2024)",
       "date": "2026-07-24T00:00:00Z",
       "date_display": "24 Jul 2026"
-    },
-    {
-      "id": "6886fce50d",
-      "title": "Circadian Clock Interaction with HIF1α Mediates Oxygenic Metabolism and Anaerobic Glycolysis in Skeletal Muscle",
-      "link": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00290-1?rss=yes",
-      "journal": "Cell Metabolism",
-      "category": "Original Article",
-      "authors": "Clara Bien Peek, Daniel C. Levine, Jonathan Cedernaes, Akihiko Taguchi, Yumiko Kobayashi, Stacy J. Tsai, Nicolle A. Bonar, Maureen R. McNulty, Kathryn Moynihan Ramsey, Joseph Bass",
-      "summary": "(Cell Metabolism 25, 86–92; January 10, 2017)",
-      "date": "2026-07-24T00:00:00Z",
-      "date_display": "24 Jul 2026"
-    },
-    {
-      "id": "a96cbdf2ef",
-      "title": "Competitive catabolism drives hyperglycemia and hyperinsulinemia in obesity",
-      "link": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00274-3?rss=yes",
-      "journal": "Cell Metabolism",
-      "category": "Original Article",
-      "authors": "Daniel R. Weilandt, Won Dong Lee, Michael R. MacArthur, Lingfan Liang, Corey D. Holman, Qingwei Chu, Alexis J. Cowan, Joseph A. Baur, Ned S. Wingreen, Joshua D. Rabinowitz",
-      "summary": "The mechanisms coordinating the homeostasis of glucose, lactate, fatty acids, and ketones remain unknown. Through quantitative modeling and experiments, Weilandt et al. reveal that these nutrients compete to be oxidized to meet systemic energy demands. Competitive catabolism normally produces homeostasis but, in…",
-      "date": "2026-07-21T00:00:00Z",
-      "date_display": "21 Jul 2026"
-    },
-    {
-      "id": "a972bff060",
-      "title": "Maternal vitamin B12 deprivation exacerbates offspring obesity by reducing early-life colonization with Bifidobacterium pseudolongum",
-      "link": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00248-2?rss=yes",
-      "journal": "Cell Metabolism",
-      "category": "Original Article",
-      "authors": "Zhaoyi Liu, Xiuwen Yang, Huaili Feng, Ting You, Fanwei Sun, Jianjiang Xue, Weijuan Liang, Jinwen Yao, Yi Liao, Yanan Gao, Yuanjun Yang, Xuejun Jiang, Qiang Zhang, Zhen Zou, Jun…",
-      "summary": "Liu et al. reveal that maternal vitamin B12 deprivation drives offspring obesity by reducing early-life B. pseudolongum acquisition, and restoring the bacterium or acetate reverses this phenotype via the Ffar2-Ehhadh axis.",
-      "date": "2026-07-21T00:00:00Z",
-      "date_display": "21 Jul 2026"
-    },
-    {
-      "id": "fc568d7b92",
-      "title": "Autophagy maintains high endothelial venule identity and function during inflammation",
-      "link": "https://www.cell.com/immunity/fulltext/S1074-7613(26)00271-2?rss=yes",
-      "journal": "Immunity",
-      "category": "Original Article",
-      "authors": "Kathryn A. Jacobs, Yichao Hua, Apostolos Panagiotis Nikolakopoulos, Swati Gupta, Gerlanda Vella, Ana Filipa Domingues Laranjeiro, Julie Bonnereau, Mélanie Guyot, Maria Livia…",
-      "summary": "High endothelial venules (HEVs) facilitate lymphocyte entry into lymph nodes by displaying peripheral node addressin (PNAd), yet how PNAd is regulated remains poorly understood. Jacobs et al. reveal that autophagy preserves HEV identity and function by sustaining PNAd production. Loss of autophagy impairs lymphocyte…",
-      "date": "2026-07-17T00:00:00Z",
-      "date_display": "17 Jul 2026"
-    },
-    {
-      "id": "7984d630ed",
-      "title": "The transcription factor BACH1 couples chromatin priming and repression to enable macrophage plasticity and adaptation",
-      "link": "https://www.cell.com/immunity/fulltext/S1074-7613(26)00273-6?rss=yes",
-      "journal": "Immunity",
-      "category": "Original Article",
-      "authors": "Petros Tzerpos, Dóra Bojcsuk, Krisztian Bene, Noemí Caballero-Sánchez, Zofia Parteka-Tojek, Krzysztof Banecki, Sevastianos Korsak, Sarah M. Pritchett, Andreas Patsalos, Darby…",
-      "summary": "Macrophage plasticity and function involve precise regulation of transcriptional programs. Tzerpos et al. find that the transcription factor BACH1 establishes early chromatin accessibility while maintaining transcriptionally repressive states in naive macrophages before activation. This dual activity—termed pioneer…",
-      "date": "2026-07-17T00:00:00Z",
-      "date_display": "17 Jul 2026"
-    },
-    {
-      "id": "2e0b33c13f",
-      "title": "FGF21 synergizes with leptin to counteract obesity-related metabolic comorbidities by reversing hepatic leptin resistance",
-      "link": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00247-0?rss=yes",
-      "journal": "Cell Metabolism",
-      "category": "Original Article",
-      "authors": "Qing Shen, Hailan Zou, Leigang Jin, Jiaxin Liu, Shixiang Wang, Na Li, Runhong Zhou, Ming Yue, Baile Wang, Ranyao Yang, Erfei Song, Yifen Lin, Songyan Liao, Zhiwei Chen, Yang Xiao…",
-      "summary": "Obesity-induced leptin resistance is a major challenge for clinical management and drug development. This study finds that FGF21 synergizes with leptin in counteracting obesity-related metabolic multimorbidity by enhancing leptin sensitivity in hepatocytes via adiponectin-induced expression of leptin receptors.",
-      "date": "2026-07-16T00:00:00Z",
-      "date_display": "16 Jul 2026"
-    },
-    {
-      "id": "65ac157b8d",
-      "title": "Activation of the auricular vagus nerve reflex suppresses airway inflammation",
-      "link": "https://www.cell.com/immunity/fulltext/S1074-7613(26)00256-6?rss=yes",
-      "journal": "Immunity",
-      "category": "Original Article",
-      "authors": "Rintaro Shibuya, Nobuya Abe, Keaton Song, Nathan D. Rossen, Masato Tamari, Zhen Wang, Zili Xie, Yuki Abe, Hisato Iriki, Ayana Iijima, Lydia Zamidar, Xu Li, Xia Meng, Andras…",
-      "summary": "Bioelectronic technologies are being deployed to treat many inflammatory conditions using transcutaneous auricular nerve stimulation. Shibuya et al. employ viral tracing, chemogenetics, and optogenetics to unveil a sensory skin-lung vagal reflex that suppresses allergic airway inflammation. They identify the…",
-      "date": "2026-07-15T00:00:00Z",
-      "date_display": "15 Jul 2026"
-    },
-    {
-      "id": "f4605d6006",
-      "title": "Antigen-restricted Candida albicans Th17 cells link oral-gut immunity and adopt pathogenic features during intestinal inflammation",
-      "link": "https://www.cell.com/immunity/fulltext/S1074-7613(26)00264-5?rss=yes",
-      "journal": "Immunity",
-      "category": "Original Article",
-      "authors": "Gabriela Rios Martini, Philipp Hofmann, Ann-Kristin Kamps, Amos Weichberger, Ekaterina Tikhonova, Aidan Conroy, Xiangyu Pan, Diana Milagros Namuch, Laura Rathjens, Arne Bergfeld…",
-      "summary": "Martini, Hofmann, et al. identify C. albicans-specific Th17 cells targeting fungal EV proteins that predominantly reside in the human oral mucosa at homeostasis. However, these oral-residing cells exhibit TCR overlap with gut Th17 cells. During intestinal inflammation, C. albicans-specific Th17 cells retain their…",
-      "date": "2026-07-14T00:00:00Z",
-      "date_display": "14 Jul 2026"
-    },
-    {
-      "id": "6c7ce6659b",
-      "title": "Brown fat protects against hepatic oxidative stress by remodeling the circulating metabolome",
-      "link": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00246-9?rss=yes",
-      "journal": "Cell Metabolism",
-      "category": "Original Article",
-      "authors": "Dandan Wang, Mark Li, Tian Lu, Mami Matsushita, Juro Sakai, Masayuki Saito, Takeshi Yoneshiro, Shingo Kajimura",
-      "summary": "Brown fat controls metabolic health beyond thermogenesis, yet how it communicates with other organs through circulating metabolites remains poorly understood. Wang et al. systematically map brown-fat-associated circulating metabolites and identify a cold-inducible metabolite, 3-hydroxystearic acid, as a…",
-      "date": "2026-07-14T00:00:00Z",
-      "date_display": "14 Jul 2026"
-    },
-    {
-      "id": "260ea694f5",
-      "title": "Flavin adenine dinucleotide is an endogenous suppressor for cytosolic DNA and RNA sensors to modulate innate immunity",
-      "link": "https://www.cell.com/immunity/fulltext/S1074-7613(26)00261-X?rss=yes",
-      "journal": "Immunity",
-      "category": "Original Article",
-      "authors": "Yao Wang, Yanyan Shen, Jiayu Liu, Qi Qi, Yue Guo, Yunying Wang, Boyang Xie, Chunyan Yan, Yanhong Liu, Zhi Jin, Ruibo Wang, Aiping Cao, Juncheng Li, Zengqing Song, Jing Chen…",
-      "summary": "Precise control of cytosolic nucleic acid sensing is essential for immune homeostasis, yet endogenous metabolites that regulate both DNA and RNA sensing remain unidentified. Wang et al. identify FAD as a natural brake restraining both DNA- and RNA-triggered innate immunity. FAD deficiency aggravates autoinflammation…",
-      "date": "2026-07-13T00:00:00Z",
-      "date_display": "13 Jul 2026"
-    },
-    {
-      "id": "e87aaf9960",
-      "title": "Primed to squeeze: mechanical memory in confined migration",
-      "link": "https://www.cell.com/trends/cell-biology/fulltext/S0962-8924(26)00129-7?rss=yes",
-      "journal": "Trends in Cell Biology",
-      "category": "Review Article",
-      "authors": "Marine Luciano, Sylvain Gabriele",
-      "summary": "Do cells remember past mechanical experiences to prepare for future physical challenges? Holle et al. demonstrate that stiffness priming enhances confined migration through NFATC2-dependent programs. Beyond this specific mechanism, their work supports the emerging concept of mechanical memory as a hierarchy of…",
-      "date": "2026-07-10T00:00:00Z",
-      "date_display": "10 Jul 2026"
-    },
-    {
-      "id": "8817fe7839",
-      "title": "The octameric shift in plant immune signaling",
-      "link": "https://www.cell.com/trends/cell-biology/fulltext/S0962-8924(26)00128-5?rss=yes",
-      "journal": "Trends in Cell Biology",
-      "category": "Review Article",
-      "authors": "Tofazzal Islam",
-      "summary": "Nucleotide-binding leucine-rich repeat (NLR) receptors are ubiquitous intracellular sensors. Guo et al. recently revealed that the wheat CCG10-NLR, Wheat Autoimmunity 3, forms a previously undescribed plant octameric resistosome to mediate cell death and immunity. This discovery uncovers a distinct configuration…",
-      "date": "2026-07-09T00:00:00Z",
-      "date_display": "9 Jul 2026"
-    },
-    {
-      "id": "2d5463308b",
-      "title": "Transcription factor BHLHE40 expression in group 3 innate lymphoid cells and RORγt⁺ antigen-presenting cells coordinates intestinal immunity",
-      "link": "https://www.cell.com/immunity/fulltext/S1074-7613(26)00258-X?rss=yes",
-      "journal": "Immunity",
-      "category": "Original Article",
-      "authors": "Wei Yang, Silvia Pires, Emre Cardakli, Manabu Nagayama, Chloe Scott, Nancy Tran, Seun Oguntunmibi, Tara R. Bradstreet, Ashlee M. Webber, Maider Astorkia, Doron Betel, Gretchen…",
-      "summary": "The ability to maintain tolerance at mucosal barrier surfaces is critical for immune homeostasis. Yang et al. identify Bhlhe40 as a central regulator linking innate and adaptive intestinal immunity. By coordinating ILC3 effector responses with RORγt⁺ antigen-presenting cells, Bhlhe40 integrates inflammatory and…",
-      "date": "2026-07-07T00:00:00Z",
-      "date_display": "7 Jul 2026"
-    },
-    {
-      "id": "931905676b",
-      "title": "IL-33 scripts cancer immunity",
-      "link": "https://www.cell.com/trends/immunology/fulltext/S1471-4906(26)00162-6?rss=yes",
-      "journal": "Trends in Immunology",
-      "category": "Review Article",
-      "authors": "Marek Wagner",
-      "summary": "Interleukin-33 (IL-33) is classically viewed as an alarmin, but in cancer, it may do more than merely initiate immunity. I propose that IL-33 scripts the trajectory of immunity through interconnected regulatory layers that influence how host responses are organized and ultimately resolved into either productive…",
-      "date": "2026-07-02T00:00:00Z",
-      "date_display": "2 Jul 2026"
-    },
-    {
-      "id": "38d4aabcce",
-      "title": "Gut microbiota-derived lysine phenylacetylation impairs mitochondrial function and is alleviated by SIRT3",
-      "link": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00226-3?rss=yes",
-      "journal": "Cell Metabolism",
-      "category": "Original Article",
-      "authors": "Wei Du, Jun-Yu Xu, Yufeng Li, Mingya Zhang, Yidan Huang, Shaoqian Zhao, Ying Zhou, Lei Zhao, Kexin Xu, Linhui Zhai, Wensi Zhao, Jia Liu, Jiahui Ni, Junxiao Dai, Tianxian Liu, Jie…",
-      "summary": "Du et al. reported a novel gut microbe-derived lysine phenylacetylation (Kpaa) originating from dietary phenylalanine. This modification, which is regulated by SIRT3, disrupts mitochondrial function and impairs insulin signaling. Mechanistically, HSP60 phenylacetylation damages the mitochondrial unfolded protein…",
-      "date": "2026-06-24T00:00:00Z",
-      "date_display": "24 Jun 2026"
-    },
-    {
-      "id": "4c5adbc6a0",
-      "title": "Multicellular ecosystems: Linking cellular diversity to tissue function and disease",
-      "link": "https://www.cell.com/trends/cell-biology/fulltext/S0962-8924(26)00104-2?rss=yes",
-      "journal": "Trends in Cell Biology",
-      "category": "Review Article",
-      "authors": "Qiang Shi, Fei Tang, Yihan Chen, Zemin Zhang",
-      "summary": "Tissue function emerges from coordinated interactions among diverse cell populations, whereas disruption of these interactions can lead to dysfunction. Recent advances in single-cell and spatial genomics have not only cataloged cellular diversity but also revealed how tissues are organized as dynamic multicellular…",
-      "date": "2026-06-24T00:00:00Z",
-      "date_display": "24 Jun 2026"
-    },
-    {
-      "id": "1567f03752",
-      "title": "The value of a shared lab: Our insights",
-      "link": "https://www.cell.com/trends/cell-biology/fulltext/S0962-8924(26)00099-1?rss=yes",
-      "journal": "Trends in Cell Biology",
-      "category": "Review Article",
-      "authors": "Benedetta Artegiani, Delilah Hendriks",
-      "summary": "Tackling scientific questions benefits from different points of view. Coleading a lab by two scientists may stimulate scientific discussion while also providing a different form of mentorship. Here, we share our experience in running a joint lab and discuss how this form of dual leadership contributes to collaborative…",
-      "date": "2026-06-18T00:00:00Z",
-      "date_display": "18 Jun 2026"
     }
   ]
 }
