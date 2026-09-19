@@ -1,6 +1,94 @@
 {
-  "updated": "2026-09-18T10:10:27Z",
+  "updated": "2026-09-19T09:51:29Z",
   "papers": [
+    {
+      "id": "572a9cc444",
+      "title": "In vivo CRISPR screens identify the glutamine transporter SLC1A5 as a metabolic barrier to antitumor immunity",
+      "link": "https://www.science.org/doi/abs/10.1126/sciimmunol.aea4179?af=R",
+      "journal": "Science Immunology",
+      "category": "Original Article",
+      "authors": "Wenlong Jia, Guanxing Yu, Shenqi Han, Zhibo Ma, Junnan Liang, Wei Yan, Xinling Zhang, Chenglong Zeng, Lin Xue, Feng Xia, Ganxun Li, Ran Tao, Peixiang Lan, Wei Yan, Wanguang Zhang…",
+      "summary": "Science Immunology, Volume 11, Issue 123, September 2026.",
+      "date": "2026-09-18T07:00:00Z",
+      "date_display": "18 Sep 2026"
+    },
+    {
+      "id": "03d6edee7c",
+      "title": "In vitro induction of human germinal center B cells",
+      "link": "https://www.science.org/doi/abs/10.1126/sciimmunol.aeg5223?af=R",
+      "journal": "Science Immunology",
+      "category": "Original Article",
+      "authors": "David G. Priest, Melike Fusun Demir, Wataru Ise, James B. Wing",
+      "summary": "Science Immunology, Volume 11, Issue 123, September 2026.",
+      "date": "2026-09-18T07:00:00Z",
+      "date_display": "18 Sep 2026"
+    },
+    {
+      "id": "e3e1a042db",
+      "title": "Erratum for the Review “Regulation of inflammation by oxidized lipids”",
+      "link": "https://www.science.org/doi/abs/10.1126/sciimmunol.aem1553?af=R",
+      "journal": "Science Immunology",
+      "category": "Original Article",
+      "authors": "",
+      "summary": "Science Immunology, Volume 11, Issue 123, September 2026.",
+      "date": "2026-09-18T07:00:00Z",
+      "date_display": "18 Sep 2026"
+    },
+    {
+      "id": "6ceb5939cc",
+      "title": "A universal visual foundation model for computational cytopathology",
+      "link": "https://www.nature.com/articles/s43018-026-01240-0",
+      "journal": "Nature Cancer",
+      "category": "Original Article",
+      "authors": "Xueyi Zheng, Ke Zheng, Jue Wang, Xinke Zhang, Kai Li, Zihan Zhao, Chaofeng Li, Haohua Chen, Ruixuan Wang, Junpeng Lai, Bing Chu, Sha Fu, Dan Xie, Muyan Cai",
+      "summary": "Nature Cancer, Published online: 18 September 2026; doi:10.1038/s43018-026-01240-0 Zheng, Zheng, Wang, Zhang et al. developed CROWN, a universal visual foundation model for cytopathology, which they benchmarked on more than 200 real-world cytology tasks across cohorts, including lymph node metastasis and cervical…",
+      "date": "2026-09-18T00:00:00Z",
+      "date_display": "18 Sep 2026"
+    },
+    {
+      "id": "e54bec978d",
+      "title": "mRNA methylation safeguards pancreatic α-cell identity against cellular plasticity",
+      "link": "https://www.nature.com/articles/s42255-026-01594-w",
+      "journal": "Nature Metabolism",
+      "category": "Original Article",
+      "authors": "",
+      "summary": "Nature Metabolism, Published online: 18 September 2026; doi:10.1038/s42255-026-01594-w The epitranscriptomic mRNA modification N6-methyladenosine (m6A) helps to maintain the functional identity of pancreatic α-cells. Deletion of the m6A writer METTL14 impairs amino acid-stimulated glucagon secretion, destabilizes the…",
+      "date": "2026-09-18T00:00:00Z",
+      "date_display": "18 Sep 2026"
+    },
+    {
+      "id": "56f9caf72f",
+      "title": "m 6 A mRNA methylation regulates pancreatic α-cell plasticity",
+      "link": "https://www.nature.com/articles/s42255-026-01591-z",
+      "journal": "Nature Metabolism",
+      "category": "Original Article",
+      "authors": "Dario F. De Jesus, Natalie K. Brown, Garrett Fogarty, Guilherme Gabriel, Shirong Wang, Shen Wang, Lenee Shrestha, Kristin Kendall, Lily Young, Jiang Hu, Jermaine Austin, Joan…",
+      "summary": "Nature Metabolism, Published online: 18 September 2026; doi:10.1038/s42255-026-01591-z m6A methylation acts as an epitranscriptomic regulator of endocrine cell identity in pancreatic islet alpha cells, with loss of m6A leading to impaired alpha cell identity, α- to β-cell conversion and metabolic rewiring of islet…",
+      "date": "2026-09-18T00:00:00Z",
+      "date_display": "18 Sep 2026"
+    },
+    {
+      "id": "db35fa7d39",
+      "title": "A Phase II Study of Berzosertib in Combination with Carboplatin Compared with Docetaxel with Carboplatin in Metastatic Castration-Resistant Prostate Cancer",
+      "link": "https://aacrjournals.org/cancerrescommun/article/6/9/2206/788359/A-Phase-II-Study-of-Berzosertib-in-Combination",
+      "journal": "Cancer Research",
+      "category": "Original Article",
+      "authors": "Atish Dipankar Choudhury, Wanling Xie, Mamta Parikh, Daniel Lee, Elizabeth R. Kessler, David Johnson Einstein, Bose Kochupurakkal, Kent William Mouw, Eliezer Mendel Van Allen, L…",
+      "summary": "Abstract Purpose: Inhibitors of the ataxia-telangiectasia and Rad3-related (ATR) protein kinase, a critical component of the DNA damage repair response, have synergistic anticancer activity with platinum compounds in preclinical models. We therefore conducted a phase II study of the ATR inhibitor berzosertib +…",
+      "date": "2026-09-18T00:00:00Z",
+      "date_display": "18 Sep 2026"
+    },
+    {
+      "id": "ca0352d847",
+      "title": "Plasticity of the infant immune system during the perinatal period",
+      "link": "https://www.nature.com/articles/s41577-026-01354-7",
+      "journal": "Nature Reviews Immunology",
+      "category": "Review Article",
+      "authors": "Katrin Kierdorf, Markus Sperandio, Mathias W. Hornef, Philipp Henneke",
+      "summary": "Nature Reviews Immunology, Published online: 18 September 2026; doi:10.1038/s41577-026-01354-7 Immune plasticity during the perinatal period enables mammalian offspring to successfully navigate the transition from prenatal, intrauterine life to postnatal, extrauterine life. This Review highlights recent advances in…",
+      "date": "2026-09-18T00:00:00Z",
+      "date_display": "18 Sep 2026"
+    },
     {
       "id": "768cc5aaec",
       "title": "Spatiotemporal single-cell profiling reveals T cell clonal dynamics and phenotypic plasticity in human graft-versus-host disease",
@@ -163,28 +251,6 @@
       "category": "Original Article",
       "authors": "Zengliang Jiang, Liuqing He, Diyin Li, Laibao Zhuo, Lingjun Chen, Rui-Qi Shi, Jianhua Luo, Yuhui Feng, Yuhui Liang, Danyang Li, Xiao Congmei, Yuanqing Fu, Yu-ming Chen, Ju-Sheng…",
       "summary": "Nature Metabolism, Published online: 15 September 2026; doi:10.1038/s42255-026-01632-7 Author Correction: Human gut microbial aromatic amino acid and related metabolites prevent obesity through intestinal immune control",
-      "date": "2026-09-15T00:00:00Z",
-      "date_display": "15 Sep 2026"
-    },
-    {
-      "id": "b3dfab284b",
-      "title": "Cagrilintide and retatrutide combination therapy enhances weight loss and metabolic outcomes in obese male rats",
-      "link": "https://www.nature.com/articles/s42255-026-01603-y",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "Jonas Petersen, Christoffer Merrild, Stephanie Kjærulff Holm, Nigel Kurgan, Shad Hassan, Cecilie Vad Mathiesen, Stina Börchers, Charlotte Svendsen, Sergio D’Anna, Nicoline R…",
-      "summary": "Nature Metabolism, Published online: 15 September 2026; doi:10.1038/s42255-026-01603-y Combination therapy with retatrutide and cagrilintide lowers body weight and improves markers of metabolic health in obese, male rats more efficiently than equimolar monotherapies and matched-dose combinations incorporating…",
-      "date": "2026-09-15T00:00:00Z",
-      "date_display": "15 Sep 2026"
-    },
-    {
-      "id": "902fbd01ec",
-      "title": "Cysteine excess triggers a mitochondrial iron-dependent cell death",
-      "link": "https://www.nature.com/articles/s42255-026-01616-7",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "Toshitaka Nakamura, Ayaka Inoki, Nupur K. Das, Brandon Chen, Artem Khan, Yuyang Liu, Beste Uygur, Frederick S. Yen, Gokhan Unlu, Yatrik M. Shah, Kıvanç Birsoy",
-      "summary": "Nature Metabolism, Published online: 15 September 2026; doi:10.1038/s42255-026-01616-7 Using a genome-wide CRISPR screen, the authors demonstrate that excess cysteine drives mitochondrial iron accumulation and iron–sulfur cluster failure, triggering a distinct iron-dependent cell death pathway.",
       "date": "2026-09-15T00:00:00Z",
       "date_display": "15 Sep 2026"
     },
@@ -546,7 +612,7 @@
       "link": "https://aacrjournals.org/cancerrescommun/article/6/9/2090/787843/Patient-Level-KRAS-G12C-Prevalence-among-Hispanic",
       "journal": "Cancer Research",
       "category": "Original Article",
-      "authors": "",
+      "authors": "Daniel F. Pilco-Janeta, Myriam De la Cruz-Puebla, Daisy R. Guamán-Pilco, Diego Montenegro, William Miranda",
       "summary": "Abstract KRAS G12C is a treatment-defining biomarker in non–small cell lung cancer (NSCLC), particularly lung adenocarcinoma. Hispanic/Latino (H/L) patients remain undercharacterized in precision oncology datasets, and patient-level KRAS G12C prevalence has not been consistently quantified using strict ethnicity…",
       "date": "2026-09-07T00:00:00Z",
       "date_display": "7 Sep 2026"
@@ -713,17 +779,6 @@
       "category": "Original Article",
       "authors": "",
       "summary": "Nature Cancer, Published online: 01 September 2026; doi:10.1038/s43018-026-01231-1 The addition of oral l-glutamine to first-line gemcitabine plus nab-paclitaxel appears safe and is associated with improved survival outcomes and tumor responses compared with historical benchmarks in untreated advanced pancreatic…",
-      "date": "2026-09-01T00:00:00Z",
-      "date_display": "1 Sep 2026"
-    },
-    {
-      "id": "f599eef8d8",
-      "title": "Publisher Correction: Adjuvant personalized multivalent neoantigen DNA vaccination for MGMT unmethylated glioblastoma: a phase 1 trial",
-      "link": "https://www.nature.com/articles/s43018-026-01243-x",
-      "journal": "Nature Cancer",
-      "category": "Original Article",
-      "authors": "Elizabeth A. R. Garfinkle, Renzo Perales-Linares, Ryan C. Gimple, Alexandra J. Livingstone, Kaleigh F. Roberts, Omar H. Butt, S. Peter Goedegebuure, Michael D. McLellan, Gue Su…",
-      "summary": "Nature Cancer, Published online: 01 September 2026; doi:10.1038/s43018-026-01243-x Publisher Correction: Adjuvant personalized multivalent neoantigen DNA vaccination for MGMT unmethylated glioblastoma: a phase 1 trial",
       "date": "2026-09-01T00:00:00Z",
       "date_display": "1 Sep 2026"
     },
@@ -1146,17 +1201,6 @@
       "date_display": "20 Aug 2026"
     },
     {
-      "id": "fdc7217130",
-      "title": "Living in the age of inflammation: the reverse hygiene hypothesis",
-      "link": "https://www.nature.com/articles/s41577-026-01349-4",
-      "journal": "Nature Reviews Immunology",
-      "category": "Review Article",
-      "authors": "Luke A. J. O’Neill",
-      "summary": "Nature Reviews Immunology, Published online: 19 August 2026; doi:10.1038/s41577-026-01349-4 Inflammation seems to permeate many aspects of our lives, with the incidence of inflammatory diseases on the rise and ageing being blamed on it. Will the next 25 years see better ways to treat or prevent inflammation and allow…",
-      "date": "2026-08-19T00:00:00Z",
-      "date_display": "19 Aug 2026"
-    },
-    {
       "id": "d3052d456e",
       "title": "CARM1: an epigenetic brake on cDC1-mediated antitumor immunity",
       "link": "https://www.cell.com/trends/immunology/fulltext/S1471-4906(26)00215-2?rss=yes",
@@ -1276,50 +1320,6 @@
       "summary": "Li et al. report results from a first-in-human study showing that SYS6010, an EGFR-targeted antibody-drug conjugate, demonstrates encouraging antitumor activity with a tolerable safety profile in pretreated advanced NSCLC, providing evidence that warrants further clinical development.",
       "date": "2026-08-13T00:00:00Z",
       "date_display": "13 Aug 2026"
-    },
-    {
-      "id": "ef5f83942b",
-      "title": "Beta2-adrenergic stimulation by fenoterol increases energy expenditure without activating human brown adipose tissue",
-      "link": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00285-8?rss=yes",
-      "journal": "Cell Metabolism",
-      "category": "Original Article",
-      "authors": "Laila Maria Füchtbauer, Jaël Rut Senn, Carole Stéphanie Baumann, Anninja Lea Isenrich, Taylah Lea Gaynor, Rahel Schläfli, Anand Kumar Sharma, Carla Horvath, Claudia Irene…",
-      "summary": "In the ongoing discussion as to which beta-adrenergic receptor is transmitting the activating signal in human brown adipose tissue (BAT), Füchtbauer et al. compared a selective beta2-adrenergic agonist to cold exposure, the natural stimulus for brown adipose tissue. Both interventions increased energy expenditure, but…",
-      "date": "2026-08-12T00:00:00Z",
-      "date_display": "12 Aug 2026"
-    },
-    {
-      "id": "46bed7d32a",
-      "title": "A single-cell multi-omic atlas of the human pancreas reveals potential for cellular plasticity across development, health, and disease",
-      "link": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00296-2?rss=yes",
-      "journal": "Cell Metabolism",
-      "category": "Original Article",
-      "authors": "Elisabetta Mereu, Diego Balboa, Johannes Liebig, Aitor Gonzalez-Herrero, Anna Martinez Casals, Mariya Mardamshina, Fanny Mollandin, Felix Schicktanz, Alexander Sudy, Luca Tosti…",
-      "summary": "Mereu et al. present ESPACE, a single-cell multi-omic atlas of the human pancreas spanning fetal development, adulthood, and type 2 diabetes. Combining transcriptomics, chromatin accessibility, and spatial imaging, they uncover a rare population of plastic centroacinar cells and hidden diversity among…",
-      "date": "2026-08-12T00:00:00Z",
-      "date_display": "12 Aug 2026"
-    },
-    {
-      "id": "95fb11f2fe",
-      "title": "Coordinated transcriptional networks program organelle expansion and metabolic flows for high endothelial morphology and function",
-      "link": "https://www.cell.com/immunity/fulltext/S1074-7613(26)00313-4?rss=yes",
-      "journal": "Immunity",
-      "category": "Original Article",
-      "authors": "Yuhan Bi, Kevin Brulois, Aiman Ayesha, Menglan Xiang, Romain Ballet, Borja Ocón, Theresa Dinh, Nicole Lazarus, Manali Kunte, Griselda Ramos, Florea Lupu, Jonathan H. Lin, Eugene…",
-      "summary": "High endothelial venules require specialized morphology and PNAd expression to support lymphocyte homing; however, the transcriptional mechanisms coordinating these defining features have remained unclear. Bi et al. identify XBP1-dependent and CREB3L2-associated adaptive ER programs that couple organelle expansion…",
-      "date": "2026-08-11T00:00:00Z",
-      "date_display": "11 Aug 2026"
-    },
-    {
-      "id": "6c1de7ccd3",
-      "title": "Latent tumor killers awakened",
-      "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00308-9?rss=yes",
-      "journal": "Cancer Cell",
-      "category": "Original Article",
-      "authors": "Haochen Yang, Chenqi Xu",
-      "summary": "In this issue of Cancer Cell, Kehl et al. construct a single-cell atlas of bone marrow T cells from patients with bone marrow-resident malignancies, identifying tumor-reactive populations existing in a state of latent competence. A 15-gene signature identifies this subset, which is expanded by immunotherapies and…",
-      "date": "2026-08-10T00:00:00Z",
-      "date_display": "10 Aug 2026"
     }
   ]
 }
