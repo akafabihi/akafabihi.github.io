@@ -1,6 +1,50 @@
 {
-  "updated": "2026-09-23T10:23:30Z",
+  "updated": "2026-09-24T10:39:48Z",
   "papers": [
+    {
+      "id": "14ee32c60f",
+      "title": "Next-generation cancer therapeutics",
+      "link": "https://www.nature.com/articles/s43018-026-01244-w",
+      "journal": "Nature Cancer",
+      "category": "Original Article",
+      "authors": "",
+      "summary": "Nature Cancer, Published online: 23 September 2026; doi:10.1038/s43018-026-01244-w Cancer therapies have evolved substantially in recent decades; however, there remains a pressing need for new therapeutic options. Our Series on Next-Generation Cancer Therapeutics presents commissioned Reviews and opinion pieces on the…",
+      "date": "2026-09-23T00:00:00Z",
+      "date_display": "23 Sep 2026"
+    },
+    {
+      "id": "7ba5a679e2",
+      "title": "Author Correction: Uridine-sensitized screening identifies demethoxy-coenzyme Q and NUDT5 as regulators of nucleotide synthesis",
+      "link": "https://www.nature.com/articles/s42255-026-01645-2",
+      "journal": "Nature Metabolism",
+      "category": "Original Article",
+      "authors": "Abigail Strefeler, Zakery N. Baker, Sylvain Chollet, Mads M. Foged, Rachel M. Guerra, Julijana Ivanisevic, Hector Gallart-Ayala, David J. Pagliarini, Alexis A. Jourdain",
+      "summary": "Nature Metabolism, Published online: 23 September 2026; doi:10.1038/s42255-026-01645-2 Author Correction: Uridine-sensitized screening identifies demethoxy-coenzyme Q and NUDT5 as regulators of nucleotide synthesis",
+      "date": "2026-09-23T00:00:00Z",
+      "date_display": "23 Sep 2026"
+    },
+    {
+      "id": "b99eed50be",
+      "title": "Rare science, real impact: shaping the future of research on rare metabolic diseases",
+      "link": "https://www.nature.com/articles/s42255-026-01631-8",
+      "journal": "Nature Metabolism",
+      "category": "Original Article",
+      "authors": "Anu Suomalainen, Ralph J. DeBerardinis, Julien Baruteau, Hélène Puccio, Takanobu Otomo, Marni J. Falk",
+      "summary": "Nature Metabolism, Published online: 23 September 2026; doi:10.1038/s42255-026-01631-8 Rare diseases affect millions of people worldwide, yet they remain understudied. Six experts on rare metabolic diseases reflect on the state of the field and share their perspectives on the opportunities, challenges and emerging…",
+      "date": "2026-09-23T00:00:00Z",
+      "date_display": "23 Sep 2026"
+    },
+    {
+      "id": "76c38527e6",
+      "title": "The GENIE Data Model: A Solid Tumor, Person-Centric Framework for Scalable, Harmonized Precision Oncology Data Collection",
+      "link": "https://aacrjournals.org/cancerrescommun/article/6/9/2242/788474/The-GENIE-Data-Model-A-Solid-Tumor-Person-Centric",
+      "journal": "Cancer Research",
+      "category": "Original Article",
+      "authors": "Jennifer N. Hoppe, Jocelyn Lee, Tomi F. Akinyemiju, Danielle S. Bitterman, Michael Brudno, Michelle F. Green, Vojtech Huser, Jafi A. Lipson, Sanjay Mishra, Daniel P. Nussbaum, Jai…",
+      "summary": "Abstract Adequately powered analyses in precision oncology often require combining cohorts across institutions. However, integration is constrained by the least granular source and may become infeasible when data elements are too heterogeneous to harmonize and map to a common data model. This challenge is acute in…",
+      "date": "2026-09-23T00:00:00Z",
+      "date_display": "23 Sep 2026"
+    },
     {
       "id": "c91fe974b2",
       "title": "Adipocyte methionine reduction promotes cancer cachexia",
@@ -20,39 +64,6 @@
       "category": "Original Article",
       "authors": "Jung Seung Nam, Sung Shin Ahn, Yeonoh Shin, Ariana Vargas-Castillo, Maya S. Dixon, Pardis Ahmadi, Kathrin Schilling, Fereshteh Zandkarimi, Alex Chen, Nal Ae Yoon, Harrison Cullen…",
       "summary": "Nature Cancer, Published online: 22 September 2026; doi:10.1038/s43018-026-01234-y Chio and colleagues describe an iron-dependent pathway with a role in the induction of cancer cachexia-linked events such as adipose browning and identify methionine sulfoxide reductase A as an important and targetable factor in this…",
-      "date": "2026-09-22T00:00:00Z",
-      "date_display": "22 Sep 2026"
-    },
-    {
-      "id": "7b06c09b4e",
-      "title": "Author Correction: Non-catalytic ubiquitin binding by A20 prevents psoriatic arthritis–like disease and inflammation",
-      "link": "https://www.nature.com/articles/s41590-026-02687-0",
-      "journal": "Nature Immunology",
-      "category": "Original Article",
-      "authors": "Bahram Razani, Michael I. Whang, Francis S. Kim, Mary C. Nakamura, Xiaofei Sun, Rommel Advincula, Jessie A. Turnbaugh, Mihir Pendse, Priscilia Tanbun, Philip Achacoso, Peter J…",
-      "summary": "Nature Immunology, Published online: 22 September 2026; doi:10.1038/s41590-026-02687-0 Author Correction: Non-catalytic ubiquitin binding by A20 prevents psoriatic arthritis–like disease and inflammation",
-      "date": "2026-09-22T00:00:00Z",
-      "date_display": "22 Sep 2026"
-    },
-    {
-      "id": "0320789312",
-      "title": "Updating the symbols of ten cytokines and their receptors: report of the IUIS Cytokine Nomenclature Sub-Committee",
-      "link": "https://www.nature.com/articles/s41590-026-02654-9",
-      "journal": "Nature Immunology",
-      "category": "Original Article",
-      "authors": "Diana Boraschi, Chen Dong, Humberto Lanz-Mendoza, Lazaro Moreira Marques-Neto, Nima Rezaei, Elspeth Bruford",
-      "summary": "Nature Immunology, Published online: 22 September 2026; doi:10.1038/s41590-026-02654-9 Updating the symbols of ten cytokines and their receptors: report of the IUIS Cytokine Nomenclature Sub-Committee",
-      "date": "2026-09-22T00:00:00Z",
-      "date_display": "22 Sep 2026"
-    },
-    {
-      "id": "43eec5e540",
-      "title": "Metastasis enables immunogenicity through migrasome-mediated antigen release",
-      "link": "https://www.nature.com/articles/s41590-026-02641-0",
-      "journal": "Nature Immunology",
-      "category": "Original Article",
-      "authors": "Dong Jiang, Jinzhao He, Renxiang Xie, Minghui Shi, Siyuan Liu, Haohao Jia, Bingjie Yang, Xiaojie Ruan, Xiaoyu Tao, Yuhan Xiang, Yining Chen, Lin Jiao, Xiaoyu Feng, Li Yu",
-      "summary": "Nature Immunology, Published online: 22 September 2026; doi:10.1038/s41590-026-02641-0 Here the authors show that circulating tumor cells shed migrasomes that carry tumor antigens, which in turn can activate CD8+ T cells through cross-presentation to restrict metastasis.",
       "date": "2026-09-22T00:00:00Z",
       "date_display": "22 Sep 2026"
     },
@@ -99,17 +110,6 @@
       "summary": "Nature Reviews Cancer, Published online: 22 September 2026; doi:10.1038/s41568-026-00979-z Replication stress drives genomic instability, tumour evolution and therapeutic adaptation, yet also creates exploitable vulnerabilities. In this Review, Chen and Zou discuss how chronic replication stress shapes cancer biology…",
       "date": "2026-09-22T00:00:00Z",
       "date_display": "22 Sep 2026"
-    },
-    {
-      "id": "c0873f19bd",
-      "title": "Deletion of a distal IRF4 element prevents inflammation-induced reprogramming of human regulatory T cell fate",
-      "link": "https://www.nature.com/articles/s41590-026-02655-8",
-      "journal": "Nature Immunology",
-      "category": "Original Article",
-      "authors": "Patrick Ho, Alexander Vu, Joey Leung, Wendy Rosenthal, Vasilis Ntranos, Jeffrey A. Bluestone, Qizhi Tang",
-      "summary": "Nature Immunology, Published online: 21 September 2026; doi:10.1038/s41590-026-02655-8 Tang and colleagues identify a distal IRF4 chromatin regulatory region that governs human Treg cell stability.",
-      "date": "2026-09-21T00:00:00Z",
-      "date_display": "21 Sep 2026"
     },
     {
       "id": "911201059d",
@@ -222,17 +222,6 @@
       "date_display": "18 Sep 2026"
     },
     {
-      "id": "768cc5aaec",
-      "title": "Spatiotemporal single-cell profiling reveals T cell clonal dynamics and phenotypic plasticity in human graft-versus-host disease",
-      "link": "https://www.nature.com/articles/s41590-026-02631-2",
-      "journal": "Nature Immunology",
-      "category": "Original Article",
-      "authors": "Lingting Shi, Ajna Uzuni, Ximi K. Wang, Michael Pressler, David W. Harle, Shami Chakrabarti, Rodney Macedo, Kirubel Belay, Christian A. Gordillo, Thomas McMahon-Skates, Erik Raps…",
-      "summary": "Nature Immunology, Published online: 17 September 2026; doi:10.1038/s41590-026-02631-2 Shi et al. use a spatiotemporal framework to profile alloreactive T cells in humans undergoing hematopoietic cell transplantation and demonstrate how severe graft‑versus‑host disease is driven by tissue-resident memory programs that…",
-      "date": "2026-09-17T00:00:00Z",
-      "date_display": "17 Sep 2026"
-    },
-    {
       "id": "463b2674fe",
       "title": "Meal timing as medicine: clinical evidence for intermittent fasting in Huntington’s disease",
       "link": "https://www.nature.com/articles/s42255-026-01613-w",
@@ -288,28 +277,6 @@
       "date_display": "16 Sep 2026"
     },
     {
-      "id": "1e9785e205",
-      "title": "Author Correction: The transcription factor TCF-1 initiates the differentiation of T FH cells during acute viral infection",
-      "link": "https://www.nature.com/articles/s41590-026-02681-6",
-      "journal": "Nature Immunology",
-      "category": "Original Article",
-      "authors": "Lifan Xu, Yi Cao, Zhunyi Xie, Qizhao Huang, Qiang Bai, Xia Yang, Ran He, Yaxing Hao, Haoqiang Wang, Tingting Zhao, Zhonglei Fan, Aijian Qin, Jianqiang Ye, Xinyuan Zhou, Lilin Ye…",
-      "summary": "Nature Immunology, Published online: 16 September 2026; doi:10.1038/s41590-026-02681-6 Author Correction: The transcription factor TCF-1 initiates the differentiation of T FH cells during acute viral infection",
-      "date": "2026-09-16T00:00:00Z",
-      "date_display": "16 Sep 2026"
-    },
-    {
-      "id": "95e91ed102",
-      "title": "Dan Kastner (1951–2026)",
-      "link": "https://www.nature.com/articles/s41590-026-02667-4",
-      "journal": "Nature Immunology",
-      "category": "Original Article",
-      "authors": "Seth L. Masters",
-      "summary": "Nature Immunology, Published online: 16 September 2026; doi:10.1038/s41590-026-02667-4 Dan Kastner (1951–2026)",
-      "date": "2026-09-16T00:00:00Z",
-      "date_display": "16 Sep 2026"
-    },
-    {
       "id": "88554240ad",
       "title": "A Phase Ib/II Study of Atezolizumab in Combination with Thiopurine Therapy in Patients with Metastatic Solid Tumors and Intermediate Tumor Mutational Burden",
       "link": "https://aacrjournals.org/cancerrescommun/article/6/9/2177/788355/A-Phase-Ib-II-Study-of-Atezolizumab-in-Combination",
@@ -339,28 +306,6 @@
       "category": "Original Article",
       "authors": "Julieta Afonso",
       "summary": "Nature Cancer, Published online: 15 September 2026; doi:10.1038/s43018-026-01245-9 Engineering botulinum neurotoxin into anti-cancer agents",
-      "date": "2026-09-15T00:00:00Z",
-      "date_display": "15 Sep 2026"
-    },
-    {
-      "id": "9ab4a29f9f",
-      "title": "Author Correction: Asparagine deprivation enhances T cell antitumour response in patients via ROS-mediated metabolic and signal adaptations",
-      "link": "https://www.nature.com/articles/s42255-026-01633-6",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "Hsuan-Chia Chang, Chung-Ying Tsai, Cheng-Lung Hsu, Tzong-Shyuan Tai, Mei-Ling Cheng, Yu-Ming Chuang, Hsiang-Yu Tang, Kun-Ju Lin, Jia-Jin Chen, Szu-Han Chang, Yi-Ching Ko, Yu-Wen…",
-      "summary": "Nature Metabolism, Published online: 15 September 2026; doi:10.1038/s42255-026-01633-6 Author Correction: Asparagine deprivation enhances T cell antitumour response in patients via ROS-mediated metabolic and signal adaptations",
-      "date": "2026-09-15T00:00:00Z",
-      "date_display": "15 Sep 2026"
-    },
-    {
-      "id": "0ec0b9bf86",
-      "title": "Author Correction: A glucose-like metabolite deficient in diabetes inhibits cellular entry of SARS-CoV-2",
-      "link": "https://www.nature.com/articles/s42255-026-01634-5",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "Liangqin Tong, Xiaoping Xiao, Min Li, Shisong Fang, Enhao Ma, Xi Yu, Yibin Zhu, Chunli Wu, Deyu Tian, Fan Yang, Jing Sun, Jing Qu, Nianzhen Zheng, Shumin Liao, Wanbo Tai…",
-      "summary": "Nature Metabolism, Published online: 15 September 2026; doi:10.1038/s42255-026-01634-5 Author Correction: A glucose-like metabolite deficient in diabetes inhibits cellular entry of SARS-CoV-2",
       "date": "2026-09-15T00:00:00Z",
       "date_display": "15 Sep 2026"
     },
@@ -472,28 +417,6 @@
       "authors": "Shilin Gao, Quanwei Zhang, Asmita Banstola, Haoran Lu, Zhengkun Zhang, Zhilong Wang, Mei. X. Wu",
       "summary": "Science Immunology, Volume 11, Issue 123, September 2026.",
       "date": "2026-09-11T07:00:00Z",
-      "date_display": "11 Sep 2026"
-    },
-    {
-      "id": "b7412c2cb7",
-      "title": "MMSDH facilitates ACSL4 propionylation to counteract ferroptosis upon hypoxia and impairs PDAC chemotherapy efficacy",
-      "link": "https://www.nature.com/articles/s43018-026-01236-w",
-      "journal": "Nature Cancer",
-      "category": "Original Article",
-      "authors": "Peixiang Zheng, Yanni Lin, Meiyin Zhang, Zhiyuan Tang, Wenxing Qin, Min Xiao, Xue Sun, Yuli Shen, Zhiqiang Hu, Shuo Ru, Yuran Duan, Bofei Dong, Ting Wen, Mengdie Li, Hong Wu…",
-      "summary": "Nature Cancer, Published online: 11 September 2026; doi:10.1038/s43018-026-01236-w Zheng et al. describe how hypoxia-induced methylmalonate semialdehyde dehydrogenase lactylation promotes acyl-CoA synthetase long-chain family member 4 propionylation and degradation, thereby suppressing ferroptosis induced by…",
-      "date": "2026-09-11T00:00:00Z",
-      "date_display": "11 Sep 2026"
-    },
-    {
-      "id": "e37b4e7cd8",
-      "title": "ANKRD11 deficiency reprograms CD8 + T cell differentiation to enhance immunity in chronic infection and cancer",
-      "link": "https://www.nature.com/articles/s41590-026-02652-x",
-      "journal": "Nature Immunology",
-      "category": "Original Article",
-      "authors": "Wei Xu, Jie Guo, Xue Cao, Liping Li, Pei Xiao, Xinchao Zhang, Qiuzhu Jin, Fuping Zhang, Baidong Hou, Minghui Li, Xuyu Zhou",
-      "summary": "Nature Immunology, Published online: 11 September 2026; doi:10.1038/s41590-026-02652-x CD8+ T cell dysfunction is a major obstacle to hepatitis B virus (HBV) clearance and antitumor immunity. Zhou and colleagues identify a T cell receptor targeting a clinically relevant HBV epitope and reveal ANKRD11 as a key…",
-      "date": "2026-09-11T00:00:00Z",
       "date_display": "11 Sep 2026"
     },
     {
@@ -1320,6 +1243,83 @@
       "summary": "UVR-damaged melanocytes evade immune attack despite harboring many mutations. Lo et al. show that MITF, a transcriptional regulator crucial to melanocyte identity, directly induces the immune checkpoint molecule PD-L1. This intrinsic tolerance program shields melanocytes from T cells, limiting autoimmune melanocyte…",
       "date": "2026-08-13T00:00:00Z",
       "date_display": "13 Aug 2026"
+    },
+    {
+      "id": "27b00deeab",
+      "title": "EGFR-targeting ADCs: From oncogene addiction to antigen-guided drug delivery",
+      "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00344-2?rss=yes",
+      "journal": "Cancer Cell",
+      "category": "Original Article",
+      "authors": "Lihui Liu, Kailun Fei, Jie Wang",
+      "summary": "In this issue of Cancer Cell, Li et al. report a first-in-human phase 1 study of SYS6010, an epidermal growth factor receptor (EGFR)-targeting antibody-drug conjugate, in advanced solid tumors. The study highlights how EGFR-directed therapy moves beyond kinase inhibition toward antigen-guided cytotoxic delivery in…",
+      "date": "2026-08-13T00:00:00Z",
+      "date_display": "13 Aug 2026"
+    },
+    {
+      "id": "259fb223b5",
+      "title": "SYS6010, epidermal growth factor receptor-targeting antibody-drug conjugate for advanced non-small cell lung cancer: A phase 1 trial",
+      "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00350-8?rss=yes",
+      "journal": "Cancer Cell",
+      "category": "Original Article",
+      "authors": "Zi-Ming Li, Zhen Zhou, Zhi-Yong He, Liang Han, Jian Fang, Hong-Mei Sun, Hai-Feng Liu, Ming-Xia Wang, Yi-Bing Liu, Xiu-Juan Qu, Yu Yao, Yi Gong, Yan Yu, Hua-Qiu Shi, Yan Wang…",
+      "summary": "Li et al. report results from a first-in-human study showing that SYS6010, an EGFR-targeted antibody-drug conjugate, demonstrates encouraging antitumor activity with a tolerable safety profile in pretreated advanced NSCLC, providing evidence that warrants further clinical development.",
+      "date": "2026-08-13T00:00:00Z",
+      "date_display": "13 Aug 2026"
+    },
+    {
+      "id": "ef5f83942b",
+      "title": "Beta2-adrenergic stimulation by fenoterol increases energy expenditure without activating human brown adipose tissue",
+      "link": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00285-8?rss=yes",
+      "journal": "Cell Metabolism",
+      "category": "Original Article",
+      "authors": "Laila Maria Füchtbauer, Jaël Rut Senn, Carole Stéphanie Baumann, Anninja Lea Isenrich, Taylah Lea Gaynor, Rahel Schläfli, Anand Kumar Sharma, Carla Horvath, Claudia Irene…",
+      "summary": "In the ongoing discussion as to which beta-adrenergic receptor is transmitting the activating signal in human brown adipose tissue (BAT), Füchtbauer et al. compared a selective beta2-adrenergic agonist to cold exposure, the natural stimulus for brown adipose tissue. Both interventions increased energy expenditure, but…",
+      "date": "2026-08-12T00:00:00Z",
+      "date_display": "12 Aug 2026"
+    },
+    {
+      "id": "46bed7d32a",
+      "title": "A single-cell multi-omic atlas of the human pancreas reveals potential for cellular plasticity across development, health, and disease",
+      "link": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00296-2?rss=yes",
+      "journal": "Cell Metabolism",
+      "category": "Original Article",
+      "authors": "Elisabetta Mereu, Diego Balboa, Johannes Liebig, Aitor Gonzalez-Herrero, Anna Martinez Casals, Mariya Mardamshina, Fanny Mollandin, Felix Schicktanz, Alexander Sudy, Luca Tosti…",
+      "summary": "Mereu et al. present ESPACE, a single-cell multi-omic atlas of the human pancreas spanning fetal development, adulthood, and type 2 diabetes. Combining transcriptomics, chromatin accessibility, and spatial imaging, they uncover a rare population of plastic centroacinar cells and hidden diversity among…",
+      "date": "2026-08-12T00:00:00Z",
+      "date_display": "12 Aug 2026"
+    },
+    {
+      "id": "95fb11f2fe",
+      "title": "Coordinated transcriptional networks program organelle expansion and metabolic flows for high endothelial morphology and function",
+      "link": "https://www.cell.com/immunity/fulltext/S1074-7613(26)00313-4?rss=yes",
+      "journal": "Immunity",
+      "category": "Original Article",
+      "authors": "Yuhan Bi, Kevin Brulois, Aiman Ayesha, Menglan Xiang, Romain Ballet, Borja Ocón, Theresa Dinh, Nicole Lazarus, Manali Kunte, Griselda Ramos, Florea Lupu, Jonathan H. Lin, Eugene…",
+      "summary": "High endothelial venules require specialized morphology and PNAd expression to support lymphocyte homing; however, the transcriptional mechanisms coordinating these defining features have remained unclear. Bi et al. identify XBP1-dependent and CREB3L2-associated adaptive ER programs that couple organelle expansion…",
+      "date": "2026-08-11T00:00:00Z",
+      "date_display": "11 Aug 2026"
+    },
+    {
+      "id": "6c1de7ccd3",
+      "title": "Latent tumor killers awakened",
+      "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00308-9?rss=yes",
+      "journal": "Cancer Cell",
+      "category": "Original Article",
+      "authors": "Haochen Yang, Chenqi Xu",
+      "summary": "In this issue of Cancer Cell, Kehl et al. construct a single-cell atlas of bone marrow T cells from patients with bone marrow-resident malignancies, identifying tumor-reactive populations existing in a state of latent competence. A 15-gene signature identifies this subset, which is expanded by immunotherapies and…",
+      "date": "2026-08-10T00:00:00Z",
+      "date_display": "10 Aug 2026"
+    },
+    {
+      "id": "cf6d731681",
+      "title": "Latent effector T cells mediate immunotherapy responses in the bone marrow microenvironment",
+      "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00349-1?rss=yes",
+      "journal": "Cancer Cell",
+      "category": "Original Article",
+      "authors": "Niklas Kehl, Tim R. Wagner, Simon Steiger, Tamara Boschert, Michael Kilian, Antonia Schach, Julius J. Michel, Kane Foster, Gabrielle M. Hernandez, Claudia Ctortecka, Anna D…",
+      "summary": "Kehl et al. characterize tumor-reactive T cells in the bone marrow of patients with multiple myeloma and AML. These cells adopt an effector state distinct from exhausted solid tumor TILs. The TFiT classifier stratifies immunotherapy, but not chemotherapy, response, identifying a latent, therapeutically engageable…",
+      "date": "2026-08-10T00:00:00Z",
+      "date_display": "10 Aug 2026"
     }
   ]
 }
