@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T10:25:46Z",
+  "updated": "2026-09-27T10:56:56Z",
   "papers": [
     {
       "id": "7f66022fcc",
@@ -75,17 +75,6 @@
       "category": "Original Article",
       "authors": "Laurie A. Dempsey",
       "summary": "Nature Immunology, Published online: 25 September 2026; doi:10.1038/s41590-026-02678-1 Line targeting AID",
-      "date": "2026-09-25T00:00:00Z",
-      "date_display": "25 Sep 2026"
-    },
-    {
-      "id": "3229773ad7",
-      "title": "Short-chain fatty acids and blood pressure",
-      "link": "https://www.nature.com/articles/s42255-026-01641-6",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "Rikeish R. Muralitharan, Francine Z. Marques",
-      "summary": "Nature Metabolism, Published online: 25 September 2026; doi:10.1038/s42255-026-01641-6 Short-chain fatty acids and blood pressure",
       "date": "2026-09-25T00:00:00Z",
       "date_display": "25 Sep 2026"
     },
@@ -167,28 +156,6 @@
       "date_display": "23 Sep 2026"
     },
     {
-      "id": "7ba5a679e2",
-      "title": "Author Correction: Uridine-sensitized screening identifies demethoxy-coenzyme Q and NUDT5 as regulators of nucleotide synthesis",
-      "link": "https://www.nature.com/articles/s42255-026-01645-2",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "Abigail Strefeler, Zakery N. Baker, Sylvain Chollet, Mads M. Foged, Rachel M. Guerra, Julijana Ivanisevic, Hector Gallart-Ayala, David J. Pagliarini, Alexis A. Jourdain",
-      "summary": "Nature Metabolism, Published online: 23 September 2026; doi:10.1038/s42255-026-01645-2 Author Correction: Uridine-sensitized screening identifies demethoxy-coenzyme Q and NUDT5 as regulators of nucleotide synthesis",
-      "date": "2026-09-23T00:00:00Z",
-      "date_display": "23 Sep 2026"
-    },
-    {
-      "id": "b99eed50be",
-      "title": "Rare science, real impact: shaping the future of research on rare metabolic diseases",
-      "link": "https://www.nature.com/articles/s42255-026-01631-8",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "Anu Suomalainen, Ralph J. DeBerardinis, Julien Baruteau, Hélène Puccio, Takanobu Otomo, Marni J. Falk",
-      "summary": "Nature Metabolism, Published online: 23 September 2026; doi:10.1038/s42255-026-01631-8 Rare diseases affect millions of people worldwide, yet they remain understudied. Six experts on rare metabolic diseases reflect on the state of the field and share their perspectives on the opportunities, challenges and emerging…",
-      "date": "2026-09-23T00:00:00Z",
-      "date_display": "23 Sep 2026"
-    },
-    {
       "id": "76c38527e6",
       "title": "The GENIE Data Model: A Solid Tumor, Person-Centric Framework for Scalable, Harmonized Precision Oncology Data Collection",
       "link": "https://aacrjournals.org/cancerrescommun/article/6/9/2242/788474/The-GENIE-Data-Model-A-Solid-Tumor-Person-Centric",
@@ -244,17 +211,6 @@
       "date_display": "22 Sep 2026"
     },
     {
-      "id": "7ea047c038",
-      "title": "Author Correction: N 6 -methyladenosine (m 6 A) in 18S rRNA promotes fatty acid metabolism and oncogenic transformation",
-      "link": "https://www.nature.com/articles/s42255-026-01637-2",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "Hao Peng, Binbin Chen, Wei Wei, Siyao Guo, Hui Han, Chunlong Yang, Jieyi Ma, Lu Wang, Sui Peng, Ming Kuang, Shuibin Lin",
-      "summary": "Nature Metabolism, Published online: 22 September 2026; doi:10.1038/s42255-026-01637-2 Author Correction: N 6 -methyladenosine (m 6 A) in 18S rRNA promotes fatty acid metabolism and oncogenic transformation",
-      "date": "2026-09-22T00:00:00Z",
-      "date_display": "22 Sep 2026"
-    },
-    {
       "id": "8700372d75",
       "title": "The Role of Germline Transposable Element Insertions in Pediatric Cancer Predisposition",
       "link": "https://aacrjournals.org/cancerrescommun/article/6/9/2232/788444/The-Role-of-Germline-Transposable-Element",
@@ -266,15 +222,26 @@
       "date_display": "22 Sep 2026"
     },
     {
-      "id": "911201059d",
-      "title": "Gut microbiome maturation in early childhood interacts with host genetics to predict type 1 diabetes risk",
-      "link": "https://www.nature.com/articles/s42255-026-01614-9",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "Danyue Dong, Aaron M. Walsh, Tommi Vatanen, George Weingart, Mondher Khdhiri, Meir J. Stampfer, Kendra Vehik, Eric A. Franzosa, Curtis Huttenhower, Dong D. Wang, Marian Rewers…",
-      "summary": "Nature Metabolism, Published online: 21 September 2026; doi:10.1038/s42255-026-01614-9 In the prospective, multicentre TEDDY study, distinct patterns of gut microbiome maturation are associated with differential risk of type 1 diabetes, with host genetics modifying the strength of this association.",
-      "date": "2026-09-21T00:00:00Z",
-      "date_display": "21 Sep 2026"
+      "id": "9a26b55612",
+      "title": "From blunt-force treatment to precision: 25 years of transformation in cancer research",
+      "link": "https://www.nature.com/articles/s41568-026-00980-6",
+      "journal": "Nature Reviews Cancer",
+      "category": "Review Article",
+      "authors": "",
+      "summary": "Nature Reviews Cancer, Published online: 22 September 2026; doi:10.1038/s41568-026-00980-6 This Editorial marks the 25th anniversary of Nature Reviews Cancer. On this milestone we contemplate how our view of cancer has changed over the past 25 years and speculate on what the future holds.",
+      "date": "2026-09-22T00:00:00Z",
+      "date_display": "22 Sep 2026"
+    },
+    {
+      "id": "9e7015ca3d",
+      "title": "Replication stress in cancer: origins, consequences and therapeutic opportunities",
+      "link": "https://www.nature.com/articles/s41568-026-00979-z",
+      "journal": "Nature Reviews Cancer",
+      "category": "Review Article",
+      "authors": "Junjie Chen, Lee Zou",
+      "summary": "Nature Reviews Cancer, Published online: 22 September 2026; doi:10.1038/s41568-026-00979-z Replication stress drives genomic instability, tumour evolution and therapeutic adaptation, yet also creates exploitable vulnerabilities. In this Review, Chen and Zou discuss how chronic replication stress shapes cancer biology…",
+      "date": "2026-09-22T00:00:00Z",
+      "date_display": "22 Sep 2026"
     },
     {
       "id": "251d2c0c37",
@@ -332,28 +299,6 @@
       "date_display": "18 Sep 2026"
     },
     {
-      "id": "e54bec978d",
-      "title": "mRNA methylation safeguards pancreatic α-cell identity against cellular plasticity",
-      "link": "https://www.nature.com/articles/s42255-026-01594-w",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "",
-      "summary": "Nature Metabolism, Published online: 18 September 2026; doi:10.1038/s42255-026-01594-w The epitranscriptomic mRNA modification N6-methyladenosine (m6A) helps to maintain the functional identity of pancreatic α-cells. Deletion of the m6A writer METTL14 impairs amino acid-stimulated glucagon secretion, destabilizes the…",
-      "date": "2026-09-18T00:00:00Z",
-      "date_display": "18 Sep 2026"
-    },
-    {
-      "id": "56f9caf72f",
-      "title": "m 6 A mRNA methylation regulates pancreatic α-cell plasticity",
-      "link": "https://www.nature.com/articles/s42255-026-01591-z",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "Dario F. De Jesus, Natalie K. Brown, Garrett Fogarty, Guilherme Gabriel, Shirong Wang, Shen Wang, Lenee Shrestha, Kristin Kendall, Lily Young, Jiang Hu, Jermaine Austin, Joan…",
-      "summary": "Nature Metabolism, Published online: 18 September 2026; doi:10.1038/s42255-026-01591-z m6A methylation acts as an epitranscriptomic regulator of endocrine cell identity in pancreatic islet alpha cells, with loss of m6A leading to impaired alpha cell identity, α- to β-cell conversion and metabolic rewiring of islet…",
-      "date": "2026-09-18T00:00:00Z",
-      "date_display": "18 Sep 2026"
-    },
-    {
       "id": "db35fa7d39",
       "title": "A Phase II Study of Berzosertib in Combination with Carboplatin Compared with Docetaxel with Carboplatin in Metastatic Castration-Resistant Prostate Cancer",
       "link": "https://aacrjournals.org/cancerrescommun/article/6/9/2206/788359/A-Phase-II-Study-of-Berzosertib-in-Combination",
@@ -374,17 +319,6 @@
       "summary": "Nature Reviews Immunology, Published online: 18 September 2026; doi:10.1038/s41577-026-01354-7 Immune plasticity during the perinatal period enables mammalian offspring to successfully navigate the transition from prenatal, intrauterine life to postnatal, extrauterine life. This Review highlights recent advances in…",
       "date": "2026-09-18T00:00:00Z",
       "date_display": "18 Sep 2026"
-    },
-    {
-      "id": "463b2674fe",
-      "title": "Meal timing as medicine: clinical evidence for intermittent fasting in Huntington’s disease",
-      "link": "https://www.nature.com/articles/s42255-026-01613-w",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "",
-      "summary": "Nature Metabolism, Published online: 17 September 2026; doi:10.1038/s42255-026-01613-w In a 12-week pilot study, 20 people with early-stage Huntington’s disease restricted their eating to a daily 6–8-h window. The intervention was feasible and well-tolerated, and exploratory analyses suggested improvements in clinical…",
-      "date": "2026-09-17T00:00:00Z",
-      "date_display": "17 Sep 2026"
     },
     {
       "id": "1e9e69e968",
@@ -460,6 +394,17 @@
       "category": "Original Article",
       "authors": "Zhaopeng Sun, Mo Dan, Lu Lv, Mingyue Shen, Can Yuan, Congcong Niu, Yang Zhang, Xixin Hu, Xiwu Hui, Andrew Kolodziej",
       "summary": "Abstract The adhesion protein nectin-4 is a clinically validated tumor-selective antigen that is overexpressed across multiple cancer types and has been successfully exploited as a target for antibody–drug conjugates (ADCs), most notably enfortumab vedotin (EV), which is approved for the treatment of urothelial…",
+      "date": "2026-09-15T00:00:00Z",
+      "date_display": "15 Sep 2026"
+    },
+    {
+      "id": "ceb46fa388",
+      "title": "Viral mimicry escape as a necessary feature of malignant transformation",
+      "link": "https://www.nature.com/articles/s41568-026-00977-1",
+      "journal": "Nature Reviews Cancer",
+      "category": "Review Article",
+      "authors": "Raymond Chen, Aobo He, Håvard T. Lindholm, Daniel D. De Carvalho",
+      "summary": "Nature Reviews Cancer, Published online: 15 September 2026; doi:10.1038/s41568-026-00977-1 Viral mimicry is the activation of antiviral immune responses by endogenous nucleic acids that have accumulated in the cytosol. In this Review, Chen et al. highlight how cancer-associated epigenetic and transcriptional…",
       "date": "2026-09-15T00:00:00Z",
       "date_display": "15 Sep 2026"
     },
@@ -552,6 +497,17 @@
       "date_display": "11 Sep 2026"
     },
     {
+      "id": "bd92db0a1c",
+      "title": "Making breast cancer innovation deliver for every woman",
+      "link": "https://www.nature.com/articles/s41568-026-00982-4",
+      "journal": "Nature Reviews Cancer",
+      "category": "Review Article",
+      "authors": "Miriam Mutebi",
+      "summary": "Nature Reviews Cancer, Published online: 11 September 2026; doi:10.1038/s41568-026-00982-4 Despite remarkable advances in our understanding of breast cancer biology and in the diagnosis and treatment of the disease, outcomes remain deeply influenced by where people live, how health systems function and whether care…",
+      "date": "2026-09-11T00:00:00Z",
+      "date_display": "11 Sep 2026"
+    },
+    {
       "id": "d90aabd264",
       "title": "Community-Based Hereditary Breast and Ovarian Cancer Family History Assessment and Genetic Testing among Spanish-Speaking Hispanic/Latina Women in California",
       "link": "https://aacrjournals.org/cancerrescommun/article/6/9/2126/787928/Community-Based-Hereditary-Breast-and-Ovarian",
@@ -570,6 +526,17 @@
       "category": "Original Article",
       "authors": "Chiori Tabe, Rajesh Kumar, Yue Huang, Michael J. Kruhlak, Ajit K. Sharma, Roshan L. Shrestha, Anish Thomas",
       "summary": "Abstract Small cell lung cancer (SCLC) is characterized by pervasive chromosomal instability (CIN) and remains largely refractory to targeted therapies. KIF18A, a motor protein that regulates chromosome alignment during mitosis, has emerged as a selective dependency in CIN-high tumors. Whether this dependency extends…",
+      "date": "2026-09-09T00:00:00Z",
+      "date_display": "9 Sep 2026"
+    },
+    {
+      "id": "7c3d1380aa",
+      "title": "A guide to understanding tumour evolution through the lens of population genetics",
+      "link": "https://www.nature.com/articles/s41568-026-00973-5",
+      "journal": "Nature Reviews Cancer",
+      "category": "Review Article",
+      "authors": "Giulio Caravagna, Trevor A. Graham, Andrea Sottoriva",
+      "summary": "Nature Reviews Cancer, Published online: 09 September 2026; doi:10.1038/s41568-026-00973-5 Population genetics provides a quantitative framework for interpreting cancer genomes as records of tumour evolution. This Review outlines how models of mutation, selection and drift enable inference of tumour dynamics from…",
       "date": "2026-09-09T00:00:00Z",
       "date_display": "9 Sep 2026"
     },
@@ -629,6 +596,28 @@
       "date_display": "8 Sep 2026"
     },
     {
+      "id": "39995bafe0",
+      "title": "Reflecting on 25 years of cancer research: transformative advances and unmet expectations",
+      "link": "https://www.nature.com/articles/s41568-026-00974-4",
+      "journal": "Nature Reviews Cancer",
+      "category": "Review Article",
+      "authors": "Allan Balmain, René Bernards, Hans Clevers, Karen H. Vousden, Paul Workman, Marinka Zitnik",
+      "summary": "Nature Reviews Cancer, Published online: 08 September 2026; doi:10.1038/s41568-026-00974-4 To mark the 25th anniversary of Nature Reviews Cancer, six researchers reflect on the conceptual advances that have reshaped cancer research — from somatic mosaicism, functional genomics and cancer stem cells to tumour…",
+      "date": "2026-09-08T00:00:00Z",
+      "date_display": "8 Sep 2026"
+    },
+    {
+      "id": "ba126a2ff2",
+      "title": "A single-cell lens into the co-evolution of genotypes and phenotypes in cancer",
+      "link": "https://www.nature.com/articles/s41568-026-00970-8",
+      "journal": "Nature Reviews Cancer",
+      "category": "Review Article",
+      "authors": "Franco Izzo, Tamara Prieto, Catherine Potenski, Dan A. Landau",
+      "summary": "Nature Reviews Cancer, Published online: 08 September 2026; doi:10.1038/s41568-026-00970-8 In this Review, Izzo et al. discuss how single-cell multimodal sequencing enables genotype–phenotype mapping and, when combined with phylogenetic reconstruction, provide insights into clonal evolution, cell state plasticity, and…",
+      "date": "2026-09-08T00:00:00Z",
+      "date_display": "8 Sep 2026"
+    },
+    {
       "id": "fdef1ba6fe",
       "title": "p97-mediated proteostasis is a checkpoint for late-stage thymocyte positive selection",
       "link": "https://www.nature.com/articles/s41423-026-01466-z",
@@ -658,6 +647,17 @@
       "category": "Original Article",
       "authors": "Daniel F. Pilco-Janeta, Myriam De la Cruz-Puebla, Daisy R. Guamán-Pilco, Diego Montenegro, William Miranda",
       "summary": "Abstract KRAS G12C is a treatment-defining biomarker in non–small cell lung cancer (NSCLC), particularly lung adenocarcinoma. Hispanic/Latino (H/L) patients remain undercharacterized in precision oncology datasets, and patient-level KRAS G12C prevalence has not been consistently quantified using strict ethnicity…",
+      "date": "2026-09-07T00:00:00Z",
+      "date_display": "7 Sep 2026"
+    },
+    {
+      "id": "08e758dd21",
+      "title": "Neutrophils in cancer",
+      "link": "https://www.nature.com/articles/s41568-026-00968-2",
+      "journal": "Nature Reviews Cancer",
+      "category": "Review Article",
+      "authors": "Markus I. Diehl, Pamela A. Basto, Matthew A. Abikenari, Ian L. Linde, Derick Okwan-Duodu, Edgar G. Engleman",
+      "summary": "Nature Reviews Cancer, Published online: 07 September 2026; doi:10.1038/s41568-026-00968-2 Neutrophils exhibit context-dependent pro-tumour and antitumour functions in cancer. In this Review, Diehl, Basto et al. examine neutrophil roles in tumour progression and metastasis, drawing parallels with non-cancer contexts…",
       "date": "2026-09-07T00:00:00Z",
       "date_display": "7 Sep 2026"
     },
