@@ -1,6 +1,127 @@
 {
-  "updated": "2026-10-09T12:12:12Z",
+  "updated": "2026-10-10T11:29:48Z",
   "papers": [
+    {
+      "id": "6a8e7ef7a7",
+      "title": "B1-like innate B cells are present in adult human organs in homeostasis",
+      "link": "https://www.science.org/doi/abs/10.1126/sciimmunol.adz3326?af=R",
+      "journal": "Science Immunology",
+      "category": "Original Article",
+      "authors": "Ondrej Suchanek, Rory Fitzroy, Nathan Richoz, Krishnaa T. Mahbubani, Jack L. Martin, Benjamin J. Stewart, Elena Prigmore, Menna R. Clatworthy",
+      "summary": "Science Immunology, Volume 11, Issue 124, October 2026.",
+      "date": "2026-10-09T07:00:00Z",
+      "date_display": "9 Oct 2026"
+    },
+    {
+      "id": "9f5d6101e1",
+      "title": "Follicle-associated epithelial tuft cells amplify type 2 mucosal immunity and IgA production",
+      "link": "https://www.science.org/doi/abs/10.1126/sciimmunol.aee1358?af=R",
+      "journal": "Science Immunology",
+      "category": "Original Article",
+      "authors": "Gabriel M. Barrón, Radeesha D. Jayewickreme, Heather H. Tran, Thornton W. Thompson, Ramya Narasimhan, Ying Zhu, Leila B. DeSchepper, Dahlya Habashi, Katherine F. Nico, Miles D…",
+      "summary": "Science Immunology, Volume 11, Issue 124, October 2026.",
+      "date": "2026-10-09T07:00:00Z",
+      "date_display": "9 Oct 2026"
+    },
+    {
+      "id": "3589192ffa",
+      "title": "The IKK complex and TBK1/IKKε are recruited to STING through distinct mechanisms to activate NF-κB signaling",
+      "link": "https://www.science.org/doi/abs/10.1126/sciimmunol.aeh5148?af=R",
+      "journal": "Science Immunology",
+      "category": "Original Article",
+      "authors": "Anna Hvarregaard Christensen, Aneta J. Jurkiewicz, Cathrine Silberbauer Jensen, Katarzyna Kjøge, Weisheng Luo, Wenhao He, Yuqiang Chen, Jiyong Liu, Louise Dalskov, Andreas Bondrup…",
+      "summary": "Science Immunology, Volume 11, Issue 124, October 2026.",
+      "date": "2026-10-09T07:00:00Z",
+      "date_display": "9 Oct 2026"
+    },
+    {
+      "id": "ae76d3ea53",
+      "title": "Author Correction: PAK4 inhibition improves PD-1 blockade immunotherapy",
+      "link": "https://www.nature.com/articles/s43018-026-01268-2",
+      "journal": "Nature Cancer",
+      "category": "Original Article",
+      "authors": "Gabriel Abril-Rodriguez, Davis Y. Torrejon, Wei Liu, Jesse M. Zaretsky, Theodore S. Nowicki, Jennifer Tsoi, Cristina Puig-Saus, Ignacio Baselga-Carretero, Egmidio Medina, Michael…",
+      "summary": "Nature Cancer, Published online: 09 October 2026; doi:10.1038/s43018-026-01268-2 Author Correction: PAK4 inhibition improves PD-1 blockade immunotherapy",
+      "date": "2026-10-09T00:00:00Z",
+      "date_display": "9 Oct 2026"
+    },
+    {
+      "id": "572cc13cd8",
+      "title": "Author Correction: The kinase complex mTORC2 promotes the longevity of virus-specific memory CD4 + T cells by preventing ferroptosis",
+      "link": "https://www.nature.com/articles/s41590-026-02702-4",
+      "journal": "Nature Immunology",
+      "category": "Original Article",
+      "authors": "Yifei Wang, Qin Tian, Yaxing Hao, Wei Yao, Jinjin Lu, Cheng Chen, Xiangyu Chen, Yao Lin, Qizhao Huang, Lifan Xu, Jianjun Hu, Shun Lei, Zhengping Wei, Yuan Luo, Zhirong Li, Li Hu…",
+      "summary": "Nature Immunology, Published online: 09 October 2026; doi:10.1038/s41590-026-02702-4 Author Correction: The kinase complex mTORC2 promotes the longevity of virus-specific memory CD4 + T cells by preventing ferroptosis",
+      "date": "2026-10-09T00:00:00Z",
+      "date_display": "9 Oct 2026"
+    },
+    {
+      "id": "34bace22aa",
+      "title": "The H3K27me3-NR1D1-IFN-γ axis in trained macrophages induced by early respiratory virus infection drives non-T2 asthma in children",
+      "link": "https://www.nature.com/articles/s41423-026-01470-3",
+      "journal": "Cellular and Molecular Immunology",
+      "category": "Original Article",
+      "authors": "Hanglin Li, Boyang Zheng, Beibei Qin, Wenjian Li, Jia Gao, Mengmeng Li, Wenna Ji, Junhai Wang, Caixia Li, Ling Zhang, Jiaqi Liang, Yiming Zhang, Lijie Zhao, Meiqian Wang, Xiaoqing…",
+      "summary": "Cellular & Molecular Immunology, Published online: 09 October 2026; doi:10.1038/s41423-026-01470-3 The H3K27me3-NR1D1-IFN-γ axis in trained macrophages induced by early respiratory virus infection drives non-T2 asthma in children",
+      "date": "2026-10-09T00:00:00Z",
+      "date_display": "9 Oct 2026"
+    },
+    {
+      "id": "7f79f720b1",
+      "title": "BCR signal strength governs VH gene replacement in peripheral B cells",
+      "link": "https://www.nature.com/articles/s41423-026-01473-0",
+      "journal": "Cellular and Molecular Immunology",
+      "category": "Original Article",
+      "authors": "Monika Vashisht, Huaibin Ge, Karen Siddoway, Jessy John, Harlie A. McKelvey, Rui Dong, Mohammad A. I. Al-Hatamleh, Alexandra Krinsky, Vince Popolizio, Alondra M. Ware, Gero…",
+      "summary": "Cellular & Molecular Immunology, Published online: 09 October 2026; doi:10.1038/s41423-026-01473-0 BCR signal strength governs VH gene replacement in peripheral B cells",
+      "date": "2026-10-09T00:00:00Z",
+      "date_display": "9 Oct 2026"
+    },
+    {
+      "id": "5d22140cb6",
+      "title": "IGF2BP2 remodels the lung metastatic immune microenvironment to promote bladder cancer metastasis",
+      "link": "https://www.nature.com/articles/s41423-026-01474-z",
+      "journal": "Cellular and Molecular Immunology",
+      "category": "Original Article",
+      "authors": "Ming Bai, Tianyao Liu, Hao Wu, Xin Yang, Yue Yin, Ying Sun, Jiazheng Li, Zihan Zhou, Yuanchun Ma, Zihan Zhao, Xiangyu Wu, Liming Wu, Yi Chen, Siyang Liu, Xiang Du, Zihan Hao…",
+      "summary": "Cellular & Molecular Immunology, Published online: 09 October 2026; doi:10.1038/s41423-026-01474-z IGF2BP2 remodels the lung metastatic immune microenvironment to promote bladder cancer metastasis",
+      "date": "2026-10-09T00:00:00Z",
+      "date_display": "9 Oct 2026"
+    },
+    {
+      "id": "dd405f94b3",
+      "title": "Geranylgeranylation is required for B-cell proliferation and plasma cell survival implications for autoimmune therapy",
+      "link": "https://www.nature.com/articles/s41423-026-01472-1",
+      "journal": "Cellular and Molecular Immunology",
+      "category": "Original Article",
+      "authors": "Lai Wang, Haoyuan Yin, Jiayi Lu, Shangru Li, Shumei Cao, Jiao Jiang, Junhui Wu, Qilin Li, Xiaoyu Su, Wenrui Li, Meiling Zheng, Ming Zhao, Qianjin Lu",
+      "summary": "Cellular & Molecular Immunology, Published online: 09 October 2026; doi:10.1038/s41423-026-01472-1 Geranylgeranylation is required for B-cell proliferation and plasma cell survival implications for autoimmune therapy",
+      "date": "2026-10-09T00:00:00Z",
+      "date_display": "9 Oct 2026"
+    },
+    {
+      "id": "0361f34d8c",
+      "title": "Breast Cancer–Protective Genetic Variant Common in Women of Indigenous American Genetic Ancestry Is a cis-eQTL for RMND1 , ARMT1 , and CCDC170 in HER2-Enriched Tumor Subtypes",
+      "link": "https://aacrjournals.org/cancerrescommun/article/6/10/2360/788810/Breast-Cancer-Protective-Genetic-Variant-Common-in",
+      "journal": "Cancer Research",
+      "category": "Original Article",
+      "authors": "Valentina A. Zavala, Xiaosong Huang, Sandro Casavilca-Zambrano, Jeannie Navarro-Vásquez, Carlos A. Castañeda, Guillermo Valencia, Zaida Morante, Monica Calderón, Julio E…",
+      "summary": "Abstract Breast cancer genome-wide association studies in Hispanic/Latina women in the United States and Latin America have identified independent risk variants in the 6q25 region, including the protective variant rs140068132, located upstream of the estrogen receptor 1 ( ESR1 ) gene. The molecular mechanisms linking…",
+      "date": "2026-10-09T00:00:00Z",
+      "date_display": "9 Oct 2026"
+    },
+    {
+      "id": "a70abe012a",
+      "title": "The urgent challenge of gastroesophageal cancer",
+      "link": "https://www.nature.com/articles/s41568-026-00990-4",
+      "journal": "Nature Reviews Cancer",
+      "category": "Review Article",
+      "authors": "Charles Swanton, Rebecca L. Eccles, Gabriela Carreno, Lorenzo de la Rica, Sandra Ryeom, David Scott",
+      "summary": "Nature Reviews Cancer, Published online: 09 October 2026; doi:10.1038/s41568-026-00990-4 Gastric and oesophageal cancers caused more than 1 million deaths worldwide in 2024. In this Comment, Cancer Grand Challenges explain how they have launched two targeted challenges to address this unmet need, inviting global…",
+      "date": "2026-10-09T00:00:00Z",
+      "date_display": "9 Oct 2026"
+    },
     {
       "id": "62bcfbaf6b",
       "title": "Dissociated Response to Immune Checkpoint Inhibition in Head and Neck Squamous Cell Carcinoma Is Common and Exhibits Distinct Clinical Outcomes",
@@ -22,6 +143,17 @@
       "summary": "Nature Reviews Cancer, Published online: 08 October 2026; doi:10.1038/s41568-026-00985-1 The dark proteome encompasses previously undiscovered and uncharacterized protein molecules derived from alternative genomic loci or altered RNA translation. In this Perspective, Prensner et al. describe the current understanding…",
       "date": "2026-10-08T00:00:00Z",
       "date_display": "8 Oct 2026"
+    },
+    {
+      "id": "f528e5c438",
+      "title": "Diverse infections transcriptionally reprogram the intestinal epithelium and epithelial–immune cell interactions",
+      "link": "https://www.nature.com/articles/s41590-026-02665-6",
+      "journal": "Nature Immunology",
+      "category": "Original Article",
+      "authors": "Andrew Hart, Maria Merolle, Christian Howard, Breanne E. Haskins, Ian S. Cohn, Suhas Bobba, Rui Xiao, Yi Yang, Ken Cadwell, Junjie Ma, Hiroshi Yano, Xiaoxiao Hou, Bethan A…",
+      "summary": "Nature Immunology, Published online: 07 October 2026; doi:10.1038/s41590-026-02665-6 In this Resource, Beiting and colleagues provide an atlas of the mouse ileum and mesenteric lymph nodes under homeostatic conditions and during enteric infection. They also present GutPath, a tool that enables interrogation of the…",
+      "date": "2026-10-07T00:00:00Z",
+      "date_display": "7 Oct 2026"
     },
     {
       "id": "c04e97617a",
@@ -53,17 +185,6 @@
       "category": "Original Article",
       "authors": "Noé Herbel, Clara Helal, Kaïssa Ouali, François-Xavier Danlos, Vincent Goldschmidt, Jean-Marie Michot, Ariane Laparra, Arthur Geraud, Patricia Martin-Romano, Périne Vuagnat, Alice…",
       "summary": "Abstract The Gustave Roussy Immune (GRIm) score, based on the neutrophil-to-lymphocyte ratio, serum albumin, and lactate dehydrogenase, is a validated prognostic marker in patients receiving immune checkpoint blockers (ICB). We evaluated its prognostic value in patients treated with bispecific CD3 T-cell engagers…",
-      "date": "2026-10-07T00:00:00Z",
-      "date_display": "7 Oct 2026"
-    },
-    {
-      "id": "2646e69b9c",
-      "title": "A guide to B cell metabolism",
-      "link": "https://www.nature.com/articles/s41577-026-01355-6",
-      "journal": "Nature Reviews Immunology",
-      "category": "Review Article",
-      "authors": "Yavuz F. Yazicioglu, Glenn R. Bantug, Christoph Hess, Alexander J. Clarke",
-      "summary": "Nature Reviews Immunology, Published online: 07 October 2026; doi:10.1038/s41577-026-01355-6 Metabolic control is an integral component of B cell physiology, shaping fate decisions and effector functions, while also driving maladaptive programmes that contribute to diverse pathologies. This Review provides an overview…",
       "date": "2026-10-07T00:00:00Z",
       "date_display": "7 Oct 2026"
     },
@@ -244,17 +365,6 @@
       "date_display": "5 Oct 2026"
     },
     {
-      "id": "791eefd225",
-      "title": "Sympathetic nerve activity primes susceptibility to autoimmune hair loss",
-      "link": "https://www.nature.com/articles/s41577-026-01365-4",
-      "journal": "Nature Reviews Immunology",
-      "category": "Review Article",
-      "authors": "Kirsty Minton",
-      "summary": "Nature Reviews Immunology, Published online: 05 October 2026; doi:10.1038/s41577-026-01365-4 A study in Nature by Cui et al. reports that sympathetic nerve activity during the growth phase of hair follicles activates endogenous retroviruses, leading to an innate immune response that destabilizes immune privilege.",
-      "date": "2026-10-05T00:00:00Z",
-      "date_display": "5 Oct 2026"
-    },
-    {
       "id": "c47e2f17b8",
       "title": "Migratory dermal γδ T cells determine the balance between lung immunity and tissue damage during helminth infection",
       "link": "https://www.science.org/doi/abs/10.1126/sciimmunol.aec7574?af=R",
@@ -296,6 +406,17 @@
       "authors": "Jennifer L. Gommerman",
       "summary": "Science Immunology, Volume 11, Issue 124, October 2026.",
       "date": "2026-10-02T07:00:00Z",
+      "date_display": "2 Oct 2026"
+    },
+    {
+      "id": "52b9bff709",
+      "title": "Susumu Tonegawa (1939–2026)",
+      "link": "https://www.nature.com/articles/s41590-026-02660-x",
+      "journal": "Nature Immunology",
+      "category": "Original Article",
+      "authors": "Mark M. Davis",
+      "summary": "Nature Immunology, Published online: 02 October 2026; doi:10.1038/s41590-026-02660-x Susumu Tonegawa (1939–2026)",
+      "date": "2026-10-02T00:00:00Z",
       "date_display": "2 Oct 2026"
     },
     {
@@ -464,6 +585,61 @@
       "date_display": "1 Oct 2026"
     },
     {
+      "id": "d692a5491d",
+      "title": "Clonal blood reshapes its home",
+      "link": "https://www.nature.com/articles/s41590-026-02673-6",
+      "journal": "Nature Immunology",
+      "category": "Original Article",
+      "authors": "Xuan Zhang, Bailee N. Kain, H. Leighton Grimes",
+      "summary": "Nature Immunology, Published online: 30 September 2026; doi:10.1038/s41590-026-02673-6 Clonal hematopoiesis does more than alter blood cells. Fibroblast-rich inflammatory pockets in bone marrow may help mutant stem cells persist and set the stage for disease.",
+      "date": "2026-09-30T00:00:00Z",
+      "date_display": "30 Sep 2026"
+    },
+    {
+      "id": "f6dc063f66",
+      "title": "Epithelial antigen presentation shapes barrier memory",
+      "link": "https://www.nature.com/articles/s41590-026-02622-3",
+      "journal": "Nature Immunology",
+      "category": "Original Article",
+      "authors": "Xi Lin, Richard S. Blumberg",
+      "summary": "Nature Immunology, Published online: 30 September 2026; doi:10.1038/s41590-026-02622-3 Bacterial antigens injected into the cytosol of intestinal epithelial cells are preferentially presented by MHC II for induction of antigen-specific T cell responses and long-term epithelial cell-associated CD4 tissue-resident…",
+      "date": "2026-09-30T00:00:00Z",
+      "date_display": "30 Sep 2026"
+    },
+    {
+      "id": "7c4a68eae8",
+      "title": "Prefibrotic bone marrow microenvironment is a hallmark of clonal hematopoiesis",
+      "link": "https://www.nature.com/articles/s41590-026-02668-3",
+      "journal": "Nature Immunology",
+      "category": "Original Article",
+      "authors": "Alicia G. Aguilar-Navarro, Gibran Edun, Mark Gower, Joan Kant, Ximing Li, Dustin Yang, Mursal Nader, Minerva Fernandez, Soheil Jahangiri, Emily Tsao, Pratik Joshi, Pathum…",
+      "summary": "Nature Immunology, Published online: 30 September 2026; doi:10.1038/s41590-026-02668-3 Patients with CHIP (clonal hematopoiesis of indeterminate potential) exhibit an abnormal bone marrow environment, which might contribute to malignant development and progression. Multiomic analyses of the bone marrow…",
+      "date": "2026-09-30T00:00:00Z",
+      "date_display": "30 Sep 2026"
+    },
+    {
+      "id": "cffb627fcf",
+      "title": "Barrier immune memory is programmed by intestinal epithelial cell presentation of cytosol-delivered bacterial antigens",
+      "link": "https://www.nature.com/articles/s41590-026-02656-7",
+      "journal": "Nature Immunology",
+      "category": "Original Article",
+      "authors": "C. Garrett Wilson, M. Pragun Acharya, Laura Karsch, Lennard W. Duck, Nana Twumasi-Ankrah, Yuanyou Wang, Hongxing Shen, Blake F. Frey, Annalisse R. McKee, Vishal H. Oza, Stacey N…",
+      "summary": "Nature Immunology, Published online: 30 September 2026; doi:10.1038/s41590-026-02656-7 Intestinal epithelial cells can present antigen to CD4 T cells. Here the authors show that epithelial cells must present translocated bacterial antigen for local CD4 resident memory T cells to be established.",
+      "date": "2026-09-30T00:00:00Z",
+      "date_display": "30 Sep 2026"
+    },
+    {
+      "id": "9258c19431",
+      "title": "CAR signaling instructs divergent metabolic reprogramming and functional fates in αβ and γδ T cells",
+      "link": "https://www.nature.com/articles/s41423-026-01475-y",
+      "journal": "Cellular and Molecular Immunology",
+      "category": "Original Article",
+      "authors": "Xiomar E. Bustos, Leticia Tordesillas, Elena Martinez Planes, Miguel G. Fontela, Sebastian Snedal, Renata Ariza Marques Rossetti, Victoria Izumi, Bin Fang, John M. Koomen, Eric A…",
+      "summary": "Cellular & Molecular Immunology, Published online: 30 September 2026; doi:10.1038/s41423-026-01475-y CAR signaling instructs divergent metabolic reprogramming and functional fates in αβ and γδ T cells",
+      "date": "2026-09-30T00:00:00Z",
+      "date_display": "30 Sep 2026"
+    },
+    {
       "id": "5600b288b1",
       "title": "From task-specific tools to a universal foundation model for cytology",
       "link": "https://www.nature.com/articles/s43018-026-01239-7",
@@ -473,50 +649,6 @@
       "summary": "Nature Cancer, Published online: 29 September 2026; doi:10.1038/s43018-026-01239-7 Cytology is required for cancer screening and cancer diagnosis, yet most artificial intelligence systems assist cytology at individual tasks and specific specimen types. We developed CROWN, a universal foundation model for cytology that…",
       "date": "2026-09-29T00:00:00Z",
       "date_display": "29 Sep 2026"
-    },
-    {
-      "id": "34f8543ef6",
-      "title": "The effects of IFNγ on tissue physiology through structural cells",
-      "link": "https://www.nature.com/articles/s41577-026-01357-4",
-      "journal": "Nature Reviews Immunology",
-      "category": "Review Article",
-      "authors": "Irah L. King, Bana Jabri, Amanda W. Lund, Andrew Wang",
-      "summary": "Nature Reviews Immunology, Published online: 29 September 2026; doi:10.1038/s41577-026-01357-4 In this Perspective, the authors use examples from evolution, animal models of disease and clinical results to explore how IFNγ, a quintessential antipathogen cytokine, also has a fundamental role in tissue homeostasis and…",
-      "date": "2026-09-29T00:00:00Z",
-      "date_display": "29 Sep 2026"
-    },
-    {
-      "id": "ac99248f98",
-      "title": "Drugging the immune system: principles of immunopharmacology",
-      "link": "https://www.nature.com/articles/s41577-026-01361-8",
-      "journal": "Nature Reviews Immunology",
-      "category": "Review Article",
-      "authors": "E. John Wherry",
-      "summary": "Nature Reviews Immunology, Published online: 28 September 2026; doi:10.1038/s41577-026-01361-8 Immune-based therapies have transformed the treatment of cancer and inflammatory and autoimmune diseases, but treatment is often suboptimal and the ability to predictably harness the immune system for new therapies remains…",
-      "date": "2026-09-28T00:00:00Z",
-      "date_display": "28 Sep 2026"
-    },
-    {
-      "id": "f5c3ae7e64",
-      "title": "‘Trained’ sensory neurons drive allergic sensitization",
-      "link": "https://www.nature.com/articles/s41577-026-01362-7",
-      "journal": "Nature Reviews Immunology",
-      "category": "Review Article",
-      "authors": "Kirsty Minton",
-      "summary": "Nature Reviews Immunology, Published online: 28 September 2026; doi:10.1038/s41577-026-01362-7 A study in Immunity reports that protease allergens ‘train’ sensory neurons through metabolic remodelling to enhance the response to re-exposure.",
-      "date": "2026-09-28T00:00:00Z",
-      "date_display": "28 Sep 2026"
-    },
-    {
-      "id": "9738ef7bae",
-      "title": "What the ‘negative space’ tells us about the immunology of multiple sclerosis",
-      "link": "https://www.nature.com/articles/s41577-026-01358-3",
-      "journal": "Nature Reviews Immunology",
-      "category": "Review Article",
-      "authors": "Max Kaufmann, Ralf Gold, Lars Fugger",
-      "summary": "Nature Reviews Immunology, Published online: 28 September 2026; doi:10.1038/s41577-026-01358-3 By exploring five enduring “negative spaces” in multiple sclerosis (MS) research, Kaufmann, Gold and Fugger challenge simple explanations of disease pathogenesis. Their Comment argues that MS emerges from complex…",
-      "date": "2026-09-28T00:00:00Z",
-      "date_display": "28 Sep 2026"
     },
     {
       "id": "47d0903664",
@@ -541,13 +673,13 @@
       "date_display": "25 Sep 2026"
     },
     {
-      "id": "632fbf9c5a",
-      "title": "The next big questions in immunology",
-      "link": "https://www.nature.com/articles/s41577-026-01353-8",
-      "journal": "Nature Reviews Immunology",
-      "category": "Review Article",
-      "authors": "",
-      "summary": "Nature Reviews Immunology, Published online: 25 September 2026; doi:10.1038/s41577-026-01353-8 As Nature Reviews Immunology marks its twenty-fifth anniversary, leading immunologists reflect on the questions, challenges and conditions that will shape the future of the field.",
+      "id": "96d209c3fa",
+      "title": "Autoantibody source",
+      "link": "https://www.nature.com/articles/s41590-026-02676-3",
+      "journal": "Nature Immunology",
+      "category": "Original Article",
+      "authors": "Ioana Staicu",
+      "summary": "Nature Immunology, Published online: 25 September 2026; doi:10.1038/s41590-026-02676-3 Autoantibody source",
       "date": "2026-09-25T00:00:00Z",
       "date_display": "25 Sep 2026"
     },
@@ -581,17 +713,6 @@
       "category": "Original Article",
       "authors": "Stefan Offermanns",
       "summary": "Nature Cancer, Published online: 22 September 2026; doi:10.1038/s43018-026-01202-6 Cancer cachexia is a common wasting syndrome in individuals with cancer that involves activation of PKA in white adipose tissue, but the mechanisms that control PKA activity are unclear. A study now identifies iron-activated MSRA as a…",
-      "date": "2026-09-22T00:00:00Z",
-      "date_display": "22 Sep 2026"
-    },
-    {
-      "id": "4c9b4dc11a",
-      "title": "An iron-regulated methionine redox axis governs adipose browning and cancer cachexia",
-      "link": "https://www.nature.com/articles/s43018-026-01234-y",
-      "journal": "Nature Cancer",
-      "category": "Original Article",
-      "authors": "Jung Seung Nam, Sung Shin Ahn, Yeonoh Shin, Ariana Vargas-Castillo, Maya S. Dixon, Pardis Ahmadi, Kathrin Schilling, Fereshteh Zandkarimi, Alex Chen, Nal Ae Yoon, Harrison Cullen…",
-      "summary": "Nature Cancer, Published online: 22 September 2026; doi:10.1038/s43018-026-01234-y Chio and colleagues describe an iron-dependent pathway with a role in the induction of cancer cachexia-linked events such as adipose browning and identify methionine sulfoxide reductase A as an important and targetable factor in this…",
       "date": "2026-09-22T00:00:00Z",
       "date_display": "22 Sep 2026"
     },
@@ -640,28 +761,6 @@
       "date_display": "18 Sep 2026"
     },
     {
-      "id": "ca0352d847",
-      "title": "Plasticity of the infant immune system during the perinatal period",
-      "link": "https://www.nature.com/articles/s41577-026-01354-7",
-      "journal": "Nature Reviews Immunology",
-      "category": "Review Article",
-      "authors": "Katrin Kierdorf, Markus Sperandio, Mathias W. Hornef, Philipp Henneke",
-      "summary": "Nature Reviews Immunology, Published online: 18 September 2026; doi:10.1038/s41577-026-01354-7 Immune plasticity during the perinatal period enables mammalian offspring to successfully navigate the transition from prenatal, intrauterine life to postnatal, extrauterine life. This Review highlights recent advances in…",
-      "date": "2026-09-18T00:00:00Z",
-      "date_display": "18 Sep 2026"
-    },
-    {
-      "id": "ceb46fa388",
-      "title": "Viral mimicry escape as a necessary feature of malignant transformation",
-      "link": "https://www.nature.com/articles/s41568-026-00977-1",
-      "journal": "Nature Reviews Cancer",
-      "category": "Review Article",
-      "authors": "Raymond Chen, Aobo He, Håvard T. Lindholm, Daniel D. De Carvalho",
-      "summary": "Nature Reviews Cancer, Published online: 15 September 2026; doi:10.1038/s41568-026-00977-1 Viral mimicry is the activation of antiviral immune responses by endogenous nucleic acids that have accumulated in the cytosol. In this Review, Chen et al. highlight how cancer-associated epigenetic and transcriptional…",
-      "date": "2026-09-15T00:00:00Z",
-      "date_display": "15 Sep 2026"
-    },
-    {
       "id": "8bd3d079b2",
       "title": "Molecular residual disease: Charting a new path for treating resectable solid tumors",
       "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00357-0?rss=yes",
@@ -704,6 +803,17 @@
       "summary": "Hoefflin et al. define organizational principles of IDH-mutant gliomas using multimodal spatial profiling. They identify three spatial archetypes across histological grades and reveal that brain anatomy and hypoxia represent distinct spatial organizing forces, with the white-gray matter junction acting as a functional…",
       "date": "2026-09-14T00:00:00Z",
       "date_display": "14 Sep 2026"
+    },
+    {
+      "id": "87d264152c",
+      "title": "αTIGIT-guided IL-15 mimetics drive potent and safe antitumor immunity by restoring tumor-infiltrating T cells",
+      "link": "https://www.nature.com/articles/s41423-026-01467-y",
+      "journal": "Cellular and Molecular Immunology",
+      "category": "Original Article",
+      "authors": "Xiangming Liu, Nan Li, Yumeng Chen, Zijun Xie, Tao Huang, Shijie Li, Xinxin Wang, Ruiqi Zhang, Xiaohong Yu, Huiqin Meng, Jingya Guo, Yang Liu, Yang-Xin Fu, Zaopeng Yang",
+      "summary": "Cellular & Molecular Immunology, Published online: 11 September 2026; doi:10.1038/s41423-026-01467-y αTIGIT-guided IL-15 mimetics drive potent and safe antitumor immunity by restoring tumor-infiltrating T cells",
+      "date": "2026-09-11T00:00:00Z",
+      "date_display": "11 Sep 2026"
     },
     {
       "id": "9df26311d1",
@@ -770,6 +880,28 @@
       "summary": "Women with polyendocrine metabolic ovarian syndrome (PMOS) represent a particularly challenging patient population, characterized by the convergence of reproductive dysfunction, obesity, insulin resistance, and chronic inflammation. The emergence of glucagon-like peptide-1 receptor agonists (GLP-1RAs) offers a…",
       "date": "2026-09-08T00:00:00Z",
       "date_display": "8 Sep 2026"
+    },
+    {
+      "id": "fdef1ba6fe",
+      "title": "p97-mediated proteostasis is a checkpoint for late-stage thymocyte positive selection",
+      "link": "https://www.nature.com/articles/s41423-026-01466-z",
+      "journal": "Cellular and Molecular Immunology",
+      "category": "Original Article",
+      "authors": "Ruixian Yu, Weihong Zhang, Yi Han, Wenjia Wang, Yan Meng, Pingping Nie, Cuiwei Zhang, Zaisheng Ye, Bin Yan, Zhaocai Zhou, Shi Jiao",
+      "summary": "Cellular & Molecular Immunology, Published online: 07 September 2026; doi:10.1038/s41423-026-01466-z p97-mediated proteostasis is a checkpoint for late-stage thymocyte positive selection",
+      "date": "2026-09-07T00:00:00Z",
+      "date_display": "7 Sep 2026"
+    },
+    {
+      "id": "5e0e0ad693",
+      "title": "HnRNPK restrains memory precursor and plasma cell differentiation to control germinal center B-cell output",
+      "link": "https://www.nature.com/articles/s41423-026-01469-w",
+      "journal": "Cellular and Molecular Immunology",
+      "category": "Original Article",
+      "authors": "Jiayuan Li, Jing Wang, Silu Li, Changxu Chen, Chengyu Yang, Zhenya Liu, Xiaosu Ke, Zhuanhuai Wang, Bin Wang, Hui Li, Gui-Xin Ruan, Xijun Ou, Hengjun Huang",
+      "summary": "Cellular & Molecular Immunology, Published online: 07 September 2026; doi:10.1038/s41423-026-01469-w HnRNPK restrains memory precursor and plasma cell differentiation to control germinal center B-cell output",
+      "date": "2026-09-07T00:00:00Z",
+      "date_display": "7 Sep 2026"
     },
     {
       "id": "f347f3e1c2",
@@ -1188,138 +1320,6 @@
       "summary": "Kehl et al. characterize tumor-reactive T cells in the bone marrow of patients with multiple myeloma and AML. These cells adopt an effector state distinct from exhausted solid tumor TILs. The TFiT classifier stratifies immunotherapy, but not chemotherapy, response, identifying a latent, therapeutically engageable…",
       "date": "2026-08-10T00:00:00Z",
       "date_display": "10 Aug 2026"
-    },
-    {
-      "id": "66ca6694a2",
-      "title": "GDF15 suppresses liver inflammation independently of weight loss through neuroendocrine glucocorticoid signaling",
-      "link": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00281-0?rss=yes",
-      "journal": "Cell Metabolism",
-      "category": "Original Article",
-      "authors": "Dongdong Wang, Maria Joy Therese Jabile, Fiorella Di Pastena, Logan K. Townsend, Elham Ahmadi, Annabelle Hoegl, Alice Payne, Declan C.T. Lavoie, Battsetseg Batchuluun, Jaya…",
-      "summary": "Growth differentiation factor 15 (GDF15) suppresses liver inflammation and fibrosis in metabolic dysfunction-associated steatohepatitis (MASH), which is independent of reduced food intake, body weight, or steatosis. The study identifies the hypothalamic-pituitary-adrenal axis as a key mediator, revealing a brain-liver…",
-      "date": "2026-08-10T00:00:00Z",
-      "date_display": "10 Aug 2026"
-    },
-    {
-      "id": "810b1f50eb",
-      "title": "Deubiquitinase inhibition exposes a subtype-specific vulnerability in SCLC-P",
-      "link": "https://www.cell.com/trends/cancer/fulltext/S2405-8033(26)00164-0?rss=yes",
-      "journal": "Trends in Cancer",
-      "category": "Review Article",
-      "authors": "Matthew K. Summers",
-      "summary": "In a recent study published in Cell Press Blue, Huang et al. show that deubiquitinase-dependent stabilization of POU2F3 (POU class 2 homeobox 3), primarily driven by USP2 (Ubiquitin-Specific Protease 2), sustains the growth of the small cell lung cancer (SCLC)-P subtype of SCLC, revealing a strategy to exploit…",
-      "date": "2026-08-06T00:00:00Z",
-      "date_display": "6 Aug 2026"
-    },
-    {
-      "id": "7acfbec4a7",
-      "title": "HuR degradation reveals dependencies in BRAF-driven cancers",
-      "link": "https://www.cell.com/trends/cancer/fulltext/S2405-8033(26)00161-5?rss=yes",
-      "journal": "Trends in Cancer",
-      "category": "Review Article",
-      "authors": "Ivan R. Siordia, Jonathan R. Brody, Dan A. Dixon",
-      "summary": "Targeting RNA-binding proteins has been shown to be challenging due to the absence of druggable pockets. Recently, Lu et al. identified a molecular glue capable of degrading HuR and suppressing BRAF-mutant colorectal cancer. These findings offer a promising therapeutic pathway for the treatment of a subset of…",
-      "date": "2026-08-05T00:00:00Z",
-      "date_display": "5 Aug 2026"
-    },
-    {
-      "id": "4bff4a1ad0",
-      "title": "Lightning doesn’t strike twice in HPV-positive adenosquamous carcinoma",
-      "link": "https://www.cell.com/trends/cancer/fulltext/S2405-8033(26)00160-3?rss=yes",
-      "journal": "Trends in Cancer",
-      "category": "Review Article",
-      "authors": "Elizabeth A. White",
-      "summary": "Cancers containing histologically distinct cell populations could arise from multiple transforming events, from transdifferentiation late in tumor evolution, or from a single progenitor cell. Poulain and colleagues show that glandular and squamous cells in adenosquamous carcinomas caused by human papillomavirus…",
-      "date": "2026-08-04T00:00:00Z",
-      "date_display": "4 Aug 2026"
-    },
-    {
-      "id": "0b64671239",
-      "title": "A stress-adaptive lipid kinase axis defines metabolic vulnerabilities in neuroendocrine prostate cancer",
-      "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00312-0?rss=yes",
-      "journal": "Cancer Cell",
-      "category": "Original Article",
-      "authors": "Yang Zheng, Caleb Cheng, Yizhi Cao, Gabriel Cruz, Yuping Zhang, Radha Paturu, Somnath Mahapatra, Jing Hu, Rahul Mannan, Hüseyin Karabürk, Rupam Bhattacharyya, Yitong Yin, Yi Zhao…",
-      "summary": "Zheng et al. identify a PIKfyve-ER stress-lipogenesis axis that enables neuroendocrine prostate cancer cells to tolerate elevated basal ER stress through PIKfyve-dependent lysosomal homeostasis and SREBP-driven lipogenesis. Dual inhibition of PIKfyve and FASN disrupts these adaptive pathways, driving terminal UPR…",
-      "date": "2026-08-03T00:00:00Z",
-      "date_display": "3 Aug 2026"
-    },
-    {
-      "id": "6176afd41e",
-      "title": "RBPs tune Notch signalling to shape neural fate",
-      "link": "https://www.cell.com/trends/cell-biology/fulltext/S0962-8924(26)00133-9?rss=yes",
-      "journal": "Trends in Cell Biology",
-      "category": "Review Article",
-      "authors": "Shobana Sankar, Cédric Maurange",
-      "summary": "Maintaining the proper balance between stem cell self-renewal and differentiated progeny production is essential for tissue development. Li et al. (2026) uncover a novel post-transcriptional mechanism that fine-tunes Notch signalling in Drosophila neural progenitors to preserve this balance, expanding the growing…",
-      "date": "2026-08-03T00:00:00Z",
-      "date_display": "3 Aug 2026"
-    },
-    {
-      "id": "86daf1b6d5",
-      "title": "Parental leave in immunology - 10",
-      "link": "https://www.cell.com/trends/immunology/fulltext/S1471-4906(26)00184-5?rss=yes",
-      "journal": "Trends in Immunology",
-      "category": "Review Article",
-      "authors": "Sidonia Eckle",
-      "summary": "My research focuses on the fundamental biology of MAIT cells, a population of metabolite-sensing unconventional T cells. I investigate their roles in host defence and allergy, I also define MR1-presented antigens and the way they are recognised, with the aim of harnessing or inhibiting their function therapeutically.",
-      "date": "2026-07-31T00:00:00Z",
-      "date_display": "31 Jul 2026"
-    },
-    {
-      "id": "c5dbd467b8",
-      "title": "Depletion of an immature cord blood NK subset reverses trogocytosis-driven CAR NK dysfunction",
-      "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00304-1?rss=yes",
-      "journal": "Cancer Cell",
-      "category": "Original Article",
-      "authors": "Ye Li, Huihui Fan, Guohui Wang, Xin Wang, Rafet Basar, Maliha Nuzhat Munir, Nadima Uprety, Rejeena Shrestha, Ludovica La Posta, Bin Liu, Jeffrey Wilson, Prashant Menon, Natalie…",
-      "summary": "Li et al. identify a previously unrecognized NK cell subset that limits cord blood-derived CAR-NK cell therapy by diverting tumor targeting and promoting self-directed fratricide and show that donor cell composition shapes efficacy while offering a practical manufacturing strategy to improve consistency, persistence…",
-      "date": "2026-07-29T00:00:00Z",
-      "date_display": "29 Jul 2026"
-    },
-    {
-      "id": "054f9d1056",
-      "title": "Parental leave in immunology - 9",
-      "link": "https://www.cell.com/trends/immunology/fulltext/S1471-4906(26)00180-8?rss=yes",
-      "journal": "Trends in Immunology",
-      "category": "Review Article",
-      "authors": "Marta Crespi Sallan",
-      "summary": "I am a cancer biologist with a strong interest in B-cell biology, lymphoma evolution, and autoimmunity. I had my daughter in 2024 while completing my postdoctoral research in Professor Andrejs Braun’s laboratory at Barts Cancer Institute, Queen Mary University of London. Although I was entitled to up to 1 year of…",
-      "date": "2026-07-28T00:00:00Z",
-      "date_display": "28 Jul 2026"
-    },
-    {
-      "id": "c590fd1893",
-      "title": "Tumor-infiltrating plasma cell targets as a source for immunotherapies",
-      "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00307-7?rss=yes",
-      "journal": "Cancer Cell",
-      "category": "Original Article",
-      "authors": "Georgia Lattanzi, Daniel Hollern",
-      "summary": "Tumor-infiltrating plasma cells are key responders to immunotherapy. In this issue of Cancer Cell, Meyerhoff et al. show that plasma cells from lung lesions of anti-PD-1-treated patients target citrullinated proteins. Engineering CAR T cells with these plasma cells scFv reveals anti-tumor specificity without adverse…",
-      "date": "2026-07-27T00:00:00Z",
-      "date_display": "27 Jul 2026"
-    },
-    {
-      "id": "9c3d4181a2",
-      "title": "Tumor-infiltrating plasma cell profiling after PD-1 blockade reveals tumor-specific antibodies",
-      "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00310-7?rss=yes",
-      "journal": "Cancer Cell",
-      "category": "Original Article",
-      "authors": "R. Ryan Meyerhoff, Alan Chen, Jenny O’Brien, Carmen M. Anadon, Luis Uriel Lopez Bailon, Dayan Carrion-Estrada, Koravit Poysungnoen, Jared Lindenberger, Gabor Kemeny, Liliana…",
-      "summary": "Meyerhoff et al. identify tumor-infiltrating plasma cells as a source of antibodies with therapeutic potential. Their lead antibody, PC-1, recognizes citrullinated antigens on cancer and tumor-promoting myeloid cells and can be repurposed to guide CAR T cell therapy.",
-      "date": "2026-07-27T00:00:00Z",
-      "date_display": "27 Jul 2026"
-    },
-    {
-      "id": "e651f2e9ba",
-      "title": "A self-amplifying nerve-fibroblast circuit drives colorectal cancer progression",
-      "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00305-3?rss=yes",
-      "journal": "Cancer Cell",
-      "category": "Original Article",
-      "authors": "Hiroki Kobayashi, Tadashi Iida, Yosuke Ochiai, Akihiro Sakai, Ruth A. White, Yi Zeng, Xiaofei Zhi, Jin Qian, Feijing Wu, Biyun Zheng, Junya Arai, Masahiro Hata, Hualong Zheng…",
-      "summary": "Kobayashi et al. demonstrate that cholinergic signaling induces NTN1 secretion from colorectal CAFs, which in turn enhances intratumoral cholinergic innervation. Increased acetylcholine and CAF-derived NTN1 then accelerate cancer cell growth through tumoral CHRM3 and UNC5B. Blocking CHRM3 or NTN1 may represent a…",
-      "date": "2026-07-24T00:00:00Z",
-      "date_display": "24 Jul 2026"
     }
   ]
 }
