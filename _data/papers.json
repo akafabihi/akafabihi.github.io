@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T11:29:48Z",
+  "updated": "2026-10-11T11:43:12Z",
   "papers": [
     {
       "id": "6a8e7ef7a7",
@@ -112,6 +112,28 @@
       "date_display": "9 Oct 2026"
     },
     {
+      "id": "4806b9c9bd",
+      "title": "Metastasizing cancer cells leave an immunogenic trail",
+      "link": "https://www.nature.com/articles/s41577-026-01366-3",
+      "journal": "Nature Reviews Immunology",
+      "category": "Review Article",
+      "authors": "Yvonne Bordon",
+      "summary": "Nature Reviews Immunology, Published online: 09 October 2026; doi:10.1038/s41577-026-01366-3 Metastasizing cancer cells release migrasomes containing tumour-specific antigens that can promote T cell responses.",
+      "date": "2026-10-09T00:00:00Z",
+      "date_display": "9 Oct 2026"
+    },
+    {
+      "id": "873104958c",
+      "title": "LAG3 checkpoint function and its mechanism of action in therapeutic targeting",
+      "link": "https://www.nature.com/articles/s41577-026-01359-2",
+      "journal": "Nature Reviews Immunology",
+      "category": "Review Article",
+      "authors": "Yong Jiang, Dario A. A. Vignali, Haopeng Wang",
+      "summary": "Nature Reviews Immunology, Published online: 09 October 2026; doi:10.1038/s41577-026-01359-2 This Review explores how the immune checkpoint receptor lymphocyte activation gene 3 (LAG3) suppresses T cell activity through newly defined signalling mechanisms, including tonic and ligand-induced pathways. The Review…",
+      "date": "2026-10-09T00:00:00Z",
+      "date_display": "9 Oct 2026"
+    },
+    {
       "id": "a70abe012a",
       "title": "The urgent challenge of gastroesophageal cancer",
       "link": "https://www.nature.com/articles/s41568-026-00990-4",
@@ -185,6 +207,17 @@
       "category": "Original Article",
       "authors": "Noé Herbel, Clara Helal, Kaïssa Ouali, François-Xavier Danlos, Vincent Goldschmidt, Jean-Marie Michot, Ariane Laparra, Arthur Geraud, Patricia Martin-Romano, Périne Vuagnat, Alice…",
       "summary": "Abstract The Gustave Roussy Immune (GRIm) score, based on the neutrophil-to-lymphocyte ratio, serum albumin, and lactate dehydrogenase, is a validated prognostic marker in patients receiving immune checkpoint blockers (ICB). We evaluated its prognostic value in patients treated with bispecific CD3 T-cell engagers…",
+      "date": "2026-10-07T00:00:00Z",
+      "date_display": "7 Oct 2026"
+    },
+    {
+      "id": "2646e69b9c",
+      "title": "A guide to B cell metabolism",
+      "link": "https://www.nature.com/articles/s41577-026-01355-6",
+      "journal": "Nature Reviews Immunology",
+      "category": "Review Article",
+      "authors": "Yavuz F. Yazicioglu, Glenn R. Bantug, Christoph Hess, Alexander J. Clarke",
+      "summary": "Nature Reviews Immunology, Published online: 07 October 2026; doi:10.1038/s41577-026-01355-6 Metabolic control is an integral component of B cell physiology, shaping fate decisions and effector functions, while also driving maladaptive programmes that contribute to diverse pathologies. This Review provides an overview…",
       "date": "2026-10-07T00:00:00Z",
       "date_display": "7 Oct 2026"
     },
@@ -361,6 +394,17 @@
       "category": "Original Article",
       "authors": "Benjamin A. Brakel, Dillon McKenna, Anish Puri, Muhammad Vaseem Shaikh, Manoj Singh, Ali Saleh, Abdo-jose Tomajian, Nicholas Mikolajewicz, Marcello Beltrami, Maxwell Topley…",
       "summary": "Abstract Glioblastoma (GBM) is an aggressive brain tumor characterized by therapy resistance and recurrence. GBM stem cells (GSC) are key drivers of tumor maintenance, therapeutic resistance, and relapse, but targeting them remains clinically elusive due to their overlap with normal neural stem cells (NSC) and a lack…",
+      "date": "2026-10-05T00:00:00Z",
+      "date_display": "5 Oct 2026"
+    },
+    {
+      "id": "791eefd225",
+      "title": "Sympathetic nerve activity primes susceptibility to autoimmune hair loss",
+      "link": "https://www.nature.com/articles/s41577-026-01365-4",
+      "journal": "Nature Reviews Immunology",
+      "category": "Review Article",
+      "authors": "Kirsty Minton",
+      "summary": "Nature Reviews Immunology, Published online: 05 October 2026; doi:10.1038/s41577-026-01365-4 A study in Nature by Cui et al. reports that sympathetic nerve activity during the growth phase of hair follicles activates endogenous retroviruses, leading to an innate immune response that destabilizes immune privilege.",
       "date": "2026-10-05T00:00:00Z",
       "date_display": "5 Oct 2026"
     },
@@ -649,6 +693,50 @@
       "summary": "Nature Cancer, Published online: 29 September 2026; doi:10.1038/s43018-026-01239-7 Cytology is required for cancer screening and cancer diagnosis, yet most artificial intelligence systems assist cytology at individual tasks and specific specimen types. We developed CROWN, a universal foundation model for cytology that…",
       "date": "2026-09-29T00:00:00Z",
       "date_display": "29 Sep 2026"
+    },
+    {
+      "id": "34f8543ef6",
+      "title": "The effects of IFNγ on tissue physiology through structural cells",
+      "link": "https://www.nature.com/articles/s41577-026-01357-4",
+      "journal": "Nature Reviews Immunology",
+      "category": "Review Article",
+      "authors": "Irah L. King, Bana Jabri, Amanda W. Lund, Andrew Wang",
+      "summary": "Nature Reviews Immunology, Published online: 29 September 2026; doi:10.1038/s41577-026-01357-4 In this Perspective, the authors use examples from evolution, animal models of disease and clinical results to explore how IFNγ, a quintessential antipathogen cytokine, also has a fundamental role in tissue homeostasis and…",
+      "date": "2026-09-29T00:00:00Z",
+      "date_display": "29 Sep 2026"
+    },
+    {
+      "id": "ac99248f98",
+      "title": "Drugging the immune system: principles of immunopharmacology",
+      "link": "https://www.nature.com/articles/s41577-026-01361-8",
+      "journal": "Nature Reviews Immunology",
+      "category": "Review Article",
+      "authors": "E. John Wherry",
+      "summary": "Nature Reviews Immunology, Published online: 28 September 2026; doi:10.1038/s41577-026-01361-8 Immune-based therapies have transformed the treatment of cancer and inflammatory and autoimmune diseases, but treatment is often suboptimal and the ability to predictably harness the immune system for new therapies remains…",
+      "date": "2026-09-28T00:00:00Z",
+      "date_display": "28 Sep 2026"
+    },
+    {
+      "id": "f5c3ae7e64",
+      "title": "‘Trained’ sensory neurons drive allergic sensitization",
+      "link": "https://www.nature.com/articles/s41577-026-01362-7",
+      "journal": "Nature Reviews Immunology",
+      "category": "Review Article",
+      "authors": "Kirsty Minton",
+      "summary": "Nature Reviews Immunology, Published online: 28 September 2026; doi:10.1038/s41577-026-01362-7 A study in Immunity reports that protease allergens ‘train’ sensory neurons through metabolic remodelling to enhance the response to re-exposure.",
+      "date": "2026-09-28T00:00:00Z",
+      "date_display": "28 Sep 2026"
+    },
+    {
+      "id": "9738ef7bae",
+      "title": "What the ‘negative space’ tells us about the immunology of multiple sclerosis",
+      "link": "https://www.nature.com/articles/s41577-026-01358-3",
+      "journal": "Nature Reviews Immunology",
+      "category": "Review Article",
+      "authors": "Max Kaufmann, Ralf Gold, Lars Fugger",
+      "summary": "Nature Reviews Immunology, Published online: 28 September 2026; doi:10.1038/s41577-026-01358-3 By exploring five enduring “negative spaces” in multiple sclerosis (MS) research, Kaufmann, Gold and Fugger challenge simple explanations of disease pathogenesis. Their Comment argues that MS emerges from complex…",
+      "date": "2026-09-28T00:00:00Z",
+      "date_display": "28 Sep 2026"
     },
     {
       "id": "47d0903664",
@@ -1232,94 +1320,6 @@
       "summary": "The intestinal barrier harbors numerous intraepithelial lymphocytes (IELs) that promote tissue integrity and whose dysfunction contributes to disease. Earley et al. studied the G-protein coupled receptor signals regulating IEL movement and function and found that Gα13-Arhgef1 signaling guides CD8+ IEL migration and…",
       "date": "2026-08-17T00:00:00Z",
       "date_display": "17 Aug 2026"
-    },
-    {
-      "id": "9e60b6fbe6",
-      "title": "Granzyme B Is Critical for T Cell Receptor-Induced Cell Death of Type 2 Helper T Cells",
-      "link": "https://www.cell.com/immunity/fulltext/S1074-7613(26)00343-2?rss=yes",
-      "journal": "Immunity",
-      "category": "Original Article",
-      "authors": "Satish Devadas, Jyoti Das, Catherine Liu, Liying Zhang, Arthur I. Roberts, Zui Pan, Paul A. Moore, Gobardhan Das, Yufang Shi",
-      "summary": "(Immunity 25, 237–247; August 2006)",
-      "date": "2026-08-14T00:00:00Z",
-      "date_display": "14 Aug 2026"
-    },
-    {
-      "id": "1ffe46167a",
-      "title": "One lipid to imprint them all?",
-      "link": "https://www.cell.com/trends/immunology/fulltext/S1471-4906(26)00188-2?rss=yes",
-      "journal": "Trends in Immunology",
-      "category": "Review Article",
-      "authors": "Nicolas Cénac, Dan Corral",
-      "summary": "A recent report by Fan et al. identifies trans-vaccenic acid, a maternal diet-derived lipid transferred through breast milk, as a key regulator of neonatal T-cell development. Beyond identifying a single bioactive metabolite, this study positions breast milk as a source of developmental signals that shape lifelong…",
-      "date": "2026-08-14T00:00:00Z",
-      "date_display": "14 Aug 2026"
-    },
-    {
-      "id": "f4d0212c78",
-      "title": "UV irradiation drives lineage-specific MITF-mediated transcription of PD-L1 to confer immune tolerance to UV-mutated melanocytes",
-      "link": "https://www.cell.com/immunity/fulltext/S1074-7613(26)00317-1?rss=yes",
-      "journal": "Immunity",
-      "category": "Original Article",
-      "authors": "Jennifer A. Lo, Inbal Rachmin, Jessica L. Flesher, Xunwei Wu, Akinori Kawakami, Miroslav Hejna, Judith R. Boozer, Nhu Nguyen, Andrew D. King, Yawen Ji, Sharon Germana, Lajos V…",
-      "summary": "UVR-damaged melanocytes evade immune attack despite harboring many mutations. Lo et al. show that MITF, a transcriptional regulator crucial to melanocyte identity, directly induces the immune checkpoint molecule PD-L1. This intrinsic tolerance program shields melanocytes from T cells, limiting autoimmune melanocyte…",
-      "date": "2026-08-13T00:00:00Z",
-      "date_display": "13 Aug 2026"
-    },
-    {
-      "id": "27b00deeab",
-      "title": "EGFR-targeting ADCs: From oncogene addiction to antigen-guided drug delivery",
-      "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00344-2?rss=yes",
-      "journal": "Cancer Cell",
-      "category": "Original Article",
-      "authors": "Lihui Liu, Kailun Fei, Jie Wang",
-      "summary": "In this issue of Cancer Cell, Li et al. report a first-in-human phase 1 study of SYS6010, an epidermal growth factor receptor (EGFR)-targeting antibody-drug conjugate, in advanced solid tumors. The study highlights how EGFR-directed therapy moves beyond kinase inhibition toward antigen-guided cytotoxic delivery in…",
-      "date": "2026-08-13T00:00:00Z",
-      "date_display": "13 Aug 2026"
-    },
-    {
-      "id": "259fb223b5",
-      "title": "SYS6010, epidermal growth factor receptor-targeting antibody-drug conjugate for advanced non-small cell lung cancer: A phase 1 trial",
-      "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00350-8?rss=yes",
-      "journal": "Cancer Cell",
-      "category": "Original Article",
-      "authors": "Zi-Ming Li, Zhen Zhou, Zhi-Yong He, Liang Han, Jian Fang, Hong-Mei Sun, Hai-Feng Liu, Ming-Xia Wang, Yi-Bing Liu, Xiu-Juan Qu, Yu Yao, Yi Gong, Yan Yu, Hua-Qiu Shi, Yan Wang…",
-      "summary": "Li et al. report results from a first-in-human study showing that SYS6010, an EGFR-targeted antibody-drug conjugate, demonstrates encouraging antitumor activity with a tolerable safety profile in pretreated advanced NSCLC, providing evidence that warrants further clinical development.",
-      "date": "2026-08-13T00:00:00Z",
-      "date_display": "13 Aug 2026"
-    },
-    {
-      "id": "95fb11f2fe",
-      "title": "Coordinated transcriptional networks program organelle expansion and metabolic flows for high endothelial morphology and function",
-      "link": "https://www.cell.com/immunity/fulltext/S1074-7613(26)00313-4?rss=yes",
-      "journal": "Immunity",
-      "category": "Original Article",
-      "authors": "Yuhan Bi, Kevin Brulois, Aiman Ayesha, Menglan Xiang, Romain Ballet, Borja Ocón, Theresa Dinh, Nicole Lazarus, Manali Kunte, Griselda Ramos, Florea Lupu, Jonathan H. Lin, Eugene…",
-      "summary": "High endothelial venules require specialized morphology and PNAd expression to support lymphocyte homing; however, the transcriptional mechanisms coordinating these defining features have remained unclear. Bi et al. identify XBP1-dependent and CREB3L2-associated adaptive ER programs that couple organelle expansion…",
-      "date": "2026-08-11T00:00:00Z",
-      "date_display": "11 Aug 2026"
-    },
-    {
-      "id": "6c1de7ccd3",
-      "title": "Latent tumor killers awakened",
-      "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00308-9?rss=yes",
-      "journal": "Cancer Cell",
-      "category": "Original Article",
-      "authors": "Haochen Yang, Chenqi Xu",
-      "summary": "In this issue of Cancer Cell, Kehl et al. construct a single-cell atlas of bone marrow T cells from patients with bone marrow-resident malignancies, identifying tumor-reactive populations existing in a state of latent competence. A 15-gene signature identifies this subset, which is expanded by immunotherapies and…",
-      "date": "2026-08-10T00:00:00Z",
-      "date_display": "10 Aug 2026"
-    },
-    {
-      "id": "cf6d731681",
-      "title": "Latent effector T cells mediate immunotherapy responses in the bone marrow microenvironment",
-      "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00349-1?rss=yes",
-      "journal": "Cancer Cell",
-      "category": "Original Article",
-      "authors": "Niklas Kehl, Tim R. Wagner, Simon Steiger, Tamara Boschert, Michael Kilian, Antonia Schach, Julius J. Michel, Kane Foster, Gabrielle M. Hernandez, Claudia Ctortecka, Anna D…",
-      "summary": "Kehl et al. characterize tumor-reactive T cells in the bone marrow of patients with multiple myeloma and AML. These cells adopt an effector state distinct from exhausted solid tumor TILs. The TFiT classifier stratifies immunotherapy, but not chemotherapy, response, identifying a latent, therapeutically engageable…",
-      "date": "2026-08-10T00:00:00Z",
-      "date_display": "10 Aug 2026"
     }
   ]
 }
