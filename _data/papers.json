@@ -1,6 +1,83 @@
 {
-  "updated": "2026-10-30T11:46:30Z",
+  "updated": "2026-10-31T11:20:24Z",
   "papers": [
+    {
+      "id": "d782142a63",
+      "title": "Nuclear NAD+ promotes innate immune memory by inhibiting KDM5A-dependent histone demethylation",
+      "link": "https://www.science.org/doi/abs/10.1126/sciimmunol.aea5625?af=R",
+      "journal": "Science Immunology",
+      "category": "Original Article",
+      "authors": "Huan Jin, Zining Wang, Yongxiang Liu, Zifeng Wang, Mengyun Li, Ju Xue, Yiqun Zhang, Tiantian Yu, Shoujie Wang, Bitao Huo, Chunwei Li, Xiaojuan Wang, Ruhui Yao, Huanling Zhang…",
+      "summary": "Science Immunology, Volume 11, Issue 124, October 2026.",
+      "date": "2026-10-30T07:00:00Z",
+      "date_display": "30 Oct 2026"
+    },
+    {
+      "id": "8e39161358",
+      "title": "Antibodies to distinct epitopes on MPXV enveloped virion provide additive and complete protection",
+      "link": "https://www.science.org/doi/abs/10.1126/sciimmunol.aee7011?af=R",
+      "journal": "Science Immunology",
+      "category": "Original Article",
+      "authors": "Ding Zhang, Raianna F. Fantin, Xueyong Zhu, Ziqi Feng, Seok-Chan Park, Gabriel Laghlali, Jordan J. Clark, Guilherme M. Nobrega, Angelica C. Kottkamp, Marie I. Samanovic, Mark J…",
+      "summary": "Science Immunology, Volume 11, Issue 124, October 2026.",
+      "date": "2026-10-30T07:00:00Z",
+      "date_display": "30 Oct 2026"
+    },
+    {
+      "id": "3723d10c7c",
+      "title": "Metabolic licensing of innate immune memory",
+      "link": "https://www.science.org/doi/abs/10.1126/sciimmunol.aek9099?af=R",
+      "journal": "Science Immunology",
+      "category": "Original Article",
+      "authors": "Musa M. Mhlanga and Andrew A. Pieper",
+      "summary": "Science Immunology, Volume 11, Issue 124, October 2026.",
+      "date": "2026-10-30T07:00:00Z",
+      "date_display": "30 Oct 2026"
+    },
+    {
+      "id": "f8b40f71a9",
+      "title": "Targeting GALE harnesses γδ T cells for cancer immunotherapy",
+      "link": "https://www.nature.com/articles/s43018-026-01203-5",
+      "journal": "Nature Cancer",
+      "category": "Original Article",
+      "authors": "Jana L. Raynor, Hongbo Chi",
+      "summary": "Nature Cancer, Published online: 30 October 2026; doi:10.1038/s43018-026-01203-5 Cancer cells can evade the immune system through mechanisms such as downregulation of MHC I molecules and expression of inhibitory ligands. Research now shows that targeting the metabolic enzyme GALE in tumor cells boosts the killing of…",
+      "date": "2026-10-30T00:00:00Z",
+      "date_display": "30 Oct 2026"
+    },
+    {
+      "id": "4c6e5e2509",
+      "title": "GALE is a tumor-intrinsic checkpoint of Vγ9Vδ2 T cell-mediated killing",
+      "link": "https://www.nature.com/articles/s43018-026-01249-5",
+      "journal": "Nature Cancer",
+      "category": "Original Article",
+      "authors": "Zezhi Shan, Dongdong Wang, Zening Zheng, Zilan Ye, Shiyu Mao, Longyan Xie, Yaxu Li, Yadong Guo, Linjun Weng, Qi Wu, Yanjin Wang, Qiao Ran, Yanrong Yang, Tingting Niu, Li Li, Dakui…",
+      "summary": "Nature Cancer, Published online: 30 October 2026; doi:10.1038/s43018-026-01249-5 Shan et al. identified UDP-galactose 4-epimerase as an immune checkpoint of Vγ9Vδ2 T cell-mediated cancer cell killing by enhancing interaction of CD155 and CEACAM1 with their receptors TIGIT and TIM3, respectively, and simultaneously…",
+      "date": "2026-10-30T00:00:00Z",
+      "date_display": "30 Oct 2026"
+    },
+    {
+      "id": "e8c75b337b",
+      "title": "BAZ2A-induced epigenetic states in cancer cells fuel palmitate accumulation in the tumor microenvironment driving CAR-T cell exhaustion",
+      "link": "https://www.nature.com/articles/s43018-026-01267-3",
+      "journal": "Nature Cancer",
+      "category": "Original Article",
+      "authors": "Hongye Wang, Haigang Geng, Jingtong Zhao, Haodong Ge, Yan Shen, Zhaorong Wu, Linke Bian, Jinlu Zuo, Zhen Sun, Ying Yang, Jiufei Zhu, Weiming Shen, Jiaojiao Zheng, Dan Cui, Jiawei…",
+      "summary": "Nature Cancer, Published online: 30 October 2026; doi:10.1038/s43018-026-01267-3 Wang et al. reveal that epigenetic remodeling driven by BAZ2A in renal cancer cells induces the production of palmitate that is taken up by tumor-infiltrating cells, resulting in impaired metabolic fitness of CAR-T cells via PGC-1α…",
+      "date": "2026-10-30T00:00:00Z",
+      "date_display": "30 Oct 2026"
+    },
+    {
+      "id": "243adfc535",
+      "title": "ANO6-mediated trogocytosis of cancer-associated fibroblasts promotes pancreatic cancer cell growth and immune suppression",
+      "link": "https://www.nature.com/articles/s43018-026-01265-5",
+      "journal": "Nature Cancer",
+      "category": "Original Article",
+      "authors": "Charline Ogier, Akino Mercy Charles Solomon, Elena Bondarenko, Zhijing Wu, Zhen Lu, Quoc Thang Bui, Mayura R. Dhamdhere, Yingying Tang, Ludmila Recoules, Alena Klochkova, Linara…",
+      "summary": "Nature Cancer, Published online: 30 October 2026; doi:10.1038/s43018-026-01265-5 Ogier et al. uncover that cancer-associated fibroblasts fuel pancreatic tumor growth and immune suppression by transferring membrane lipids to cancer cells through anoctamin 6-dependent trogocytosis.",
+      "date": "2026-10-30T00:00:00Z",
+      "date_display": "30 Oct 2026"
+    },
     {
       "id": "647e0b263e",
       "title": "Linda J. Miller (1958–2026)",
@@ -9,6 +86,17 @@
       "category": "Original Article",
       "authors": "Editorial team Nature Immunology",
       "summary": "Nature Immunology, Published online: 30 October 2026; doi:10.1038/s41590-026-02722-0 Linda J. Miller (1958–2026)",
+      "date": "2026-10-30T00:00:00Z",
+      "date_display": "30 Oct 2026"
+    },
+    {
+      "id": "11af5b9eb8",
+      "title": "Elucidating the Gene Expression Signature of Rosai–Dorfman Disease: A Study from the Atlas of Blood Cancer Genomes Initiative",
+      "link": "https://aacrjournals.org/cancerrescommun/article/6/10/2555/789735/Elucidating-the-Gene-Expression-Signature-of-Rosai",
+      "journal": "Cancer Research",
+      "category": "Original Article",
+      "authors": "",
+      "summary": "Abstract Rosai–Dorfman disease (RDD) is a rare histiocytic disorder characterized by the accumulation of large histiocytes in nodal and/or extranodal sites. The underlying biology of RDD and factors that distinguish it from other histiocyte disorders are poorly understood. To better understand the disease biology, we…",
       "date": "2026-10-30T00:00:00Z",
       "date_display": "30 Oct 2026"
     },
@@ -90,17 +178,6 @@
       "date_display": "28 Oct 2026"
     },
     {
-      "id": "6aee8376ea",
-      "title": "Publisher Correction: A futile Na + K + transport cycle augments energy expenditure in beige adipocytes",
-      "link": "https://www.nature.com/articles/s42255-026-01673-y",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "Qing Liu, Ying Cheng, Dandan Yan, Wenjie Wu, Zhenchuan Lei, Qiaoyun Long, Ziyu Zhao, Yuan Gao, Baile Wang, Tianshi Feng, Jihoon Shin, Jiayu Zhao, Shiting Zhao, Kang Chen, Kingyip…",
-      "summary": "Nature Metabolism, Published online: 28 October 2026; doi:10.1038/s42255-026-01673-y Publisher Correction: A futile Na + K + transport cycle augments energy expenditure in beige adipocytes",
-      "date": "2026-10-28T00:00:00Z",
-      "date_display": "28 Oct 2026"
-    },
-    {
       "id": "ae57315651",
       "title": "Macrophage biology and immunoregulation in health and disease",
       "link": "https://www.nature.com/articles/s41423-026-01486-9",
@@ -123,6 +200,17 @@
       "date_display": "28 Oct 2026"
     },
     {
+      "id": "1bfd6a9678",
+      "title": "Granzyme K-expressing CD8 + T cells, complement activation and histotoxic immunity",
+      "link": "https://www.nature.com/articles/s41577-026-01364-5",
+      "journal": "Nature Reviews Immunology",
+      "category": "Review Article",
+      "authors": "Xin Liu, Hai Qi",
+      "summary": "Nature Reviews Immunology, Published online: 28 October 2026; doi:10.1038/s41577-026-01364-5 This Perspective discusses the emerging biology of a unique population of granzyme K-expressing CD8+ T cells. Unlike canonical cytotoxic CD8+ T cells, which mediate direct cell killing, granzyme K-expressing CD8+ T cells…",
+      "date": "2026-10-28T00:00:00Z",
+      "date_display": "28 Oct 2026"
+    },
+    {
       "id": "1f84770b1f",
       "title": "TRAM-dependent myddosomes",
       "link": "https://www.nature.com/articles/s41590-026-02716-y",
@@ -130,28 +218,6 @@
       "category": "Original Article",
       "authors": "Nicholas J. Bernard",
       "summary": "Nature Immunology, Published online: 27 October 2026; doi:10.1038/s41590-026-02716-y TRAM-dependent myddosomes",
-      "date": "2026-10-27T00:00:00Z",
-      "date_display": "27 Oct 2026"
-    },
-    {
-      "id": "9ad4aad9a1",
-      "title": "Respiratory stress unmasks asparagine vulnerability",
-      "link": "https://www.nature.com/articles/s42255-026-01647-0",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "Yan Jin, Min Ni",
-      "summary": "Nature Metabolism, Published online: 27 October 2026; doi:10.1038/s42255-026-01647-0 Cells can tolerate substantial mitochondrial stress through anaplerosis. Cui et al. identify pyruvate carboxylase as a key metabolic control point for asparagine auxotrophy that emerges with severe respiratory dysfunction.",
-      "date": "2026-10-27T00:00:00Z",
-      "date_display": "27 Oct 2026"
-    },
-    {
-      "id": "38c3c5efb5",
-      "title": "Respiration-deficient cells require pyruvate carboxylase to suppress asparagine auxotrophy",
-      "link": "https://www.nature.com/articles/s42255-026-01651-4",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "Ruobing Cui, Keun Woo Ryu, Yi Fu, Ziad Bakouny, Dayi Li, Tamar Kavlashvili, Agnel Sfeir, Craig B. Thompson",
-      "summary": "Nature Metabolism, Published online: 27 October 2026; doi:10.1038/s42255-026-01651-4 This study shows that high mitochondrial heteroplasmy drives a pyruvate carboxylase-dependent metabolic vulnerability, rendering respiration-deficient cells auxotrophic for asparagine.",
       "date": "2026-10-27T00:00:00Z",
       "date_display": "27 Oct 2026"
     },
@@ -174,6 +240,17 @@
       "category": "Original Article",
       "authors": "Karisa C. Schreck, Bachchu Lal, Jianli Zhou, Hernando Lopez-Bertoni, Matthias Holdhoff, Reginald Ewesuedo, Kishor Bhatia, Marc Chamberlain, John Laterra",
       "summary": "Abstract Purpose: Limited central nervous system (CNS) bioavailability and pharmacodynamics are obstacles to effective systemic therapies for glioblastoma (GBM). One strategy to overcome these challenges is drug combinations enhancing CNS penetration and/or tumor chemosensitivity. LP-184 (zirdafulven), a synthetic…",
+      "date": "2026-10-27T00:00:00Z",
+      "date_display": "27 Oct 2026"
+    },
+    {
+      "id": "66c2b60027",
+      "title": "An epigenetic regulator that promotes NK cell function",
+      "link": "https://www.nature.com/articles/s41577-026-01370-7",
+      "journal": "Nature Reviews Immunology",
+      "category": "Review Article",
+      "authors": "Juliana Lourenco, Arthur Mortha",
+      "summary": "Nature Reviews Immunology, Published online: 27 October 2026; doi:10.1038/s41577-026-01370-7 A preprint by Kazane et al. reports a role for the histone methytransferase KMT2D in controlling the secretory function of natural killer cells.",
       "date": "2026-10-27T00:00:00Z",
       "date_display": "27 Oct 2026"
     },
@@ -299,17 +376,6 @@
       "date_display": "23 Oct 2026"
     },
     {
-      "id": "4e58f42985",
-      "title": "Author Correction: Multiomic analysis of familial adenomatous polyposis reveals molecular pathways associated with early tumorigenesis",
-      "link": "https://www.nature.com/articles/s43018-026-01279-z",
-      "journal": "Nature Cancer",
-      "category": "Original Article",
-      "authors": "Edward D. Esplin, Casey Hanson, Si Wu, Aaron M. Horning, Nasim Bararpour, Stephanie A. Nevins, Lihua Jiang, Kévin Contrepois, Hayan Lee, Tuhin K. Guha, Zheng Hu, Rozelle…",
-      "summary": "Nature Cancer, Published online: 22 October 2026; doi:10.1038/s43018-026-01279-z Author Correction: Multiomic analysis of familial adenomatous polyposis reveals molecular pathways associated with early tumorigenesis",
-      "date": "2026-10-22T00:00:00Z",
-      "date_display": "22 Oct 2026"
-    },
-    {
       "id": "6487709e22",
       "title": "HIV and Antiretroviral Therapy Influence Tumor Microenvironment Architecture, Subclonal Evolution, and Immune Evasion Strategies in Diffuse Large B-cell Lymphoma",
       "link": "https://aacrjournals.org/cancerrescommun/article/6/10/2475/789487/HIV-and-Antiretroviral-Therapy-Influence-Tumor",
@@ -343,17 +409,6 @@
       "date_display": "22 Oct 2026"
     },
     {
-      "id": "d8cc8a1c17",
-      "title": "A futile Na + K + transport cycle augments energy expenditure in beige adipocytes",
-      "link": "https://www.nature.com/articles/s42255-026-01630-9",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "Qing Liu, Ying Cheng, Dandan Yan, Wenjie Wu, Zhenchuan Lei, Qiaoyun Long, Ziyu Zhao, Yuan Gao, Baile Wang, Tianshi Feng, Jihoon Shin, Jiayu Zhao, Shiting Zhao, Kang Chen, Kingyip…",
-      "summary": "Nature Metabolism, Published online: 21 October 2026; doi:10.1038/s42255-026-01630-9 A futile Na+ K+ transport cycle, which is preferentially active in beige adipocytes, is shown to promote energy expenditure independent of uncoupling protein 1.",
-      "date": "2026-10-21T00:00:00Z",
-      "date_display": "21 Oct 2026"
-    },
-    {
       "id": "5c03669117",
       "title": "Setanaxib Added to Pembrolizumab for Fibroblast-Rich, Recurrent, or Metastatic Squamous Cell Carcinoma of the Head and Neck: A Phase II Randomized Study",
       "link": "https://aacrjournals.org/cancerrescommun/article/6/10/2463/789474/Setanaxib-Added-to-Pembrolizumab-for-Fibroblast",
@@ -374,17 +429,6 @@
       "summary": "Abstract Real-world outcome data for patients with FGFR gene alteration–positive ( FGFR alt) advanced/metastatic solid tumors after standard-of-care (SOC) exhaustion are lacking. De-identified data from a custom-curated Flatiron Health Foundation Medicine Clinico–Genomic database were used in this retrospective…",
       "date": "2026-10-20T00:00:00Z",
       "date_display": "20 Oct 2026"
-    },
-    {
-      "id": "97cfda29bc",
-      "title": "Author Correction: Scribble mis-localization induces adaptive resistance to KRAS G12C inhibitors through feedback activation of MAPK signaling mediated by YAP-induced MRAS",
-      "link": "https://www.nature.com/articles/s43018-026-01273-5",
-      "journal": "Nature Cancer",
-      "category": "Original Article",
-      "authors": "Yuta Adachi, Ryo Kimura, Kentaro Hirade, Shogo Yanase, Yuki Nishioka, Natsumi Kasuga, Rui Yamaguchi, Hiromichi Ebi",
-      "summary": "Nature Cancer, Published online: 19 October 2026; doi:10.1038/s43018-026-01273-5 Author Correction: Scribble mis-localization induces adaptive resistance to KRAS G12C inhibitors through feedback activation of MAPK signaling mediated by YAP-induced MRAS",
-      "date": "2026-10-19T00:00:00Z",
-      "date_display": "19 Oct 2026"
     },
     {
       "id": "213898f03d",
@@ -431,17 +475,6 @@
       "date_display": "16 Oct 2026"
     },
     {
-      "id": "1f3c07e1ba",
-      "title": "NNMT enhances hyperandrogenism in polyendocrine metabolic ovarian syndrome through epigenetic remodelling",
-      "link": "https://www.nature.com/articles/s42255-026-01625-6",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "Weiwei Huang, Chuanjin Yu, Yishu Wang, Ningxia Sun, Liang Wang, Jun Ren, Yue Xu, Xinghui Guo, Xinyuan Li, Yiting Mao, Jiexue Pan, Tingting Liu, Hongbo Yang, Hefeng Huang",
-      "summary": "Nature Metabolism, Published online: 16 October 2026; doi:10.1038/s42255-026-01625-6 Nicotinamide N-methyltransferase promotes and sustains hyperandrogenism in polyendocrine metabolic ovarian syndrome through metabolic and epigenetic reprogramming.",
-      "date": "2026-10-16T00:00:00Z",
-      "date_display": "16 Oct 2026"
-    },
-    {
       "id": "dd09a0e5d1",
       "title": "Glutamate attenuates the ILC2 response and allergic airway inflammation via the kainate receptor GluK2",
       "link": "https://www.nature.com/articles/s41423-026-01461-4",
@@ -475,28 +508,6 @@
       "date_display": "16 Oct 2026"
     },
     {
-      "id": "585d143d33",
-      "title": "Metabolic homeostasis and women’s reproductive health",
-      "link": "https://www.nature.com/articles/s42255-026-01646-1",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "Xiao Liu, Lili Yang, Jingjing Jiang, Hsun-Ming Chang, Liangshan Mu",
-      "summary": "Nature Metabolism, Published online: 15 October 2026; doi:10.1038/s42255-026-01646-1 This Review highlights the interplay between metabolic homeostasis and female reproductive health and examines metabolism-focused therapeutic strategies for disorders that intersect the reproductive and metabolic systems, such as…",
-      "date": "2026-10-15T00:00:00Z",
-      "date_display": "15 Oct 2026"
-    },
-    {
-      "id": "3e0653642c",
-      "title": "IRF7 signalling in tanycytes controls brain–body–immune response across the ovarian cycle",
-      "link": "https://www.nature.com/articles/s42255-026-01635-4",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "Sreekala Nampoothiri, Daniela Fernandois, Nathalie Journiac, Fabien Delahaye, Yvon Mbouamboua, Florent Sauve, Marie Couralet, Sarah Gallet, Naziha Mroueh, Maria Laura Serradas…",
-      "summary": "Nature Metabolism, Published online: 15 October 2026; doi:10.1038/s42255-026-01635-4 This study reports a cellular map of the mouse and human mediobasal hypothalamus, revealing an immune cell-like state of tanycytes, which is influenced by sex and the ovarian cycle.",
-      "date": "2026-10-15T00:00:00Z",
-      "date_display": "15 Oct 2026"
-    },
-    {
       "id": "89630468dc",
       "title": "Melanoma Recurrence Prediction Using a Tissue-Free Epigenomic Molecular Residual Disease Assay: A Multicenter Prospective Observational Study (COSMOS-MEL01)",
       "link": "https://aacrjournals.org/cancerrescommun/article/6/10/2412/789415/Melanoma-Recurrence-Prediction-Using-a-Tissue-Free",
@@ -506,39 +517,6 @@
       "summary": "Abstract Despite recent adoption of perioperative therapy for high-risk melanoma, its overall survival (OS) benefit remains unclear, highlighting the need for biomarkers to identify patients likely to benefit from treatment. Detection of circulating tumor DNA (ctDNA) after definitive treatment predicts recurrence, and…",
       "date": "2026-10-15T00:00:00Z",
       "date_display": "15 Oct 2026"
-    },
-    {
-      "id": "30c9f7183f",
-      "title": "Stroke-induced astrocyte memories promote glioma progression",
-      "link": "https://www.nature.com/articles/s43018-026-01251-x",
-      "journal": "Nature Cancer",
-      "category": "Original Article",
-      "authors": "Brian M. Andersen, Francisco J. Quintana",
-      "summary": "Nature Cancer, Published online: 14 October 2026; doi:10.1038/s43018-026-01251-x The impact of earlier brain insults on the glioblastoma microenvironment is poorly understood. A study now shows that prior stroke alters astrocytes to promote glioblastoma growth and invasion via downregulation of calcium signaling.",
-      "date": "2026-10-14T00:00:00Z",
-      "date_display": "14 Oct 2026"
-    },
-    {
-      "id": "dec6bcde7d",
-      "title": "Reframing cancer therapy through tumor plasticity",
-      "link": "https://www.nature.com/articles/s43018-026-01232-0",
-      "journal": "Nature Cancer",
-      "category": "Original Article",
-      "authors": "Akansha M. Shah, Bryan P. Marsh, Frederic J. de Sauvage",
-      "summary": "Nature Cancer, Published online: 14 October 2026; doi:10.1038/s43018-026-01232-0 de Sauvage and colleagues discuss the latest advances in therapy-driven cancer plasticity processes and how this knowledge might be applied to clinical strategies.",
-      "date": "2026-10-14T00:00:00Z",
-      "date_display": "14 Oct 2026"
-    },
-    {
-      "id": "8ab6f57554",
-      "title": "Genetic modulation of NAD(P)H homeostasis reveals distinct redox-coupled metabolic vulnerabilities",
-      "link": "https://www.nature.com/articles/s42255-026-01640-7",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "Xingxiu Pan, Austin L. Zuckerman, Karl N. Miller, Marcos G. Teneche, Subrata Munan, Andrew Pon, Niklas B. Thompson, Rasangi M. Perera, Roya AminiTabrizi, Adarsh Rajesh, Sara…",
-      "summary": "Nature Metabolism, Published online: 14 October 2026; doi:10.1038/s42255-026-01640-7 Using genetically encoded tools that shift the redox equilibrium, the authors identify a link between oxidative and reductive stress, suggesting that simultaneously targeting NAD(P)H homeostasis could be a therapeutic strategy for…",
-      "date": "2026-10-14T00:00:00Z",
-      "date_display": "14 Oct 2026"
     },
     {
       "id": "84107e0e1d",
@@ -750,6 +728,28 @@
       "date_display": "9 Oct 2026"
     },
     {
+      "id": "4806b9c9bd",
+      "title": "Metastasizing cancer cells leave an immunogenic trail",
+      "link": "https://www.nature.com/articles/s41577-026-01366-3",
+      "journal": "Nature Reviews Immunology",
+      "category": "Review Article",
+      "authors": "Yvonne Bordon",
+      "summary": "Nature Reviews Immunology, Published online: 09 October 2026; doi:10.1038/s41577-026-01366-3 Metastasizing cancer cells release migrasomes containing tumour-specific antigens that can promote T cell responses.",
+      "date": "2026-10-09T00:00:00Z",
+      "date_display": "9 Oct 2026"
+    },
+    {
+      "id": "873104958c",
+      "title": "LAG3 checkpoint function and its mechanism of action in therapeutic targeting",
+      "link": "https://www.nature.com/articles/s41577-026-01359-2",
+      "journal": "Nature Reviews Immunology",
+      "category": "Review Article",
+      "authors": "Yong Jiang, Dario A. A. Vignali, Haopeng Wang",
+      "summary": "Nature Reviews Immunology, Published online: 09 October 2026; doi:10.1038/s41577-026-01359-2 This Review explores how the immune checkpoint receptor lymphocyte activation gene 3 (LAG3) suppresses T cell activity through newly defined signalling mechanisms, including tonic and ligand-induced pathways. The Review…",
+      "date": "2026-10-09T00:00:00Z",
+      "date_display": "9 Oct 2026"
+    },
+    {
       "id": "a70abe012a",
       "title": "The urgent challenge of gastroesophageal cancer",
       "link": "https://www.nature.com/articles/s41568-026-00990-4",
@@ -790,6 +790,17 @@
       "category": "Original Article",
       "authors": "Noé Herbel, Clara Helal, Kaïssa Ouali, François-Xavier Danlos, Vincent Goldschmidt, Jean-Marie Michot, Ariane Laparra, Arthur Geraud, Patricia Martin-Romano, Périne Vuagnat, Alice…",
       "summary": "Abstract The Gustave Roussy Immune (GRIm) score, based on the neutrophil-to-lymphocyte ratio, serum albumin, and lactate dehydrogenase, is a validated prognostic marker in patients receiving immune checkpoint blockers (ICB). We evaluated its prognostic value in patients treated with bispecific CD3 T-cell engagers…",
+      "date": "2026-10-07T00:00:00Z",
+      "date_display": "7 Oct 2026"
+    },
+    {
+      "id": "2646e69b9c",
+      "title": "A guide to B cell metabolism",
+      "link": "https://www.nature.com/articles/s41577-026-01355-6",
+      "journal": "Nature Reviews Immunology",
+      "category": "Review Article",
+      "authors": "Yavuz F. Yazicioglu, Glenn R. Bantug, Christoph Hess, Alexander J. Clarke",
+      "summary": "Nature Reviews Immunology, Published online: 07 October 2026; doi:10.1038/s41577-026-01355-6 Metabolic control is an integral component of B cell physiology, shaping fate decisions and effector functions, while also driving maladaptive programmes that contribute to diverse pathologies. This Review provides an overview…",
       "date": "2026-10-07T00:00:00Z",
       "date_display": "7 Oct 2026"
     },
@@ -915,6 +926,17 @@
       "date_display": "5 Oct 2026"
     },
     {
+      "id": "791eefd225",
+      "title": "Sympathetic nerve activity primes susceptibility to autoimmune hair loss",
+      "link": "https://www.nature.com/articles/s41577-026-01365-4",
+      "journal": "Nature Reviews Immunology",
+      "category": "Review Article",
+      "authors": "Kirsty Minton",
+      "summary": "Nature Reviews Immunology, Published online: 05 October 2026; doi:10.1038/s41577-026-01365-4 A study in Nature by Cui et al. reports that sympathetic nerve activity during the growth phase of hair follicles activates endogenous retroviruses, leading to an innate immune response that destabilizes immune privilege.",
+      "date": "2026-10-05T00:00:00Z",
+      "date_display": "5 Oct 2026"
+    },
+    {
       "id": "c47e2f17b8",
       "title": "Migratory dermal γδ T cells determine the balance between lung immunity and tissue damage during helminth infection",
       "link": "https://www.science.org/doi/abs/10.1126/sciimmunol.aec7574?af=R",
@@ -999,17 +1021,6 @@
       "category": "Original Article",
       "authors": "Lutz Menzel, Hengbo Zhou, James W. Baish, Meghan J. O’Melia, Laurel B. Darragh, Derek N. Effiom, Emma Specht, Juliane Czapla, Pin-ji Lei, Johanna J. Rajotte, Lingshan Liu…",
       "summary": "Menzel, Zhou, et al. examine the impact of surgical removal of tumor-draining lymph node (tdLN) resection on anti-tumor immunity. They find that after tdLN resection, tumor antigen is rerouted to distant LNs, where it supports tumor-specific T cell responses and immune checkpoint blockade efficacy. Targeting these…",
-      "date": "2026-10-01T00:00:00Z",
-      "date_display": "1 Oct 2026"
-    },
-    {
-      "id": "f5256735ca",
-      "title": "A Phase I Study of PF-07062119, an Anti-GUCY2C/Anti-CD3 Bispecific Fc Antibody, in Patients with Advanced Gastrointestinal Cancers",
-      "link": "https://aacrjournals.org/cancerrescommun/article/6/10/2299/788657/A-Phase-I-Study-of-PF-07062119-an-Anti-GUCY2C-Anti",
-      "journal": "Cancer Research",
-      "category": "Original Article",
-      "authors": "Marwan Fakih, Toshihiko Doi, Anthony Tolcher, David Hong, Jeanne Tie, Wells Messersmith, Takafumi Koyama, Lee Rosen, Joana Borlido, Michael A. Damore, Maria Delioukina, Ioanna…",
-      "summary": "Abstract Purpose: PF-07062119 is an anti-GUCY2C/anti-CD3ε bispecific Fc antibody designed to elicit systemic antitumor immunity. This phase I, first-in-human study evaluated the safety, tolerability, pharmacokinetics (PK), pharmacodynamics, immunogenicity, and antitumor activity of PF-07062119 as monotherapy and in…",
       "date": "2026-10-01T00:00:00Z",
       "date_display": "1 Oct 2026"
     },
@@ -1179,6 +1190,17 @@
       "date_display": "30 Sep 2026"
     },
     {
+      "id": "34f8543ef6",
+      "title": "The effects of IFNγ on tissue physiology through structural cells",
+      "link": "https://www.nature.com/articles/s41577-026-01357-4",
+      "journal": "Nature Reviews Immunology",
+      "category": "Review Article",
+      "authors": "Irah L. King, Bana Jabri, Amanda W. Lund, Andrew Wang",
+      "summary": "Nature Reviews Immunology, Published online: 29 September 2026; doi:10.1038/s41577-026-01357-4 In this Perspective, the authors use examples from evolution, animal models of disease and clinical results to explore how IFNγ, a quintessential antipathogen cytokine, also has a fundamental role in tissue homeostasis and…",
+      "date": "2026-09-29T00:00:00Z",
+      "date_display": "29 Sep 2026"
+    },
+    {
       "id": "589de85f8c",
       "title": "The wu wei of brain metastases: When the gift of a pause is also a vulnerability",
       "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00426-5?rss=yes",
@@ -1197,6 +1219,17 @@
       "category": "Original Article",
       "authors": "Pedro García-Gómez, Diana Retana, Carolina Hernández-Oliver, Oliva Sánchez, Neibla Priego, Laura Álvaro-Espinosa, Lluís Cordón-Barris, Ana de Pablos-Aragoneses, Juan…",
       "summary": "García-Gómez et al. identify a transient state, termed the proliferative pause, that enables the survival of micrometastases during vascular co-option by buffering organ-imposed stress. Targeting vulnerabilities associated with this state suppresses metastatic progression and relapse, revealing opportunities for…",
+      "date": "2026-09-28T00:00:00Z",
+      "date_display": "28 Sep 2026"
+    },
+    {
+      "id": "ac99248f98",
+      "title": "Drugging the immune system: principles of immunopharmacology",
+      "link": "https://www.nature.com/articles/s41577-026-01361-8",
+      "journal": "Nature Reviews Immunology",
+      "category": "Review Article",
+      "authors": "E. John Wherry",
+      "summary": "Nature Reviews Immunology, Published online: 28 September 2026; doi:10.1038/s41577-026-01361-8 Immune-based therapies have transformed the treatment of cancer and inflammatory and autoimmune diseases, but treatment is often suboptimal and the ability to predictably harness the immune system for new therapies remains…",
       "date": "2026-09-28T00:00:00Z",
       "date_display": "28 Sep 2026"
     },
@@ -1287,39 +1320,6 @@
       "summary": "Interpreting the biological and clinical significance of somatic mutations in cancer genomes remains challenging. In this issue of Cancer Cell, Hyeon et al. identify and map significantly mutated regions to protein domains and structural features, establishing a proteo-genomics framework for interpreting cancer…",
       "date": "2026-09-17T00:00:00Z",
       "date_display": "17 Sep 2026"
-    },
-    {
-      "id": "2c181e8230",
-      "title": "Myeloid reprogramming generates myeloid-derived activating cells to potentiate radiotherapy and suppress metastasis",
-      "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00394-6?rss=yes",
-      "journal": "Cancer Cell",
-      "category": "Original Article",
-      "authors": "Fei Ji, Lei Zheng, Dapeng Chen, Peng Xia, Zhongyu Zou, Wei Liu, Jason Bugno, Emile Z. Naccasha, András Piffkó, Chuangyu Wen, Kangdi Li, Liping Xu, Sean Z. Luo, Xiaona Huang, Jiaai…",
-      "summary": "Ji et al. show that radiotherapy induces a TET2-dependent epitranscriptomic program in myeloid cells that promotes immunosuppressive M-MDSC differentiation. TET2 loss preserves caRNA m5C-MBD6 signaling, restores IRF3-IFN-I activation, generates myeloid-derived activating cells, and enhances radiotherapy-induced…",
-      "date": "2026-09-17T00:00:00Z",
-      "date_display": "17 Sep 2026"
-    },
-    {
-      "id": "e69c6ee6b1",
-      "title": "Chemotherapy-free phase 1/2 trial of HRS-4642 plus adebrelimab in previously treated metastatic KRAS G12D-mutant pancreatic cancer",
-      "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00389-2?rss=yes",
-      "journal": "Cancer Cell",
-      "category": "Original Article",
-      "authors": "Si Shi, Miaoyan Wei, Nan Du, Jialin Li, Boyue Han, Wei Wang, Xin Hu, Fei Luo, Jin Xu, Xianjun Yu",
-      "summary": "Shi et al. report the first clinical study of the selective KRAS G12D inhibitor HRS-4642 combined with the anti-PD-L1 antibody adebrelimab in heavily pretreated patients with KRAS G12D-mutant pancreatic cancer. The chemotherapy-free regimen demonstrates a manageable safety profile and preliminary antitumor activity…",
-      "date": "2026-09-16T00:00:00Z",
-      "date_display": "16 Sep 2026"
-    },
-    {
-      "id": "6e72f27392",
-      "title": "Chronotherapy with immune checkpoint inhibitors: The knowns, the unknowns, and the contested",
-      "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00387-9?rss=yes",
-      "journal": "Cancer Cell",
-      "category": "Original Article",
-      "authors": "Zeynep Melis Gül, Qun Zeng, Doron Merkler, Christoph Scheiermann",
-      "summary": "Emerging data indicate that immune checkpoint inhibitors can exhibit time-of-day-dependent effects in pre-clinical models. Furthermore, multiple retrospective clinical trials associate earlier anti-tumor treatment timing with improved outcomes. However, key questions remain regarding the reproducibility of these…",
-      "date": "2026-09-15T00:00:00Z",
-      "date_display": "15 Sep 2026"
     }
   ]
 }
