@@ -1,6 +1,17 @@
 {
-  "updated": "2026-11-02T14:00:07Z",
+  "updated": "2026-11-03T13:08:35Z",
   "papers": [
+    {
+      "id": "0fcf61a244",
+      "title": "Basophils inhibit early lung metastasis by suppressing regulatory T cells",
+      "link": "https://www.nature.com/articles/s43018-026-01257-5",
+      "journal": "Nature Cancer",
+      "category": "Original Article",
+      "authors": "Bruno Torchia, Nadine Fournier, Simge Yücel, Morgane Fournier, Soroush Setareh, Hadi Esmaily, Yahya Mohammadzadeh, Joao Lourenco, Ali Ghasemi, Elodie Marcandalli, Luqing Li…",
+      "summary": "Nature Cancer, Published online: 03 November 2026; doi:10.1038/s43018-026-01257-5 Mansouri and colleagues show that basophils protect from early lung metastasis by suppressing regulatory T cells through the release of mast cell protease 8 and histamine.",
+      "date": "2026-11-03T00:00:00Z",
+      "date_display": "3 Nov 2026"
+    },
     {
       "id": "f254f28918",
       "title": "Oncostatin M and TGFβ1 divide the epithelial–mesenchymal landscape",
@@ -20,6 +31,94 @@
       "category": "Original Article",
       "authors": "Anqi Dong, Sebastiaan Vanuytven, Andrea Pérez González, Kevin Bévant, Lieselot Van de Putte, Zahra Zahedi, Justine Allard, Christine Dubois, Isabelle Salmon, Sandrine Rorive…",
       "summary": "Nature Cancer, Published online: 02 November 2026; doi:10.1038/s43018-026-01259-3 Dong et al. conducted single-cell and spatial analyses in mouse skin tumors, revealing that myeloid-derived OSM and TGFβ1 establish distinct stromal niches that sustain hybrid and late EMT states, respectively.",
+      "date": "2026-11-02T00:00:00Z",
+      "date_display": "2 Nov 2026"
+    },
+    {
+      "id": "41cb617ff8",
+      "title": "The Use of TF-Ag-α to Selectively Capture Tumor-Derived Extracellular Vesicles and Enhance the Predictive Performance of Extracellular Vesicle PD-L1 for Response to Immune Checkpoint Inhibitors",
+      "link": "https://aacrjournals.org/cancerrescommun/article/6/11/2565/789749/The-Use-of-TF-Ag-to-Selectively-Capture-Tumor",
+      "journal": "Cancer Research",
+      "category": "Original Article",
+      "authors": "Chang-Chieh Hsu, Man Qi, Fumito Ito, Grace K. Dy, Kate Rittenhouse-Olson, Yun Wu",
+      "summary": "Abstract Only a subset of patients with non–small cell lung cancer (NSCLC) benefits from immune checkpoint inhibitors (ICIs). Tissue PD-L1 has limited accuracy in predicting ICI response and requires invasive biopsies, highlighting the urgent need for reliable, minimally invasive biomarkers. Extracellular vesicle (EV)…",
+      "date": "2026-11-02T00:00:00Z",
+      "date_display": "2 Nov 2026"
+    },
+    {
+      "id": "3401495ceb",
+      "title": "TP53-Mutated Preneoplastic Colonies, Adaptive Immune Response, and Risk for Lung Cancer and COPD",
+      "link": "https://aacrjournals.org/cancerpreventionresearch/article/19/11/631/789615/TP53-Mutated-Preneoplastic-Colonies-Adaptive",
+      "journal": "Cancer Immunology Research",
+      "category": "Original Article",
+      "authors": "James C. Willey, Andrew R. Boring, Erin L. Crawford, Kevin N. Lei, Thomas M. Blomquist, Christopher I. Amos, Stephen A. Deppen, Eric L. Grogan, Heidi Chen, Mohamed Omballi, Daniel…",
+      "summary": "Abstract The purpose of this study was to better characterize the prevalence and size distributions of TP53 -mutated preneoplastic colonies in relation to the risk for lung cancer and chronic obstructive pulmonary disease (COPD). Ultrasensitive next-generation sequencing was used to assess colonies comprising as few…",
+      "date": "2026-11-02T00:00:00Z",
+      "date_display": "2 Nov 2026"
+    },
+    {
+      "id": "9b02a70297",
+      "title": "The Immunological Landscape of Colorectal Precancers: A Systematic Review",
+      "link": "https://aacrjournals.org/cancerpreventionresearch/article/19/11/609/789614/The-Immunological-Landscape-of-Colorectal",
+      "journal": "Cancer Immunology Research",
+      "category": "Original Article",
+      "authors": "Gabriel A. del Carmen, Gregory Deeb, Nan Deng, Krishna M. Sinha, Marco Matejcic, Eduardo Vilar, Stephanie L. Schmit",
+      "summary": "Abstract Colorectal cancer develops predominantly through the adenoma-to-carcinoma sequence, with immunologic processes playing a central yet incompletely understood role in this progression. A systematic review was conducted of published academic literature using the MEDLINE, Embase, and Cochrane Library databases to…",
+      "date": "2026-11-02T00:00:00Z",
+      "date_display": "2 Nov 2026"
+    },
+    {
+      "id": "854f5035a3",
+      "title": "Optimization of RNA Sequencing Workflow in Brush Swabs of Oral Squamous Cell Carcinoma",
+      "link": "https://aacrjournals.org/cancerpreventionresearch/article/19/11/623/789613/Optimization-of-RNA-Sequencing-Workflow-in-Brush",
+      "journal": "Cancer Immunology Research",
+      "category": "Original Article",
+      "authors": "Bac An Luong, Minh Phuong Dong, Duc-Minh Nguyen-Le, Michele Arambula, Kesava Asam, Carissa M. Thomas, Nicholas F. Callahan, Paul C. Walker, Khanh K. Nguyen, Yan Chen Wongworawat…",
+      "summary": "Abstract Oral squamous cell carcinoma (OSCC) is associated with poor survival due to challenges with timely diagnosis and surveillance. Noninvasive biopsy methods, such as brush swab biopsy, have emerged as a promising approach with several clinical advantages over surgical biopsies, which may help overcome challenges…",
+      "date": "2026-11-02T00:00:00Z",
+      "date_display": "2 Nov 2026"
+    },
+    {
+      "id": "8ee22c4582",
+      "title": "Editors’ Selections from Relevant Scientific Publications",
+      "link": "https://aacrjournals.org/cancerpreventionresearch/article/19/11/607/789612/Editors-Selections-from-Relevant-Scientific",
+      "journal": "Cancer Immunology Research",
+      "category": "Original Article",
+      "authors": "",
+      "summary": "",
+      "date": "2026-11-02T00:00:00Z",
+      "date_display": "2 Nov 2026"
+    },
+    {
+      "id": "dda1aab73a",
+      "title": "Lung Cancer Screening Uptake in Patients with Rheumatoid Arthritis in Community Settings",
+      "link": "https://aacrjournals.org/cancerpreventionresearch/article/19/11/645/789611/Lung-Cancer-Screening-Uptake-in-Patients-with",
+      "journal": "Cancer Immunology Research",
+      "category": "Original Article",
+      "authors": "Maria A. Lopez-Olivo, Zhigang Duan, Huifang Lu, Robert J. Volk, Edwin J. Ostrin, Ying Xu, Sharon Giordano, Hui Zhao",
+      "summary": "Abstract Individuals with rheumatoid arthritis (RA), particularly those with a history of smoking, are at increased risk for lung cancer. However, real-world data on the use of low-dose computed tomography (LDCT) screening for lung cancer in this population are lacking. Therefore, we assessed the rates, trends, and…",
+      "date": "2026-11-02T00:00:00Z",
+      "date_display": "2 Nov 2026"
+    },
+    {
+      "id": "0618909a8c",
+      "title": "Editor’s Note: Synergistic Growth Inhibition of Squamous Cell Carcinoma of the Head and Neck by Erlotinib and Epigallocatechin-3-Gallate: The Role of p53-Dependent Inhibition of Nuclear Factor-κB",
+      "link": "https://aacrjournals.org/cancerpreventionresearch/article/19/11/655/789610/Editor-s-Note-Synergistic-Growth-Inhibition-of",
+      "journal": "Cancer Immunology Research",
+      "category": "Original Article",
+      "authors": "A.R.M. Ruhul Amin, Fadlo R. Khuri, Zhuo (Georgia) Chen, Dong M. Shin",
+      "summary": "The editors are publishing this note to alert readers to issues in this article ( 1 ). Figures 3B, 4C, 5B, and 5C appear to share the same Actin row, despite that Fig. 3B was from a separate experiment and samples in Fig. 5B were in a different loading order than those in Figs. 4C and 5C.",
+      "date": "2026-11-02T00:00:00Z",
+      "date_display": "2 Nov 2026"
+    },
+    {
+      "id": "3995ffddbc",
+      "title": "Peripheral neuroimmune dialogues underlying pain states",
+      "link": "https://www.nature.com/articles/s41577-026-01363-6",
+      "journal": "Nature Reviews Immunology",
+      "category": "Review Article",
+      "authors": "Peter M. Grace, Annina B. Schmid, Arkady Khoutorsky, Thiago M. Cunha, Camilla I. Svensson",
+      "summary": "Nature Reviews Immunology, Published online: 02 November 2026; doi:10.1038/s41577-026-01363-6 This Review explores how neuroimmune crosstalk shapes pain responses. The authors describe the interactions between nociceptors and immune cells across different anatomical sites and discuss emerging therapeutic strategies…",
       "date": "2026-11-02T00:00:00Z",
       "date_display": "2 Nov 2026"
     },
@@ -123,13 +222,13 @@
       "date_display": "30 Oct 2026"
     },
     {
-      "id": "11af5b9eb8",
-      "title": "Elucidating the Gene Expression Signature of Rosai–Dorfman Disease: A Study from the Atlas of Blood Cancer Genomes Initiative",
-      "link": "https://aacrjournals.org/cancerrescommun/article/6/10/2555/789735/Elucidating-the-Gene-Expression-Signature-of-Rosai",
-      "journal": "Cancer Research",
+      "id": "07fc89448c",
+      "title": "Author Correction: Hypothalamic Grb10 enhances leptin signalling and promotes weight loss",
+      "link": "https://www.nature.com/articles/s42255-026-01672-z",
+      "journal": "Nature Metabolism",
       "category": "Original Article",
-      "authors": "",
-      "summary": "Abstract Rosai–Dorfman disease (RDD) is a rare histiocytic disorder characterized by the accumulation of large histiocytes in nodal and/or extranodal sites. The underlying biology of RDD and factors that distinguish it from other histiocyte disorders are poorly understood. To better understand the disease biology, we…",
+      "authors": "Hailan Liu, Yang He, Juli Bai, Chuanhai Zhang, Feng Zhang, Yongjie Yang, Hairong Luo, Meng Yu, Hesong Liu, Longlong Tu, Nan Zhang, Na Yin, Junying Han, Zili Yan, Nikolas Anthony…",
+      "summary": "Nature Metabolism, Published online: 30 October 2026; doi:10.1038/s42255-026-01672-z Author Correction: Hypothalamic Grb10 enhances leptin signalling and promotes weight loss",
       "date": "2026-10-30T00:00:00Z",
       "date_display": "30 Oct 2026"
     },
@@ -141,17 +240,6 @@
       "category": "Original Article",
       "authors": "Guillaume Jaume, Jakob Nikolas Kather",
       "summary": "Nature Cancer, Published online: 29 October 2026; doi:10.1038/s43018-026-01258-4 Immune-related adverse events are common in cancer immunotherapy and can be difficult to recognize in clinical routine. Work now shows that an agentic AI system built around a large language model can identify such events in prospectively…",
-      "date": "2026-10-29T00:00:00Z",
-      "date_display": "29 Oct 2026"
-    },
-    {
-      "id": "0c8e0141c8",
-      "title": "A genome‑wide screen in E. coli reveals metabolic adaptations that enhance intratumoral fitness and bacterial cancer therapy efficacy",
-      "link": "https://www.nature.com/articles/s43018-026-01263-7",
-      "journal": "Nature Cancer",
-      "category": "Original Article",
-      "authors": "Noah Chen, Mathieu Rouanne, Zaofeng Yang, Dylan L. Mariuzza, Maya Fabozzi, Alice E. Shin, Noriyuki Nishiwaki, Presha Rajbhandari, Olivia R. Ringham, Anand D. Schwabe, Minyu Zhu…",
-      "summary": "Nature Cancer, Published online: 29 October 2026; doi:10.1038/s43018-026-01263-7 Chen et al. conducted a genome-wide screen in E. coli to identify genetic determinants of intratumoral bacterial fitness and targets for therapeutic application.",
       "date": "2026-10-29T00:00:00Z",
       "date_display": "29 Oct 2026"
     },
@@ -178,17 +266,6 @@
       "date_display": "29 Oct 2026"
     },
     {
-      "id": "cf9001a1c7",
-      "title": "ERX-208 Induces Endoplasmic Reticulum Stress and Suppresses DNA Damage Repair to Enhance Chemotherapy Sensitivity",
-      "link": "https://aacrjournals.org/cancerrescommun/article/6/10/2541/789712/ERX-208-Induces-Endoplasmic-Reticulum-Stress-and",
-      "journal": "Cancer Research",
-      "category": "Original Article",
-      "authors": "Durga Meenakshi Panneerdoss, Khaled Mohamed Nassar, Baskaran Subramani, William Cole Arnold, Sai Pranathi Vedagiri Venkata, Joe Hernandez, Behnam Ebrahimi, Sonal R. Chaudhari…",
-      "summary": "Abstract Ovarian cancer remains the most lethal gynecologic malignancy, driven in part by intrinsic and acquired therapeutic resistance to DNA-damaging chemotherapies. We previously demonstrated that ERX-208 targets the protein encoded by lysosomal acid lipase to induce catastrophic endoplasmic reticulum (ER) stress…",
-      "date": "2026-10-29T00:00:00Z",
-      "date_display": "29 Oct 2026"
-    },
-    {
       "id": "0df3208d62",
       "title": "Priming systemic immunity against glioblastoma",
       "link": "https://www.nature.com/articles/s41577-026-01371-6",
@@ -200,6 +277,17 @@
       "date_display": "29 Oct 2026"
     },
     {
+      "id": "6aee8376ea",
+      "title": "Publisher Correction: A futile Na + K + transport cycle augments energy expenditure in beige adipocytes",
+      "link": "https://www.nature.com/articles/s42255-026-01673-y",
+      "journal": "Nature Metabolism",
+      "category": "Original Article",
+      "authors": "Qing Liu, Ying Cheng, Dandan Yan, Wenjie Wu, Zhenchuan Lei, Qiaoyun Long, Ziyu Zhao, Yuan Gao, Baile Wang, Tianshi Feng, Jihoon Shin, Jiayu Zhao, Shiting Zhao, Kang Chen, Kingyip…",
+      "summary": "Nature Metabolism, Published online: 28 October 2026; doi:10.1038/s42255-026-01673-y Publisher Correction: A futile Na + K + transport cycle augments energy expenditure in beige adipocytes",
+      "date": "2026-10-28T00:00:00Z",
+      "date_display": "28 Oct 2026"
+    },
+    {
       "id": "ae57315651",
       "title": "Macrophage biology and immunoregulation in health and disease",
       "link": "https://www.nature.com/articles/s41423-026-01486-9",
@@ -207,17 +295,6 @@
       "category": "Original Article",
       "authors": "Haoxin Zhao, Yi-Ju Chou, Stanley Ching-Cheng Huang",
       "summary": "Cellular & Molecular Immunology, Published online: 28 October 2026; doi:10.1038/s41423-026-01486-9 Macrophage biology and immunoregulation in health and disease",
-      "date": "2026-10-28T00:00:00Z",
-      "date_display": "28 Oct 2026"
-    },
-    {
-      "id": "3cdd03dca8",
-      "title": "Nicotinic Acid Restriction Potentiates NAMPT Inhibition in Acute Myeloid Leukemia Xenograft Models",
-      "link": "https://aacrjournals.org/cancerrescommun/article/6/10/2529/789696/Nicotinic-Acid-Restriction-Potentiates-NAMPT",
-      "journal": "Cancer Research",
-      "category": "Original Article",
-      "authors": "",
-      "summary": "Abstract Nicotinamide phosphoribosyltransferase (NAMPT), a key enzyme in NAD biosynthesis, is a potential therapeutic target in cancer. Acute myeloid leukemia (AML) is among cancer types exhibiting high NAMPT dependence, and elevated NAMPT activity is implicated in venetoclax resistance. Thus, pharmacologic NAMPT…",
       "date": "2026-10-28T00:00:00Z",
       "date_display": "28 Oct 2026"
     },
@@ -244,6 +321,28 @@
       "date_display": "27 Oct 2026"
     },
     {
+      "id": "9ad4aad9a1",
+      "title": "Respiratory stress unmasks asparagine vulnerability",
+      "link": "https://www.nature.com/articles/s42255-026-01647-0",
+      "journal": "Nature Metabolism",
+      "category": "Original Article",
+      "authors": "Yan Jin, Min Ni",
+      "summary": "Nature Metabolism, Published online: 27 October 2026; doi:10.1038/s42255-026-01647-0 Cells can tolerate substantial mitochondrial stress through anaplerosis. Cui et al. identify pyruvate carboxylase as a key metabolic control point for asparagine auxotrophy that emerges with severe respiratory dysfunction.",
+      "date": "2026-10-27T00:00:00Z",
+      "date_display": "27 Oct 2026"
+    },
+    {
+      "id": "38c3c5efb5",
+      "title": "Respiration-deficient cells require pyruvate carboxylase to suppress asparagine auxotrophy",
+      "link": "https://www.nature.com/articles/s42255-026-01651-4",
+      "journal": "Nature Metabolism",
+      "category": "Original Article",
+      "authors": "Ruobing Cui, Keun Woo Ryu, Yi Fu, Ziad Bakouny, Dayi Li, Tamar Kavlashvili, Agnel Sfeir, Craig B. Thompson",
+      "summary": "Nature Metabolism, Published online: 27 October 2026; doi:10.1038/s42255-026-01651-4 This study shows that high mitochondrial heteroplasmy drives a pyruvate carboxylase-dependent metabolic vulnerability, rendering respiration-deficient cells auxotrophic for asparagine.",
+      "date": "2026-10-27T00:00:00Z",
+      "date_display": "27 Oct 2026"
+    },
+    {
       "id": "d530003385",
       "title": "Designing a tumor landscape-modifying vaccine with a unique TLR2/6 agonist for refractory pancreatic cancer",
       "link": "https://www.nature.com/articles/s41423-026-01480-1",
@@ -251,17 +350,6 @@
       "category": "Original Article",
       "authors": "Seongmin Cho, Hyeong Yun Kim, Nayoung Kim, Joohee Park, Seonghoon Kim, Ee Chan Song, Hyun Seo Lee, Uijoo Kim, Hamin Ban, Sunkyo Hwang, Jeongwon Mun, Eunhye Kwon, Yoonju Do, Hyo…",
       "summary": "Cellular & Molecular Immunology, Published online: 27 October 2026; doi:10.1038/s41423-026-01480-1 Designing a tumor landscape-modifying vaccine with a unique TLR2/6 agonist for refractory pancreatic cancer",
-      "date": "2026-10-27T00:00:00Z",
-      "date_display": "27 Oct 2026"
-    },
-    {
-      "id": "846ae1fa80",
-      "title": "Phase Ia Evaluation of LP-184 in Recurrent Glioblastoma: Safety, Pharmacokinetics, and Translational Optimization of CNS Exposure",
-      "link": "https://aacrjournals.org/cancerrescommun/article/6/10/2519/789679/Phase-Ia-Evaluation-of-LP-184-in-Recurrent",
-      "journal": "Cancer Research",
-      "category": "Original Article",
-      "authors": "Karisa C. Schreck, Bachchu Lal, Jianli Zhou, Hernando Lopez-Bertoni, Matthias Holdhoff, Reginald Ewesuedo, Kishor Bhatia, Marc Chamberlain, John Laterra",
-      "summary": "Abstract Purpose: Limited central nervous system (CNS) bioavailability and pharmacodynamics are obstacles to effective systemic therapies for glioblastoma (GBM). One strategy to overcome these challenges is drug combinations enhancing CNS penetration and/or tumor chemosensitivity. LP-184 (zirdafulven), a synthetic…",
       "date": "2026-10-27T00:00:00Z",
       "date_display": "27 Oct 2026"
     },
@@ -321,13 +409,13 @@
       "date_display": "26 Oct 2026"
     },
     {
-      "id": "54e96d67b3",
-      "title": "Clinical and Molecular Profiles of Treatment-Emergent Small Cell Neuroendocrine Prostate Cancers in the Era of Intensified Systemic Therapies",
-      "link": "https://aacrjournals.org/cancerrescommun/article/6/10/2505/789628/Clinical-and-Molecular-Profiles-of-Treatment",
-      "journal": "Cancer Research",
-      "category": "Original Article",
-      "authors": "Nadeem Bilani, Jesenia M. Perez, Ana M. Aparicio, Carolina Colli-Cruz, Cora N. Sternberg, Daniela Guevara, Ella Boytim, Peter S. Nelson, Erolcan Sayar, Michael C. Haffner, Adam…",
-      "summary": "Abstract Variant histologic features can emerge in therapy-resistant prostate cancers, with treatment-emergent small cell neuroendocrine carcinomas (t-SCNC) being the most common. In this study, we report the clinical, histopathologic, and genomic features of 126 t-SCNCs and 14 other treatment-emergent variant…",
+      "id": "5b7449c8c4",
+      "title": "Single-cell tumour phylogenetics",
+      "link": "https://www.nature.com/articles/s41568-026-00992-2",
+      "journal": "Nature Reviews Cancer",
+      "category": "Review Article",
+      "authors": "Johannes Gawron, Jack Kuipers, Ang Li, Benjamin J. Raphael, Florian Markowetz, Niko Beerenwinkel",
+      "summary": "Nature Reviews Cancer, Published online: 26 October 2026; doi:10.1038/s41568-026-00992-2 Single-cell sequencing has transformed the study of tumour evolution by enabling high-resolution reconstruction of cancer phylogenies. This Review discusses the models, assumptions and computational approaches underlying…",
       "date": "2026-10-26T00:00:00Z",
       "date_display": "26 Oct 2026"
     },
@@ -365,48 +453,37 @@
       "date_display": "23 Oct 2026"
     },
     {
-      "id": "1865efe389",
-      "title": "Lymph Node Lymphatic PD-L1 Regulates Tumor-Infiltrating T Cells in Immune Checkpoint–Sensitive Melanoma",
-      "link": "https://aacrjournals.org/cancerrescommun/article/6/10/2492/789533/Lymph-Node-Lymphatic-PD-L1-Regulates-Tumor",
-      "journal": "Cancer Research",
-      "category": "Original Article",
-      "authors": "Emma Reynaud, Sonya Belherazem, Shruthi Hemanna, Sarah Hofmann, Alperen Acari, Pragati Lodha, Özge Cicek Sener, Ziyuan Wang, Sebastian A. Wohlfeil, Cyrill Géraud, Jochen Utikal…",
-      "summary": "Abstract Lymph node (LN)–resident lymphatic endothelial cells (LEC) form the interphase between the lymphatic sinus lumen and the LN cortex. Beyond their role in leukocyte trafficking, LECs shape immune responses as they scavenge and cross-present exogenous antigens from the afferent lymph and constitutively express…",
-      "date": "2026-10-23T00:00:00Z",
-      "date_display": "23 Oct 2026"
-    },
-    {
-      "id": "6487709e22",
-      "title": "HIV and Antiretroviral Therapy Influence Tumor Microenvironment Architecture, Subclonal Evolution, and Immune Evasion Strategies in Diffuse Large B-cell Lymphoma",
-      "link": "https://aacrjournals.org/cancerrescommun/article/6/10/2475/789487/HIV-and-Antiretroviral-Therapy-Influence-Tumor",
-      "journal": "Cancer Research",
-      "category": "Original Article",
-      "authors": "Jenny Coelho, Sophia M. Roush, Samantha Beck, Albert Wielgus, Alexander M. Xu, Amon Chirwa, Marriam Mponda, Edwards Kasonkanji, Maurice Mulenga, Tamiwe Tomoka, Satish Gopal, Akil…",
-      "summary": "Abstract The tumor immune microenvironment (TIME) and tumor heterogeneity shape prognosis and therapeutic response in diffuse large B-cell lymphoma (DLBCL), but human immunodeficiency virus (HIV)–associated (HIV+) DLBCL remains poorly understood. To characterize the TIME and tumor-intrinsic features of DLBCL across a…",
+      "id": "db5bdf6c5a",
+      "title": "Hit the pause button",
+      "link": "https://www.nature.com/articles/s41568-026-00995-z",
+      "journal": "Nature Reviews Cancer",
+      "category": "Review Article",
+      "authors": "Daniela Senft",
+      "summary": "Nature Reviews Cancer, Published online: 22 October 2026; doi:10.1038/s41568-026-00995-z In a recent study, García-Gómez et al. identify an adaptive proliferative pause program that supports the survival of micrometastatic cells during early brain colonization and uncover therapeutic opportunities to target this state.",
       "date": "2026-10-22T00:00:00Z",
       "date_display": "22 Oct 2026"
     },
     {
-      "id": "5c03669117",
-      "title": "Setanaxib Added to Pembrolizumab for Fibroblast-Rich, Recurrent, or Metastatic Squamous Cell Carcinoma of the Head and Neck: A Phase II Randomized Study",
-      "link": "https://aacrjournals.org/cancerrescommun/article/6/10/2463/789474/Setanaxib-Added-to-Pembrolizumab-for-Fibroblast",
-      "journal": "Cancer Research",
-      "category": "Original Article",
-      "authors": "Jérôme Fayette, Gareth J. Thomas, Amaury Daste, Maciej Rotarski, Beatriz Castelo, Antonio Rullan, Aaron Levine, Richard Philipson, Benjamin H. Jenkins, Kevin J. Harrington",
-      "summary": "Abstract Purpose: The efficacy of checkpoint inhibitors (e.g., pembrolizumab) in head and neck squamous cell carcinoma (HNSCC) is limited by cancer-associated fibroblasts (CAFs). This randomized, double-blind, placebo-controlled, phase II trial (NCT05323656) evaluated the efficacy and safety of the reactive oxygen…",
-      "date": "2026-10-21T00:00:00Z",
-      "date_display": "21 Oct 2026"
+      "id": "e774000e21",
+      "title": "Cancer theranostics",
+      "link": "https://www.nature.com/articles/s41568-026-00983-3",
+      "journal": "Nature Reviews Cancer",
+      "category": "Review Article",
+      "authors": "Alexandros Marios Sofias, Yvonne Derks, Michelle S. Bradbury, Xiaoyuan Chen, Fabian Kiessling, Gooitzen M. van Dam, Wolfgang A. Weber, Twan Lammers",
+      "summary": "Nature Reviews Cancer, Published online: 22 October 2026; doi:10.1038/s41568-026-00983-3 Theranostics integrates diagnostic imaging with targeted therapy to enhance cancer treatment. In this Review, Sofias et al. discuss recent advances in radiotheranostic strategies, advances in nanotheranostic and microtheranostic…",
+      "date": "2026-10-22T00:00:00Z",
+      "date_display": "22 Oct 2026"
     },
     {
-      "id": "31f81a4f43",
-      "title": "A Real-World Study of Patients with FGFR-Altered Advanced Solid Tumors after Exhaustion of Standard-of-Care Treatment",
-      "link": "https://aacrjournals.org/cancerrescommun/article/6/10/2451/789460/A-Real-World-Study-of-Patients-with-FGFR-Altered",
-      "journal": "Cancer Research",
+      "id": "d8cc8a1c17",
+      "title": "A futile Na + K + transport cycle augments energy expenditure in beige adipocytes",
+      "link": "https://www.nature.com/articles/s42255-026-01630-9",
+      "journal": "Nature Metabolism",
       "category": "Original Article",
-      "authors": "Levon Demirdjian, Hussein Sweiti, Raymond Harvey, Kristopher Standish, Nicole Stone, Simona Baculea, Joel Greshock, Spyros Triantos",
-      "summary": "Abstract Real-world outcome data for patients with FGFR gene alteration–positive ( FGFR alt) advanced/metastatic solid tumors after standard-of-care (SOC) exhaustion are lacking. De-identified data from a custom-curated Flatiron Health Foundation Medicine Clinico–Genomic database were used in this retrospective…",
-      "date": "2026-10-20T00:00:00Z",
-      "date_display": "20 Oct 2026"
+      "authors": "Qing Liu, Ying Cheng, Dandan Yan, Wenjie Wu, Zhenchuan Lei, Qiaoyun Long, Ziyu Zhao, Yuan Gao, Baile Wang, Tianshi Feng, Jihoon Shin, Jiayu Zhao, Shiting Zhao, Kang Chen, Kingyip…",
+      "summary": "Nature Metabolism, Published online: 21 October 2026; doi:10.1038/s42255-026-01630-9 A futile Na+ K+ transport cycle, which is preferentially active in beige adipocytes, is shown to promote energy expenditure independent of uncoupling protein 1.",
+      "date": "2026-10-21T00:00:00Z",
+      "date_display": "21 Oct 2026"
     },
     {
       "id": "213898f03d",
@@ -416,17 +493,6 @@
       "category": "Original Article",
       "authors": "Yaruo Qiu, Huiyu Xu, Wenyu Tian, Weixuan Wang, Chenlei Xu, Yao Feng, Xuyang Zhao, Wen Gao, Rong Jin, Rong Li, Dan Lu",
       "summary": "Cellular & Molecular Immunology, Published online: 19 October 2026; doi:10.1038/s41423-026-01481-0 Dysregulated thymus-ovary axis promotes virtual memory T cell polarization to aggravate PMOS pathology",
-      "date": "2026-10-19T00:00:00Z",
-      "date_display": "19 Oct 2026"
-    },
-    {
-      "id": "cc12e1dbcc",
-      "title": "Dual CHK1 and WNT Inhibition as a Synergistic Therapy for Gastrointestinal Neuroendocrine Carcinoma",
-      "link": "https://aacrjournals.org/cancerrescommun/article/6/10/2434/789449/Dual-CHK1-and-WNT-Inhibition-as-a-Synergistic",
-      "journal": "Cancer Research",
-      "category": "Original Article",
-      "authors": "Hirokazu Kimura, Yoshihiko Sato, Shinichi Yachida",
-      "summary": "Abstract Gastrointestinal neuroendocrine carcinoma (GIS-NEC) is a highly aggressive malignancy with limited therapeutic options. To identify a therapeutic target, we performed transcriptomic profiling of 34 GIS-NEC and 30 well-differentiated gastrointestinal neuroendocrine tumors (GIS-NET) and found that checkpoint…",
       "date": "2026-10-19T00:00:00Z",
       "date_display": "19 Oct 2026"
     },
@@ -453,6 +519,17 @@
       "date_display": "16 Oct 2026"
     },
     {
+      "id": "1f3c07e1ba",
+      "title": "NNMT enhances hyperandrogenism in polyendocrine metabolic ovarian syndrome through epigenetic remodelling",
+      "link": "https://www.nature.com/articles/s42255-026-01625-6",
+      "journal": "Nature Metabolism",
+      "category": "Original Article",
+      "authors": "Weiwei Huang, Chuanjin Yu, Yishu Wang, Ningxia Sun, Liang Wang, Jun Ren, Yue Xu, Xinghui Guo, Xinyuan Li, Yiting Mao, Jiexue Pan, Tingting Liu, Hongbo Yang, Hefeng Huang",
+      "summary": "Nature Metabolism, Published online: 16 October 2026; doi:10.1038/s42255-026-01625-6 Nicotinamide N-methyltransferase promotes and sustains hyperandrogenism in polyendocrine metabolic ovarian syndrome through metabolic and epigenetic reprogramming.",
+      "date": "2026-10-16T00:00:00Z",
+      "date_display": "16 Oct 2026"
+    },
+    {
       "id": "dd09a0e5d1",
       "title": "Glutamate attenuates the ILC2 response and allergic airway inflammation via the kainate receptor GluK2",
       "link": "https://www.nature.com/articles/s41423-026-01461-4",
@@ -464,37 +541,37 @@
       "date_display": "16 Oct 2026"
     },
     {
-      "id": "d80574b65b",
-      "title": "Auranofin Potentiates Cisplatin Response in the Setting of Context-Dependent NOTCH-Associated Signaling States in Endometrial Cancer",
-      "link": "https://aacrjournals.org/cancerrescommun/article/6/10/2422/789423/Auranofin-Potentiates-Cisplatin-Response-in-the",
-      "journal": "Cancer Research",
-      "category": "Original Article",
-      "authors": "Robert J. Lake, Cynthia Tshibangu, Niko J. Candia, Quinn U. Abfalterer, Irina V. Lagutina, Christine Pauken, Kimberly K. Leslie, Mara P. Steinkamp, Hua-Ying Fan",
-      "summary": "Abstract Therapeutic resistance remains a major challenge in advanced and recurrent endometrial cancer. Aberrant NOTCH signaling has been associated with aggressive tumor behavior and therapeutic resistance across multiple malignancies, yet its therapeutic significance in endometrial cancer remains incompletely…",
+      "id": "7ef82db196",
+      "title": "Lean, mean, breast cancer-fighting machine",
+      "link": "https://www.nature.com/articles/s41568-026-00996-y",
+      "journal": "Nature Reviews Cancer",
+      "category": "Review Article",
+      "authors": "Gabrielle Brewer",
+      "summary": "Nature Reviews Cancer, Published online: 16 October 2026; doi:10.1038/s41568-026-00996-y Obesity is a modifiable risk factor associated with increased tumour incidence and aggressiveness. Curtin et al. identify an oxylipin secreted by lean adipocytes that suppresses breast cancer progression.",
       "date": "2026-10-16T00:00:00Z",
       "date_display": "16 Oct 2026"
     },
     {
-      "id": "89630468dc",
-      "title": "Melanoma Recurrence Prediction Using a Tissue-Free Epigenomic Molecular Residual Disease Assay: A Multicenter Prospective Observational Study (COSMOS-MEL01)",
-      "link": "https://aacrjournals.org/cancerrescommun/article/6/10/2412/789415/Melanoma-Recurrence-Prediction-Using-a-Tissue-Free",
-      "journal": "Cancer Research",
+      "id": "585d143d33",
+      "title": "Metabolic homeostasis and women’s reproductive health",
+      "link": "https://www.nature.com/articles/s42255-026-01646-1",
+      "journal": "Nature Metabolism",
       "category": "Original Article",
-      "authors": "Kenjiro Namikawa, Dai Ogata, Eiji Nakano, Naoya Yamazaki, Azusa Komada, Akira Takahashi, Shusuke Yoshikawa, Chiemi Notake, Ryuta Mitani, Takayuki Yoshino, Yoshiaki Nakamura",
-      "summary": "Abstract Despite recent adoption of perioperative therapy for high-risk melanoma, its overall survival (OS) benefit remains unclear, highlighting the need for biomarkers to identify patients likely to benefit from treatment. Detection of circulating tumor DNA (ctDNA) after definitive treatment predicts recurrence, and…",
+      "authors": "Xiao Liu, Lili Yang, Jingjing Jiang, Hsun-Ming Chang, Liangshan Mu",
+      "summary": "Nature Metabolism, Published online: 15 October 2026; doi:10.1038/s42255-026-01646-1 This Review highlights the interplay between metabolic homeostasis and female reproductive health and examines metabolism-focused therapeutic strategies for disorders that intersect the reproductive and metabolic systems, such as…",
       "date": "2026-10-15T00:00:00Z",
       "date_display": "15 Oct 2026"
     },
     {
-      "id": "84107e0e1d",
-      "title": "Identification and Validation of the ESR1 Y537S Mutant–Enriched Enhancer and Its Downstream Target IGFBP3",
-      "link": "https://aacrjournals.org/cancerrescommun/article/6/10/2395/789404/Identification-and-Validation-of-the-ESR1-Y537S",
-      "journal": "Cancer Research",
+      "id": "3e0653642c",
+      "title": "IRF7 signalling in tanycytes controls brain–body–immune response across the ovarian cycle",
+      "link": "https://www.nature.com/articles/s42255-026-01635-4",
+      "journal": "Nature Metabolism",
       "category": "Original Article",
-      "authors": "Yonatan Amzaleg, Desirea Mecenas, Ebony Flowers, Lin Li, Amal Thomas, Haley Hendrick, Hyeonguk Noh, Aidan Moriarty, Yiru Wang, Zheqi Li, Yuji Zhang, Remi Klotz, Steffi…",
-      "summary": "Abstract Endocrine therapy that inhibits estrogen receptor (ER)–mediated signaling is a cornerstone treatment for ER-positive breast cancer, a subtype that accounts for more than 75% of all breast cancer cases. However, resistance to endocrine therapy occurs in a significant proportion of patients, and hotspot…",
-      "date": "2026-10-14T00:00:00Z",
-      "date_display": "14 Oct 2026"
+      "authors": "Sreekala Nampoothiri, Daniela Fernandois, Nathalie Journiac, Fabien Delahaye, Yvon Mbouamboua, Florent Sauve, Marie Couralet, Sarah Gallet, Naziha Mroueh, Maria Laura Serradas…",
+      "summary": "Nature Metabolism, Published online: 15 October 2026; doi:10.1038/s42255-026-01635-4 This study reports a cellular map of the mouse and human mediobasal hypothalamus, revealing an immune cell-like state of tanycytes, which is influenced by sex and the ovarian cycle.",
+      "date": "2026-10-15T00:00:00Z",
+      "date_display": "15 Oct 2026"
     },
     {
       "id": "30713718f0",
@@ -596,17 +673,6 @@
       "date_display": "13 Oct 2026"
     },
     {
-      "id": "4ef38515d8",
-      "title": "Transcriptome-Based Synthetic Lethality Predictions to Improve Targeted Therapy/Immunotherapy Treatment Prioritization in Nonmetastatic Breast Cancer: BC-SELECT",
-      "link": "https://aacrjournals.org/cancerrescommun/article/6/10/2382/789382/Transcriptome-Based-Synthetic-Lethality",
-      "journal": "Cancer Research",
-      "category": "Original Article",
-      "authors": "Yewon Kim, Matthew Nagy, Rebecca D. Pollard, Padma Sheila Rajagopal",
-      "summary": "Abstract Patients with nonmetastatic triple-negative breast cancer (TNBC) or HER2+ breast cancer do not currently have tools to predict treatment response or prioritize options prior to therapy initiation. Pathologic complete response (pCR) is a proxy that requires neoadjuvant treatment. BC-SELECT leverages genetic…",
-      "date": "2026-10-13T00:00:00Z",
-      "date_display": "13 Oct 2026"
-    },
-    {
       "id": "a2f1ededc8",
       "title": "Microbial cues for a stem-like lymphoid niche",
       "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00397-1?rss=yes",
@@ -636,17 +702,6 @@
       "category": "Original Article",
       "authors": "Diren Usta, Crystal L. Mackall",
       "summary": "CAR T cell therapy has transformed the treatment of blood cancers but faces persistent challenges in solid tumors. In this review, Usta and Mackall synthesize clinical lessons, next-generation engineering strategies, and emerging in vivo manufacturing approaches to define opportunities for broader, safer, and more…",
-      "date": "2026-10-12T00:00:00Z",
-      "date_display": "12 Oct 2026"
-    },
-    {
-      "id": "dd8e52e618",
-      "title": "Impact of BRCA Alterations on Androgen Receptor Pathway Inhibition Treatment Outcomes in Advanced Prostate Cancer",
-      "link": "https://aacrjournals.org/cancerrescommun/article/6/10/2371/788818/Impact-of-BRCA-Alterations-on-Androgen-Receptor",
-      "journal": "Cancer Research",
-      "category": "Original Article",
-      "authors": "",
-      "summary": "Abstract Androgen receptor pathway inhibitors (ARPI) are frequently used to treat advanced prostate cancer. Understanding the impact of homologous recombination repair (HRR) alterations on ARPI treatment outcomes is critical for optimizing treatment. We conducted a retrospective analysis of pooled data from five…",
       "date": "2026-10-12T00:00:00Z",
       "date_display": "12 Oct 2026"
     },
@@ -684,17 +739,6 @@
       "date_display": "9 Oct 2026"
     },
     {
-      "id": "0361f34d8c",
-      "title": "Breast Cancer–Protective Genetic Variant Common in Women of Indigenous American Genetic Ancestry Is a cis-eQTL for RMND1 , ARMT1 , and CCDC170 in HER2-Enriched Tumor Subtypes",
-      "link": "https://aacrjournals.org/cancerrescommun/article/6/10/2360/788810/Breast-Cancer-Protective-Genetic-Variant-Common-in",
-      "journal": "Cancer Research",
-      "category": "Original Article",
-      "authors": "Valentina A. Zavala, Xiaosong Huang, Sandro Casavilca-Zambrano, Jeannie Navarro-Vásquez, Carlos A. Castañeda, Guillermo Valencia, Zaida Morante, Monica Calderón, Julio E…",
-      "summary": "Abstract Breast cancer genome-wide association studies in Hispanic/Latina women in the United States and Latin America have identified independent risk variants in the 6q25 region, including the protective variant rs140068132, located upstream of the estrogen receptor 1 ( ESR1 ) gene. The molecular mechanisms linking…",
-      "date": "2026-10-09T00:00:00Z",
-      "date_display": "9 Oct 2026"
-    },
-    {
       "id": "4806b9c9bd",
       "title": "Metastasizing cancer cells leave an immunogenic trail",
       "link": "https://www.nature.com/articles/s41577-026-01366-3",
@@ -717,26 +761,26 @@
       "date_display": "9 Oct 2026"
     },
     {
-      "id": "62bcfbaf6b",
-      "title": "Dissociated Response to Immune Checkpoint Inhibition in Head and Neck Squamous Cell Carcinoma Is Common and Exhibits Distinct Clinical Outcomes",
-      "link": "https://aacrjournals.org/cancerrescommun/article/6/10/2350/788789/Dissociated-Response-to-Immune-Checkpoint",
-      "journal": "Cancer Research",
-      "category": "Original Article",
-      "authors": "Alice N. Weaver, Stephen B. Keysar, Aarti Dureja, Tugs-Saikhan Chimed, Phuong N. Le, Cera Nieto, Nathaniel Alzofon, J. Jason Morton, Carissa M. Thomas, Ryan M. Lanning, Von G…",
-      "summary": "Abstract Immune checkpoint inhibition (ICI) constitutes the first-line therapy for relapsed/metastatic (R/M) head and neck squamous cell carcinoma (HNSCC) despite low response rates. Some patients treated with ICI experience dissociated response (DR), the coexistence of responding and progression lesions. DR…",
-      "date": "2026-10-08T00:00:00Z",
-      "date_display": "8 Oct 2026"
+      "id": "a70abe012a",
+      "title": "The urgent challenge of gastroesophageal cancer",
+      "link": "https://www.nature.com/articles/s41568-026-00990-4",
+      "journal": "Nature Reviews Cancer",
+      "category": "Review Article",
+      "authors": "Charles Swanton, Rebecca L. Eccles, Gabriela Carreno, Lorenzo de la Rica, Sandra Ryeom, David Scott",
+      "summary": "Nature Reviews Cancer, Published online: 09 October 2026; doi:10.1038/s41568-026-00990-4 Gastric and oesophageal cancers caused more than 1 million deaths worldwide in 2024. In this Comment, Cancer Grand Challenges explain how they have launched two targeted challenges to address this unmet need, inviting global…",
+      "date": "2026-10-09T00:00:00Z",
+      "date_display": "9 Oct 2026"
     },
     {
-      "id": "a3904698f8",
-      "title": "Gustave Roussy Immune Score Validation in Patients Treated with Bispecific CD3 T-cell Engagers in Phase I Clinical Trials",
-      "link": "https://aacrjournals.org/cancerrescommun/article/6/10/2339/788767/Gustave-Roussy-Immune-Score-Validation-in-Patients",
-      "journal": "Cancer Research",
-      "category": "Original Article",
-      "authors": "Noé Herbel, Clara Helal, Kaïssa Ouali, François-Xavier Danlos, Vincent Goldschmidt, Jean-Marie Michot, Ariane Laparra, Arthur Geraud, Patricia Martin-Romano, Périne Vuagnat, Alice…",
-      "summary": "Abstract The Gustave Roussy Immune (GRIm) score, based on the neutrophil-to-lymphocyte ratio, serum albumin, and lactate dehydrogenase, is a validated prognostic marker in patients receiving immune checkpoint blockers (ICB). We evaluated its prognostic value in patients treated with bispecific CD3 T-cell engagers…",
-      "date": "2026-10-07T00:00:00Z",
-      "date_display": "7 Oct 2026"
+      "id": "ea758abc06",
+      "title": "Mapping the functional dark proteome in cancer",
+      "link": "https://www.nature.com/articles/s41568-026-00985-1",
+      "journal": "Nature Reviews Cancer",
+      "category": "Review Article",
+      "authors": "John R. Prensner, William A. Freed-Pastor, Jennifer G. Abelin, Catherine J. Wu, Yifat Merbl, Yitzhak Pilpel, Ton N. Schumacher, Jonathan S. Weissman, Sebastiaan van Heesch, Reuven…",
+      "summary": "Nature Reviews Cancer, Published online: 08 October 2026; doi:10.1038/s41568-026-00985-1 The dark proteome encompasses previously undiscovered and uncharacterized protein molecules derived from alternative genomic loci or altered RNA translation. In this Perspective, Prensner et al. describe the current understanding…",
+      "date": "2026-10-08T00:00:00Z",
+      "date_display": "8 Oct 2026"
     },
     {
       "id": "2646e69b9c",
@@ -746,6 +790,17 @@
       "category": "Review Article",
       "authors": "Yavuz F. Yazicioglu, Glenn R. Bantug, Christoph Hess, Alexander J. Clarke",
       "summary": "Nature Reviews Immunology, Published online: 07 October 2026; doi:10.1038/s41577-026-01355-6 Metabolic control is an integral component of B cell physiology, shaping fate decisions and effector functions, while also driving maladaptive programmes that contribute to diverse pathologies. This Review provides an overview…",
+      "date": "2026-10-07T00:00:00Z",
+      "date_display": "7 Oct 2026"
+    },
+    {
+      "id": "e09d116435",
+      "title": "Boosting CAR T cell efficacy in cancer with metabolic insights from design to diet",
+      "link": "https://www.nature.com/articles/s41568-026-00984-2",
+      "journal": "Nature Reviews Cancer",
+      "category": "Review Article",
+      "authors": "Jessica Morgan, Sarah MacPherson, Julian J. Lum",
+      "summary": "Nature Reviews Cancer, Published online: 07 October 2026; doi:10.1038/s41568-026-00984-2 Although chimeric antigen receptor (CAR) T cell therapy has advanced the treatment of many cancers, it is now apparent that metabolism is a major determinant of CAR T cell fitness, persistence and function. Here, Morgan…",
       "date": "2026-10-07T00:00:00Z",
       "date_display": "7 Oct 2026"
     },
@@ -838,28 +893,6 @@
       "date_display": "6 Oct 2026"
     },
     {
-      "id": "289d7e14d8",
-      "title": "Window-of-Opportunity Study Utilizing Preoperative Cetuximab in Patients with Head and Neck Cancer",
-      "link": "https://aacrjournals.org/cancerrescommun/article/6/10/2325/788730/Window-of-Opportunity-Study-Utilizing-Preoperative",
-      "journal": "Cancer Research",
-      "category": "Original Article",
-      "authors": "Justine Y. Bruce, Tiffany A. Glazer, Liliana L. Berube, Colin A. Longhurst, Menggang Yu, Rong Hu, Aaron M. Wieland, Paul M. Harari, Gregory K. Hartig, Mari Iida, Ranjit K. Mehta…",
-      "summary": "Abstract Purpose: AXL is a receptor tyrosine kinase implicated in epidermal growth factor receptor resistance. The primary objective of this study was to test the hypothesis, generated in preclinical studies, that low AXL correlates with clinical response to cetuximab in patients with head and neck cancer (HNC). The…",
-      "date": "2026-10-06T00:00:00Z",
-      "date_display": "6 Oct 2026"
-    },
-    {
-      "id": "820d63ce64",
-      "title": "Integrated Genetic Screening Identifies FEN1 as a Selective Vulnerability and Temozolomide Resistance Mediator in Glioblastoma Stem Cells",
-      "link": "https://aacrjournals.org/cancerrescommun/article/6/10/2311/788702/Integrated-Genetic-Screening-Identifies-FEN1-as-a",
-      "journal": "Cancer Research",
-      "category": "Original Article",
-      "authors": "Benjamin A. Brakel, Dillon McKenna, Anish Puri, Muhammad Vaseem Shaikh, Manoj Singh, Ali Saleh, Abdo-jose Tomajian, Nicholas Mikolajewicz, Marcello Beltrami, Maxwell Topley…",
-      "summary": "Abstract Glioblastoma (GBM) is an aggressive brain tumor characterized by therapy resistance and recurrence. GBM stem cells (GSC) are key drivers of tumor maintenance, therapeutic resistance, and relapse, but targeting them remains clinically elusive due to their overlap with normal neural stem cells (NSC) and a lack…",
-      "date": "2026-10-05T00:00:00Z",
-      "date_display": "5 Oct 2026"
-    },
-    {
       "id": "791eefd225",
       "title": "Sympathetic nerve activity primes susceptibility to autoimmune hair loss",
       "link": "https://www.nature.com/articles/s41577-026-01365-4",
@@ -926,6 +959,17 @@
       "date_display": "2 Oct 2026"
     },
     {
+      "id": "0543b36d6a",
+      "title": "Supercentenarians’ superpower to suppress cancer",
+      "link": "https://www.nature.com/articles/s41568-026-00989-x",
+      "journal": "Nature Reviews Cancer",
+      "category": "Review Article",
+      "authors": "Anna Dart",
+      "summary": "Nature Reviews Cancer, Published online: 02 October 2026; doi:10.1038/s41568-026-00989-x Hashimoto et al. show that individuals who have lived to be 110 or older, known as supercentenarians, possess a high fraction of CD4+ cytotoxic T cells, which may contribute to the suppression of subclinical tumours.",
+      "date": "2026-10-02T00:00:00Z",
+      "date_display": "2 Oct 2026"
+    },
+    {
       "id": "b528909adb",
       "title": "Functional evaluation of TCR-pMHC pairs at scale allows in silico TCR reactivity prediction",
       "link": "https://www.cell.com/immunity/fulltext/S1074-7613(26)00382-1?rss=yes",
@@ -944,83 +988,6 @@
       "category": "Original Article",
       "authors": "Lutz Menzel, Hengbo Zhou, James W. Baish, Meghan J. O’Melia, Laurel B. Darragh, Derek N. Effiom, Emma Specht, Juliane Czapla, Pin-ji Lei, Johanna J. Rajotte, Lingshan Liu…",
       "summary": "Menzel, Zhou, et al. examine the impact of surgical removal of tumor-draining lymph node (tdLN) resection on anti-tumor immunity. They find that after tdLN resection, tumor antigen is rerouted to distant LNs, where it supports tumor-specific T cell responses and immune checkpoint blockade efficacy. Targeting these…",
-      "date": "2026-10-01T00:00:00Z",
-      "date_display": "1 Oct 2026"
-    },
-    {
-      "id": "bb5ea2d7a6",
-      "title": "Proteomic Analysis of Sphingolipid Metabolic Enzymes with Risk of Bladder Cancer Incidence and Mortality in the Atherosclerosis Risk in Communities Study",
-      "link": "https://aacrjournals.org/cancerpreventionresearch/article/19/10/565/788511/Proteomic-Analysis-of-Sphingolipid-Metabolic",
-      "journal": "Cancer Immunology Research",
-      "category": "Original Article",
-      "authors": "Michael T. Marrone, Evan Bagley, Kenneth R. Butler, David J. Couper, Corinne E. Joshu, Elizabeth A. Platz, Besim Ogretmen",
-      "summary": "Abstract Lipid metabolism is regarded as a hallmark of cancer. Sphingolipids, a family of structural and signaling lipids, have antiproliferative (ceramides) or prosurvival [sphingosine 1-phosphate (S1P)] functions. The positive association between statin use and bladder cancer, unlike other cancers, suggests that…",
-      "date": "2026-10-01T00:00:00Z",
-      "date_display": "1 Oct 2026"
-    },
-    {
-      "id": "1c93db36b3",
-      "title": "Cancer Screening Adherence in the United States by Smoking and Vaping Status, 2023",
-      "link": "https://aacrjournals.org/cancerpreventionresearch/article/19/10/587/788510/Cancer-Screening-Adherence-in-the-United-States-by",
-      "journal": "Cancer Immunology Research",
-      "category": "Original Article",
-      "authors": "Karin A. Kasza, Liane M. Schneller-Najm, Christine E. Sheffer, Rodney C. Haring, Ken Batai, Kathryn M. Glaser, Maansi Bansal-Travers, Whitney E. Mendel, Nicolas F. Schlecht, Elisa…",
-      "summary": "Abstract Early detection of cancer saves lives and reduces healthcare costs. In the United States, adherence to cancer screening recommendations is associated with many structural and individual-level factors. People who smoke cigarettes are less likely to engage in cancer screening. E-cigarette use (vaping) has…",
-      "date": "2026-10-01T00:00:00Z",
-      "date_display": "1 Oct 2026"
-    },
-    {
-      "id": "92512f9ecf",
-      "title": "Editors’ Selections from Relevant Scientific Publications",
-      "link": "https://aacrjournals.org/cancerpreventionresearch/article/19/10/553/788509/Editors-Selections-from-Relevant-Scientific",
-      "journal": "Cancer Immunology Research",
-      "category": "Original Article",
-      "authors": "",
-      "summary": "",
-      "date": "2026-10-01T00:00:00Z",
-      "date_display": "1 Oct 2026"
-    },
-    {
-      "id": "b8c6c71925",
-      "title": "Active Monitoring versus Surgical Excision for Atypical Ductal Hyperplasia",
-      "link": "https://aacrjournals.org/cancerpreventionresearch/article/19/10/577/788508/Active-Monitoring-versus-Surgical-Excision-for",
-      "journal": "Cancer Immunology Research",
-      "category": "Original Article",
-      "authors": "Melissa Rangel, Puneet Singh, Nina Tamirisa, Constance T. Albarracin, Therese B. Bevers, Leora Sarvet, Isabelle Bedrosian, Kerollos Nashat Wanis",
-      "summary": "Abstract The recently published 2-year outcomes of the comparing an operation to monitoring, with or without endocrine therapy (COMET) trial provide evidence for the noninferiority of active monitoring of ductal carcinoma in situ (DCIS), compared with excision. These findings raise questions for the management of…",
-      "date": "2026-10-01T00:00:00Z",
-      "date_display": "1 Oct 2026"
-    },
-    {
-      "id": "efa4bf0d5d",
-      "title": "Assessing Levels of Evidence for Cancer Screening: A Focus on Testicular Self-examination",
-      "link": "https://aacrjournals.org/cancerpreventionresearch/article/19/10/559/788507/Assessing-Levels-of-Evidence-for-Cancer-Screening",
-      "journal": "Cancer Immunology Research",
-      "category": "Original Article",
-      "authors": "Kamalie Thomas, Ashley Malvita, Michael J. Rovito",
-      "summary": "Abstract Testicular cancer is the most common malignancy among men 15 to 45 years of age, with 5-year relative survival exceeding 95% when all stages are combined. Early detection may reduce treatment intensity, preserve fertility, and protect quality of life. Testicular self-examination (TSE) has historically been…",
-      "date": "2026-10-01T00:00:00Z",
-      "date_display": "1 Oct 2026"
-    },
-    {
-      "id": "03b72cf0ee",
-      "title": "Active Surveillance for Atypical Ductal Hyperplasia: Are We Ready for Surgical De-escalation?",
-      "link": "https://aacrjournals.org/cancerpreventionresearch/article/19/10/555/788506/Active-Surveillance-for-Atypical-Ductal",
-      "journal": "Cancer Immunology Research",
-      "category": "Original Article",
-      "authors": "Alison Laws, Tari A. King",
-      "summary": "Abstract Atypical ductal hyperplasia (ADH) remains one of the few benign breast lesions for which surgical excision is routinely recommended because of the risk of underlying carcinoma, most commonly ductal carcinoma in situ (DCIS). However, increasing interest in active surveillance has emerged alongside broader…",
-      "date": "2026-10-01T00:00:00Z",
-      "date_display": "1 Oct 2026"
-    },
-    {
-      "id": "6eea5bfbe5",
-      "title": "Molecular Cancer Signal Origin Minimizes Diagnostic Burden: Letter",
-      "link": "https://aacrjournals.org/cancerpreventionresearch/article/19/10/601/788505/Molecular-Cancer-Signal-Origin-Minimizes",
-      "journal": "Cancer Immunology Research",
-      "category": "Original Article",
-      "authors": "Elliot K. Fishman, James M. O’Brien, Christopher Tyson, Xiting Cao, Kevin H. Li, Omair A. Choudhry, Tomasz M. Beer",
-      "summary": "We read with great interest the Massart and colleagues ( 1 ) study using modeling methodology by Tyson and colleagues ( 2 ) to compare 2 multicancer early detection (MCED) test diagnostic evaluation strategies to resolve false-positive (FP) results: A proposed molecular-based cancer signal origin (CSO) approach with…",
       "date": "2026-10-01T00:00:00Z",
       "date_display": "1 Oct 2026"
     },
@@ -1111,17 +1078,6 @@
       "summary": "Blood-stage malaria transiently depletes and remodels splenic macrophages, but how distinct subsets recover remains unclear. A recent report by Mauel et al. shows that a yolk sac-derived CD163high red pulp macrophage subset is selectively and durably lost after malaria, disrupting a growth differentiation factor…",
       "date": "2026-09-30T00:00:00Z",
       "date_display": "30 Sep 2026"
-    },
-    {
-      "id": "34f8543ef6",
-      "title": "The effects of IFNγ on tissue physiology through structural cells",
-      "link": "https://www.nature.com/articles/s41577-026-01357-4",
-      "journal": "Nature Reviews Immunology",
-      "category": "Review Article",
-      "authors": "Irah L. King, Bana Jabri, Amanda W. Lund, Andrew Wang",
-      "summary": "Nature Reviews Immunology, Published online: 29 September 2026; doi:10.1038/s41577-026-01357-4 In this Perspective, the authors use examples from evolution, animal models of disease and clinical results to explore how IFNγ, a quintessential antipathogen cytokine, also has a fundamental role in tissue homeostasis and…",
-      "date": "2026-09-29T00:00:00Z",
-      "date_display": "29 Sep 2026"
     },
     {
       "id": "589de85f8c",
@@ -1320,6 +1276,50 @@
       "summary": "Women with polyendocrine metabolic ovarian syndrome (PMOS) represent a particularly challenging patient population, characterized by the convergence of reproductive dysfunction, obesity, insulin resistance, and chronic inflammation. The emergence of glucagon-like peptide-1 receptor agonists (GLP-1RAs) offers a…",
       "date": "2026-09-08T00:00:00Z",
       "date_display": "8 Sep 2026"
+    },
+    {
+      "id": "904d1e38b2",
+      "title": "Parental leave in immunology – 12",
+      "link": "https://www.cell.com/trends/immunology/fulltext/S1471-4906(26)00223-1?rss=yes",
+      "journal": "Trends in Immunology",
+      "category": "Review Article",
+      "authors": "Hui Peng",
+      "summary": "My laboratory focuses on natural killer (NK) cell and type 1 innate lymphoid cell (ILC)1 biology, with a particular interest in the development, heterogeneity, and functions of liver NK cell and ILC1 subsets. This interest stemmed from my PhD work in Professor Zhigang Tian’s laboratory at the University of Science and…",
+      "date": "2026-09-06T00:00:00Z",
+      "date_display": "6 Sep 2026"
+    },
+    {
+      "id": "f347f3e1c2",
+      "title": "Aging microenvironment induces CD8+ T cell exhaustion by suppressing hepatic β-hydroxybutyrylate synthesis",
+      "link": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00334-7?rss=yes",
+      "journal": "Cell Metabolism",
+      "category": "Original Article",
+      "authors": "Yifeng Xiao, Yanling Zhang, Zihao Zhao, Zijian Zhang, Xiaohui Zhang, Pengju Chen, Jin Gu, Haichuan Zhu, Peng Jiang, Jie Cheng",
+      "summary": "Xiao et al. identify a liver-derived β-hydroxybutyrate-CREM signaling axis that drives CD8+ T cell immunosenescence. Restoring β-hydroxybutyrate reverses T cell exhaustion and improves antitumor, antiviral, and CAR T cell immunity in aged hosts, revealing a metabolic strategy to rejuvenate immune function during aging.",
+      "date": "2026-09-03T00:00:00Z",
+      "date_display": "3 Sep 2026"
+    },
+    {
+      "id": "a68f81d102",
+      "title": "Host metabolism rewrites metastatic fate",
+      "link": "https://www.cell.com/trends/cancer/fulltext/S2405-8033(26)00189-5?rss=yes",
+      "journal": "Trends in Cancer",
+      "category": "Review Article",
+      "authors": "Zihan Qiu, Xinyu Li, Pengfei Xu",
+      "summary": "Metastatic heterogeneity has traditionally been explained by tumor-intrinsic evolution. A recent study by Peng-Winkler et al. challenges this paradigm by demonstrating that hepatic steatosis instructs colorectal cancer liver metastasis through fatty acid-dependent myelocytomatosis oncogene protein (MYC) activation…",
+      "date": "2026-09-02T00:00:00Z",
+      "date_display": "2 Sep 2026"
+    },
+    {
+      "id": "34e30bdcf2",
+      "title": "A distinct effector B cell population drives autoantibody production in SARS-CoV-2 infection",
+      "link": "https://www.cell.com/immunity/fulltext/S1074-7613(26)00324-9?rss=yes",
+      "journal": "Immunity",
+      "category": "Original Article",
+      "authors": "Dan Yuan, Sarah Li, Rongyu Zhang, Rachel H. Ng, Yapeng Su, Linda Lan, Mahasish Shome, Brett Smith, Pamela Troisch, Jingyi Xie, Jongchan Choi, Rick Edmark, Daniel Chen, Lee Rowen…",
+      "summary": "Autoantibodies (autoAbs) are linked to mortality and Long COVID, yet their cellular origins remain unclear. Yuan et al. identify a distinct B cell population (DN2 cells) as a key source of autoAbs during SARS-CoV-2 infection. These cells mirror lupus DN2s and carry a strong autoimmune genetic signature, linking…",
+      "date": "2026-08-28T00:00:00Z",
+      "date_display": "28 Aug 2026"
     }
   ]
 }
