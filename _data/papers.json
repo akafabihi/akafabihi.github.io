@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T13:08:35Z",
+  "updated": "2026-11-04T13:24:08Z",
   "papers": [
     {
       "id": "0fcf61a244",
@@ -9,6 +9,116 @@
       "category": "Original Article",
       "authors": "Bruno Torchia, Nadine Fournier, Simge Yücel, Morgane Fournier, Soroush Setareh, Hadi Esmaily, Yahya Mohammadzadeh, Joao Lourenco, Ali Ghasemi, Elodie Marcandalli, Luqing Li…",
       "summary": "Nature Cancer, Published online: 03 November 2026; doi:10.1038/s43018-026-01257-5 Mansouri and colleagues show that basophils protect from early lung metastasis by suppressing regulatory T cells through the release of mast cell protease 8 and histamine.",
+      "date": "2026-11-03T00:00:00Z",
+      "date_display": "3 Nov 2026"
+    },
+    {
+      "id": "4032487114",
+      "title": "Balancing de novo and salvage pathways in cellular nucleotide synthesis",
+      "link": "https://www.nature.com/articles/s42255-026-01628-3",
+      "journal": "Nature Metabolism",
+      "category": "Original Article",
+      "authors": "Tina Becirovic, Tuan-Anh Nguyen, Stefan Kubicek",
+      "summary": "Nature Metabolism, Published online: 03 November 2026; doi:10.1038/s42255-026-01628-3 This Review examines how cells balance salvage and de novo synthesis of nucleotides across physiological contexts, highlighting the molecular determinants, disease relevance and therapeutic potential of nucleotide metabolic…",
+      "date": "2026-11-03T00:00:00Z",
+      "date_display": "3 Nov 2026"
+    },
+    {
+      "id": "8ea6ef7df4",
+      "title": "Lipid organization in health and disease",
+      "link": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00387-6?rss=yes",
+      "journal": "Cell Metabolism",
+      "category": "Original Article",
+      "authors": "Gökhan S. Hotamışlıgil, Douglas G. Mashek, Tara TeSlaa, Leigh Goedeke, Li-Huei Tsai, John P. Kennelly, Peter Tontonoz, Jennifer M. Bomberger, Sumeet A. Khetarpal, Mireille Ouimet…",
+      "summary": "Lipids are spatially and dynamically organized—within organelles, across cell types and organs, and in response to microbial and dietary inputs. Disruption of this organization is a shared mechanism underlying pathological states, including neurodegeneration, cardiovascular disease, and inflammation. In this Voices…",
+      "date": "2026-11-03T00:00:00Z",
+      "date_display": "3 Nov 2026"
+    },
+    {
+      "id": "86afd6742f",
+      "title": "Beyond bacteria: A fungal metabolite drives liver cancer from within",
+      "link": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00441-9?rss=yes",
+      "journal": "Cell Metabolism",
+      "category": "Original Article",
+      "authors": "Soon Kyu Lee, Sung Won Lee",
+      "summary": "Gut bacteria are established drivers of steatotic liver disease and liver cancer—gut fungi, much less so. Zhou et al. show that Rhizopus arrhizus promotes MASLD-associated liver cancer through kynurenic acid, a metabolite that bypasses its own surface receptors to engage the cytoplasmic scaffold IQGAP1.",
+      "date": "2026-11-03T00:00:00Z",
+      "date_display": "3 Nov 2026"
+    },
+    {
+      "id": "3384df8b61",
+      "title": "Metformin-supportive nutrition: When gut microbes eat drugs",
+      "link": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00394-3?rss=yes",
+      "journal": "Cell Metabolism",
+      "category": "Original Article",
+      "authors": "Chenghao Guo, Changtao Jiang",
+      "summary": "Metformin is a first-line treatment for type 2 diabetes in adults and children, but its efficacy varies significantly among patients. Zhao et al. identify microbial AdhE as a metformin-degrading enzyme in metformin low-responders and propose enzyme-based microbiome intervention as a strategy to rescue therapy.",
+      "date": "2026-11-03T00:00:00Z",
+      "date_display": "3 Nov 2026"
+    },
+    {
+      "id": "f32e468491",
+      "title": "Lactate charging of tRNAs “brakes” the ribosome",
+      "link": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00438-9?rss=yes",
+      "journal": "Cell Metabolism",
+      "category": "Original Article",
+      "authors": "Hyo Min Cho, Raul Mostoslavsky",
+      "summary": "Lactate has been recast from a waste product to a fuel and signaling molecule, yet why aggressive tumors invest so heavily in exporting it has remained unexplained. In a recent study in Molecular Cell, Wang et al. show that upon excess lactate production, AARS1 charges lactate onto tRNAs, generating dead-end…",
+      "date": "2026-11-03T00:00:00Z",
+      "date_display": "3 Nov 2026"
+    },
+    {
+      "id": "6a2c0a49eb",
+      "title": "Fueling the failing heart: SGLT2i directly activates the hidden PANK1",
+      "link": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00382-7?rss=yes",
+      "journal": "Cell Metabolism",
+      "category": "Original Article",
+      "authors": "Cechuan Deng, Xiaoqiang Tang",
+      "summary": "Sodium-glucose cotransporter 2 inhibitors (SGLT2i) are rising stars for treating heart failure as first-line drugs, but the mechanism remains elusive. In a recent issue of Science, Forelli and colleagues show that SGLT2i bind directly to cardiac pantothenate kinase 1, boosting coenzyme A biosynthesis to support energy…",
+      "date": "2026-11-03T00:00:00Z",
+      "date_display": "3 Nov 2026"
+    },
+    {
+      "id": "d2fbc51c65",
+      "title": "Leveraging induced cell states for cancer therapy: The case for dynamic synthetic lethality",
+      "link": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00369-4?rss=yes",
+      "journal": "Cell Metabolism",
+      "category": "Original Article",
+      "authors": "Christina Mayerhofer, David T. Scadden",
+      "summary": "Metabolic differences between cancer and normal cells are accentuated by the selection pressure of therapy. Persisting cells enter a therapy-induced state of heightened, time-limited metabolic dependency. We argue that this interval can be exploited with metabolic modifiers to achieve persister cell death and improve…",
+      "date": "2026-11-03T00:00:00Z",
+      "date_display": "3 Nov 2026"
+    },
+    {
+      "id": "31e013dfe7",
+      "title": "Beyond singular effectors: The futile creatine cycle from molecular mechanism to integrated adipocyte thermogenesis",
+      "link": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00442-0?rss=yes",
+      "journal": "Cell Metabolism",
+      "category": "Original Article",
+      "authors": "Mohammed Faiz Hussain, Mina Ersin, Maria Delgado-Martin, Lawrence Kazak",
+      "summary": "Heat production in adipocytes can draw on parallel mechanisms. Hussain et al. examine how the futile creatine cycle operates alongside UCP1, connecting its molecular machinery and regulation to physiological thermogenesis. They discuss how this partnership informs efforts to understand and therapeutically recruit…",
+      "date": "2026-11-03T00:00:00Z",
+      "date_display": "3 Nov 2026"
+    },
+    {
+      "id": "b840f96f14",
+      "title": "Androgen-Mediated T-cell Suppression Drives Sex Bias in Head and Neck Squamous Cell Carcinoma",
+      "link": "https://aacrjournals.org/cancerrescommun/article/6/11/2578/789791/Androgen-Mediated-T-cell-Suppression-Drives-Sex",
+      "journal": "Cancer Research",
+      "category": "Original Article",
+      "authors": "Quinn Hopen, Samantha Antol, Carly J. Amato, Benjamin C. Duncan, Jonathan T. Busada, Lei Wang, Gangqing Hu, Jennifer Franko",
+      "summary": "Abstract Head and neck squamous cell carcinoma (HNSCC) exhibits a strong sex bias. However, the mechanisms underlying this disparity remain unclear. Using the four core genotypes (FCG) mouse model to uncouple gonadal sex from sex chromosome complement influences, we investigated the contributions of sex hormones and…",
+      "date": "2026-11-03T00:00:00Z",
+      "date_display": "3 Nov 2026"
+    },
+    {
+      "id": "af20c63396",
+      "title": "A division of labour for PD-1 ligands",
+      "link": "https://www.nature.com/articles/s41577-026-01372-5",
+      "journal": "Nature Reviews Immunology",
+      "category": "Review Article",
+      "authors": "Bhavya Singh, Nicolas Vabret",
+      "summary": "Nature Reviews Immunology, Published online: 03 November 2026; doi:10.1038/s41577-026-01372-5 A preprint by Nah et al. reports that PD-L1 and PD-L2 on dendritic cells in the tumour versus tumour-draining lymph nodes have spatially regulated effects on the antitumour T cell response.",
       "date": "2026-11-03T00:00:00Z",
       "date_display": "3 Nov 2026"
     },
@@ -453,6 +563,39 @@
       "date_display": "23 Oct 2026"
     },
     {
+      "id": "62273e695b",
+      "title": "On the interpretation of diet-specific metabolic effects following weight loss",
+      "link": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00385-2?rss=yes",
+      "journal": "Cell Metabolism",
+      "category": "Original Article",
+      "authors": "Faidon Magkos",
+      "summary": "I read with great interest the recent paper by Petersen et al. from Klein’s group on the effects of weight loss induced by diets of differing macronutrient composition on metabolic function in individuals with metabolically unhealthy obesity.1 I would like to commend the authors for their meticulous and well-executed…",
+      "date": "2026-10-22T00:00:00Z",
+      "date_display": "22 Oct 2026"
+    },
+    {
+      "id": "f0d2c4c8c1",
+      "title": "Distinguishing hepatic metabolic effects from overall cardiometabolic benefit after matched weight loss",
+      "link": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00389-X?rss=yes",
+      "journal": "Cell Metabolism",
+      "category": "Original Article",
+      "authors": "André Marques Fernandes Silva",
+      "summary": "Petersen et al.1 conducted a tightly controlled randomized feeding trial to evaluate whether diets with markedly different macronutrient composition modify metabolic responses to approximately 10% matched weight loss. The study provides important evidence that the assigned dietary patterns produced different hepatic…",
+      "date": "2026-10-22T00:00:00Z",
+      "date_display": "22 Oct 2026"
+    },
+    {
+      "id": "445c643945",
+      "title": "Response to Magkos and Silva: Diet macronutrient content and metabolic function in metabolically unhealthy obesity",
+      "link": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00386-4?rss=yes",
+      "journal": "Cell Metabolism",
+      "category": "Original Article",
+      "authors": "Max C. Petersen, Gordon I. Smith, Samuel Klein",
+      "summary": "We thank Faidon Magkos and André Marques Fernandes Silva for their insightful comments regarding our study. We appreciate Dr. Magkos’ support of the design and execution of our study. As noted by Magkos, a common limitation of diet studies is ensuring compliance with the prescribed diets and studying participants when…",
+      "date": "2026-10-22T00:00:00Z",
+      "date_display": "22 Oct 2026"
+    },
+    {
       "id": "db5bdf6c5a",
       "title": "Hit the pause button",
       "link": "https://www.nature.com/articles/s41568-026-00995-z",
@@ -482,6 +625,28 @@
       "category": "Original Article",
       "authors": "Qing Liu, Ying Cheng, Dandan Yan, Wenjie Wu, Zhenchuan Lei, Qiaoyun Long, Ziyu Zhao, Yuan Gao, Baile Wang, Tianshi Feng, Jihoon Shin, Jiayu Zhao, Shiting Zhao, Kang Chen, Kingyip…",
       "summary": "Nature Metabolism, Published online: 21 October 2026; doi:10.1038/s42255-026-01630-9 A futile Na+ K+ transport cycle, which is preferentially active in beige adipocytes, is shown to promote energy expenditure independent of uncoupling protein 1.",
+      "date": "2026-10-21T00:00:00Z",
+      "date_display": "21 Oct 2026"
+    },
+    {
+      "id": "906362240b",
+      "title": "Weight loss during intermittent fasting, not Mediterranean diet quality alone, is associated with lower inflammation: A randomized controlled trial",
+      "link": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00392-X?rss=yes",
+      "journal": "Cell Metabolism",
+      "category": "Original Article",
+      "authors": "Moritz V. Warmbrunn, Valeria Tosti, Raaj Kishore Biswas, Beatrice Bertozzi, Maria Lastra Cagigas, Nicola Veronese, Francesco Spelta, Laura Piccio, Richard D. Head, Richard R…",
+      "summary": "Warmbrunn et al. show that in a 16-week, two-phase controlled-feeding trial of 53 adults, Mediterranean diet quality alone improved lipids but not inflammation. Only once intermittent fasting was added did inflammation decrease; thus, in this setting, weight loss and negative energy balance, not diet quality by…",
+      "date": "2026-10-21T00:00:00Z",
+      "date_display": "21 Oct 2026"
+    },
+    {
+      "id": "25d0ae328e",
+      "title": "Propionate promotes MHC class I antigen presentation and anti-tumor immunity",
+      "link": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00393-1?rss=yes",
+      "journal": "Cell Metabolism",
+      "category": "Original Article",
+      "authors": "Suyao Li, Dong Guo, Qingqing Yang, Yizhi Cao, Yu Dong, Xiaoming Jiang, Xinyao Tian, Dou Nie, Lihui Wu, Qingang Wu, Xuxiao He, Yanyan Hu, Rongxuan Zhu, Ning Zhu, Shudi Luo, Yinan…",
+      "summary": "Li et al. demonstrate that propionate enhances tumor major histocompatibility complex class I (MHC class I) antigen presentation by binding the E3 ligase STUB1 and blocking MHC class I ubiquitination and degradation. This non-metabolic function of propionate promotes CD8+ T cell immunity and enhances anti-PD-1…",
       "date": "2026-10-21T00:00:00Z",
       "date_display": "21 Oct 2026"
     },
@@ -563,15 +728,15 @@
       "date_display": "15 Oct 2026"
     },
     {
-      "id": "3e0653642c",
-      "title": "IRF7 signalling in tanycytes controls brain–body–immune response across the ovarian cycle",
-      "link": "https://www.nature.com/articles/s42255-026-01635-4",
-      "journal": "Nature Metabolism",
+      "id": "39a80e5ab7",
+      "title": "An NAD+-responsive adipose signal coordinates inter-organ defense against muscle atrophy",
+      "link": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00391-8?rss=yes",
+      "journal": "Cell Metabolism",
       "category": "Original Article",
-      "authors": "Sreekala Nampoothiri, Daniela Fernandois, Nathalie Journiac, Fabien Delahaye, Yvon Mbouamboua, Florent Sauve, Marie Couralet, Sarah Gallet, Naziha Mroueh, Maria Laura Serradas…",
-      "summary": "Nature Metabolism, Published online: 15 October 2026; doi:10.1038/s42255-026-01635-4 This study reports a cellular map of the mouse and human mediobasal hypothalamus, revealing an immune cell-like state of tanycytes, which is influenced by sex and the ovarian cycle.",
-      "date": "2026-10-15T00:00:00Z",
-      "date_display": "15 Oct 2026"
+      "authors": "Na Liang, Jia He, Xiangji Guo, Jiaqi Yan, Xiaoqian Zhang, Xiaozhong Peng, Jun Li",
+      "summary": "Liang et al. identify an NAD+-responsive adipokine Serpina3n that protects skeletal muscle against aging- and disease-associated atrophy. NAD+ elevation promotes adipose Serpina3n production through STAT1, and Serpina3n promotes skeletal muscle protein homeostasis and metabolic adaptation through pyruvate carboxylase…",
+      "date": "2026-10-14T00:00:00Z",
+      "date_display": "14 Oct 2026"
     },
     {
       "id": "30713718f0",
@@ -669,6 +834,17 @@
       "category": "Original Article",
       "authors": "Lara Labarta-Bajo, Nicola J. Allen",
       "summary": "Astrocytes are glial cells important for neuronal health, but their functions in CNS immunopathology are less understood. In a recent issue of Nature, Lee et al. report that CD40 engagement and proinflammatory cytokines promote lipid droplet accumulation in astrocytes and subsequent antigen presentation, boosting…",
+      "date": "2026-10-13T00:00:00Z",
+      "date_display": "13 Oct 2026"
+    },
+    {
+      "id": "e446cdec59",
+      "title": "Cancer-cell-derived fumarate suppresses the anti-tumor capacity of CD8+ T cells in the tumor microenvironment",
+      "link": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00443-2?rss=yes",
+      "journal": "Cell Metabolism",
+      "category": "Original Article",
+      "authors": "Jie Cheng, Jinxin Yan, Ying Liu, Jiangzhou Shi, Haoyu Wang, Hanyang Zhou, Yinglin Zhou, Tongcun Zhang, Lina Zhao, Xianbin Meng, Haipeng Gong, Xinxiang Zhang, Haichuan Zhu, Peng…",
+      "summary": "(Cell Metabolism 35, 961–978.e1–e10; June 6, 2023)",
       "date": "2026-10-13T00:00:00Z",
       "date_display": "13 Oct 2026"
     },
@@ -783,6 +959,17 @@
       "date_display": "8 Oct 2026"
     },
     {
+      "id": "d6080bf3bc",
+      "title": "Histone lactylation scarring transmits metabolic and epigenetic memory across the gut-liver axis",
+      "link": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00383-9?rss=yes",
+      "journal": "Cell Metabolism",
+      "category": "Original Article",
+      "authors": "Heng Dong, Jinyang Li, Daowei Yang, Sheng Zhou, Abhinav Choubey, Tiantian Wang, Ruobing Du, Shiyan Li, Huilian Shi, Xiaolei Zhu, Rong Wang",
+      "summary": "Dong et al. show that ulcerative colitis remission leaves persistent LCN2+ macrophages with heightened glycolysis and H3K9la memory. Upon high-fat diet challenge, these cells contribute to gut-to-liver inflammatory transmission and increased susceptibility to steatotic liver disease through a chromatin-remodeling…",
+      "date": "2026-10-07T00:00:00Z",
+      "date_display": "7 Oct 2026"
+    },
+    {
       "id": "2646e69b9c",
       "title": "A guide to B cell metabolism",
       "link": "https://www.nature.com/articles/s41577-026-01355-6",
@@ -814,94 +1001,6 @@
       "summary": "Interleukin (IL)-10 produced by B cells has regulatory functions in disease contexts. Manfroi et al. report a strategy for the efficient generation of IL-10-producing B cells using a chemical compound identified through a high-throughput screen. Upon transfer, these IL-10+ B cells reverse ongoing CNS autoimmunity at…",
       "date": "2026-10-06T00:00:00Z",
       "date_display": "6 Oct 2026"
-    },
-    {
-      "id": "d8bc3ca109",
-      "title": "Oleic acid might induce necroptosis of CD4+ T cells, in addition to its induction of pyroptosis",
-      "link": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00294-9?rss=yes",
-      "journal": "Cell Metabolism",
-      "category": "Original Article",
-      "authors": "Caglar Berkel",
-      "summary": "A recent study published in Cell Metabolism by Kumar et al. found that both oleic acid (OAc) and palmitic acid (PA) induce the mRNA expression of pyroptosis-associated genes (such as NLRP3, caspase-1, GSDMD, IL-1β, and IL-18) in CD4+ T cells and do so in a dose-dependent manner.1 The authors further showed that…",
-      "date": "2026-10-06T00:00:00Z",
-      "date_display": "6 Oct 2026"
-    },
-    {
-      "id": "8608cb68ab",
-      "title": "Pyroptosis, not necroptosis, drives lipid-induced CD4+ T cell death",
-      "link": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00329-3?rss=yes",
-      "journal": "Cell Metabolism",
-      "category": "Original Article",
-      "authors": "Cornelia M. Weyand, Murari N. Kothagundla, Jose Morales, Lina E. Werner, Brandon Wong, Jörg J. Goronzy",
-      "summary": "We thank Dr. Berkel for the insightful comments regarding our recent study on lipid-induced CD4+ T cell death. The question of whether fatty acids such as oleic acid (OAc) may induce necroptosis in addition to pyroptosis is highly relevant and provides an opportunity to further refine the mechanistic framework of…",
-      "date": "2026-10-06T00:00:00Z",
-      "date_display": "6 Oct 2026"
-    },
-    {
-      "id": "93b515bfe2",
-      "title": "Trajectories in immunometabolism",
-      "link": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00384-0?rss=yes",
-      "journal": "Cell Metabolism",
-      "category": "Original Article",
-      "authors": "Dirk Brenner, Michela Matteoli, Carole L. Linster, Felix M. Wensveen, Thekla Cordes, Rafael J. Argüello, Claudia Mauri, Christoph Wilhelm, Stefanie K. Wculek, Luke O’Neill…",
-      "summary": "Immunometabolism has rapidly evolved from an emerging area within immunology into a topic that not only impregnates most aspects of immune research but also reveals itself as a defining feature of the immune response. At the European Immunometabolism Conference celebrated in June, we asked some of the speakers to…",
-      "date": "2026-10-06T00:00:00Z",
-      "date_display": "6 Oct 2026"
-    },
-    {
-      "id": "d98c8274b7",
-      "title": "Metabolic advantages of a high-protein, low-carbohydrate diet in in patients with metabolically unhealthy obesity",
-      "link": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00368-2?rss=yes",
-      "journal": "Cell Metabolism",
-      "category": "Original Article",
-      "authors": "Nicola Guess",
-      "summary": "Whether dietary macronutrient content has metabolic benefits beyond weight loss is unknown. In this issue, a carefully controlled trial demonstrates that a higher-protein, lower-carbohydrate dietary pattern improves hepatic glucose and lipid metabolism in people with prediabetes and steatosis compared to a…",
-      "date": "2026-10-06T00:00:00Z",
-      "date_display": "6 Oct 2026"
-    },
-    {
-      "id": "7c6d2e9b4d",
-      "title": "Glutamine metabolism keeps pathogenic hepatic CD4+ T cells in check",
-      "link": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00379-7?rss=yes",
-      "journal": "Cell Metabolism",
-      "category": "Original Article",
-      "authors": "Haiguang Wang, Andrew Hakeem, Xavier S. Revelo",
-      "summary": "Sawada et al. show that glutamine metabolism through glutaminolysis restrains O-GlcNAcylation and pathogenic inflammatory cytokine production by hepatic CD4+ T cells during MASLD. Glutamine supplementation restores hepatic glutamine availability and limits liver injury, and these findings reveal a tissue-specific…",
-      "date": "2026-10-06T00:00:00Z",
-      "date_display": "6 Oct 2026"
-    },
-    {
-      "id": "e9a3405974",
-      "title": "Diet-microbiome interactions enhance cancer immunotherapy in obesity",
-      "link": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00373-6?rss=yes",
-      "journal": "Cell Metabolism",
-      "category": "Original Article",
-      "authors": "Allard W.J. van Renterghem, Emile E. Voest",
-      "summary": "In a recent issue of Nature, Desharnais and colleagues show that diet-dependent remodeling of the gut microbiome promotes anti-tumor immunity and may explain the enhanced efficacy of immune checkpoint blockade observed in obesity. Their study identifies dietary intervention as a promising strategy to optimize the host…",
-      "date": "2026-10-06T00:00:00Z",
-      "date_display": "6 Oct 2026"
-    },
-    {
-      "id": "b4c4147833",
-      "title": "You are what you eat and translate: Feeding the code to fight cancer and viruses",
-      "link": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00381-5?rss=yes",
-      "journal": "Cell Metabolism",
-      "category": "Original Article",
-      "authors": "Adrianna Dabrowska, Davide Ruggero",
-      "summary": "How nutrients shape gene expression has remained a fundamental question. Wu et al. show that extracellular arginine directly remodels the tRNA-codon axis, controlling codon-dependent translation of major histocompatibility class I independently of canonical amino acid stress signaling. This nutrient-sensing mechanism…",
-      "date": "2026-10-06T00:00:00Z",
-      "date_display": "6 Oct 2026"
-    },
-    {
-      "id": "791eefd225",
-      "title": "Sympathetic nerve activity primes susceptibility to autoimmune hair loss",
-      "link": "https://www.nature.com/articles/s41577-026-01365-4",
-      "journal": "Nature Reviews Immunology",
-      "category": "Review Article",
-      "authors": "Kirsty Minton",
-      "summary": "Nature Reviews Immunology, Published online: 05 October 2026; doi:10.1038/s41577-026-01365-4 A study in Nature by Cui et al. reports that sympathetic nerve activity during the growth phase of hair follicles activates endogenous retroviruses, leading to an innate immune response that destabilizes immune privilege.",
-      "date": "2026-10-05T00:00:00Z",
-      "date_display": "5 Oct 2026"
     },
     {
       "id": "c47e2f17b8",
@@ -955,6 +1054,17 @@
       "category": "Original Article",
       "authors": "Laurine Noblecourt, Amanda Wicki, Ashwin Jainarayanan, Vinnycius Pereira-Almeida, James McAuliffe, Emily Steffke, Silvia Panetti, Hannah Fuchs, Ramiro A. Ramirez-Valdez…",
       "summary": "Noblecourt et al. show that chemotherapy acts as an immunological adjuvant by expanding TCF1+CD8+ T cells during vaccine priming, thereby enhancing vaccine-induced anti-tumor immunity. These findings provide a rationale for combining chemotherapy, cancer vaccines, and PD-1 blockade in the clinic.",
+      "date": "2026-10-02T00:00:00Z",
+      "date_display": "2 Oct 2026"
+    },
+    {
+      "id": "a8d12d8739",
+      "title": "Fungus Rhizopus arrhizus promotes MASLD-associated hepatocellular carcinoma through generating kynurenic acid",
+      "link": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00380-3?rss=yes",
+      "journal": "Cell Metabolism",
+      "category": "Original Article",
+      "authors": "Xingyu Zhou, Chuanfa Liu, Wenchao Wei, Xueliang Wang, Yasi Pan, Ying Jiao, Shiyu Li, Yating Zhang, Harry Cheuk-Hay Lau, Ruyi Zhang, Dingwu Li, Alvin Ho-Kwan Cheung, Minghua Zheng…",
+      "summary": "Zhou et al. uncover the pro-tumorigenic role of gut fungus Rhizopus arrhizus in MASLD-HCC. R. arrhizus produces kynurenic acid, which directly binds to tumor cells and activates oncogenic MAPK signaling to promote MASLD-HCC. Zhou et al. also provide therapeutic insights by showing that blocking this host-fungus…",
       "date": "2026-10-02T00:00:00Z",
       "date_display": "2 Oct 2026"
     },
@@ -1080,6 +1190,17 @@
       "date_display": "30 Sep 2026"
     },
     {
+      "id": "d68f6079a0",
+      "title": "Microbial aldehyde-alcohol dehydrogenase degrades metformin to limit therapeutic response in type 2 diabetes",
+      "link": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00378-5?rss=yes",
+      "journal": "Cell Metabolism",
+      "category": "Original Article",
+      "authors": "Yue Zhao, Chen Peng, Ying Xia, Tiejun Dong, Juan Xu, Xiaodong Shan, Xiang Zhong, Jingchuan Xue, Ziqian Bing, Pengfei Li, Jingyu Han, Yunzhong Nie, Kelei He, Yu Cao, Tingting Wang",
+      "summary": "Zhao et al. show that gut microbial aldehyde-alcohol dehydrogenase (AdhE) degrades metformin, reducing drug exposure and glycemic control in individuals with type 2 diabetes. A clinical trial further demonstrates that the dietary phytochemical daidzein inhibits microbial AdhE and improves metformin efficacy.",
+      "date": "2026-09-29T00:00:00Z",
+      "date_display": "29 Sep 2026"
+    },
+    {
       "id": "589de85f8c",
       "title": "The wu wei of brain metastases: When the gift of a pause is also a vulnerability",
       "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00426-5?rss=yes",
@@ -1113,26 +1234,15 @@
       "date_display": "24 Sep 2026"
     },
     {
-      "id": "bc1c2f2626",
-      "title": "Lactate couples metabolic state to necroptosis across pathological and physiological conditions",
-      "link": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00374-8?rss=yes",
+      "id": "6a68fee4f5",
+      "title": "Adipose ILC2s depend on acetyl-CoA carboxylase 1 to maintain metabolic health",
+      "link": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00371-2?rss=yes",
       "journal": "Cell Metabolism",
       "category": "Original Article",
-      "authors": "Naijin Zhang, Xinyue Huang, Saien Lu, Yuanming Zou, Guozhe Sun, Wei Zhang, Huijun Lu, Limin Wang, Xinxin Lu, Zhaobo Zhang, Cheng Cheng, Shilong You, He Zhang, Ying Zhang, Pengbo…",
-      "summary": "Zhang et al. show that lactate regulates necroptosis via RIPK3 lactylation at lysine 63, enhancing kinase activity. This drives tissue injury in ischemia-reperfusion and viral infection, while exercise-induced lactate uses the same mechanism to support muscle remodeling, revealing lactate-promoted necroptosis as key…",
+      "authors": "Fotios Karagiannis, Maria Rafailia Theodorou, Fabian Nikolka, Maria Doverman, Dhruvi Shah, Chantal Wientjens, Timothy R. McCulloch, Ronja Kardinal, David Colon, Jelena Zurkovic…",
+      "summary": "Karagiannis and Theodorou et al. show that excess lipids in obesity impair adipose ILC2s via acetyl-CoA carboxylase 1 (ACC1). Deletion of ACC1 disrupts the citrate shuttle and the NAD+/NADH balance, inducing ILC2 loss and adipose tissue hypertrophy. Supplementing with nicotinamide riboside rescues ACC1 deficiency and…",
       "date": "2026-09-23T00:00:00Z",
       "date_display": "23 Sep 2026"
-    },
-    {
-      "id": "91e01308b0",
-      "title": "A liver-cartilage selenium axis underlies metabolic comorbidity in osteoarthritis",
-      "link": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00375-X?rss=yes",
-      "journal": "Cell Metabolism",
-      "category": "Original Article",
-      "authors": "Sangmin Yong, Hyewon Jo, Geunho Yook, Jihyeon Park, Minju Kim, Sunwoo Kang, Jiyeon Shin, Donghyun Kang, Tae Woo Kim, Moon Jong Chang, Chong Bum Chang, Seung-Baik Kang, Yong-ho…",
-      "summary": "Yong et al. identify that liver disease is associated with increased osteoarthritis (OA) risk. They uncover a liver-cartilage selenium (Se) axis: hepatic stress impairs selenoprotein P (SELENOP)-mediated Se delivery to cartilage, promoting chondrocyte senescence and joint degeneration. Inorganic Se supplementation…",
-      "date": "2026-09-22T00:00:00Z",
-      "date_display": "22 Sep 2026"
     },
     {
       "id": "cdd034f3df",
@@ -1153,17 +1263,6 @@
       "category": "Original Article",
       "authors": "Jin Ng, Yue You, Tina Z. Zhang, Jonas B. Hess, Sarah A. Best, Alex Caneborg, Marcel Schmiel, Sarah T. Diepstraten, Tim Spelman, Joshua I. Gray, Dale I. Godfrey, Yin Wu, Richard W…",
       "summary": "Ng et al. show that γδ T cells infiltrate SCLC and have cancer-fighting abilities. These cells can be harnessed through multiple therapeutics to kill SCLC, including through MHC-independent recognition mechanisms via BTN2A1. Notably, γδ T cell infiltration is clinically relevant in SCLC, with high levels predictive of…",
-      "date": "2026-09-18T00:00:00Z",
-      "date_display": "18 Sep 2026"
-    },
-    {
-      "id": "fa0ae03db7",
-      "title": "Glutamine metabolism as a rheostat of CD4+ T cell pathogenic function in metabolic dysfunction-associated steatotic liver disease",
-      "link": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00370-0?rss=yes",
-      "journal": "Cell Metabolism",
-      "category": "Original Article",
-      "authors": "Keisuke Sawada, Jarren R. Oates, Masaki Kimura, Traci E. Stankiewicz, John Eom, Pablo C. Alarcon, Hak Chung, Michelle S.M.A. Damen, Cassidy J. Ulanowicz, Jennifer L. Wayland…",
-      "summary": "Sawada et al. show that reduced hepatic glutamine drives pathogenic CD4+ T cell responses that promote MASLD progression. Restoring liver glutamine suppresses inflammation and limits liver injury. These findings identify T cell glutamine metabolism as a key metabolic checkpoint and promising therapeutic target in…",
       "date": "2026-09-18T00:00:00Z",
       "date_display": "18 Sep 2026"
     },
@@ -1201,6 +1300,17 @@
       "date_display": "17 Sep 2026"
     },
     {
+      "id": "6a047e226f",
+      "title": "Zonated cholesterol sensing by SIRT2 drives MASLD-HCC",
+      "link": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00367-0?rss=yes",
+      "journal": "Cell Metabolism",
+      "category": "Original Article",
+      "authors": "Yingting Zhang, Xidai Long, Yinkun Fu, Xinxin Tang, Hao Luo, Zhihui Zou, Wei He, Longchuan Han, Yue Li, Jing Luo, Lihong Tian, Yuheng Lu, Yi Chen, Riming Pan, Xinyu Bao, Yurui…",
+      "summary": "Zhang et al. identify SIRT2 as a zonated cholesterol sensor in periportal hepatocytes, where chronic cholesterol overload hyperactivates SIRT2 to suppress CYP7B1‑mediated bile acid synthesis, leading to 27‑hydroxycholesterol accumulation and ultimately driving MASLD‑HCC.",
+      "date": "2026-09-17T00:00:00Z",
+      "date_display": "17 Sep 2026"
+    },
+    {
       "id": "e69c6ee6b1",
       "title": "Chemotherapy-free phase 1/2 trial of HRS-4642 plus adebrelimab in previously treated metastatic KRAS G12D-mutant pancreatic cancer",
       "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00389-2?rss=yes",
@@ -1210,116 +1320,6 @@
       "summary": "Shi et al. report the first clinical study of the selective KRAS G12D inhibitor HRS-4642 combined with the anti-PD-L1 antibody adebrelimab in heavily pretreated patients with KRAS G12D-mutant pancreatic cancer. The chemotherapy-free regimen demonstrates a manageable safety profile and preliminary antitumor activity…",
       "date": "2026-09-16T00:00:00Z",
       "date_display": "16 Sep 2026"
-    },
-    {
-      "id": "6e72f27392",
-      "title": "Chronotherapy with immune checkpoint inhibitors: The knowns, the unknowns, and the contested",
-      "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00387-9?rss=yes",
-      "journal": "Cancer Cell",
-      "category": "Original Article",
-      "authors": "Zeynep Melis Gül, Qun Zeng, Doron Merkler, Christoph Scheiermann",
-      "summary": "Emerging data indicate that immune checkpoint inhibitors can exhibit time-of-day-dependent effects in pre-clinical models. Furthermore, multiple retrospective clinical trials associate earlier anti-tumor treatment timing with improved outcomes. However, key questions remain regarding the reproducibility of these…",
-      "date": "2026-09-15T00:00:00Z",
-      "date_display": "15 Sep 2026"
-    },
-    {
-      "id": "7bfe7d53c0",
-      "title": "Teamwork makes the dream work? Ensemble learning in computational pathology",
-      "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00390-9?rss=yes",
-      "journal": "Cancer Cell",
-      "category": "Original Article",
-      "authors": "Stefan Schulz, Sebastian Foersch",
-      "summary": "In this issue of Cancer Cell, Luo et al. report an ensemble approach that integrates five pretrained pathology foundation models into a slide-level representation to exploit their complementary information, yielding improvements in tumor subtyping, biomarker, and therapy-response prediction. This shows the potential…",
-      "date": "2026-09-10T00:00:00Z",
-      "date_display": "10 Sep 2026"
-    },
-    {
-      "id": "ff6573ad5e",
-      "title": "Ensemble learning of pathology foundation models for precision oncology",
-      "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00385-5?rss=yes",
-      "journal": "Cancer Cell",
-      "category": "Original Article",
-      "authors": "Xiangde Luo, Xiyue Wang, Feyisope Eweje, Xiaoming Zhang, Juan Luis Gomez Marti, Sarah Cascarino, Sen Yang, Yuchen Li, Ryan Quinton, Jinxi Xiang, Yuanfeng Ji, Zhe Li, Yijiang Chen…",
-      "summary": "Luo et al. develop ELF, a framework that ensembles five pathology foundation models to generate unified representations from whole-slide images. Trained on nearly 54,000 slides across 20 anatomical sites, ELF outperforms individual foundation models in disease classification, biomarker detection, and prediction of…",
-      "date": "2026-09-10T00:00:00Z",
-      "date_display": "10 Sep 2026"
-    },
-    {
-      "id": "447df25851",
-      "title": "UniCure: A multi-modal model for predicting personalized cancer therapy response",
-      "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00348-X?rss=yes",
-      "journal": "Cancer Cell",
-      "category": "Original Article",
-      "authors": "Zexi Chen, Saisai Tian, Jiazheng Pei, Ruichu Gu, Yongge Li, Shizhi Ding, Yaqian Xu, Xinlong Zheng, Miaoyu Liu, Xinxing Du, Yuanyuan Zhou, Junchao Zhu, Jiawei Zou, Jing Xu, Wenli…",
-      "summary": "Chen et al. present UniCure, a multi-modal foundation model that predicts drug-induced transcriptomic responses across diverse cellular contexts. By bridging cancer cell line data with patient-derived models, UniCure enables personalized drug prioritization and patient stratification, with its predicted therapeutic…",
-      "date": "2026-09-09T00:00:00Z",
-      "date_display": "9 Sep 2026"
-    },
-    {
-      "id": "175328ab20",
-      "title": "A new name, an old crisis: Metabolic dysfunction at the core of polyendocrine metabolic ovarian syndrome",
-      "link": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00291-3?rss=yes",
-      "journal": "Cell Metabolism",
-      "category": "Original Article",
-      "authors": "Elisabet Stener-Victorin, Han Zhao, Ricardo Azziz, Helena Teede",
-      "summary": "Affecting hundreds of millions of women worldwide, polyendocrine metabolic ovarian syndrome (PMOS, formerly polycystic ovary syndrome) carries a significantly higher risk of cardiovascular and metabolic diseases. Here we discuss how renaming this disease reframes a profoundly misunderstood condition for which basic…",
-      "date": "2026-09-08T00:00:00Z",
-      "date_display": "8 Sep 2026"
-    },
-    {
-      "id": "1324f36b4a",
-      "title": "Implications of GLP-1 receptor agonists for the fertility of women with polyendocrine metabolic ovarian syndrome",
-      "link": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00338-4?rss=yes",
-      "journal": "Cell Metabolism",
-      "category": "Original Article",
-      "authors": "Pawel Kordowitzki, Anju E. Joham, Clifford J. Rosen",
-      "summary": "Women with polyendocrine metabolic ovarian syndrome (PMOS) represent a particularly challenging patient population, characterized by the convergence of reproductive dysfunction, obesity, insulin resistance, and chronic inflammation. The emergence of glucagon-like peptide-1 receptor agonists (GLP-1RAs) offers a…",
-      "date": "2026-09-08T00:00:00Z",
-      "date_display": "8 Sep 2026"
-    },
-    {
-      "id": "904d1e38b2",
-      "title": "Parental leave in immunology – 12",
-      "link": "https://www.cell.com/trends/immunology/fulltext/S1471-4906(26)00223-1?rss=yes",
-      "journal": "Trends in Immunology",
-      "category": "Review Article",
-      "authors": "Hui Peng",
-      "summary": "My laboratory focuses on natural killer (NK) cell and type 1 innate lymphoid cell (ILC)1 biology, with a particular interest in the development, heterogeneity, and functions of liver NK cell and ILC1 subsets. This interest stemmed from my PhD work in Professor Zhigang Tian’s laboratory at the University of Science and…",
-      "date": "2026-09-06T00:00:00Z",
-      "date_display": "6 Sep 2026"
-    },
-    {
-      "id": "f347f3e1c2",
-      "title": "Aging microenvironment induces CD8+ T cell exhaustion by suppressing hepatic β-hydroxybutyrylate synthesis",
-      "link": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00334-7?rss=yes",
-      "journal": "Cell Metabolism",
-      "category": "Original Article",
-      "authors": "Yifeng Xiao, Yanling Zhang, Zihao Zhao, Zijian Zhang, Xiaohui Zhang, Pengju Chen, Jin Gu, Haichuan Zhu, Peng Jiang, Jie Cheng",
-      "summary": "Xiao et al. identify a liver-derived β-hydroxybutyrate-CREM signaling axis that drives CD8+ T cell immunosenescence. Restoring β-hydroxybutyrate reverses T cell exhaustion and improves antitumor, antiviral, and CAR T cell immunity in aged hosts, revealing a metabolic strategy to rejuvenate immune function during aging.",
-      "date": "2026-09-03T00:00:00Z",
-      "date_display": "3 Sep 2026"
-    },
-    {
-      "id": "a68f81d102",
-      "title": "Host metabolism rewrites metastatic fate",
-      "link": "https://www.cell.com/trends/cancer/fulltext/S2405-8033(26)00189-5?rss=yes",
-      "journal": "Trends in Cancer",
-      "category": "Review Article",
-      "authors": "Zihan Qiu, Xinyu Li, Pengfei Xu",
-      "summary": "Metastatic heterogeneity has traditionally been explained by tumor-intrinsic evolution. A recent study by Peng-Winkler et al. challenges this paradigm by demonstrating that hepatic steatosis instructs colorectal cancer liver metastasis through fatty acid-dependent myelocytomatosis oncogene protein (MYC) activation…",
-      "date": "2026-09-02T00:00:00Z",
-      "date_display": "2 Sep 2026"
-    },
-    {
-      "id": "34e30bdcf2",
-      "title": "A distinct effector B cell population drives autoantibody production in SARS-CoV-2 infection",
-      "link": "https://www.cell.com/immunity/fulltext/S1074-7613(26)00324-9?rss=yes",
-      "journal": "Immunity",
-      "category": "Original Article",
-      "authors": "Dan Yuan, Sarah Li, Rongyu Zhang, Rachel H. Ng, Yapeng Su, Linda Lan, Mahasish Shome, Brett Smith, Pamela Troisch, Jingyi Xie, Jongchan Choi, Rick Edmark, Daniel Chen, Lee Rowen…",
-      "summary": "Autoantibodies (autoAbs) are linked to mortality and Long COVID, yet their cellular origins remain unclear. Yuan et al. identify a distinct B cell population (DN2 cells) as a key source of autoAbs during SARS-CoV-2 infection. These cells mirror lupus DN2s and carry a strong autoimmune genetic signature, linking…",
-      "date": "2026-08-28T00:00:00Z",
-      "date_display": "28 Aug 2026"
     }
   ]
 }
