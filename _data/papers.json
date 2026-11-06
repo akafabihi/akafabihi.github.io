@@ -1,6 +1,28 @@
 {
-  "updated": "2026-11-05T13:38:16Z",
+  "updated": "2026-11-06T13:21:35Z",
   "papers": [
+    {
+      "id": "f8a01a80b6",
+      "title": "Sympathetic neurons remodel the extracellular matrix for thermogenesis",
+      "link": "https://www.nature.com/articles/s42255-026-01659-w",
+      "journal": "Nature Metabolism",
+      "category": "Original Article",
+      "authors": "Gitalee Sarker, Ana I. Domingos",
+      "summary": "Nature Metabolism, Published online: 06 November 2026; doi:10.1038/s42255-026-01659-w The cellular microenvironment surrounding sympathetic nerves is emerging as an important regulator of adipose tissue metabolism. A new study published in Nature Metabolism shows that a discrete population of GUSB-expressing…",
+      "date": "2026-11-06T00:00:00Z",
+      "date_display": "6 Nov 2026"
+    },
+    {
+      "id": "225ef80eba",
+      "title": "GUSB-enriched sympathetic neurons promote thermogenic recruitment through extracellular matrix remodelling in male mice",
+      "link": "https://www.nature.com/articles/s42255-026-01653-2",
+      "journal": "Nature Metabolism",
+      "category": "Original Article",
+      "authors": "Xinran Wang, Xuejuan Zhu, Junkun Jiang, Wenjing Yu, Wenlong Wu, Xuyang Jia, Lei Du, Zelin Wang, Chuan Zhang, Jingang Wang, Huiwen Yuan, Yonghao Zhou, Zhengguang Pan, Junfeng Han…",
+      "summary": "Nature Metabolism, Published online: 06 November 2026; doi:10.1038/s42255-026-01653-2 A subpopulation of β-glucuronidase-enriched sympathetic neurons regulates thermogenesis in male mice, via extracellular matrix remodelling.",
+      "date": "2026-11-06T00:00:00Z",
+      "date_display": "6 Nov 2026"
+    },
     {
       "id": "813e18790d",
       "title": "Basophils boost early antitumor immunity by restraining T reg cells",
@@ -24,6 +46,17 @@
       "date_display": "5 Nov 2026"
     },
     {
+      "id": "35d793ad90",
+      "title": "Germinal centers as evolutionary islands",
+      "link": "https://www.nature.com/articles/s41590-026-02713-1",
+      "journal": "Nature Immunology",
+      "category": "Original Article",
+      "authors": "Yu Pan, Ziv Shulman",
+      "summary": "Nature Immunology, Published online: 05 November 2026; doi:10.1038/s41590-026-02713-1 Antibody affinity maturation can favor a few high-affinity clones. Spatially isolated germinal centers limit clonal dominance and preserve antibody response breadth.",
+      "date": "2026-11-05T00:00:00Z",
+      "date_display": "5 Nov 2026"
+    },
+    {
       "id": "4c9ef88165",
       "title": "Lactylation: a metabolic sensor for faithful mitosis",
       "link": "https://www.nature.com/articles/s42255-026-01649-y",
@@ -42,6 +75,17 @@
       "category": "Original Article",
       "authors": "Rongxuan Zhu, Heyu Li, Dou Nie, Guijun Liu, Qingang Wu, Wei Lv, Yue Wang, Yueguang Wu, Ying Meng, Dong Guo, Lu Chai, Shudi Luo, Suyao Li, Xinyao Tian, Zheng Wang, Liwei Xiao…",
       "summary": "Nature Metabolism, Published online: 05 November 2026; doi:10.1038/s42255-026-01650-5 This study shows that Aurora B activation by lactylated PGK1 links glycolysis to mitotic progression and immune evasion in cancer.",
+      "date": "2026-11-05T00:00:00Z",
+      "date_display": "5 Nov 2026"
+    },
+    {
+      "id": "cf20ffff9b",
+      "title": "Cancer Cell CD73 Loss Promotes a Dual Inflammatory and Immunosuppressive Microenvironment in Endometrial Carcinoma",
+      "link": "https://aacrjournals.org/cancerrescommun/article/6/11/2602/789844/Cancer-Cell-CD73-Loss-Promotes-a-Dual-Inflammatory",
+      "journal": "Cancer Research",
+      "category": "Original Article",
+      "authors": "Hannah N. Lee, Xingyuan Zhang, Suzanne M. Crumley, Emily M. Rabjohns, Luan H. Phan, Di Wu, Russell R. Broaddus, Cyrus Vaziri, Jessica L. Bowser",
+      "summary": "Abstract CD73 is an emerging immunotherapy target that is overexpressed in many tumors and generates an adenosine-rich microenvironment to suppress antitumor immunity. In low-grade endometrial carcinoma, CD73 expression varies, and its impact on tumor immunobiology is unknown. Using two microsatellite-stable, grade 2…",
       "date": "2026-11-05T00:00:00Z",
       "date_display": "5 Nov 2026"
     },
@@ -97,17 +141,6 @@
       "category": "Original Article",
       "authors": "Irene M. Briata, Alessio Carbone, Sebastian Foersch, Katrin E. Tagscherer, Wilfried Roth, Dominique Scherer, Tania Buttiron Webber, Matteo Clavarezza, Jürgen Burhenne, Martino…",
       "summary": "Abstract Purpose: Aspirin (Asa) and metformin (Met) have shown preventive efficacy in colorectal cancer. Preclinical data suggest convergence on NF-κB/PI3K–mTOR signaling and potential synergy. The ASAMET phase II trial tested this hypothesis in patients with resected stage I to III colorectal cancer. Patients and…",
-      "date": "2026-11-04T00:00:00Z",
-      "date_display": "4 Nov 2026"
-    },
-    {
-      "id": "070db42f0d",
-      "title": "Astrocytes drive stroke-induced glioma progression",
-      "link": "https://www.nature.com/articles/s41568-026-01000-3",
-      "journal": "Nature Reviews Cancer",
-      "category": "Review Article",
-      "authors": "Anna Dart",
-      "summary": "Nature Reviews Cancer, Published online: 04 November 2026; doi:10.1038/s41568-026-01000-3 Ye et al. show that ischaemic stroke can drive glioma progression through microenvironmental remodelling of tumour-associated astrocytes.",
       "date": "2026-11-04T00:00:00Z",
       "date_display": "4 Nov 2026"
     },
@@ -343,6 +376,28 @@
       "date_display": "2 Nov 2026"
     },
     {
+      "id": "fd59efd652",
+      "title": "Advisory Board and Contents",
+      "link": "https://www.cell.com/trends/cell-biology/fulltext/S0962-8924(26)00219-9?rss=yes",
+      "journal": "Trends in Cell Biology",
+      "category": "Review Article",
+      "authors": "",
+      "summary": "",
+      "date": "2026-11-01T00:00:00Z",
+      "date_display": "1 Nov 2026"
+    },
+    {
+      "id": "013edede8b",
+      "title": "Subscription and Copyright Information",
+      "link": "https://www.cell.com/trends/cell-biology/fulltext/S0962-8924(26)00222-9?rss=yes",
+      "journal": "Trends in Cell Biology",
+      "category": "Review Article",
+      "authors": "",
+      "summary": "",
+      "date": "2026-11-01T00:00:00Z",
+      "date_display": "1 Nov 2026"
+    },
+    {
       "id": "d782142a63",
       "title": "Nuclear NAD+ promotes innate immune memory by inhibiting KDM5A-dependent histone demethylation",
       "link": "https://www.science.org/doi/abs/10.1126/sciimmunol.aea5625?af=R",
@@ -409,6 +464,28 @@
       "date_display": "30 Oct 2026"
     },
     {
+      "id": "ecf041d69f",
+      "title": "Autophagy limits steady-state IL-1α expression to restrain innate immunity",
+      "link": "https://www.nature.com/articles/s41590-026-02701-5",
+      "journal": "Nature Immunology",
+      "category": "Original Article",
+      "authors": "",
+      "summary": "Nature Immunology, Published online: 30 October 2026; doi:10.1038/s41590-026-02701-5 Autophagy controls pulmonary innate immunity at the steady-state by restraining IL-1α expression by alveolar macrophages. Disrupting this regulatory pathway primes lung innate immunity and enhances resistance to distinct respiratory…",
+      "date": "2026-10-30T00:00:00Z",
+      "date_display": "30 Oct 2026"
+    },
+    {
+      "id": "647e0b263e",
+      "title": "Linda J. Miller (1958–2026)",
+      "link": "https://www.nature.com/articles/s41590-026-02722-0",
+      "journal": "Nature Immunology",
+      "category": "Original Article",
+      "authors": "Editorial team Nature Immunology",
+      "summary": "Nature Immunology, Published online: 30 October 2026; doi:10.1038/s41590-026-02722-0 Linda J. Miller (1958–2026)",
+      "date": "2026-10-30T00:00:00Z",
+      "date_display": "30 Oct 2026"
+    },
+    {
       "id": "07fc89448c",
       "title": "Author Correction: Hypothalamic Grb10 enhances leptin signalling and promotes weight loss",
       "link": "https://www.nature.com/articles/s42255-026-01672-z",
@@ -418,6 +495,17 @@
       "summary": "Nature Metabolism, Published online: 30 October 2026; doi:10.1038/s42255-026-01672-z Author Correction: Hypothalamic Grb10 enhances leptin signalling and promotes weight loss",
       "date": "2026-10-30T00:00:00Z",
       "date_display": "30 Oct 2026"
+    },
+    {
+      "id": "c225b7640a",
+      "title": "Autophagy in macrophages curtails IL-1α-mediated immune priming against lung infections",
+      "link": "https://www.nature.com/articles/s41590-026-02699-w",
+      "journal": "Nature Immunology",
+      "category": "Original Article",
+      "authors": "Xiaoyan Cui, Xiwen Zhang, Siwei Feng, Junnan Chen, Shengxiao Zhang, Georgia R. Sampedro, Hongyan Gao, Irnov Irnov, Qun Lu, Megan T. Baldridge, Adrianus C. M. Boon, Ken Cadwell…",
+      "summary": "Nature Immunology, Published online: 29 October 2026; doi:10.1038/s41590-026-02699-w Wang and colleagues show that autophagy deficiency in alveolar macrophages upregulates the expression of IL-1α and increases resistance to respiratory infections.",
+      "date": "2026-10-29T00:00:00Z",
+      "date_display": "29 Oct 2026"
     },
     {
       "id": "acee5ce5c6",
@@ -442,17 +530,6 @@
       "date_display": "29 Oct 2026"
     },
     {
-      "id": "6aee8376ea",
-      "title": "Publisher Correction: A futile Na + K + transport cycle augments energy expenditure in beige adipocytes",
-      "link": "https://www.nature.com/articles/s42255-026-01673-y",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "Qing Liu, Ying Cheng, Dandan Yan, Wenjie Wu, Zhenchuan Lei, Qiaoyun Long, Ziyu Zhao, Yuan Gao, Baile Wang, Tianshi Feng, Jihoon Shin, Jiayu Zhao, Shiting Zhao, Kang Chen, Kingyip…",
-      "summary": "Nature Metabolism, Published online: 28 October 2026; doi:10.1038/s42255-026-01673-y Publisher Correction: A futile Na + K + transport cycle augments energy expenditure in beige adipocytes",
-      "date": "2026-10-28T00:00:00Z",
-      "date_display": "28 Oct 2026"
-    },
-    {
       "id": "ae57315651",
       "title": "Macrophage biology and immunoregulation in health and disease",
       "link": "https://www.nature.com/articles/s41423-026-01486-9",
@@ -475,13 +552,13 @@
       "date_display": "28 Oct 2026"
     },
     {
-      "id": "9ad4aad9a1",
-      "title": "Respiratory stress unmasks asparagine vulnerability",
-      "link": "https://www.nature.com/articles/s42255-026-01647-0",
-      "journal": "Nature Metabolism",
+      "id": "1f84770b1f",
+      "title": "TRAM-dependent myddosomes",
+      "link": "https://www.nature.com/articles/s41590-026-02716-y",
+      "journal": "Nature Immunology",
       "category": "Original Article",
-      "authors": "Yan Jin, Min Ni",
-      "summary": "Nature Metabolism, Published online: 27 October 2026; doi:10.1038/s42255-026-01647-0 Cells can tolerate substantial mitochondrial stress through anaplerosis. Cui et al. identify pyruvate carboxylase as a key metabolic control point for asparagine auxotrophy that emerges with severe respiratory dysfunction.",
+      "authors": "Nicholas J. Bernard",
+      "summary": "Nature Immunology, Published online: 27 October 2026; doi:10.1038/s41590-026-02716-y TRAM-dependent myddosomes",
       "date": "2026-10-27T00:00:00Z",
       "date_display": "27 Oct 2026"
     },
@@ -508,6 +585,39 @@
       "date_display": "27 Oct 2026"
     },
     {
+      "id": "fd94b61ae1",
+      "title": "The EMPROR’s new groove",
+      "link": "https://www.nature.com/articles/s41590-026-02672-7",
+      "journal": "Nature Immunology",
+      "category": "Original Article",
+      "authors": "Karina J. Nance, Helen S. Goodridge",
+      "summary": "Nature Immunology, Published online: 26 October 2026; doi:10.1038/s41590-026-02672-7 Two studies shed new light on macrophage origins. Perivascular macrophages derive from extraembryonic erythromyeloid progenitors arising at a newly discovered hematopoietic site at the maternal–fetal interface and a related population…",
+      "date": "2026-10-26T00:00:00Z",
+      "date_display": "26 Oct 2026"
+    },
+    {
+      "id": "2bb98bdb52",
+      "title": "The maternal–fetal interface is an early hematopoietic niche enriched in distinct erythro-myeloid progenitors",
+      "link": "https://www.nature.com/articles/s41590-026-02683-4",
+      "journal": "Nature Immunology",
+      "category": "Original Article",
+      "authors": "Rohit Jain, Shweta Tikoo, Carlos Márquez-Burgoa, Stephanie A. Gerhofer, Brendon Martinez, Mariagiovanna Barresi, Dörte Symmank, Minoo Ghannadan, Barbara Öhler, Anna-Lena Höbler…",
+      "summary": "Nature Immunology, Published online: 26 October 2026; doi:10.1038/s41590-026-02683-4 Jain et al. identify a unique extraembryonic hematopoietic niche at the maternal–fetal interface that is distinct from the yolk sac and is capable of producing CD4+CSF1R− erythro-myeloid progenitors.",
+      "date": "2026-10-26T00:00:00Z",
+      "date_display": "26 Oct 2026"
+    },
+    {
+      "id": "aa42d0d80c",
+      "title": "A CD4-lineage erythro–myeloid progenitor within the adult bone marrow defines an alternative pathway for macrophage generation",
+      "link": "https://www.nature.com/articles/s41590-026-02686-1",
+      "journal": "Nature Immunology",
+      "category": "Original Article",
+      "authors": "Shweta Tikoo, Rohit Jain, Brendon Martinez, Renhua Song, Matthias Wielscher, Carlos Márquez-Burgoa, Anastasiya Hladik, Simone Rizzetto, Lisa E. Shaw, Minoo Ghannadan, Stephanie A…",
+      "summary": "Nature Immunology, Published online: 26 October 2026; doi:10.1038/s41590-026-02686-1 Tissue-resident macrophages originate from distinct developmental sources, but their adult replenishment is thought to depend exclusively on circulating monocytes. Here Tikoo and colleagues identify a CD4-lineage erythro–myeloid…",
+      "date": "2026-10-26T00:00:00Z",
+      "date_display": "26 Oct 2026"
+    },
+    {
       "id": "2df4b94aa6",
       "title": "p38α acts as a molecular switch to differentially regulate the Flt3 and CD115 pathways in dendritic cell development",
       "link": "https://www.nature.com/articles/s41423-026-01482-z",
@@ -515,17 +625,6 @@
       "category": "Original Article",
       "authors": "Yifan Zhou, Jianfeng Wu, Lihao Gong, Xinyi Zhu, Yuanhao Wang, Tao Wu, Lanqi Luo, Yixue You, Sijie Chen, Yuan Yao, Yuhao Jiao, Peng He, Xinrui Fan, Ning Wu, Hongwei Zhou, Jiahuai…",
       "summary": "Cellular & Molecular Immunology, Published online: 26 October 2026; doi:10.1038/s41423-026-01482-z p38α acts as a molecular switch to differentially regulate the Flt3 and CD115 pathways in dendritic cell development",
-      "date": "2026-10-26T00:00:00Z",
-      "date_display": "26 Oct 2026"
-    },
-    {
-      "id": "5b7449c8c4",
-      "title": "Single-cell tumour phylogenetics",
-      "link": "https://www.nature.com/articles/s41568-026-00992-2",
-      "journal": "Nature Reviews Cancer",
-      "category": "Review Article",
-      "authors": "Johannes Gawron, Jack Kuipers, Ang Li, Benjamin J. Raphael, Florian Markowetz, Niko Beerenwinkel",
-      "summary": "Nature Reviews Cancer, Published online: 26 October 2026; doi:10.1038/s41568-026-00992-2 Single-cell sequencing has transformed the study of tumour evolution by enabling high-resolution reconstruction of cancer phylogenies. This Review discusses the models, assumptions and computational approaches underlying…",
       "date": "2026-10-26T00:00:00Z",
       "date_display": "26 Oct 2026"
     },
@@ -581,28 +680,6 @@
       "category": "Original Article",
       "authors": "Max C. Petersen, Gordon I. Smith, Samuel Klein",
       "summary": "We thank Faidon Magkos and André Marques Fernandes Silva for their insightful comments regarding our study. We appreciate Dr. Magkos’ support of the design and execution of our study. As noted by Magkos, a common limitation of diet studies is ensuring compliance with the prescribed diets and studying participants when…",
-      "date": "2026-10-22T00:00:00Z",
-      "date_display": "22 Oct 2026"
-    },
-    {
-      "id": "db5bdf6c5a",
-      "title": "Hit the pause button",
-      "link": "https://www.nature.com/articles/s41568-026-00995-z",
-      "journal": "Nature Reviews Cancer",
-      "category": "Review Article",
-      "authors": "Daniela Senft",
-      "summary": "Nature Reviews Cancer, Published online: 22 October 2026; doi:10.1038/s41568-026-00995-z In a recent study, García-Gómez et al. identify an adaptive proliferative pause program that supports the survival of micrometastatic cells during early brain colonization and uncover therapeutic opportunities to target this state.",
-      "date": "2026-10-22T00:00:00Z",
-      "date_display": "22 Oct 2026"
-    },
-    {
-      "id": "e774000e21",
-      "title": "Cancer theranostics",
-      "link": "https://www.nature.com/articles/s41568-026-00983-3",
-      "journal": "Nature Reviews Cancer",
-      "category": "Review Article",
-      "authors": "Alexandros Marios Sofias, Yvonne Derks, Michelle S. Bradbury, Xiaoyuan Chen, Fabian Kiessling, Gooitzen M. van Dam, Wolfgang A. Weber, Twan Lammers",
-      "summary": "Nature Reviews Cancer, Published online: 22 October 2026; doi:10.1038/s41568-026-00983-3 Theranostics integrates diagnostic imaging with targeted therapy to enhance cancer treatment. In this Review, Sofias et al. discuss recent advances in radiotheranostic strategies, advances in nanotheranostic and microtheranostic…",
       "date": "2026-10-22T00:00:00Z",
       "date_display": "22 Oct 2026"
     },
@@ -669,17 +746,6 @@
       "category": "Original Article",
       "authors": "Bo Peng, Siying Sun, Lin Zhu, Shufen Zhong, Xixi Chen, Yaguang Zhang, Huacheng Yan, Yidan Sun, Jiajia Lv, Yuying Huang, Jianye Zhang, Bing Sun, Guochao Shi, Wei Tang",
       "summary": "Cellular & Molecular Immunology, Published online: 16 October 2026; doi:10.1038/s41423-026-01461-4 Glutamate attenuates the ILC2 response and allergic airway inflammation via the kainate receptor GluK2",
-      "date": "2026-10-16T00:00:00Z",
-      "date_display": "16 Oct 2026"
-    },
-    {
-      "id": "7ef82db196",
-      "title": "Lean, mean, breast cancer-fighting machine",
-      "link": "https://www.nature.com/articles/s41568-026-00996-y",
-      "journal": "Nature Reviews Cancer",
-      "category": "Review Article",
-      "authors": "Gabrielle Brewer",
-      "summary": "Nature Reviews Cancer, Published online: 16 October 2026; doi:10.1038/s41568-026-00996-y Obesity is a modifiable risk factor associated with increased tumour incidence and aggressiveness. Curtin et al. identify an oxylipin secreted by lean adipocytes that suppresses breast cancer progression.",
       "date": "2026-10-16T00:00:00Z",
       "date_display": "16 Oct 2026"
     },
@@ -871,28 +937,6 @@
       "date_display": "9 Oct 2026"
     },
     {
-      "id": "a70abe012a",
-      "title": "The urgent challenge of gastroesophageal cancer",
-      "link": "https://www.nature.com/articles/s41568-026-00990-4",
-      "journal": "Nature Reviews Cancer",
-      "category": "Review Article",
-      "authors": "Charles Swanton, Rebecca L. Eccles, Gabriela Carreno, Lorenzo de la Rica, Sandra Ryeom, David Scott",
-      "summary": "Nature Reviews Cancer, Published online: 09 October 2026; doi:10.1038/s41568-026-00990-4 Gastric and oesophageal cancers caused more than 1 million deaths worldwide in 2024. In this Comment, Cancer Grand Challenges explain how they have launched two targeted challenges to address this unmet need, inviting global…",
-      "date": "2026-10-09T00:00:00Z",
-      "date_display": "9 Oct 2026"
-    },
-    {
-      "id": "ea758abc06",
-      "title": "Mapping the functional dark proteome in cancer",
-      "link": "https://www.nature.com/articles/s41568-026-00985-1",
-      "journal": "Nature Reviews Cancer",
-      "category": "Review Article",
-      "authors": "John R. Prensner, William A. Freed-Pastor, Jennifer G. Abelin, Catherine J. Wu, Yifat Merbl, Yitzhak Pilpel, Ton N. Schumacher, Jonathan S. Weissman, Sebastiaan van Heesch, Reuven…",
-      "summary": "Nature Reviews Cancer, Published online: 08 October 2026; doi:10.1038/s41568-026-00985-1 The dark proteome encompasses previously undiscovered and uncharacterized protein molecules derived from alternative genomic loci or altered RNA translation. In this Perspective, Prensner et al. describe the current understanding…",
-      "date": "2026-10-08T00:00:00Z",
-      "date_display": "8 Oct 2026"
-    },
-    {
       "id": "d6080bf3bc",
       "title": "Histone lactylation scarring transmits metabolic and epigenetic memory across the gut-liver axis",
       "link": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00383-9?rss=yes",
@@ -911,17 +955,6 @@
       "category": "Review Article",
       "authors": "Yavuz F. Yazicioglu, Glenn R. Bantug, Christoph Hess, Alexander J. Clarke",
       "summary": "Nature Reviews Immunology, Published online: 07 October 2026; doi:10.1038/s41577-026-01355-6 Metabolic control is an integral component of B cell physiology, shaping fate decisions and effector functions, while also driving maladaptive programmes that contribute to diverse pathologies. This Review provides an overview…",
-      "date": "2026-10-07T00:00:00Z",
-      "date_display": "7 Oct 2026"
-    },
-    {
-      "id": "e09d116435",
-      "title": "Boosting CAR T cell efficacy in cancer with metabolic insights from design to diet",
-      "link": "https://www.nature.com/articles/s41568-026-00984-2",
-      "journal": "Nature Reviews Cancer",
-      "category": "Review Article",
-      "authors": "Jessica Morgan, Sarah MacPherson, Julian J. Lum",
-      "summary": "Nature Reviews Cancer, Published online: 07 October 2026; doi:10.1038/s41568-026-00984-2 Although chimeric antigen receptor (CAR) T cell therapy has advanced the treatment of many cancers, it is now apparent that metabolism is a major determinant of CAR T cell fitness, persistence and function. Here, Morgan…",
       "date": "2026-10-07T00:00:00Z",
       "date_display": "7 Oct 2026"
     },
@@ -1062,28 +1095,6 @@
       "title": "Subscription & copyright page",
       "link": "https://www.cell.com/trends/cancer/fulltext/S2405-8033(26)00231-1?rss=yes",
       "journal": "Trends in Cancer",
-      "category": "Review Article",
-      "authors": "",
-      "summary": "",
-      "date": "2026-10-01T00:00:00Z",
-      "date_display": "1 Oct 2026"
-    },
-    {
-      "id": "15e56d321f",
-      "title": "Advisory Board and Contents",
-      "link": "https://www.cell.com/trends/cell-biology/fulltext/S0962-8924(26)00190-X?rss=yes",
-      "journal": "Trends in Cell Biology",
-      "category": "Review Article",
-      "authors": "",
-      "summary": "",
-      "date": "2026-10-01T00:00:00Z",
-      "date_display": "1 Oct 2026"
-    },
-    {
-      "id": "ae4dac66f5",
-      "title": "Subscription and Copyright Information",
-      "link": "https://www.cell.com/trends/cell-biology/fulltext/S0962-8924(26)00193-5?rss=yes",
-      "journal": "Trends in Cell Biology",
       "category": "Review Article",
       "authors": "",
       "summary": "",
@@ -1278,6 +1289,17 @@
       "date_display": "10 Sep 2026"
     },
     {
+      "id": "4480519acd",
+      "title": "Ependymal cell cilia beating mechanically enforces NSC quiescence",
+      "link": "https://www.cell.com/trends/cell-biology/fulltext/S0962-8924(26)00184-4?rss=yes",
+      "journal": "Trends in Cell Biology",
+      "category": "Review Article",
+      "authors": "Cristine R. Casingal, Jiami Guo",
+      "summary": "By inducing a targeted and acute electromagnetic arrest of ependymal cell cilia beating in vivo, Bressan et al. demonstrates that mechanical forces generated by cilia beating enforces adult neural stem cell quiescence through mechanosensitive channels and downstream intracellular Ca2+ signaling.",
+      "date": "2026-09-10T00:00:00Z",
+      "date_display": "10 Sep 2026"
+    },
+    {
       "id": "447df25851",
       "title": "UniCure: A multi-modal model for predicting personalized cancer therapy response",
       "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00348-X?rss=yes",
@@ -1289,37 +1311,15 @@
       "date_display": "9 Sep 2026"
     },
     {
-      "id": "904d1e38b2",
-      "title": "Parental leave in immunology – 12",
-      "link": "https://www.cell.com/trends/immunology/fulltext/S1471-4906(26)00223-1?rss=yes",
-      "journal": "Trends in Immunology",
+      "id": "c19b8c3f7d",
+      "title": "RNA dysregulation as a determinant of aging and neurodegenerative vulnerability",
+      "link": "https://www.cell.com/trends/cell-biology/fulltext/S0962-8924(26)00164-9?rss=yes",
+      "journal": "Trends in Cell Biology",
       "category": "Review Article",
-      "authors": "Hui Peng",
-      "summary": "My laboratory focuses on natural killer (NK) cell and type 1 innate lymphoid cell (ILC)1 biology, with a particular interest in the development, heterogeneity, and functions of liver NK cell and ILC1 subsets. This interest stemmed from my PhD work in Professor Zhigang Tian’s laboratory at the University of Science and…",
-      "date": "2026-09-06T00:00:00Z",
-      "date_display": "6 Sep 2026"
-    },
-    {
-      "id": "a68f81d102",
-      "title": "Host metabolism rewrites metastatic fate",
-      "link": "https://www.cell.com/trends/cancer/fulltext/S2405-8033(26)00189-5?rss=yes",
-      "journal": "Trends in Cancer",
-      "category": "Review Article",
-      "authors": "Zihan Qiu, Xinyu Li, Pengfei Xu",
-      "summary": "Metastatic heterogeneity has traditionally been explained by tumor-intrinsic evolution. A recent study by Peng-Winkler et al. challenges this paradigm by demonstrating that hepatic steatosis instructs colorectal cancer liver metastasis through fatty acid-dependent myelocytomatosis oncogene protein (MYC) activation…",
-      "date": "2026-09-02T00:00:00Z",
-      "date_display": "2 Sep 2026"
-    },
-    {
-      "id": "34e30bdcf2",
-      "title": "A distinct effector B cell population drives autoantibody production in SARS-CoV-2 infection",
-      "link": "https://www.cell.com/immunity/fulltext/S1074-7613(26)00324-9?rss=yes",
-      "journal": "Immunity",
-      "category": "Original Article",
-      "authors": "Dan Yuan, Sarah Li, Rongyu Zhang, Rachel H. Ng, Yapeng Su, Linda Lan, Mahasish Shome, Brett Smith, Pamela Troisch, Jingyi Xie, Jongchan Choi, Rick Edmark, Daniel Chen, Lee Rowen…",
-      "summary": "Autoantibodies (autoAbs) are linked to mortality and Long COVID, yet their cellular origins remain unclear. Yuan et al. identify a distinct B cell population (DN2 cells) as a key source of autoAbs during SARS-CoV-2 infection. These cells mirror lupus DN2s and carry a strong autoimmune genetic signature, linking…",
-      "date": "2026-08-28T00:00:00Z",
-      "date_display": "28 Aug 2026"
+      "authors": "Sawyer Randles, Gene W. Yeo",
+      "summary": "In the nervous system, aging causes deterioration of cellular and molecular processes that are associated with declines in cognition, sensory perception, and motor coordination. Aging is also the strongest risk factor for neurodegenerative disease, yet the mechanisms by which aging predisposes neurons to dysfunction…",
+      "date": "2026-09-08T00:00:00Z",
+      "date_display": "8 Sep 2026"
     }
   ]
 }
