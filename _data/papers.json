@@ -1,6 +1,39 @@
 {
-  "updated": "2026-11-08T12:20:34Z",
+  "updated": "2026-11-09T14:33:29Z",
   "papers": [
+    {
+      "id": "4d1fda1147",
+      "title": "Author Correction: An IGHG1 variant exhibits polarized prevalence and confers enhanced IgG1 antibody responses against life-threatening organisms",
+      "link": "https://www.nature.com/articles/s41590-026-02731-z",
+      "journal": "Nature Immunology",
+      "category": "Original Article",
+      "authors": "Wenbo Sun, Tingyu Yang, Fengming Sun, Panhong Liu, Ji Gao, Xianmei Lan, Wei Xu, Yuhong Pang, Tong Li, Cuifeng Li, Qingtai Liang, Haoze Chen, Xiaohang Liu, Wenting Tan, Huanhuan…",
+      "summary": "Nature Immunology, Published online: 09 November 2026; doi:10.1038/s41590-026-02731-z Author Correction: An IGHG1 variant exhibits polarized prevalence and confers enhanced IgG1 antibody responses against life-threatening organisms",
+      "date": "2026-11-09T00:00:00Z",
+      "date_display": "9 Nov 2026"
+    },
+    {
+      "id": "10667a0dcd",
+      "title": "Mechanosensitive YAP–RUNX1 signaling drives T H 1 cell dysfunction and tumor immunosuppression",
+      "link": "https://www.nature.com/articles/s41590-026-02708-y",
+      "journal": "Nature Immunology",
+      "category": "Original Article",
+      "authors": "Zilan Xu, Shuang Deng, Hongzhe Zhao, Daoyuan Wang, Qingchang Jin, Chunling Xue, Shuang Liu, Shaoqiu Liu, Lingxing Zeng, Ziming Chen, Sihan Zhao, Yifan Zhou, Ruihong Bai, Shaojia…",
+      "summary": "Nature Immunology, Published online: 09 November 2026; doi:10.1038/s41590-026-02708-y Solid tumor stiffness can limit the ability of immune cells to enter and kill tumor cells. Here the authors show that this stiffness activates YAP signaling in type 1 helper T cells, making them dysfunctional and thereby leading to a…",
+      "date": "2026-11-09T00:00:00Z",
+      "date_display": "9 Nov 2026"
+    },
+    {
+      "id": "eac86e552e",
+      "title": "Metabolic Messengers: endotrophin",
+      "link": "https://www.nature.com/articles/s42255-026-01657-y",
+      "journal": "Nature Metabolism",
+      "category": "Original Article",
+      "authors": "Lisandro Maya-Ramos, Jan-Bernd Funcke, Philipp E. Scherer",
+      "summary": "Nature Metabolism, Published online: 09 November 2026; doi:10.1038/s42255-026-01657-y Maya-Ramos, Funcke and Scherer provide a concise overview of the collagen cleavage fragment endotrophin, a mediator of fibroinflammation and a biomarker of progression of various cardiometabolic diseases.",
+      "date": "2026-11-09T00:00:00Z",
+      "date_display": "9 Nov 2026"
+    },
     {
       "id": "fa98966a5f",
       "title": "The structural basis of IL-36R proinflammatory signaling mediated by IL-36γ and IL-37",
@@ -541,17 +574,6 @@
       "date_display": "30 Oct 2026"
     },
     {
-      "id": "07fc89448c",
-      "title": "Author Correction: Hypothalamic Grb10 enhances leptin signalling and promotes weight loss",
-      "link": "https://www.nature.com/articles/s42255-026-01672-z",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "Hailan Liu, Yang He, Juli Bai, Chuanhai Zhang, Feng Zhang, Yongjie Yang, Hairong Luo, Meng Yu, Hesong Liu, Longlong Tu, Nan Zhang, Na Yin, Junying Han, Zili Yan, Nikolas Anthony…",
-      "summary": "Nature Metabolism, Published online: 30 October 2026; doi:10.1038/s42255-026-01672-z Author Correction: Hypothalamic Grb10 enhances leptin signalling and promotes weight loss",
-      "date": "2026-10-30T00:00:00Z",
-      "date_display": "30 Oct 2026"
-    },
-    {
       "id": "c225b7640a",
       "title": "Autophagy in macrophages curtails IL-1α-mediated immune priming against lung infections",
       "link": "https://www.nature.com/articles/s41590-026-02699-w",
@@ -647,28 +669,6 @@
       "category": "Original Article",
       "authors": "Karina J. Nance, Helen S. Goodridge",
       "summary": "Nature Immunology, Published online: 26 October 2026; doi:10.1038/s41590-026-02672-7 Two studies shed new light on macrophage origins. Perivascular macrophages derive from extraembryonic erythromyeloid progenitors arising at a newly discovered hematopoietic site at the maternal–fetal interface and a related population…",
-      "date": "2026-10-26T00:00:00Z",
-      "date_display": "26 Oct 2026"
-    },
-    {
-      "id": "2bb98bdb52",
-      "title": "The maternal–fetal interface is an early hematopoietic niche enriched in distinct erythro-myeloid progenitors",
-      "link": "https://www.nature.com/articles/s41590-026-02683-4",
-      "journal": "Nature Immunology",
-      "category": "Original Article",
-      "authors": "Rohit Jain, Shweta Tikoo, Carlos Márquez-Burgoa, Stephanie A. Gerhofer, Brendon Martinez, Mariagiovanna Barresi, Dörte Symmank, Minoo Ghannadan, Barbara Öhler, Anna-Lena Höbler…",
-      "summary": "Nature Immunology, Published online: 26 October 2026; doi:10.1038/s41590-026-02683-4 Jain et al. identify a unique extraembryonic hematopoietic niche at the maternal–fetal interface that is distinct from the yolk sac and is capable of producing CD4+CSF1R− erythro-myeloid progenitors.",
-      "date": "2026-10-26T00:00:00Z",
-      "date_display": "26 Oct 2026"
-    },
-    {
-      "id": "aa42d0d80c",
-      "title": "A CD4-lineage erythro–myeloid progenitor within the adult bone marrow defines an alternative pathway for macrophage generation",
-      "link": "https://www.nature.com/articles/s41590-026-02686-1",
-      "journal": "Nature Immunology",
-      "category": "Original Article",
-      "authors": "Shweta Tikoo, Rohit Jain, Brendon Martinez, Renhua Song, Matthias Wielscher, Carlos Márquez-Burgoa, Anastasiya Hladik, Simone Rizzetto, Lisa E. Shaw, Minoo Ghannadan, Stephanie A…",
-      "summary": "Nature Immunology, Published online: 26 October 2026; doi:10.1038/s41590-026-02686-1 Tissue-resident macrophages originate from distinct developmental sources, but their adult replenishment is thought to depend exclusively on circulating monocytes. Here Tikoo and colleagues identify a CD4-lineage erythro–myeloid…",
       "date": "2026-10-26T00:00:00Z",
       "date_display": "26 Oct 2026"
     },
