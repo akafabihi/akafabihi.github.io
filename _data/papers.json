@@ -1,6 +1,61 @@
 {
-  "updated": "2026-11-11T13:05:45Z",
+  "updated": "2026-11-12T14:08:10Z",
   "papers": [
+    {
+      "id": "9be65d4afe",
+      "title": "A single-cell lung cancer atlas reveals cellular and molecular drivers of metastasis and clinical outcome",
+      "link": "https://www.nature.com/articles/s43018-026-01260-w",
+      "journal": "Nature Cancer",
+      "category": "Original Article",
+      "authors": "Philipp Jurmeister, Philipp Keyl, Liliana Harris Mochmann, Linda Bergmayr, Konstanze Schleich, Edgar Chimal Calderon, Fabian Engelhardt-Schott, Doreen Klingler, Dražen Papić…",
+      "summary": "Nature Cancer, Published online: 12 November 2026; doi:10.1038/s43018-026-01260-w Jurmeister et al. present a multicenter single-nucleus RNA sequencing atlas of lung cancer combined with spatial transcriptomics and clinical outcomes, delineating cancer–host cell interactions and uncovering tumor subtypes associated…",
+      "date": "2026-11-12T00:00:00Z",
+      "date_display": "12 Nov 2026"
+    },
+    {
+      "id": "42e334b4ee",
+      "title": "Author Correction: Serine protease inhibitor A3 is a soluble SIRPα ligand that suppresses inflammation and antitumor immunity",
+      "link": "https://www.nature.com/articles/s41590-026-02732-y",
+      "journal": "Nature Immunology",
+      "category": "Original Article",
+      "authors": "Yufei Hou, Lei Huang, Chunhui Jin, Xiaolong Li, Yongxing Chen, Liguang Sun, Feng Wang, Yong Zhang, Ying Wang, Meijuan Zou, Qina Xu, Zicheng Wang, Tao Jin, Naicui Zhai, Fei Xu…",
+      "summary": "Nature Immunology, Published online: 12 November 2026; doi:10.1038/s41590-026-02732-y Author Correction: Serine protease inhibitor A3 is a soluble SIRPα ligand that suppresses inflammation and antitumor immunity",
+      "date": "2026-11-12T00:00:00Z",
+      "date_display": "12 Nov 2026"
+    },
+    {
+      "id": "be8a8b1069",
+      "title": "PKA signaling controls ILC3 homeostasis and IL-23-mediated inflammation in the gut",
+      "link": "https://www.nature.com/articles/s41590-026-02703-3",
+      "journal": "Nature Immunology",
+      "category": "Original Article",
+      "authors": "Lan Kang, Jordan Z. Zhou, Anees Ahmed, Veronika Horn, Myeong Joon Kim, Mengze Lyu, Gregory F. Sonnenberg",
+      "summary": "Nature Immunology, Published online: 11 November 2026; doi:10.1038/s41590-026-02703-3 Sonnnenberg and colleagues show that prostaglandin engages protein kinase A (PKA) and sustained PKA activation promotes the depletion of ILC3s. IL-23 can drive aberrant PKA signaling resulting in intestinal inflammation.",
+      "date": "2026-11-11T00:00:00Z",
+      "date_display": "11 Nov 2026"
+    },
+    {
+      "id": "33fa1840fc",
+      "title": "Rare GLP1R variants attenuate weight loss with semaglutide but not tirzepatide",
+      "link": "https://www.nature.com/articles/s42255-026-01656-z",
+      "journal": "Nature Metabolism",
+      "category": "Original Article",
+      "authors": "Matthew E. Levy, Kelly M. Schiabor Barrett, Natalie Telis, William H. Lagarde, Pradyumna D. Phatak, James F. Maher, Chad Haldeman-Englert, Joseph J. Grzymski, Douglas Stoller, Amy…",
+      "summary": "Nature Metabolism, Published online: 11 November 2026; doi:10.1038/s42255-026-01656-z Rare GLP1R variants are shown to reduce weight loss with semaglutide but not tirzepatide, suggesting GLP1R genetic variation as a pharmacogenetic determinant of GLP-1 receptor agonist efficacy.",
+      "date": "2026-11-11T00:00:00Z",
+      "date_display": "11 Nov 2026"
+    },
+    {
+      "id": "4c69371b31",
+      "title": "l -carnitine links red meat consumption to inflammation",
+      "link": "https://www.nature.com/articles/s41577-026-01375-2",
+      "journal": "Nature Reviews Immunology",
+      "category": "Review Article",
+      "authors": "Alexandra Flemming",
+      "summary": "Nature Reviews Immunology, Published online: 11 November 2026; doi:10.1038/s41577-026-01375-2 Red meat has long been associated with inflammatory disease. New research identifies l-carnitine as a potential molecular link between diet and inflammation.",
+      "date": "2026-11-11T00:00:00Z",
+      "date_display": "11 Nov 2026"
+    },
     {
       "id": "f1e2609dea",
       "title": "Natural killer cell inflammatory circuits in antitumor immunity",
@@ -387,17 +442,6 @@
       "date_display": "4 Nov 2026"
     },
     {
-      "id": "3e3675e408",
-      "title": "Whole-blood NAD levels track cardiovascular disease but not chronological age",
-      "link": "https://www.nature.com/articles/s42255-026-01660-3",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "Diana Romenskaja-Avgul, Deimantė Stakelytė, Audrius Laurynėnas, Eimantas Ramonas, Rūta Zabitaitė, Simona Cibulskė, Sigita Danilevičienė, Rapolas Danilevičius, Kristina Ratautė…",
-      "summary": "Nature Metabolism, Published online: 04 November 2026; doi:10.1038/s42255-026-01660-3 In a population-scale cohort, whole-blood NAD levels do not decline with chronological age in healthy adults, but show a lower trajectory in people with cardiovascular disease and hypertension.",
-      "date": "2026-11-04T00:00:00Z",
-      "date_display": "4 Nov 2026"
-    },
-    {
       "id": "ba66803f5d",
       "title": "Deubiquitinases at the crossroads of T-cell immunity and tumor immune evasion",
       "link": "https://www.nature.com/articles/s41423-026-01487-8",
@@ -717,17 +761,6 @@
       "date_display": "30 Oct 2026"
     },
     {
-      "id": "4c6e5e2509",
-      "title": "GALE is a tumor-intrinsic checkpoint of Vγ9Vδ2 T cell-mediated killing",
-      "link": "https://www.nature.com/articles/s43018-026-01249-5",
-      "journal": "Nature Cancer",
-      "category": "Original Article",
-      "authors": "Zezhi Shan, Dongdong Wang, Zening Zheng, Zilan Ye, Shiyu Mao, Longyan Xie, Yaxu Li, Yadong Guo, Linjun Weng, Qi Wu, Yanjin Wang, Qiao Ran, Yanrong Yang, Tingting Niu, Li Li, Dakui…",
-      "summary": "Nature Cancer, Published online: 30 October 2026; doi:10.1038/s43018-026-01249-5 Shan et al. identified UDP-galactose 4-epimerase as an immune checkpoint of Vγ9Vδ2 T cell-mediated cancer cell killing by enhancing interaction of CD155 and CEACAM1 with their receptors TIGIT and TIM3, respectively, and simultaneously…",
-      "date": "2026-10-30T00:00:00Z",
-      "date_display": "30 Oct 2026"
-    },
-    {
       "id": "ecf041d69f",
       "title": "Autophagy limits steady-state IL-1α expression to restrain innate immunity",
       "link": "https://www.nature.com/articles/s41590-026-02701-5",
@@ -882,17 +915,6 @@
       "date_display": "28 Oct 2026"
     },
     {
-      "id": "1f84770b1f",
-      "title": "TRAM-dependent myddosomes",
-      "link": "https://www.nature.com/articles/s41590-026-02716-y",
-      "journal": "Nature Immunology",
-      "category": "Original Article",
-      "authors": "Nicholas J. Bernard",
-      "summary": "Nature Immunology, Published online: 27 October 2026; doi:10.1038/s41590-026-02716-y TRAM-dependent myddosomes",
-      "date": "2026-10-27T00:00:00Z",
-      "date_display": "27 Oct 2026"
-    },
-    {
       "id": "d530003385",
       "title": "Designing a tumor landscape-modifying vaccine with a unique TLR2/6 agonist for refractory pancreatic cancer",
       "link": "https://www.nature.com/articles/s41423-026-01480-1",
@@ -924,17 +946,6 @@
       "summary": "Nature Reviews Immunology, Published online: 27 October 2026; doi:10.1038/s41577-026-01370-7 A preprint by Kazane et al. reports a role for the histone methytransferase KMT2D in controlling the secretory function of natural killer cells.",
       "date": "2026-10-27T00:00:00Z",
       "date_display": "27 Oct 2026"
-    },
-    {
-      "id": "fd94b61ae1",
-      "title": "The EMPROR’s new groove",
-      "link": "https://www.nature.com/articles/s41590-026-02672-7",
-      "journal": "Nature Immunology",
-      "category": "Original Article",
-      "authors": "Karina J. Nance, Helen S. Goodridge",
-      "summary": "Nature Immunology, Published online: 26 October 2026; doi:10.1038/s41590-026-02672-7 Two studies shed new light on macrophage origins. Perivascular macrophages derive from extraembryonic erythromyeloid progenitors arising at a newly discovered hematopoietic site at the maternal–fetal interface and a related population…",
-      "date": "2026-10-26T00:00:00Z",
-      "date_display": "26 Oct 2026"
     },
     {
       "id": "2df4b94aa6",
@@ -1219,17 +1230,6 @@
       "category": "Original Article",
       "authors": "Tenny Mudianto, Gabrielle R. Berman, Kimberly Zaldana, Marta Schips, Niklas Schwan, Luan Firmino-Cruz, Jana Bilanovic, Ochapa Ibrahim, Vanessa Cristaldi, William S. Foster, Lina…",
       "summary": "Lymphatic vessel networks remodel during infection to regulate antigen and immune cell dynamics, yet whether these changes impact humoral immunity remains unknown. Mudianto et al. demonstrate that lymph node lymphangiogenesis encapsulates activating germinal centers to constrain their size, which enhances clonal…",
-      "date": "2026-10-09T00:00:00Z",
-      "date_display": "9 Oct 2026"
-    },
-    {
-      "id": "4806b9c9bd",
-      "title": "Metastasizing cancer cells leave an immunogenic trail",
-      "link": "https://www.nature.com/articles/s41577-026-01366-3",
-      "journal": "Nature Reviews Immunology",
-      "category": "Review Article",
-      "authors": "Yvonne Bordon",
-      "summary": "Nature Reviews Immunology, Published online: 09 October 2026; doi:10.1038/s41577-026-01366-3 Metastasizing cancer cells release migrasomes containing tumour-specific antigens that can promote T cell responses.",
       "date": "2026-10-09T00:00:00Z",
       "date_display": "9 Oct 2026"
     },
