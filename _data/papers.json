@@ -1,6 +1,28 @@
 {
-  "updated": "2026-11-13T13:31:59Z",
+  "updated": "2026-11-15T13:03:41Z",
   "papers": [
+    {
+      "id": "6b86264299",
+      "title": "IFN-γ–driven MHC class II on gut epithelium induces cytolytic TH1 cell differentiation and stem cell loss in graft-versus-host disease",
+      "link": "https://www.science.org/doi/abs/10.1126/sciimmunol.ady3001?af=R",
+      "journal": "Science Immunology",
+      "category": "Original Article",
+      "authors": "Motoko Koyama, Albert C. Yeh, Françoise Haeseleer, Kathleen S. Ensbey, Shruti S. Bhise, Iona S. Schuster, Samuel R. W. Legg, Ethan L. Nelson, Tomoko Sekiguchi, Nicole S…",
+      "summary": "Science Immunology, Volume 11, Issue 125, November 2026.",
+      "date": "2026-11-13T08:00:00Z",
+      "date_display": "13 Nov 2026"
+    },
+    {
+      "id": "21cc303b27",
+      "title": "TOX and PD-1 are required for the maintenance of CD4 T cell precursors during chronic infection",
+      "link": "https://www.science.org/doi/abs/10.1126/sciimmunol.aei3443?af=R",
+      "journal": "Science Immunology",
+      "category": "Original Article",
+      "authors": "Jacqueline Berner, Gustavo P. de Almeida, Siran Lin, Miriam Kuhlmann, Lara V. Donhauser, Ann-Katrin Gerullis, Madlaina von Hoesslin, Christine Wurmser, David B. Blumenthal, Anna…",
+      "summary": "Science Immunology, Volume 11, Issue 125, November 2026.",
+      "date": "2026-11-13T08:00:00Z",
+      "date_display": "13 Nov 2026"
+    },
     {
       "id": "455b0a1840",
       "title": "The deep learning framework Hist2Prot infers single-cell spatial proteomics from histology to predict biomarkers and clinical outcomes",
@@ -64,6 +86,17 @@
       "category": "Review Article",
       "authors": "Zhiyuan You, Jiyeon Kim, Hongbo Chi",
       "summary": "Nature Reviews Immunology, Published online: 13 November 2026; doi:10.1038/s41577-026-01368-1 This Review explores how nutrients, metabolites and metabolic programmes shape the immunogenic and tolerogenic functions of dendritic cells (DCs). The authors summarize how DC metabolism affects their functions in various…",
+      "date": "2026-11-13T00:00:00Z",
+      "date_display": "13 Nov 2026"
+    },
+    {
+      "id": "646a818ae6",
+      "title": "The antioxidant addiction of cancer",
+      "link": "https://www.nature.com/articles/s41568-026-00997-x",
+      "journal": "Nature Reviews Cancer",
+      "category": "Review Article",
+      "authors": "Navdeep S. Chandel",
+      "summary": "Nature Reviews Cancer, Published online: 13 November 2026; doi:10.1038/s41568-026-00997-x Antioxidant pathways support tumour growth, metastasis and therapy resistance while protecting cancer cells from ferroptosis. In this Perspective, Navdeep Chandel explores how stage-specific antioxidant dependencies can be…",
       "date": "2026-11-13T00:00:00Z",
       "date_display": "13 Nov 2026"
     },
@@ -1234,17 +1267,6 @@
       "date_display": "16 Oct 2026"
     },
     {
-      "id": "7ef82db196",
-      "title": "Lean, mean, breast cancer-fighting machine",
-      "link": "https://www.nature.com/articles/s41568-026-00996-y",
-      "journal": "Nature Reviews Cancer",
-      "category": "Review Article",
-      "authors": "Gabrielle Brewer",
-      "summary": "Nature Reviews Cancer, Published online: 16 October 2026; doi:10.1038/s41568-026-00996-y Obesity is a modifiable risk factor associated with increased tumour incidence and aggressiveness. Curtin et al. identify an oxylipin secreted by lean adipocytes that suppresses breast cancer progression.",
-      "date": "2026-10-16T00:00:00Z",
-      "date_display": "16 Oct 2026"
-    },
-    {
       "id": "4a62448efd",
       "title": "Dan Kastner (1951–2026)",
       "link": "https://www.cell.com/immunity/fulltext/S1074-7613(26)00394-8?rss=yes",
@@ -1298,28 +1320,6 @@
       "summary": "Lymphatic vessel networks remodel during infection to regulate antigen and immune cell dynamics, yet whether these changes impact humoral immunity remains unknown. Mudianto et al. demonstrate that lymph node lymphangiogenesis encapsulates activating germinal centers to constrain their size, which enhances clonal…",
       "date": "2026-10-09T00:00:00Z",
       "date_display": "9 Oct 2026"
-    },
-    {
-      "id": "965faa5d03",
-      "title": "Microglia-mediated extracellular matrix disruption drives neuronal dysfunction, motor impairments, and sedation following alcohol abuse",
-      "link": "https://www.cell.com/immunity/fulltext/S1074-7613(26)00386-9?rss=yes",
-      "journal": "Immunity",
-      "category": "Original Article",
-      "authors": "Evi Paouri, Sarah Stanko, Nadia Gasmi, Gabriele Glusauskas, Valery Mao, Andrew Kwak, Stephanie Hsu, Sahar Sarmadi, Emily Huang, Aniruddha Das, Courtney Hershberger, Quinn…",
-      "summary": "Alcohol’s brain effects are attributed to neurons, leaving microglial functional involvement untested. Paouri, Stanko, et al. show that microglia drive alcohol-induced sedation, motor impairment, and synaptic and neuronal loss through MyD88-dependent perisynaptic extracellular matrix (ECM) disruption. Equivalent…",
-      "date": "2026-10-08T00:00:00Z",
-      "date_display": "8 Oct 2026"
-    },
-    {
-      "id": "d87859b484",
-      "title": "Spatial omics resolves adrenergic and mesenchymal cell states in neuroblastoma",
-      "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00427-7?rss=yes",
-      "journal": "Cancer Cell",
-      "category": "Original Article",
-      "authors": "Anand G. Patel, Orr Ashenberg, Natalie B. Collins, Justina McEvoy, Melody Allensworth-James, Felipe Segato Dezem, Samantha Turk, Natalie Geiger, Arjumand Wani, Luke Zhang, Åsa…",
-      "summary": "Patel et al. combine six spatial-omics platforms with single-cell/single-nucleus RNA sequencing across 54 neuroblastoma tumors to resolve a debate over malignant mesenchymal (MES) tumor cells. Using signatures from patient-derived xenografts, they identify MES tumor cells and show that a higher MES score predicts…",
-      "date": "2026-10-08T00:00:00Z",
-      "date_display": "8 Oct 2026"
     }
   ]
 }
