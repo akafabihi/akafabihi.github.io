@@ -1,6 +1,50 @@
 {
-  "updated": "2026-11-15T13:03:41Z",
+  "updated": "2026-11-16T14:09:21Z",
   "papers": [
+    {
+      "id": "d2e0d18134",
+      "title": "Early-life obesity edits T cell fate",
+      "link": "https://www.nature.com/articles/s41590-026-02710-4",
+      "journal": "Nature Immunology",
+      "category": "Original Article",
+      "authors": "Danish Umar, Deepshika Ramanan",
+      "summary": "Nature Immunology, Published online: 16 November 2026; doi:10.1038/s41590-026-02710-4 A high-fat diet in utero or in early life, but not in adulthood, silences the ubiquitin-editing enzyme A20 in CD4+ T cells, blunting T follicular helper cell differentiation and response to vaccines.",
+      "date": "2026-11-16T00:00:00Z",
+      "date_display": "16 Nov 2026"
+    },
+    {
+      "id": "52b94ae094",
+      "title": "Maternal and early life obesity programs CD4 + T cell fate to impair vaccine immunity",
+      "link": "https://www.nature.com/articles/s41590-026-02700-6",
+      "journal": "Nature Immunology",
+      "category": "Original Article",
+      "authors": "Michaël F. Michieletto, Monica T. Jimenez, Atishay Jay, Michelle Y. Y. Lee, Jean-Christophe Beltra, Corentin Le Saos-Patrinos, Samir U. Sayed, Megan L. Clark, Niklas Blank…",
+      "summary": "Nature Immunology, Published online: 16 November 2026; doi:10.1038/s41590-026-02700-6 Henao-Mejia and colleagues show that a high-fat diet during pregnancy or early postnatal life impairs CD4+ TFH cell differentiation and germinal center reactions in response to vaccination in young mice.",
+      "date": "2026-11-16T00:00:00Z",
+      "date_display": "16 Nov 2026"
+    },
+    {
+      "id": "520e7b5670",
+      "title": "Plasma proteomics identifies insulin resistance signatures predictive of cardiometabolic disease risk",
+      "link": "https://www.nature.com/articles/s42255-026-01662-1",
+      "journal": "Nature Metabolism",
+      "category": "Original Article",
+      "authors": "Jeppe Kjærgaard, Nigel Kurgan, Justus F. Gräf, Naixin Zhang, Zhe Wang, Mafalda Da Cruz Custódio, Farina Schlabs, Paola Pisano, Lisa Ottander, Maria Houborg Petersen, Martin…",
+      "summary": "Nature Metabolism, Published online: 16 November 2026; doi:10.1038/s42255-026-01662-1 Integration of deep plasma proteomics with hyperinsulinaemic–euglycaemic clamp measurements enables the generation of a tissue-resolved molecular atlas of insulin resistance. A model derived from these signatures outperforms…",
+      "date": "2026-11-16T00:00:00Z",
+      "date_display": "16 Nov 2026"
+    },
+    {
+      "id": "a58b997a78",
+      "title": "Cytokines in brain development",
+      "link": "https://www.nature.com/articles/s41577-026-01369-0",
+      "journal": "Nature Reviews Immunology",
+      "category": "Review Article",
+      "authors": "Richard M. Jin, Ari B. Molofsky, Anna V. Molofsky",
+      "summary": "Nature Reviews Immunology, Published online: 16 November 2026; doi:10.1038/s41577-026-01369-0 Cytokines are emerging as fundamental regulators of brain development, integrating immune, environmental and genetic signals to shape neural circuits. This Review examines how diverse cytokine pathways influence neurogenesis…",
+      "date": "2026-11-16T00:00:00Z",
+      "date_display": "16 Nov 2026"
+    },
     {
       "id": "6b86264299",
       "title": "IFN-γ–driven MHC class II on gut epithelium induces cytolytic TH1 cell differentiation and stem cell loss in graft-versus-host disease",
@@ -442,17 +486,6 @@
       "date_display": "6 Nov 2026"
     },
     {
-      "id": "225ef80eba",
-      "title": "GUSB-enriched sympathetic neurons promote thermogenic recruitment through extracellular matrix remodelling in male mice",
-      "link": "https://www.nature.com/articles/s42255-026-01653-2",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "Xinran Wang, Xuejuan Zhu, Junkun Jiang, Wenjing Yu, Wenlong Wu, Xuyang Jia, Lei Du, Zelin Wang, Chuan Zhang, Jingang Wang, Huiwen Yuan, Yonghao Zhou, Zhengguang Pan, Junfeng Han…",
-      "summary": "Nature Metabolism, Published online: 06 November 2026; doi:10.1038/s42255-026-01653-2 A subpopulation of β-glucuronidase-enriched sympathetic neurons regulates thermogenesis in male mice, via extracellular matrix remodelling.",
-      "date": "2026-11-06T00:00:00Z",
-      "date_display": "6 Nov 2026"
-    },
-    {
       "id": "afc71a9011",
       "title": "Paxalisib with Trastuzumab for HER2-Positive Metastatic Breast Cancer with Active Brain Metastases: A Phase II Trial with Integrated Plasma and CSF ctDNA Analyses",
       "link": "https://aacrjournals.org/cancerrescommun/article/6/11/2619/789865/Paxalisib-with-Trastuzumab-for-HER2-Positive",
@@ -871,28 +904,6 @@
       "date_display": "1 Nov 2026"
     },
     {
-      "id": "ecf041d69f",
-      "title": "Autophagy limits steady-state IL-1α expression to restrain innate immunity",
-      "link": "https://www.nature.com/articles/s41590-026-02701-5",
-      "journal": "Nature Immunology",
-      "category": "Original Article",
-      "authors": "",
-      "summary": "Nature Immunology, Published online: 30 October 2026; doi:10.1038/s41590-026-02701-5 Autophagy controls pulmonary innate immunity at the steady-state by restraining IL-1α expression by alveolar macrophages. Disrupting this regulatory pathway primes lung innate immunity and enhances resistance to distinct respiratory…",
-      "date": "2026-10-30T00:00:00Z",
-      "date_display": "30 Oct 2026"
-    },
-    {
-      "id": "647e0b263e",
-      "title": "Linda J. Miller (1958–2026)",
-      "link": "https://www.nature.com/articles/s41590-026-02722-0",
-      "journal": "Nature Immunology",
-      "category": "Original Article",
-      "authors": "Editorial team Nature Immunology",
-      "summary": "Nature Immunology, Published online: 30 October 2026; doi:10.1038/s41590-026-02722-0 Linda J. Miller (1958–2026)",
-      "date": "2026-10-30T00:00:00Z",
-      "date_display": "30 Oct 2026"
-    },
-    {
       "id": "5324ee9788",
       "title": "Mitochondrial DNA abundance is a determinant of immunogenic cell death in cancer",
       "link": "https://www.cell.com/immunity/fulltext/S1074-7613(26)00429-2?rss=yes",
@@ -1010,17 +1021,6 @@
       "category": "Original Article",
       "authors": "Carlos Luri-Rey, Inmaculada Rodríguez, Saioa Arrieta-Aranzueque, David Ruiz Guillamón, Enric Vercher, Nekane Soria, Paula Molero-Glez, Raquel Cuesta, Gabriel Gomis, Arantza…",
       "summary": "Bispecific PD-L1×4-1BB antibodies under clinical development enhance antitumor T cell responses. Luri-Rey et al. find that the efficacy of PD-L1×4-1BB antibodies relies on PD-L1-expressing type 1 conventional dendritic cells, which integrate antigen cross-presentation, IL-12, and 4-1BB costimulation to promote…",
-      "date": "2026-10-28T00:00:00Z",
-      "date_display": "28 Oct 2026"
-    },
-    {
-      "id": "1bfd6a9678",
-      "title": "Granzyme K-expressing CD8 + T cells, complement activation and histotoxic immunity",
-      "link": "https://www.nature.com/articles/s41577-026-01364-5",
-      "journal": "Nature Reviews Immunology",
-      "category": "Review Article",
-      "authors": "Xin Liu, Hai Qi",
-      "summary": "Nature Reviews Immunology, Published online: 28 October 2026; doi:10.1038/s41577-026-01364-5 This Perspective discusses the emerging biology of a unique population of granzyme K-expressing CD8+ T cells. Unlike canonical cytotoxic CD8+ T cells, which mediate direct cell killing, granzyme K-expressing CD8+ T cells…",
       "date": "2026-10-28T00:00:00Z",
       "date_display": "28 Oct 2026"
     },
