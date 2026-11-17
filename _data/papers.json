@@ -1,6 +1,39 @@
 {
-  "updated": "2026-11-16T14:09:21Z",
+  "updated": "2026-11-17T15:01:53Z",
   "papers": [
+    {
+      "id": "78d5ec58e5",
+      "title": "Fever-induced OR560 promotes antibacterial immunity through macrophage pseudopod formation and phagocytosis",
+      "link": "https://www.nature.com/articles/s41590-026-02709-x",
+      "journal": "Nature Immunology",
+      "category": "Original Article",
+      "authors": "Hong Cai, Jun-Xi Yi, Jing-Yi Sun, Jin Li, Min-Yi Feng, Zhe-Han Liu, Shuai Jiang, Li-Ming Sun, Xin-Ran Zhang, Jie Pan, Tong Wang, Jia-Qing Xing, Ya-Song Yi, Ling-Mei Qin, Xue-Qing…",
+      "summary": "Nature Immunology, Published online: 17 November 2026; doi:10.1038/s41590-026-02709-x Li and colleagues propose that elevated temperatures in the fever range induces olfactory receptor 560 in macrophages to promote phagocytosis.",
+      "date": "2026-11-17T00:00:00Z",
+      "date_display": "17 Nov 2026"
+    },
+    {
+      "id": "ea510b46a4",
+      "title": "Hyperandrogenism drives pathogenic adipocyte differentiation to promote insulin resistance in PMOS",
+      "link": "https://www.nature.com/articles/s42255-026-01654-1",
+      "journal": "Nature Metabolism",
+      "category": "Original Article",
+      "authors": "Gengchen Feng, Yi Dong, Xin Huang, Yonghui Jiang, Huangcong Shi, Teng Liu, Zihe Zhao, Ziyi Yang, Xueying Gao, Daimin Wei, Lei Yan, Yingying Qin, Shaozhuang Liu, Shumin Li, Han…",
+      "summary": "Nature Metabolism, Published online: 17 November 2026; doi:10.1038/s42255-026-01654-1 A preadipocyte subpopulation is expanded in women with PMOS, and hyperandrogenism promotes its aberrant differentiation towards a disease-associated adipocyte state that contributes to insulin resistance.",
+      "date": "2026-11-17T00:00:00Z",
+      "date_display": "17 Nov 2026"
+    },
+    {
+      "id": "eb47d8371f",
+      "title": "Microbial targeting of inhibitory immune receptors in human disease",
+      "link": "https://www.nature.com/articles/s41577-026-01367-2",
+      "journal": "Nature Reviews Immunology",
+      "category": "Review Article",
+      "authors": "Alex J. McCarthy, Ofer Mandelboim, Hisashi Arase",
+      "summary": "Nature Reviews Immunology, Published online: 17 November 2026; doi:10.1038/s41577-026-01367-2 This Review discusses the different strategies microbial pathogens use to target inhibitory immune receptors. By exploiting inhibitory immune receptors, microbes can promote cell entry, suppress innate and adaptive immune…",
+      "date": "2026-11-17T00:00:00Z",
+      "date_display": "17 Nov 2026"
+    },
     {
       "id": "d2e0d18134",
       "title": "Early-life obesity edits T cell fate",
@@ -475,17 +508,6 @@
       "date_display": "6 Nov 2026"
     },
     {
-      "id": "f8a01a80b6",
-      "title": "Sympathetic neurons remodel the extracellular matrix for thermogenesis",
-      "link": "https://www.nature.com/articles/s42255-026-01659-w",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "Gitalee Sarker, Ana I. Domingos",
-      "summary": "Nature Metabolism, Published online: 06 November 2026; doi:10.1038/s42255-026-01659-w The cellular microenvironment surrounding sympathetic nerves is emerging as an important regulator of adipose tissue metabolism. A new study published in Nature Metabolism shows that a discrete population of GUSB-expressing…",
-      "date": "2026-11-06T00:00:00Z",
-      "date_display": "6 Nov 2026"
-    },
-    {
       "id": "afc71a9011",
       "title": "Paxalisib with Trastuzumab for HER2-Positive Metastatic Breast Cancer with Active Brain Metastases: A Phase II Trial with Integrated Plasma and CSF ctDNA Analyses",
       "link": "https://aacrjournals.org/cancerrescommun/article/6/11/2619/789865/Paxalisib-with-Trastuzumab-for-HER2-Positive",
@@ -537,17 +559,6 @@
       "category": "Original Article",
       "authors": "Elham Masoumi, Paulina Walczak, Takemasa Tsuji, Vera Huzniakova, Byoung Hyuck Kim, Soumya Iyer, Edurne Luque, Agnes Julia Bilecz, Junko Matsuzaki, Christian F. Olortegui, Kunle…",
       "summary": "Nature Cancer, Published online: 05 November 2026; doi:10.1038/s43018-026-01255-7 Masoumi et al. engineered CAR-T cells with a radiation-inducible promoter controlling the expression and local release of the cytokine TNF upon tumor irradiation.",
-      "date": "2026-11-05T00:00:00Z",
-      "date_display": "5 Nov 2026"
-    },
-    {
-      "id": "35d793ad90",
-      "title": "Germinal centers as evolutionary islands",
-      "link": "https://www.nature.com/articles/s41590-026-02713-1",
-      "journal": "Nature Immunology",
-      "category": "Original Article",
-      "authors": "Yu Pan, Ziv Shulman",
-      "summary": "Nature Immunology, Published online: 05 November 2026; doi:10.1038/s41590-026-02713-1 Antibody affinity maturation can favor a few high-affinity clones. Spatially isolated germinal centers limit clonal dominance and preserve antibody response breadth.",
       "date": "2026-11-05T00:00:00Z",
       "date_display": "5 Nov 2026"
     },
@@ -966,17 +977,6 @@
       "category": "Original Article",
       "authors": "Yehan Zhang, Shijie Tang, Yi Zhang, Jiahui Liu, Xiaohan Shi, Yikai Li, Yunguang Li, Huan Wang, Chaoliang Zhong, Maoyuan Sun, Wenjie Li, Yiqin Zhu, Weiwei Yang, Yun Zhao, Shiwei…",
       "summary": "Zhang et al. show that intrinsic resistance to KRASG12D-targeted therapy in pancreatic cancer is driven by suppressed interferon signaling associated with sustained MYC activity. Activation of interferon pathways, particularly via IFN-β, resensitizes resistant tumors and synergizes with KRAS inhibitors, revealing…",
-      "date": "2026-10-29T00:00:00Z",
-      "date_display": "29 Oct 2026"
-    },
-    {
-      "id": "0df3208d62",
-      "title": "Priming systemic immunity against glioblastoma",
-      "link": "https://www.nature.com/articles/s41577-026-01371-6",
-      "journal": "Nature Reviews Immunology",
-      "category": "Review Article",
-      "authors": "Annette Wu, Benjamin R. Schrank",
-      "summary": "Nature Reviews Immunology, Published online: 29 October 2026; doi:10.1038/s41577-026-01371-6 A preprint by Wisdom et al. shows that combining radiotherapy with intramuscular mRNA vaccination supports better T cell priming and produces complete responses in glioblastoma transplant models in mice.",
       "date": "2026-10-29T00:00:00Z",
       "date_display": "29 Oct 2026"
     },
