@@ -1,6 +1,39 @@
 {
-  "updated": "2026-11-17T15:01:53Z",
+  "updated": "2026-11-18T14:42:33Z",
   "papers": [
+    {
+      "id": "78c6c68df4",
+      "title": "Single-cell states meet clinical outcomes in lung cancer",
+      "link": "https://www.nature.com/articles/s43018-026-01286-0",
+      "journal": "Nature Cancer",
+      "category": "Original Article",
+      "authors": "Lele Zhang, Peng Zhang",
+      "summary": "Nature Cancer, Published online: 18 November 2026; doi:10.1038/s43018-026-01286-0 Single-cell technologies are yet to transform routine oncology practice, partly owing to a scarcity of large, clinically annotated patient cohorts. A study introduces LuCaS+, a multicenter single-nucleus RNA sequencing atlas of lung…",
+      "date": "2026-11-18T00:00:00Z",
+      "date_display": "18 Nov 2026"
+    },
+    {
+      "id": "845eff65f8",
+      "title": "Author Correction: The pro-oncogenic noncanonical activity of a RAS•GTP:RanGAP1 complex facilitates nuclear protein export",
+      "link": "https://www.nature.com/articles/s43018-026-01308-x",
+      "journal": "Nature Cancer",
+      "category": "Original Article",
+      "authors": "Brajendra K. Tripathi, Nicole H. Hirsh, Xiaolan Qian, Marian E. Durkin, Dunrui Wang, Alex G. Papageorge, Ross Lake, Yvonne A. Evrard, Adam I. Marcus, Suresh S. Ramalingam, Mary…",
+      "summary": "Nature Cancer, Published online: 17 November 2026; doi:10.1038/s43018-026-01308-x Author Correction: The pro-oncogenic noncanonical activity of a RAS•GTP:RanGAP1 complex facilitates nuclear protein export",
+      "date": "2026-11-17T00:00:00Z",
+      "date_display": "17 Nov 2026"
+    },
+    {
+      "id": "9ccb88340d",
+      "title": "Author Correction: Recapitulating the adenoma–carcinoma sequence by selection of four spontaneous oncogenic mutations in mismatch-repair-deficient human colon organoids",
+      "link": "https://www.nature.com/articles/s43018-026-01307-y",
+      "journal": "Nature Cancer",
+      "category": "Original Article",
+      "authors": "Tomohiro Mizutani, Matteo Boretto, Sangho Lim, Jarno Drost, Diego Montiel González, Rurika Oka, Maarten H. Geurts, Harry Begthel, Jeroen Korving, Johan H. van Es, Ruben van…",
+      "summary": "Nature Cancer, Published online: 17 November 2026; doi:10.1038/s43018-026-01307-y Author Correction: Recapitulating the adenoma–carcinoma sequence by selection of four spontaneous oncogenic mutations in mismatch-repair-deficient human colon organoids",
+      "date": "2026-11-17T00:00:00Z",
+      "date_display": "17 Nov 2026"
+    },
     {
       "id": "78d5ec58e5",
       "title": "Fever-induced OR560 promotes antibacterial immunity through macrophage pseudopod formation and phagocytosis",
@@ -20,6 +53,17 @@
       "category": "Original Article",
       "authors": "Gengchen Feng, Yi Dong, Xin Huang, Yonghui Jiang, Huangcong Shi, Teng Liu, Zihe Zhao, Ziyi Yang, Xueying Gao, Daimin Wei, Lei Yan, Yingying Qin, Shaozhuang Liu, Shumin Li, Han…",
       "summary": "Nature Metabolism, Published online: 17 November 2026; doi:10.1038/s42255-026-01654-1 A preadipocyte subpopulation is expanded in women with PMOS, and hyperandrogenism promotes its aberrant differentiation towards a disease-associated adipocyte state that contributes to insulin resistance.",
+      "date": "2026-11-17T00:00:00Z",
+      "date_display": "17 Nov 2026"
+    },
+    {
+      "id": "83e5f438fb",
+      "title": "A Practical Guide to Choosing Multiple-Comparison Tests for Efficacy Analysis in Small-Sample Patient-Derived Xenograft Studies",
+      "link": "https://aacrjournals.org/cancerrescommun/article/6/11/2669/789981/A-Practical-Guide-to-Choosing-Multiple-Comparison",
+      "journal": "Cancer Research",
+      "category": "Original Article",
+      "authors": "Binchen Mao, Sheng Guo",
+      "summary": "Abstract Patient-derived xenograft (PDX) studies are a cornerstone of preclinical oncology, yet the multiple-comparison procedures (MCP) used for tumor volume endpoints are often selected by software default rather than by evidence from PDX-like study designs. Many classical MCPs were developed for large-size…",
       "date": "2026-11-17T00:00:00Z",
       "date_display": "17 Nov 2026"
     },
@@ -618,17 +662,6 @@
       "date_display": "4 Nov 2026"
     },
     {
-      "id": "0fcf61a244",
-      "title": "Basophils inhibit early lung metastasis by suppressing regulatory T cells",
-      "link": "https://www.nature.com/articles/s43018-026-01257-5",
-      "journal": "Nature Cancer",
-      "category": "Original Article",
-      "authors": "Bruno Torchia, Nadine Fournier, Simge Yücel, Morgane Fournier, Soroush Setareh, Hadi Esmaily, Yahya Mohammadzadeh, Joao Lourenco, Ali Ghasemi, Elodie Marcandalli, Luqing Li…",
-      "summary": "Nature Cancer, Published online: 03 November 2026; doi:10.1038/s43018-026-01257-5 Mansouri and colleagues show that basophils protect from early lung metastasis by suppressing regulatory T cells through the release of mast cell protease 8 and histamine.",
-      "date": "2026-11-03T00:00:00Z",
-      "date_display": "3 Nov 2026"
-    },
-    {
       "id": "8ea6ef7df4",
       "title": "Lipid organization in health and disease",
       "link": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00387-6?rss=yes",
@@ -737,28 +770,6 @@
       "summary": "Mediterranean diet (MedDiet) and fasting may improve health and reduce inflammation, but disentangling diet composition from weight loss is difficult, as MedDiet often induces the latter. In a controlled-feeding trial, Warmbrunn et al. report energy deficit-driven weight loss has a greater effect than diet alone on…",
       "date": "2026-11-03T00:00:00Z",
       "date_display": "3 Nov 2026"
-    },
-    {
-      "id": "f254f28918",
-      "title": "Oncostatin M and TGFβ1 divide the epithelial–mesenchymal landscape",
-      "link": "https://www.nature.com/articles/s43018-026-01271-7",
-      "journal": "Nature Cancer",
-      "category": "Original Article",
-      "authors": "Charles L. Bidgood, Erik W. Thompson",
-      "summary": "Nature Cancer, Published online: 02 November 2026; doi:10.1038/s43018-026-01271-7 Stabilization of the hybrid epithelial–mesenchymal state drives therapy resistance and metastasic progression. Dong et al. use integrated single-cell and spatial analyses to demonstrate that oncostatin M and TGFβ1, respectively, maintain…",
-      "date": "2026-11-02T00:00:00Z",
-      "date_display": "2 Nov 2026"
-    },
-    {
-      "id": "34bb14faa1",
-      "title": "Myeloid-derived TGFβ1 and oncostatin M establish two distinct stromal niches controlling late and hybrid EMT states",
-      "link": "https://www.nature.com/articles/s43018-026-01259-3",
-      "journal": "Nature Cancer",
-      "category": "Original Article",
-      "authors": "Anqi Dong, Sebastiaan Vanuytven, Andrea Pérez González, Kevin Bévant, Lieselot Van de Putte, Zahra Zahedi, Justine Allard, Christine Dubois, Isabelle Salmon, Sandrine Rorive…",
-      "summary": "Nature Cancer, Published online: 02 November 2026; doi:10.1038/s43018-026-01259-3 Dong et al. conducted single-cell and spatial analyses in mouse skin tumors, revealing that myeloid-derived OSM and TGFβ1 establish distinct stromal niches that sustain hybrid and late EMT states, respectively.",
-      "date": "2026-11-02T00:00:00Z",
-      "date_display": "2 Nov 2026"
     },
     {
       "id": "41cb617ff8",
@@ -1309,17 +1320,6 @@
       "summary": "Tissue-resident memory T (TRM) cells are heterogeneous, but how pathogenic subsets drive relapse in allergic dermatitis remains unclear. Asahina et al. identify a pathogenic CXCR6+ CD4+ TRM subset sustained through CXCL16-dependent clustering with CD301b+ cDC2s, revealing the TRM-DC niche as a potential therapeutic…",
       "date": "2026-10-12T00:00:00Z",
       "date_display": "12 Oct 2026"
-    },
-    {
-      "id": "099e75d0a4",
-      "title": "Lymphatic constraint of germinal centers optimizes protective antibody responses",
-      "link": "https://www.cell.com/immunity/fulltext/S1074-7613(26)00388-2?rss=yes",
-      "journal": "Immunity",
-      "category": "Original Article",
-      "authors": "Tenny Mudianto, Gabrielle R. Berman, Kimberly Zaldana, Marta Schips, Niklas Schwan, Luan Firmino-Cruz, Jana Bilanovic, Ochapa Ibrahim, Vanessa Cristaldi, William S. Foster, Lina…",
-      "summary": "Lymphatic vessel networks remodel during infection to regulate antigen and immune cell dynamics, yet whether these changes impact humoral immunity remains unknown. Mudianto et al. demonstrate that lymph node lymphangiogenesis encapsulates activating germinal centers to constrain their size, which enhances clonal…",
-      "date": "2026-10-09T00:00:00Z",
-      "date_display": "9 Oct 2026"
     }
   ]
 }
