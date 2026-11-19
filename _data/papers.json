@@ -1,6 +1,17 @@
 {
-  "updated": "2026-11-18T14:42:33Z",
+  "updated": "2026-11-19T14:49:35Z",
   "papers": [
+    {
+      "id": "8b6d1a3cf1",
+      "title": "Publisher Correction: Reframing cancer therapy through tumor plasticity",
+      "link": "https://www.nature.com/articles/s43018-026-01312-1",
+      "journal": "Nature Cancer",
+      "category": "Original Article",
+      "authors": "Akansha M. Shah, Bryan P. Marsh, Frederic J. de Sauvage",
+      "summary": "Nature Cancer, Published online: 18 November 2026; doi:10.1038/s43018-026-01312-1 Publisher Correction: Reframing cancer therapy through tumor plasticity",
+      "date": "2026-11-18T00:00:00Z",
+      "date_display": "18 Nov 2026"
+    },
     {
       "id": "78c6c68df4",
       "title": "Single-cell states meet clinical outcomes in lung cancer",
@@ -9,6 +20,17 @@
       "category": "Original Article",
       "authors": "Lele Zhang, Peng Zhang",
       "summary": "Nature Cancer, Published online: 18 November 2026; doi:10.1038/s43018-026-01286-0 Single-cell technologies are yet to transform routine oncology practice, partly owing to a scarcity of large, clinically annotated patient cohorts. A study introduces LuCaS+, a multicenter single-nucleus RNA sequencing atlas of lung…",
+      "date": "2026-11-18T00:00:00Z",
+      "date_display": "18 Nov 2026"
+    },
+    {
+      "id": "097f82c619",
+      "title": "A Phase I Trial of Low-Dose Gemcitabine Combined with ATR Inhibitor Elimusertib for Advanced Solid Tumors",
+      "link": "https://aacrjournals.org/cancerrescommun/article/6/11/2679/790000/A-Phase-I-Trial-of-Low-Dose-Gemcitabine-Combined",
+      "journal": "Cancer Research",
+      "category": "Original Article",
+      "authors": "Thejus Jayakrishnan, Rebecca Porter, Alice Chen, Ningxuan Zhou, Julianne L. Holleran, Massimiliano Russo, Douglas A. Rubinson, Brandon M. Huffman, Nabihah Tayob, Lorenzo Trippa…",
+      "summary": "Abstract Purpose: Preclinical data suggest that the anticancer efficacy of Ataxia telangiectasia and Rad3-related protein (ATR) inhibitors can be synergistically enhanced by low-dose gemcitabine. To test the clinical feasibility of this regimen, we conducted a phase I trial of low-dose gemcitabine combined with the…",
       "date": "2026-11-18T00:00:00Z",
       "date_display": "18 Nov 2026"
     },
@@ -592,17 +614,6 @@
       "category": "Original Article",
       "authors": "",
       "summary": "Nature Cancer, Published online: 05 November 2026; doi:10.1038/s43018-026-01256-6 Basophils are rare immune cells best known for their roles in allergies. We find that they also restrict early metastatic seeding by suppressing regulatory T (Treg) cells through histamine–HRH1 signaling and MCPT8-mediated cleavage of…",
-      "date": "2026-11-05T00:00:00Z",
-      "date_display": "5 Nov 2026"
-    },
-    {
-      "id": "eb1cb86098",
-      "title": "Spatiotemporal control of CAR-T cell TNF release via tumor-targeted irradiation",
-      "link": "https://www.nature.com/articles/s43018-026-01255-7",
-      "journal": "Nature Cancer",
-      "category": "Original Article",
-      "authors": "Elham Masoumi, Paulina Walczak, Takemasa Tsuji, Vera Huzniakova, Byoung Hyuck Kim, Soumya Iyer, Edurne Luque, Agnes Julia Bilecz, Junko Matsuzaki, Christian F. Olortegui, Kunle…",
-      "summary": "Nature Cancer, Published online: 05 November 2026; doi:10.1038/s43018-026-01255-7 Masoumi et al. engineered CAR-T cells with a radiation-inducible promoter controlling the expression and local release of the cytokine TNF upon tumor irradiation.",
       "date": "2026-11-05T00:00:00Z",
       "date_display": "5 Nov 2026"
     },
@@ -1309,17 +1320,6 @@
       "summary": "(Cell Metabolism 35, 961–978.e1–e10; June 6, 2023)",
       "date": "2026-10-13T00:00:00Z",
       "date_display": "13 Oct 2026"
-    },
-    {
-      "id": "e5e86db859",
-      "title": "Skin-resident CXCR6+ memory CD4+ T cells and dendritic cells form dermal perivascular hubs that drive relapse in allergic dermatitis",
-      "link": "https://www.cell.com/immunity/fulltext/S1074-7613(26)00385-7?rss=yes",
-      "journal": "Immunity",
-      "category": "Original Article",
-      "authors": "Ryota Asahina, Fuuka Minami, Satoshi Nakamizo, Toshiya Miyake, Satoru Yonekura, Toshiaki Kogame, Shuto Kanameishi, Kosuke Katsuo, Hiroyuki Irie, Saeko Nakajima, Takashi Nomura…",
-      "summary": "Tissue-resident memory T (TRM) cells are heterogeneous, but how pathogenic subsets drive relapse in allergic dermatitis remains unclear. Asahina et al. identify a pathogenic CXCR6+ CD4+ TRM subset sustained through CXCL16-dependent clustering with CD301b+ cDC2s, revealing the TRM-DC niche as a potential therapeutic…",
-      "date": "2026-10-12T00:00:00Z",
-      "date_display": "12 Oct 2026"
     }
   ]
 }
