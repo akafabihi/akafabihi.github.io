@@ -1,6 +1,160 @@
 {
-  "updated": "2026-11-19T14:49:35Z",
+  "updated": "2026-11-20T14:30:50Z",
   "papers": [
+    {
+      "id": "85b6a55903",
+      "title": "Bridging morphology and molecular data for foundation models in oncology",
+      "link": "https://www.nature.com/articles/s43018-025-01092-0",
+      "journal": "Nature Cancer",
+      "category": "Original Article",
+      "authors": "Eric Deutsch, Roger Sun",
+      "summary": "Nature Cancer, Published online: 20 November 2026; doi:10.1038/s43018-025-01092-0 Foundation models are reshaping computational pathology. A study introduces THREADS, a multimodal system trained to align histology with molecular data, demonstrating that morphology and genomics are inseparable dimensions of cancer and…",
+      "date": "2026-11-20T00:00:00Z",
+      "date_display": "20 Nov 2026"
+    },
+    {
+      "id": "264e5ebc28",
+      "title": "A multimodal foundation model for molecular and morphologic data in oncology",
+      "link": "https://www.nature.com/articles/s43018-026-01252-w",
+      "journal": "Nature Cancer",
+      "category": "Original Article",
+      "authors": "Anurag Vaidya, Andrew Zhang, Guillaume Jaume, Andrew H. Song, Tong Ding, Sophia J. Wagner, Ming Y. Lu, Harry Robertson, Drew F. K. Williamson, Paul Doucet, Cristina Almagro-Perez…",
+      "summary": "Nature Cancer, Published online: 20 November 2026; doi:10.1038/s43018-026-01252-w Vaidya et al. present THREADS, a foundation model leveraging multimodal data and driven by tissue molecular composition features to perform with high efficiency and demonstrating generalizability across clinical oncology tasks.",
+      "date": "2026-11-20T00:00:00Z",
+      "date_display": "20 Nov 2026"
+    },
+    {
+      "id": "6294cf09bc",
+      "title": "Herpesvirus exposures map to self-reactivity networks in chronic disease",
+      "link": "https://www.nature.com/articles/s41590-026-02679-0",
+      "journal": "Nature Immunology",
+      "category": "Original Article",
+      "authors": "",
+      "summary": "Nature Immunology, Published online: 20 November 2026; doi:10.1038/s41590-026-02679-0 Herpesviruses have long been linked to chronic disease, but how they interact with the immune system remains unclear. Comprehensive mapping of viral and human targets of antibody reactivity across two biobank cohorts identified…",
+      "date": "2026-11-20T00:00:00Z",
+      "date_display": "20 Nov 2026"
+    },
+    {
+      "id": "a69d906b4a",
+      "title": "Author Correction: The malate shuttle detoxifies ammonia in exhausted T cells by producing 2-ketoglutarate",
+      "link": "https://www.nature.com/articles/s41590-026-02755-5",
+      "journal": "Nature Immunology",
+      "category": "Original Article",
+      "authors": "Nina Weisshaar, Sicong Ma, Yanan Ming, Alaa Madi, Alessa Mieg, Marvin Hering, Ferdinand Zettl, Kerstin Mohr, Nora Ten Bosch, Diana Stichling, Michael Buettner, Gernot Poschet…",
+      "summary": "Nature Immunology, Published online: 20 November 2026; doi:10.1038/s41590-026-02755-5 Author Correction: The malate shuttle detoxifies ammonia in exhausted T cells by producing 2-ketoglutarate",
+      "date": "2026-11-20T00:00:00Z",
+      "date_display": "20 Nov 2026"
+    },
+    {
+      "id": "4b77ee8320",
+      "title": "Large-scale antibody reactome profiling identifies herpesvirus–autoantigen associations that underlie chronic diseases",
+      "link": "https://www.nature.com/articles/s41590-026-02674-5",
+      "journal": "Nature Immunology",
+      "category": "Original Article",
+      "authors": "Sanghun Lee, Nicole Prince, Qingwen Chen, Xueying Chen, Junwei Lu, Kevin M. Mendez, Rachel S. Kelly, Julian Hecker, Dmitry Prokopenko, Michael J. McGeachie, Rinku Sharma, Yulu…",
+      "summary": "Nature Immunology, Published online: 20 November 2026; doi:10.1038/s41590-026-02674-5 Lasky-Su and colleagues profiled plasma IgG reactivities against linear peptides derived from human herpesviruses and human proteins and integrated them with electronic health records to define a herpesvirus–autoantigen–disease…",
+      "date": "2026-11-20T00:00:00Z",
+      "date_display": "20 Nov 2026"
+    },
+    {
+      "id": "0375cafc11",
+      "title": "Author Correction: Mitochondrial superoxide regulates nuclear envelope integrity and ageing via redox-mediated lipid metabolism",
+      "link": "https://www.nature.com/articles/s42255-026-01678-7",
+      "journal": "Nature Metabolism",
+      "category": "Original Article",
+      "authors": "Peng X. Chen, Leyuan Zhang, Xueying Wu, Zhiqiang Liang, Xusheng Hao, Qingyuan Zhu, Ying Liu, Jinrou Zheng, Qian Zhang, Qinmeng Yang, Fan Zhou, Chunbao Zhou, Ye Tian",
+      "summary": "Nature Metabolism, Published online: 19 November 2026; doi:10.1038/s42255-026-01678-7 Author Correction: Mitochondrial superoxide regulates nuclear envelope integrity and ageing via redox-mediated lipid metabolism",
+      "date": "2026-11-19T00:00:00Z",
+      "date_display": "19 Nov 2026"
+    },
+    {
+      "id": "d93bb06282",
+      "title": "Macrophages shape healthy adipose expansion",
+      "link": "https://www.nature.com/articles/s42255-026-01644-3",
+      "journal": "Nature Metabolism",
+      "category": "Original Article",
+      "authors": "Elizabeth Laura Lansbury, Camilla Schéele",
+      "summary": "Nature Metabolism, Published online: 19 November 2026; doi:10.1038/s42255-026-01644-3 Adipose macrophages are usually viewed as mediators of inflammation. Aznar et al. show that the demethylase KDM6B keeps perivascular macrophages in a substate that supplies adipose progenitors with BMP2, which promotes adipogenesis…",
+      "date": "2026-11-19T00:00:00Z",
+      "date_display": "19 Nov 2026"
+    },
+    {
+      "id": "f48ad3424e",
+      "title": "Metabolism at the centre of female reproductive health",
+      "link": "https://www.nature.com/articles/s42255-026-01668-9",
+      "journal": "Nature Metabolism",
+      "category": "Original Article",
+      "authors": "",
+      "summary": "Nature Metabolism, Published online: 19 November 2026; doi:10.1038/s42255-026-01668-9 Long overlooked despite its profound effect on global health, women’s reproductive health is increasingly being viewed through a metabolic lens. This timely shift motivates our new collection, ‘Metabolic determinants of female…",
+      "date": "2026-11-19T00:00:00Z",
+      "date_display": "19 Nov 2026"
+    },
+    {
+      "id": "f514c41ffd",
+      "title": "The histone demethylase KDM6B preserves adipogenic balance by restraining hypermetabolic LYVE1 + perivascular macrophages",
+      "link": "https://www.nature.com/articles/s42255-026-01639-0",
+      "journal": "Nature Metabolism",
+      "category": "Original Article",
+      "authors": "Bastien Aznar, Zaïneb Mezdari, Jialing He, Raphaëlle Ballaire, Marc Diedisheim, Denis Anisov, Lucie Orliaguet, Claire Leveau, Jean-Baptiste Julla, Gerasimos Anagnostopoulos, Wan…",
+      "summary": "Nature Metabolism, Published online: 19 November 2026; doi:10.1038/s42255-026-01639-0 The histone demethylase KDM6B controls the fate of LYVE1+ perivascular adipose tissue macrophages during diet-induced adipose tissue expansion, thereby limiting inflammation and sustaining appropriate adipogenesis.",
+      "date": "2026-11-19T00:00:00Z",
+      "date_display": "19 Nov 2026"
+    },
+    {
+      "id": "8311ca7393",
+      "title": "LPAR5 restrains sepsis-induced immunosuppression by limiting STING-mediated dendritic cell ferroptosis and ISG + cDC2 subset emergence",
+      "link": "https://www.nature.com/articles/s41423-026-01492-x",
+      "journal": "Cellular and Molecular Immunology",
+      "category": "Original Article",
+      "authors": "Yawen Zheng, Susi Zhu, Yiting Tang, Junke Long, Biaoxiang Xu, Tiemei Li, HuiLing Chen, Wenjuan Liu, Xiang Chen, Jie Li, Cong Peng",
+      "summary": "Cellular & Molecular Immunology, Published online: 19 November 2026; doi:10.1038/s41423-026-01492-x LPAR5 restrains sepsis-induced immunosuppression by limiting STING-mediated dendritic cell ferroptosis and ISG + cDC2 subset emergence",
+      "date": "2026-11-19T00:00:00Z",
+      "date_display": "19 Nov 2026"
+    },
+    {
+      "id": "9bb6ab0d43",
+      "title": "ILC2 subset distribution and dysfunction predict the severity of pulmonary fibrosis in anti-synthetase syndrome",
+      "link": "https://www.nature.com/articles/s41423-026-01490-z",
+      "journal": "Cellular and Molecular Immunology",
+      "category": "Original Article",
+      "authors": "Xueliang Zhang, Yue Chen, Ming-Hui Chen, Ju-Pei Tang, Zhao Li, Jia-Yu Wu, Jiajia Jin, Qian Wang, Zhu-Jing Zhu, Huan-Ru Qu, Zhiyong Chen, Qiang Guo, Ju Qiu, Sheng-Ming Dai",
+      "summary": "Cellular & Molecular Immunology, Published online: 19 November 2026; doi:10.1038/s41423-026-01490-z ILC2 subset distribution and dysfunction predict the severity of pulmonary fibrosis in anti-synthetase syndrome",
+      "date": "2026-11-19T00:00:00Z",
+      "date_display": "19 Nov 2026"
+    },
+    {
+      "id": "c810b9fd17",
+      "title": "Allogeneic trifunctional NK cell therapy combined with rituximab for refractory mixed class IV/V lupus nephritis without lymphodepletion",
+      "link": "https://www.nature.com/articles/s41423-026-01489-6",
+      "journal": "Cellular and Molecular Immunology",
+      "category": "Original Article",
+      "authors": "Li Fan, Fang Fang, Cai Zhang, Zhiming Ye, Minhua Chen, Zhigang Tian, Haoyu Sun, Xueqing Yu",
+      "summary": "Cellular & Molecular Immunology, Published online: 19 November 2026; doi:10.1038/s41423-026-01489-6 Allogeneic trifunctional NK cell therapy combined with rituximab for refractory mixed class IV/V lupus nephritis without lymphodepletion",
+      "date": "2026-11-19T00:00:00Z",
+      "date_display": "19 Nov 2026"
+    },
+    {
+      "id": "df8f95ce62",
+      "title": "Mechanisms of Pregnancy-Associated Triple-Negative Breast Cancer Risk: Insights from Spatial Omics",
+      "link": "https://aacrjournals.org/cancerrescommun/article/6/11/2689/790017/Mechanisms-of-Pregnancy-Associated-Triple-Negative",
+      "journal": "Cancer Research",
+      "category": "Original Article",
+      "authors": "Darya Veraksa, Kavitha Mukund, David E. Frankhouser, Lixin Yang, Jerneja Tomsic, Raju K. Pillai, Jeyasri Venkatasubramani, Daniel Schmolze, Xiao-Cheng Wu, Mary Anne LeBlanc, Lucio…",
+      "summary": "Abstract Pregnancy-associated triple-negative breast cancer (PA-TNBC) is a highly aggressive, hard-to-treat malignancy, with increased risk linked to postlactational mammary gland involution. To understand this, we used GeoMx Digital Spatial Profiler to analyze the transcriptional landscape of 46 treatment-naïve…",
+      "date": "2026-11-19T00:00:00Z",
+      "date_display": "19 Nov 2026"
+    },
+    {
+      "id": "c4a4cbb58a",
+      "title": "Flexible strategy for purine supply in tumours",
+      "link": "https://www.nature.com/articles/s41568-026-01001-2",
+      "journal": "Nature Reviews Cancer",
+      "category": "Review Article",
+      "authors": "Chien-Han Kao, Ruey-Hwa Chen",
+      "summary": "Nature Reviews Cancer, Published online: 19 November 2026; doi:10.1038/s41568-026-01001-2 In this Journal Club, Chien-Han Kao and Ruey-Hwa Chen discuss a study showing that tumours use both de novo purine biosynthesis and purine salvage pathways to sustain nucleotide pools, revealing unexpected metabolic flexibility…",
+      "date": "2026-11-19T00:00:00Z",
+      "date_display": "19 Nov 2026"
+    },
     {
       "id": "8b6d1a3cf1",
       "title": "Publisher Correction: Reframing cancer therapy through tumor plasticity",
@@ -211,17 +365,6 @@
       "date_display": "13 Nov 2026"
     },
     {
-      "id": "e1b27bf9fe",
-      "title": "Brown adipose tissue sustains thermogenesis through metabolic flexibility in glucose utilization",
-      "link": "https://www.nature.com/articles/s42255-026-01652-3",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "Nakul Karandikar, Celina Beyer-Teal, Lishu Yue, Ece Kilic, Zeran Lin, Lucie Yammine, Ksenia Morozova, Colleen K. Hadley, Santiago Barber, Timothy E. McGraw, Paul Cohen",
-      "summary": "Nature Metabolism, Published online: 13 November 2026; doi:10.1038/s42255-026-01652-3 BAT thermogenesis is sustained by metabolic flexibility, with GLUT4-dependent glucose utilization becoming critical selectively during cold exposure when dietary lipids are limited.",
-      "date": "2026-11-13T00:00:00Z",
-      "date_display": "13 Nov 2026"
-    },
-    {
       "id": "9a5115fb81",
       "title": "Dendritic cell metabolism in cancer and immunity",
       "link": "https://www.nature.com/articles/s41577-026-01368-1",
@@ -288,28 +431,6 @@
       "date_display": "12 Nov 2026"
     },
     {
-      "id": "be8a8b1069",
-      "title": "PKA signaling controls ILC3 homeostasis and IL-23-mediated inflammation in the gut",
-      "link": "https://www.nature.com/articles/s41590-026-02703-3",
-      "journal": "Nature Immunology",
-      "category": "Original Article",
-      "authors": "Lan Kang, Jordan Z. Zhou, Anees Ahmed, Veronika Horn, Myeong Joon Kim, Mengze Lyu, Gregory F. Sonnenberg",
-      "summary": "Nature Immunology, Published online: 11 November 2026; doi:10.1038/s41590-026-02703-3 Sonnnenberg and colleagues show that prostaglandin engages protein kinase A (PKA) and sustained PKA activation promotes the depletion of ILC3s. IL-23 can drive aberrant PKA signaling resulting in intestinal inflammation.",
-      "date": "2026-11-11T00:00:00Z",
-      "date_display": "11 Nov 2026"
-    },
-    {
-      "id": "33fa1840fc",
-      "title": "Rare GLP1R variants attenuate weight loss with semaglutide but not tirzepatide",
-      "link": "https://www.nature.com/articles/s42255-026-01656-z",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "Matthew E. Levy, Kelly M. Schiabor Barrett, Natalie Telis, William H. Lagarde, Pradyumna D. Phatak, James F. Maher, Chad Haldeman-Englert, Joseph J. Grzymski, Douglas Stoller, Amy…",
-      "summary": "Nature Metabolism, Published online: 11 November 2026; doi:10.1038/s42255-026-01656-z Rare GLP1R variants are shown to reduce weight loss with semaglutide but not tirzepatide, suggesting GLP1R genetic variation as a pharmacogenetic determinant of GLP-1 receptor agonist efficacy.",
-      "date": "2026-11-11T00:00:00Z",
-      "date_display": "11 Nov 2026"
-    },
-    {
       "id": "4c69371b31",
       "title": "l -carnitine links red meat consumption to inflammation",
       "link": "https://www.nature.com/articles/s41577-026-01375-2",
@@ -319,28 +440,6 @@
       "summary": "Nature Reviews Immunology, Published online: 11 November 2026; doi:10.1038/s41577-026-01375-2 Red meat has long been associated with inflammatory disease. New research identifies l-carnitine as a potential molecular link between diet and inflammation.",
       "date": "2026-11-11T00:00:00Z",
       "date_display": "11 Nov 2026"
-    },
-    {
-      "id": "f1e2609dea",
-      "title": "Natural killer cell inflammatory circuits in antitumor immunity",
-      "link": "https://www.nature.com/articles/s43018-026-01276-2",
-      "journal": "Nature Cancer",
-      "category": "Original Article",
-      "authors": "Nicholas D. Huntington, Xiangpeng Meng, Michael Chopin, Rebecca B. Delconte",
-      "summary": "Nature Cancer, Published online: 10 November 2026; doi:10.1038/s43018-026-01276-2 Huntington et al. provide an overview of the biology and role of natural killer (NK) cells in cancer, highlighting the importance of NK cell–dendritic cell cross-talk and NK cell metabolic fitness in regulating the antitumor immune…",
-      "date": "2026-11-10T00:00:00Z",
-      "date_display": "10 Nov 2026"
-    },
-    {
-      "id": "11f35997b6",
-      "title": "Microbiota-based modulation of intratumoral cholesterol metabolism for colorectal cancer treatment",
-      "link": "https://www.nature.com/articles/s42255-026-01655-0",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "Jiayan Wu, Liguo Li, Yingyao Lai, Jinming Li, Pallavi Asthana, Lixiang Zhai, Lexin Chen, Minting Chen, Baisen Chen, Susma Gurung, Jin Lyu, Yijing Zhang, Lin Lu, Shuojie Huang…",
-      "summary": "Nature Metabolism, Published online: 10 November 2026; doi:10.1038/s42255-026-01655-0 Modulation of intratumoral cholesterol metabolism through delivery of a microbiota-derived metabolite is shown to induce colorectal cancer regression in mice.",
-      "date": "2026-11-10T00:00:00Z",
-      "date_display": "10 Nov 2026"
     },
     {
       "id": "b27b891639",
@@ -451,39 +550,6 @@
       "summary": "Nature Reviews Cancer, Published online: 10 November 2026; doi:10.1038/s41568-026-00993-1 Tumour heterogeneity drives disease progression yet remains difficult to capture in experimental systems. In this Review, Fomina and McGuigan discuss how emerging 3D tumour models, including organoids, assembloids and…",
       "date": "2026-11-10T00:00:00Z",
       "date_display": "10 Nov 2026"
-    },
-    {
-      "id": "4d1fda1147",
-      "title": "Author Correction: An IGHG1 variant exhibits polarized prevalence and confers enhanced IgG1 antibody responses against life-threatening organisms",
-      "link": "https://www.nature.com/articles/s41590-026-02731-z",
-      "journal": "Nature Immunology",
-      "category": "Original Article",
-      "authors": "Wenbo Sun, Tingyu Yang, Fengming Sun, Panhong Liu, Ji Gao, Xianmei Lan, Wei Xu, Yuhong Pang, Tong Li, Cuifeng Li, Qingtai Liang, Haoze Chen, Xiaohang Liu, Wenting Tan, Huanhuan…",
-      "summary": "Nature Immunology, Published online: 09 November 2026; doi:10.1038/s41590-026-02731-z Author Correction: An IGHG1 variant exhibits polarized prevalence and confers enhanced IgG1 antibody responses against life-threatening organisms",
-      "date": "2026-11-09T00:00:00Z",
-      "date_display": "9 Nov 2026"
-    },
-    {
-      "id": "10667a0dcd",
-      "title": "Mechanosensitive YAP–RUNX1 signaling drives T H 1 cell dysfunction and tumor immunosuppression",
-      "link": "https://www.nature.com/articles/s41590-026-02708-y",
-      "journal": "Nature Immunology",
-      "category": "Original Article",
-      "authors": "Zilan Xu, Shuang Deng, Hongzhe Zhao, Daoyuan Wang, Qingchang Jin, Chunling Xue, Shuang Liu, Shaoqiu Liu, Lingxing Zeng, Ziming Chen, Sihan Zhao, Yifan Zhou, Ruihong Bai, Shaojia…",
-      "summary": "Nature Immunology, Published online: 09 November 2026; doi:10.1038/s41590-026-02708-y Solid tumor stiffness can limit the ability of immune cells to enter and kill tumor cells. Here the authors show that this stiffness activates YAP signaling in type 1 helper T cells, making them dysfunctional and thereby leading to a…",
-      "date": "2026-11-09T00:00:00Z",
-      "date_display": "9 Nov 2026"
-    },
-    {
-      "id": "eac86e552e",
-      "title": "Metabolic Messengers: endotrophin",
-      "link": "https://www.nature.com/articles/s42255-026-01657-y",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "Lisandro Maya-Ramos, Jan-Bernd Funcke, Philipp E. Scherer",
-      "summary": "Nature Metabolism, Published online: 09 November 2026; doi:10.1038/s42255-026-01657-y Maya-Ramos, Funcke and Scherer provide a concise overview of the collagen cleavage fragment endotrophin, a mediator of fibroinflammation and a biomarker of progression of various cardiometabolic diseases.",
-      "date": "2026-11-09T00:00:00Z",
-      "date_display": "9 Nov 2026"
     },
     {
       "id": "0f76c330a2",
@@ -605,17 +671,6 @@
       "summary": "Nature Reviews Cancer, Published online: 06 November 2026; doi:10.1038/s41568-026-00988-y This Review by Sphyris et al. discusses how the cell-of-origin determines the route of colorectal carcinogenesis and how phenotypic plasticity and heterogeneity shape tumour evolution, disease recurrence, metastatic competence…",
       "date": "2026-11-06T00:00:00Z",
       "date_display": "6 Nov 2026"
-    },
-    {
-      "id": "813e18790d",
-      "title": "Basophils boost early antitumor immunity by restraining T reg cells",
-      "link": "https://www.nature.com/articles/s43018-026-01256-6",
-      "journal": "Nature Cancer",
-      "category": "Original Article",
-      "authors": "",
-      "summary": "Nature Cancer, Published online: 05 November 2026; doi:10.1038/s43018-026-01256-6 Basophils are rare immune cells best known for their roles in allergies. We find that they also restrict early metastatic seeding by suppressing regulatory T (Treg) cells through histamine–HRH1 signaling and MCPT8-mediated cleavage of…",
-      "date": "2026-11-05T00:00:00Z",
-      "date_display": "5 Nov 2026"
     },
     {
       "id": "cf20ffff9b",
@@ -1069,17 +1124,6 @@
       "date_display": "27 Oct 2026"
     },
     {
-      "id": "2df4b94aa6",
-      "title": "p38α acts as a molecular switch to differentially regulate the Flt3 and CD115 pathways in dendritic cell development",
-      "link": "https://www.nature.com/articles/s41423-026-01482-z",
-      "journal": "Cellular and Molecular Immunology",
-      "category": "Original Article",
-      "authors": "Yifan Zhou, Jianfeng Wu, Lihao Gong, Xinyi Zhu, Yuanhao Wang, Tao Wu, Lanqi Luo, Yixue You, Sijie Chen, Yuan Yao, Yuhao Jiao, Peng He, Xinrui Fan, Ning Wu, Hongwei Zhou, Jiahuai…",
-      "summary": "Cellular & Molecular Immunology, Published online: 26 October 2026; doi:10.1038/s41423-026-01482-z p38α acts as a molecular switch to differentially regulate the Flt3 and CD115 pathways in dendritic cell development",
-      "date": "2026-10-26T00:00:00Z",
-      "date_display": "26 Oct 2026"
-    },
-    {
       "id": "04da728df0",
       "title": "Finding MES: A hidden cell state in neuroblastoma",
       "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00434-4?rss=yes",
@@ -1190,17 +1234,6 @@
       "date_display": "22 Oct 2026"
     },
     {
-      "id": "e774000e21",
-      "title": "Cancer theranostics",
-      "link": "https://www.nature.com/articles/s41568-026-00983-3",
-      "journal": "Nature Reviews Cancer",
-      "category": "Review Article",
-      "authors": "Alexandros Marios Sofias, Yvonne Derks, Michelle S. Bradbury, Xiaoyuan Chen, Fabian Kiessling, Gooitzen M. van Dam, Wolfgang A. Weber, Twan Lammers",
-      "summary": "Nature Reviews Cancer, Published online: 22 October 2026; doi:10.1038/s41568-026-00983-3 Theranostics integrates diagnostic imaging with targeted therapy to enhance cancer treatment. In this Review, Sofias et al. discuss recent advances in radiotheranostic strategies, advances in nanotheranostic and microtheranostic…",
-      "date": "2026-10-22T00:00:00Z",
-      "date_display": "22 Oct 2026"
-    },
-    {
       "id": "906362240b",
       "title": "Weight loss during intermittent fasting, not Mediterranean diet quality alone, is associated with lower inflammation: A randomized controlled trial",
       "link": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00392-X?rss=yes",
@@ -1223,17 +1256,6 @@
       "date_display": "21 Oct 2026"
     },
     {
-      "id": "213898f03d",
-      "title": "Dysregulated thymus-ovary axis promotes virtual memory T cell polarization to aggravate PMOS pathology",
-      "link": "https://www.nature.com/articles/s41423-026-01481-0",
-      "journal": "Cellular and Molecular Immunology",
-      "category": "Original Article",
-      "authors": "Yaruo Qiu, Huiyu Xu, Wenyu Tian, Weixuan Wang, Chenlei Xu, Yao Feng, Xuyang Zhao, Wen Gao, Rong Jin, Rong Li, Dan Lu",
-      "summary": "Cellular & Molecular Immunology, Published online: 19 October 2026; doi:10.1038/s41423-026-01481-0 Dysregulated thymus-ovary axis promotes virtual memory T cell polarization to aggravate PMOS pathology",
-      "date": "2026-10-19T00:00:00Z",
-      "date_display": "19 Oct 2026"
-    },
-    {
       "id": "b9cec9e334",
       "title": "Mechanisms of Progression of Myeloid Preleukemia to Transformed Myeloid Leukemia in Children with Down Syndrome",
       "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00474-5?rss=yes",
@@ -1243,17 +1265,6 @@
       "summary": "Cancer Cell 36, 123–138.e1–e10; August 12, 2019",
       "date": "2026-10-19T00:00:00Z",
       "date_display": "19 Oct 2026"
-    },
-    {
-      "id": "dd09a0e5d1",
-      "title": "Glutamate attenuates the ILC2 response and allergic airway inflammation via the kainate receptor GluK2",
-      "link": "https://www.nature.com/articles/s41423-026-01461-4",
-      "journal": "Cellular and Molecular Immunology",
-      "category": "Original Article",
-      "authors": "Bo Peng, Siying Sun, Lin Zhu, Shufen Zhong, Xixi Chen, Yaguang Zhang, Huacheng Yan, Yidan Sun, Jiajia Lv, Yuying Huang, Jianye Zhang, Bing Sun, Guochao Shi, Wei Tang",
-      "summary": "Cellular & Molecular Immunology, Published online: 16 October 2026; doi:10.1038/s41423-026-01461-4 Glutamate attenuates the ILC2 response and allergic airway inflammation via the kainate receptor GluK2",
-      "date": "2026-10-16T00:00:00Z",
-      "date_display": "16 Oct 2026"
     },
     {
       "id": "731e541b69",
@@ -1309,17 +1320,6 @@
       "summary": "Liang et al. identify an NAD+-responsive adipokine Serpina3n that protects skeletal muscle against aging- and disease-associated atrophy. NAD+ elevation promotes adipose Serpina3n production through STAT1, and Serpina3n promotes skeletal muscle protein homeostasis and metabolic adaptation through pyruvate carboxylase…",
       "date": "2026-10-14T00:00:00Z",
       "date_display": "14 Oct 2026"
-    },
-    {
-      "id": "e446cdec59",
-      "title": "Cancer-cell-derived fumarate suppresses the anti-tumor capacity of CD8+ T cells in the tumor microenvironment",
-      "link": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00443-2?rss=yes",
-      "journal": "Cell Metabolism",
-      "category": "Original Article",
-      "authors": "Jie Cheng, Jinxin Yan, Ying Liu, Jiangzhou Shi, Haoyu Wang, Hanyang Zhou, Yinglin Zhou, Tongcun Zhang, Lina Zhao, Xianbin Meng, Haipeng Gong, Xinxiang Zhang, Haichuan Zhu, Peng…",
-      "summary": "(Cell Metabolism 35, 961–978.e1–e10; June 6, 2023)",
-      "date": "2026-10-13T00:00:00Z",
-      "date_display": "13 Oct 2026"
     }
   ]
 }
