@@ -1,6 +1,39 @@
 {
-  "updated": "2026-11-20T14:30:50Z",
+  "updated": "2026-11-21T13:49:19Z",
   "papers": [
+    {
+      "id": "2db9ec8ee5",
+      "title": "CD36+ Kupffer cells control postprandial lipid clearance and fuel metabolic dysfunction–associated steatotic liver diseases",
+      "link": "https://www.science.org/doi/abs/10.1126/sciimmunol.aef5478?af=R",
+      "journal": "Science Immunology",
+      "category": "Original Article",
+      "authors": "Joanna Razafiarison, Fawaz Alzaid, Claire Leveau, Dorothy Tonui, Marc Diedisheim, Flavie Bernigole, Mathilde Bied, Aymeric Silvin, Olivier Cexus, Wan Ting Kong, Gerasimos…",
+      "summary": "Science Immunology, Volume 11, Issue 125, November 2026.",
+      "date": "2026-11-20T08:00:00Z",
+      "date_display": "20 Nov 2026"
+    },
+    {
+      "id": "c0a6e1cfc1",
+      "title": "Aging drives distinct chromatin signatures of CD8 T cell dysfunction and the emergence of a unique CD8 Treg cell population",
+      "link": "https://www.science.org/doi/abs/10.1126/sciimmunol.aej5412?af=R",
+      "journal": "Science Immunology",
+      "category": "Original Article",
+      "authors": "Daniel Thiele, Liam C. Kealy, David Chisanga, Brendan E. Russ, Angela Nguyen, Jessica Runting, Iona S. Schuster, Adele Barugahare, Tabinda Hussain, Mohammad Asadian, Minh Bui…",
+      "summary": "Science Immunology, Volume 11, Issue 125, November 2026.",
+      "date": "2026-11-20T08:00:00Z",
+      "date_display": "20 Nov 2026"
+    },
+    {
+      "id": "bb5f68504b",
+      "title": "Wall teichoic acid regulates DNA-triggered innate immune receptor activation by Staphylococcus aureus",
+      "link": "https://www.science.org/doi/abs/10.1126/sciimmunol.ael7335?af=R",
+      "journal": "Science Immunology",
+      "category": "Original Article",
+      "authors": "Jordan B. Jastrab, Ashley Tseng, Daniel Fisch, Stephanie A. Ragland, Jonathan C. Kagan",
+      "summary": "Science Immunology, Volume 11, Issue 125, November 2026.",
+      "date": "2026-11-20T08:00:00Z",
+      "date_display": "20 Nov 2026"
+    },
     {
       "id": "85b6a55903",
       "title": "Bridging morphology and molecular data for foundation models in oncology",
@@ -53,6 +86,17 @@
       "category": "Original Article",
       "authors": "Sanghun Lee, Nicole Prince, Qingwen Chen, Xueying Chen, Junwei Lu, Kevin M. Mendez, Rachel S. Kelly, Julian Hecker, Dmitry Prokopenko, Michael J. McGeachie, Rinku Sharma, Yulu…",
       "summary": "Nature Immunology, Published online: 20 November 2026; doi:10.1038/s41590-026-02674-5 Lasky-Su and colleagues profiled plasma IgG reactivities against linear peptides derived from human herpesviruses and human proteins and integrated them with electronic health records to define a herpesvirus–autoantigen–disease…",
+      "date": "2026-11-20T00:00:00Z",
+      "date_display": "20 Nov 2026"
+    },
+    {
+      "id": "927feacf18",
+      "title": "Distinguishing Features of Radiation-Induced from Sporadic Thyroid Cancers after the Chornobyl Nuclear Power Plant Accident",
+      "link": "https://aacrjournals.org/cancerrescommun/article/6/11/2704/790033/Distinguishing-Features-of-Radiation-Induced-from",
+      "journal": "Cancer Research",
+      "category": "Original Article",
+      "authors": "",
+      "summary": "Abstract Recent data indicate that radiation-induced papillary thyroid carcinomas (PTC) after the 1986 Chornobyl accident can be distinguished from sporadic PTCs by examining patterns of DNA damage related to the generation of oncogenic drivers. PTCs with fusion/structural variant (SV) drivers generated from two…",
       "date": "2026-11-20T00:00:00Z",
       "date_display": "20 Nov 2026"
     },
@@ -1276,50 +1320,6 @@
       "summary": "Ginhoux, Mulder, Arcila-Barrera, and Amit argue that macrophage identity is best understood not as a set of discrete subsets or a binary M1/M2 axis but as combinations of modular gene programs. They propose an extensible, program-based classification of macrophage states and discuss how it reframes macrophage-directed…",
       "date": "2026-10-16T00:00:00Z",
       "date_display": "16 Oct 2026"
-    },
-    {
-      "id": "c718cd118b",
-      "title": "One structural class, one treatment? Firmonertinib in PACC-mutant NSCLC",
-      "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00359-4?rss=yes",
-      "journal": "Cancer Cell",
-      "category": "Original Article",
-      "authors": "Derek De-Rui Huang, James Chih-Hsin Yang",
-      "summary": "EGFR PACC-mutant non-small cell lung cancer (NSCLC) has limited treatment options. In this issue of Cancer Cell, Le et al. report preclinical profiles and promising systemic and intracranial efficacy of the broad-spectrum CNS-penetrant tyrosine kinase inhibitor firmonertinib in PACC-mutant NSCLC, supporting its…",
-      "date": "2026-10-16T00:00:00Z",
-      "date_display": "16 Oct 2026"
-    },
-    {
-      "id": "408a10e2c7",
-      "title": "Firmonertinib in advanced non-small cell lung cancer with epidermal growth factor receptor P-loop and αC-helix compressing mutations",
-      "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00430-7?rss=yes",
-      "journal": "Cancer Cell",
-      "category": "Original Article",
-      "authors": "Xiuning Le, Jie Wang, Yan Yu, Yanqiu Zhao, David Planchard, Bo Gao, Alexander Spira, Jingling Liu, Xingya Li, Shirish Gadgeel, Natasha Leighl, Junqiang Zhang, Hidetoshi Hayashi…",
-      "summary": "Le et al. show that the small molecule TKI firmonertinib has a unique structure to inhibit EGFR PACC mutations in non-small cell lung cancer. In the phase 1b FURTHER trial, patients had robust and durable responses to firmonertinib with tolerable side effects. These findings support advancing to a large, randomized…",
-      "date": "2026-10-16T00:00:00Z",
-      "date_display": "16 Oct 2026"
-    },
-    {
-      "id": "4a62448efd",
-      "title": "Dan Kastner (1951–2026)",
-      "link": "https://www.cell.com/immunity/fulltext/S1074-7613(26)00394-8?rss=yes",
-      "journal": "Immunity",
-      "category": "Original Article",
-      "authors": "John J. O’Shea, Lindsey A. Criswell",
-      "summary": "Daniel L. Kastner, physician-scientist, geneticist, mentor, and scientific leader, transformed our understanding of human inflammatory disease. His death is a profound loss not only to the immunology community but also to the numerous patients and families whose illnesses he elucidated—and for whom, in many cases, he…",
-      "date": "2026-10-15T00:00:00Z",
-      "date_display": "15 Oct 2026"
-    },
-    {
-      "id": "39a80e5ab7",
-      "title": "An NAD+-responsive adipose signal coordinates inter-organ defense against muscle atrophy",
-      "link": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00391-8?rss=yes",
-      "journal": "Cell Metabolism",
-      "category": "Original Article",
-      "authors": "Na Liang, Jia He, Xiangji Guo, Jiaqi Yan, Xiaoqian Zhang, Xiaozhong Peng, Jun Li",
-      "summary": "Liang et al. identify an NAD+-responsive adipokine Serpina3n that protects skeletal muscle against aging- and disease-associated atrophy. NAD+ elevation promotes adipose Serpina3n production through STAT1, and Serpina3n promotes skeletal muscle protein homeostasis and metabolic adaptation through pyruvate carboxylase…",
-      "date": "2026-10-14T00:00:00Z",
-      "date_display": "14 Oct 2026"
     }
   ]
 }
