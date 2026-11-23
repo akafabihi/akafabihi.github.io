@@ -1,6 +1,17 @@
 {
-  "updated": "2026-11-22T13:42:26Z",
+  "updated": "2026-11-23T16:41:42Z",
   "papers": [
+    {
+      "id": "c3cd948311",
+      "title": "Author Correction: Type I IFNs promote cancer cell stemness by triggering the epigenetic regulator KDM1B",
+      "link": "https://www.nature.com/articles/s41590-026-02756-4",
+      "journal": "Nature Immunology",
+      "category": "Original Article",
+      "authors": "Martina Musella, Andrea Guarracino, Nicoletta Manduca, Claudia Galassi, Eliana Ruggiero, Alessia Potenza, Ester Maccafeo, Gwenola Manic, Luca Mattiello, Sara Soliman Abdel Rehim…",
+      "summary": "Nature Immunology, Published online: 23 November 2026; doi:10.1038/s41590-026-02756-4 Author Correction: Type I IFNs promote cancer cell stemness by triggering the epigenetic regulator KDM1B",
+      "date": "2026-11-23T00:00:00Z",
+      "date_display": "23 Nov 2026"
+    },
     {
       "id": "2db9ec8ee5",
       "title": "CD36+ Kupffer cells control postprandial lipid clearance and fuel metabolic dysfunction–associated steatotic liver diseases",
@@ -438,17 +449,6 @@
       "category": "Original Article",
       "authors": "Philipp Jurmeister, Philipp Keyl, Liliana Harris Mochmann, Linda Bergmayr, Konstanze Schleich, Edgar Chimal Calderon, Fabian Engelhardt-Schott, Doreen Klingler, Dražen Papić…",
       "summary": "Nature Cancer, Published online: 12 November 2026; doi:10.1038/s43018-026-01260-w Jurmeister et al. present a multicenter single-nucleus RNA sequencing atlas of lung cancer combined with spatial transcriptomics and clinical outcomes, delineating cancer–host cell interactions and uncovering tumor subtypes associated…",
-      "date": "2026-11-12T00:00:00Z",
-      "date_display": "12 Nov 2026"
-    },
-    {
-      "id": "42e334b4ee",
-      "title": "Author Correction: Serine protease inhibitor A3 is a soluble SIRPα ligand that suppresses inflammation and antitumor immunity",
-      "link": "https://www.nature.com/articles/s41590-026-02732-y",
-      "journal": "Nature Immunology",
-      "category": "Original Article",
-      "authors": "Yufei Hou, Lei Huang, Chunhui Jin, Xiaolong Li, Yongxing Chen, Liguang Sun, Feng Wang, Yong Zhang, Ying Wang, Meijuan Zou, Qina Xu, Zicheng Wang, Tao Jin, Naicui Zhai, Fei Xu…",
-      "summary": "Nature Immunology, Published online: 12 November 2026; doi:10.1038/s41590-026-02732-y Author Correction: Serine protease inhibitor A3 is a soluble SIRPα ligand that suppresses inflammation and antitumor immunity",
       "date": "2026-11-12T00:00:00Z",
       "date_display": "12 Nov 2026"
     },
