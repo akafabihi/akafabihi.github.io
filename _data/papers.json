@@ -1,6 +1,116 @@
 {
-  "updated": "2026-11-23T16:41:42Z",
+  "updated": "2026-11-24T16:38:16Z",
   "papers": [
+    {
+      "id": "8d20710262",
+      "title": "Progressive SLAMF7 downregulation is associated with terminal CD8 T-cell exhaustion and aggressive disease in renal cell carcinoma",
+      "link": "https://www.nature.com/articles/s41423-026-01491-y",
+      "journal": "Cellular and Molecular Immunology",
+      "category": "Original Article",
+      "authors": "Kyungmin Lee, Hyeonjin Bae, Jaeyeop Shin, Eunjin Lee, Junho Noh, Jaehyun Lee, Kunhee Lee, Seonhwi Park, Solhwi Lee, Yujung Jang, Yujin Lee, Youla Seong, Narae Lee, Gamin Kim, Hye…",
+      "summary": "Cellular & Molecular Immunology, Published online: 24 November 2026; doi:10.1038/s41423-026-01491-y Progressive SLAMF7 downregulation is associated with terminal CD8 T-cell exhaustion and aggressive disease in renal cell carcinoma",
+      "date": "2026-11-24T00:00:00Z",
+      "date_display": "24 Nov 2026"
+    },
+    {
+      "id": "1d6f788eb7",
+      "title": "Defining the types of cell death, from morphology to molecular pathways and beyond",
+      "link": "https://www.nature.com/articles/s41423-026-01488-7",
+      "journal": "Cellular and Molecular Immunology",
+      "category": "Original Article",
+      "authors": "Yingying Zhang, Teng Teng, Peipei Zhang, Sung Ouk Kim, Jiahuai Han",
+      "summary": "Cellular & Molecular Immunology, Published online: 24 November 2026; doi:10.1038/s41423-026-01488-7 Defining the types of cell death, from morphology to molecular pathways and beyond",
+      "date": "2026-11-24T00:00:00Z",
+      "date_display": "24 Nov 2026"
+    },
+    {
+      "id": "ec62c6095b",
+      "title": "Lactate-induced PRDX1 lactylation increases the number of IgA plasma cells to confer exercise-mimicking protection against IBD",
+      "link": "https://www.nature.com/articles/s41423-026-01484-x",
+      "journal": "Cellular and Molecular Immunology",
+      "category": "Original Article",
+      "authors": "Yun Xing, Pengyuan Zhao, Huankai Shou, Yifan Guo, Zhiqiang Wang, Jingbo Qie, Baichao Yu, Zhou Lu, Yuchen Zhang, Peng Chen, Yawei Wang, Mengxia Jiao, Kameina Zhuma, Zihe Pan, Luman…",
+      "summary": "Cellular & Molecular Immunology, Published online: 24 November 2026; doi:10.1038/s41423-026-01484-x Lactate-induced PRDX1 lactylation increases the number of IgA plasma cells to confer exercise-mimicking protection against IBD",
+      "date": "2026-11-24T00:00:00Z",
+      "date_display": "24 Nov 2026"
+    },
+    {
+      "id": "821c6bde1d",
+      "title": "Diverse humoral responses along the lymphatic chain",
+      "link": "https://www.nature.com/articles/s41577-026-01382-3",
+      "journal": "Nature Reviews Immunology",
+      "category": "Review Article",
+      "authors": "Ash Hagerman, Clint Robbins",
+      "summary": "Nature Reviews Immunology, Published online: 24 November 2026; doi:10.1038/s41577-026-01382-3 A preprint by Chao et al. reports that the position of draining lymph nodes along the lymphatic chain affects the B cell response to vaccination in mice.",
+      "date": "2026-11-24T00:00:00Z",
+      "date_display": "24 Nov 2026"
+    },
+    {
+      "id": "231963df1a",
+      "title": "Diet leaves a memory",
+      "link": "https://www.nature.com/articles/s41590-026-02733-x",
+      "journal": "Nature Immunology",
+      "category": "Original Article",
+      "authors": "Stephanie Houston",
+      "summary": "Nature Immunology, Published online: 23 November 2026; doi:10.1038/s41590-026-02733-x Diet leaves a memory",
+      "date": "2026-11-23T00:00:00Z",
+      "date_display": "23 Nov 2026"
+    },
+    {
+      "id": "ac0fb1da35",
+      "title": "Infection thresholds",
+      "link": "https://www.nature.com/articles/s41590-026-02734-w",
+      "journal": "Nature Immunology",
+      "category": "Original Article",
+      "authors": "Ioana Staicu",
+      "summary": "Nature Immunology, Published online: 23 November 2026; doi:10.1038/s41590-026-02734-w Infection thresholds",
+      "date": "2026-11-23T00:00:00Z",
+      "date_display": "23 Nov 2026"
+    },
+    {
+      "id": "827600f901",
+      "title": "Beyond antibodies: engineering organ-scale immunity",
+      "link": "https://www.nature.com/articles/s41590-026-02661-w",
+      "journal": "Nature Immunology",
+      "category": "Original Article",
+      "authors": "Bali Pulendran",
+      "summary": "Nature Immunology, Published online: 23 November 2026; doi:10.1038/s41590-026-02661-w Vaccines do more than induce antibodies and lymphocytes. Emerging evidence suggests that they can establish tissue-embedded organ-scale immunity, termed integrated organ immunity, that provides broad protection against diverse…",
+      "date": "2026-11-23T00:00:00Z",
+      "date_display": "23 Nov 2026"
+    },
+    {
+      "id": "16c4e92a91",
+      "title": "Africa’s vaccine manufacturing ambition from sovereignty to sustainable resilience",
+      "link": "https://www.nature.com/articles/s41590-026-02666-5",
+      "journal": "Nature Immunology",
+      "category": "Original Article",
+      "authors": "Shabir A. Madhi, Glenda E. Gray",
+      "summary": "Nature Immunology, Published online: 23 November 2026; doi:10.1038/s41590-026-02666-5 Inequitable access to life-saving vaccines, including COVID-19 vaccines, exposed Africa’s vulnerability to external supply dependence. Africa should build resilience through affordable routine procurement while strategically…",
+      "date": "2026-11-23T00:00:00Z",
+      "date_display": "23 Nov 2026"
+    },
+    {
+      "id": "333d546bb1",
+      "title": "Exploiting immunoregulatory functions of ILC2s for CAR therapy",
+      "link": "https://www.nature.com/articles/s41590-026-02720-2",
+      "journal": "Nature Immunology",
+      "category": "Original Article",
+      "authors": "Timotheus You Fu Halim",
+      "summary": "Nature Immunology, Published online: 23 November 2026; doi:10.1038/s41590-026-02720-2 In addition to promoting type 2 immunity, group 2 innate lymphoid cells (ILC2s) also have potent immunoregulatory capacity; this underappreciated function of ILC2s is now being exploited as a potential ‘CAR ILC2’ therapy for the…",
+      "date": "2026-11-23T00:00:00Z",
+      "date_display": "23 Nov 2026"
+    },
+    {
+      "id": "cc5db682d2",
+      "title": "Vaccinology 2.0",
+      "link": "https://www.nature.com/articles/s41590-026-02725-x",
+      "journal": "Nature Immunology",
+      "category": "Original Article",
+      "authors": "",
+      "summary": "Nature Immunology, Published online: 23 November 2026; doi:10.1038/s41590-026-02725-x The COVID-19 pandemic highlighted the success of vaccine development, but more improvements in vaccine design, equity, manufacturing and changes in public health policy are warranted.",
+      "date": "2026-11-23T00:00:00Z",
+      "date_display": "23 Nov 2026"
+    },
     {
       "id": "c3cd948311",
       "title": "Author Correction: Type I IFNs promote cancer cell stemness by triggering the epigenetic regulator KDM1B",
@@ -9,6 +119,28 @@
       "category": "Original Article",
       "authors": "Martina Musella, Andrea Guarracino, Nicoletta Manduca, Claudia Galassi, Eliana Ruggiero, Alessia Potenza, Ester Maccafeo, Gwenola Manic, Luca Mattiello, Sara Soliman Abdel Rehim…",
       "summary": "Nature Immunology, Published online: 23 November 2026; doi:10.1038/s41590-026-02756-4 Author Correction: Type I IFNs promote cancer cell stemness by triggering the epigenetic regulator KDM1B",
+      "date": "2026-11-23T00:00:00Z",
+      "date_display": "23 Nov 2026"
+    },
+    {
+      "id": "5afd8716e5",
+      "title": "New horizons of mRNA vaccines",
+      "link": "https://www.nature.com/articles/s41590-026-02688-z",
+      "journal": "Nature Immunology",
+      "category": "Original Article",
+      "authors": "Michael J. Hogan, Norbert Pardi",
+      "summary": "Nature Immunology, Published online: 23 November 2026; doi:10.1038/s41590-026-02688-z This Comment highlights the innovations behind mRNA vaccine success, reviews recent advances and discusses limitations across RNA vaccine platforms and potential strategies to overcome them.",
+      "date": "2026-11-23T00:00:00Z",
+      "date_display": "23 Nov 2026"
+    },
+    {
+      "id": "0f915b49e8",
+      "title": "MCL1 May Not Mediate Chemoresistance in Cancer Cells",
+      "link": "https://aacrjournals.org/cancerrescommun/article/6/11/2714/790066/MCL1-May-Not-Mediate-Chemoresistance-in-Cancer",
+      "journal": "Cancer Research",
+      "category": "Original Article",
+      "authors": "",
+      "summary": "Abstract The antiapoptotic B-cell lymphoma 2 (BCL2) family member myeloid cell leukemia 1 (MCL1) is overexpressed in many cancers and has been linked to chemoresistance. Unlike other BCL2 family members, MCL1 displays both well-defined mitochondrial antiapoptotic activities and emerging nuclear functions. Prior…",
       "date": "2026-11-23T00:00:00Z",
       "date_display": "23 Nov 2026"
     },
@@ -64,39 +196,6 @@
       "category": "Original Article",
       "authors": "Anurag Vaidya, Andrew Zhang, Guillaume Jaume, Andrew H. Song, Tong Ding, Sophia J. Wagner, Ming Y. Lu, Harry Robertson, Drew F. K. Williamson, Paul Doucet, Cristina Almagro-Perez…",
       "summary": "Nature Cancer, Published online: 20 November 2026; doi:10.1038/s43018-026-01252-w Vaidya et al. present THREADS, a foundation model leveraging multimodal data and driven by tissue molecular composition features to perform with high efficiency and demonstrating generalizability across clinical oncology tasks.",
-      "date": "2026-11-20T00:00:00Z",
-      "date_display": "20 Nov 2026"
-    },
-    {
-      "id": "6294cf09bc",
-      "title": "Herpesvirus exposures map to self-reactivity networks in chronic disease",
-      "link": "https://www.nature.com/articles/s41590-026-02679-0",
-      "journal": "Nature Immunology",
-      "category": "Original Article",
-      "authors": "",
-      "summary": "Nature Immunology, Published online: 20 November 2026; doi:10.1038/s41590-026-02679-0 Herpesviruses have long been linked to chronic disease, but how they interact with the immune system remains unclear. Comprehensive mapping of viral and human targets of antibody reactivity across two biobank cohorts identified…",
-      "date": "2026-11-20T00:00:00Z",
-      "date_display": "20 Nov 2026"
-    },
-    {
-      "id": "a69d906b4a",
-      "title": "Author Correction: The malate shuttle detoxifies ammonia in exhausted T cells by producing 2-ketoglutarate",
-      "link": "https://www.nature.com/articles/s41590-026-02755-5",
-      "journal": "Nature Immunology",
-      "category": "Original Article",
-      "authors": "Nina Weisshaar, Sicong Ma, Yanan Ming, Alaa Madi, Alessa Mieg, Marvin Hering, Ferdinand Zettl, Kerstin Mohr, Nora Ten Bosch, Diana Stichling, Michael Buettner, Gernot Poschet…",
-      "summary": "Nature Immunology, Published online: 20 November 2026; doi:10.1038/s41590-026-02755-5 Author Correction: The malate shuttle detoxifies ammonia in exhausted T cells by producing 2-ketoglutarate",
-      "date": "2026-11-20T00:00:00Z",
-      "date_display": "20 Nov 2026"
-    },
-    {
-      "id": "4b77ee8320",
-      "title": "Large-scale antibody reactome profiling identifies herpesvirus–autoantigen associations that underlie chronic diseases",
-      "link": "https://www.nature.com/articles/s41590-026-02674-5",
-      "journal": "Nature Immunology",
-      "category": "Original Article",
-      "authors": "Sanghun Lee, Nicole Prince, Qingwen Chen, Xueying Chen, Junwei Lu, Kevin M. Mendez, Rachel S. Kelly, Julian Hecker, Dmitry Prokopenko, Michael J. McGeachie, Rinku Sharma, Yulu…",
-      "summary": "Nature Immunology, Published online: 20 November 2026; doi:10.1038/s41590-026-02674-5 Lasky-Su and colleagues profiled plasma IgG reactivities against linear peptides derived from human herpesviruses and human proteins and integrated them with electronic health records to define a herpesvirus–autoantigen–disease…",
       "date": "2026-11-20T00:00:00Z",
       "date_display": "20 Nov 2026"
     },
@@ -266,17 +365,6 @@
       "date_display": "17 Nov 2026"
     },
     {
-      "id": "78d5ec58e5",
-      "title": "Fever-induced OR560 promotes antibacterial immunity through macrophage pseudopod formation and phagocytosis",
-      "link": "https://www.nature.com/articles/s41590-026-02709-x",
-      "journal": "Nature Immunology",
-      "category": "Original Article",
-      "authors": "Hong Cai, Jun-Xi Yi, Jing-Yi Sun, Jin Li, Min-Yi Feng, Zhe-Han Liu, Shuai Jiang, Li-Ming Sun, Xin-Ran Zhang, Jie Pan, Tong Wang, Jia-Qing Xing, Ya-Song Yi, Ling-Mei Qin, Xue-Qing…",
-      "summary": "Nature Immunology, Published online: 17 November 2026; doi:10.1038/s41590-026-02709-x Li and colleagues propose that elevated temperatures in the fever range induces olfactory receptor 560 in macrophages to promote phagocytosis.",
-      "date": "2026-11-17T00:00:00Z",
-      "date_display": "17 Nov 2026"
-    },
-    {
       "id": "ea510b46a4",
       "title": "Hyperandrogenism drives pathogenic adipocyte differentiation to promote insulin resistance in PMOS",
       "link": "https://www.nature.com/articles/s42255-026-01654-1",
@@ -308,28 +396,6 @@
       "summary": "Nature Reviews Immunology, Published online: 17 November 2026; doi:10.1038/s41577-026-01367-2 This Review discusses the different strategies microbial pathogens use to target inhibitory immune receptors. By exploiting inhibitory immune receptors, microbes can promote cell entry, suppress innate and adaptive immune…",
       "date": "2026-11-17T00:00:00Z",
       "date_display": "17 Nov 2026"
-    },
-    {
-      "id": "d2e0d18134",
-      "title": "Early-life obesity edits T cell fate",
-      "link": "https://www.nature.com/articles/s41590-026-02710-4",
-      "journal": "Nature Immunology",
-      "category": "Original Article",
-      "authors": "Danish Umar, Deepshika Ramanan",
-      "summary": "Nature Immunology, Published online: 16 November 2026; doi:10.1038/s41590-026-02710-4 A high-fat diet in utero or in early life, but not in adulthood, silences the ubiquitin-editing enzyme A20 in CD4+ T cells, blunting T follicular helper cell differentiation and response to vaccines.",
-      "date": "2026-11-16T00:00:00Z",
-      "date_display": "16 Nov 2026"
-    },
-    {
-      "id": "52b94ae094",
-      "title": "Maternal and early life obesity programs CD4 + T cell fate to impair vaccine immunity",
-      "link": "https://www.nature.com/articles/s41590-026-02700-6",
-      "journal": "Nature Immunology",
-      "category": "Original Article",
-      "authors": "Michaël F. Michieletto, Monica T. Jimenez, Atishay Jay, Michelle Y. Y. Lee, Jean-Christophe Beltra, Corentin Le Saos-Patrinos, Samir U. Sayed, Megan L. Clark, Niklas Blank…",
-      "summary": "Nature Immunology, Published online: 16 November 2026; doi:10.1038/s41590-026-02700-6 Henao-Mejia and colleagues show that a high-fat diet during pregnancy or early postnatal life impairs CD4+ TFH cell differentiation and germinal center reactions in response to vaccination in young mice.",
-      "date": "2026-11-16T00:00:00Z",
-      "date_display": "16 Nov 2026"
     },
     {
       "id": "520e7b5670",
@@ -383,17 +449,6 @@
       "category": "Original Article",
       "authors": "Jiansong Fan, Sen Yang, Erqiang Hu, Jianhong An, Qiang Liu, Naijia Liu, Mingwei Ma, Michael Prystowsky, Tianxu Lv, Si Yong Yeo, Yuting Ren, Yuan Liu, Lihua Li, Yuan Li, Qi Sun…",
       "summary": "Nature Cancer, Published online: 13 November 2026; doi:10.1038/s43018-026-01270-8 Fan et al. propose an artificial intelligence model to infer spatial proteomic patterns at the single-cell level from routine hematoxylin and eosin slides to predict molecular biomarkers, prognosis and immunotherapy response in multiple…",
-      "date": "2026-11-13T00:00:00Z",
-      "date_display": "13 Nov 2026"
-    },
-    {
-      "id": "493599f83f",
-      "title": "Rewiring dendritic cell function with CLEC9A and DEC205 CARs",
-      "link": "https://www.nature.com/articles/s41590-026-02711-3",
-      "journal": "Nature Immunology",
-      "category": "Original Article",
-      "authors": "Congyi Niu, Xiaoqiu Dai, He Gao, Haiyue Zhang, Yunju Ma, Hui Wang, Zhen Xiao, Yingxi Xu, Sudan He, Zilu Ye, Xiaowen Tang, Peng Lin, Ke Li, Mikaël J. Pittet, Lianjun Zhang, Chen…",
-      "summary": "Nature Immunology, Published online: 13 November 2026; doi:10.1038/s41590-026-02711-3 Chimeric antigen receptor dendritic cells (CAR-DCs) are sometimes engineered in the manner of T cells to enhance specific DC functions. Here, the authors engineer CAR-DCs with the intracellular domains of the endocytic receptors…",
       "date": "2026-11-13T00:00:00Z",
       "date_display": "13 Nov 2026"
     },
@@ -959,17 +1014,6 @@
       "date_display": "2 Nov 2026"
     },
     {
-      "id": "3995ffddbc",
-      "title": "Peripheral neuroimmune dialogues underlying pain states",
-      "link": "https://www.nature.com/articles/s41577-026-01363-6",
-      "journal": "Nature Reviews Immunology",
-      "category": "Review Article",
-      "authors": "Peter M. Grace, Annina B. Schmid, Arkady Khoutorsky, Thiago M. Cunha, Camilla I. Svensson",
-      "summary": "Nature Reviews Immunology, Published online: 02 November 2026; doi:10.1038/s41577-026-01363-6 This Review explores how neuroimmune crosstalk shapes pain responses. The authors describe the interactions between nociceptors and immune cells across different anatomical sites and discuss emerging therapeutic strategies…",
-      "date": "2026-11-02T00:00:00Z",
-      "date_display": "2 Nov 2026"
-    },
-    {
       "id": "0df9350210",
       "title": "Advisory Board and Contents",
       "link": "https://www.cell.com/trends/immunology/fulltext/S1471-4906(26)00303-0?rss=yes",
@@ -1047,17 +1091,6 @@
       "date_display": "30 Oct 2026"
     },
     {
-      "id": "acee5ce5c6",
-      "title": "Th2 cell-mediated ferroptosis as a driver of sebaceous gland dysfunction in atopic dermatitis",
-      "link": "https://www.nature.com/articles/s41423-026-01477-w",
-      "journal": "Cellular and Molecular Immunology",
-      "category": "Original Article",
-      "authors": "Xiaoyu Gu, Yi He, Zhichen Li, Xuan Yang, Xinquan Wang, Minxue Shen, Yi Xiao, Christos C. Zouboulis, Hong Liu, Xiang Chen, Juan Su",
-      "summary": "Cellular & Molecular Immunology, Published online: 29 October 2026; doi:10.1038/s41423-026-01477-w Th2 cell-mediated ferroptosis as a driver of sebaceous gland dysfunction in atopic dermatitis",
-      "date": "2026-10-29T00:00:00Z",
-      "date_display": "29 Oct 2026"
-    },
-    {
       "id": "6e1dcb1319",
       "title": "Growth factor VEGF-B sustains intestinal Tfh cell stemness to restrict Taurinivorans outgrowth and microbiota-driven obesity",
       "link": "https://www.cell.com/immunity/fulltext/S1074-7613(26)00430-9?rss=yes",
@@ -1113,17 +1146,6 @@
       "date_display": "29 Oct 2026"
     },
     {
-      "id": "ae57315651",
-      "title": "Macrophage biology and immunoregulation in health and disease",
-      "link": "https://www.nature.com/articles/s41423-026-01486-9",
-      "journal": "Cellular and Molecular Immunology",
-      "category": "Original Article",
-      "authors": "Haoxin Zhao, Yi-Ju Chou, Stanley Ching-Cheng Huang",
-      "summary": "Cellular & Molecular Immunology, Published online: 28 October 2026; doi:10.1038/s41423-026-01486-9 Macrophage biology and immunoregulation in health and disease",
-      "date": "2026-10-28T00:00:00Z",
-      "date_display": "28 Oct 2026"
-    },
-    {
       "id": "93bfea0219",
       "title": "PD-L1 expression in germinal centers promotes humoral immunity by restricting T follicular regulatory cell differentiation",
       "link": "https://www.cell.com/immunity/fulltext/S1074-7613(26)00414-0?rss=yes",
@@ -1144,17 +1166,6 @@
       "summary": "Bispecific PD-L1×4-1BB antibodies under clinical development enhance antitumor T cell responses. Luri-Rey et al. find that the efficacy of PD-L1×4-1BB antibodies relies on PD-L1-expressing type 1 conventional dendritic cells, which integrate antigen cross-presentation, IL-12, and 4-1BB costimulation to promote…",
       "date": "2026-10-28T00:00:00Z",
       "date_display": "28 Oct 2026"
-    },
-    {
-      "id": "d530003385",
-      "title": "Designing a tumor landscape-modifying vaccine with a unique TLR2/6 agonist for refractory pancreatic cancer",
-      "link": "https://www.nature.com/articles/s41423-026-01480-1",
-      "journal": "Cellular and Molecular Immunology",
-      "category": "Original Article",
-      "authors": "Seongmin Cho, Hyeong Yun Kim, Nayoung Kim, Joohee Park, Seonghoon Kim, Ee Chan Song, Hyun Seo Lee, Uijoo Kim, Hamin Ban, Sunkyo Hwang, Jeongwon Mun, Eunhye Kwon, Yoonju Do, Hyo…",
-      "summary": "Cellular & Molecular Immunology, Published online: 27 October 2026; doi:10.1038/s41423-026-01480-1 Designing a tumor landscape-modifying vaccine with a unique TLR2/6 agonist for refractory pancreatic cancer",
-      "date": "2026-10-27T00:00:00Z",
-      "date_display": "27 Oct 2026"
     },
     {
       "id": "89fb2eccb6",
@@ -1309,17 +1320,6 @@
       "summary": "Cancer Cell 36, 123–138.e1–e10; August 12, 2019",
       "date": "2026-10-19T00:00:00Z",
       "date_display": "19 Oct 2026"
-    },
-    {
-      "id": "731e541b69",
-      "title": "Embracing macrophage complexity for research and translation",
-      "link": "https://www.cell.com/immunity/fulltext/S1074-7613(26)00390-0?rss=yes",
-      "journal": "Immunity",
-      "category": "Original Article",
-      "authors": "Florent Ginhoux, Kevin Mulder, Sebastian Arcila-Barrera, Ido Amit",
-      "summary": "Ginhoux, Mulder, Arcila-Barrera, and Amit argue that macrophage identity is best understood not as a set of discrete subsets or a binary M1/M2 axis but as combinations of modular gene programs. They propose an extensible, program-based classification of macrophage states and discuss how it reframes macrophage-directed…",
-      "date": "2026-10-16T00:00:00Z",
-      "date_display": "16 Oct 2026"
     }
   ]
 }
