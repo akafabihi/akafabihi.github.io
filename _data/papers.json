@@ -1,6 +1,50 @@
 {
-  "updated": "2026-11-24T16:38:16Z",
+  "updated": "2026-11-25T16:20:48Z",
   "papers": [
+    {
+      "id": "03f474382a",
+      "title": "Author Correction: An IFNγ-dependent immune–endocrine circuit lowers blood glucose to potentiate the innate antiviral immune response",
+      "link": "https://www.nature.com/articles/s41590-026-02757-3",
+      "journal": "Nature Immunology",
+      "category": "Original Article",
+      "authors": "Marko Šestan, Sanja Mikašinović, Ante Benić, Stephan Wueest, Christoforos Dimitropoulos, Karlo Mladenić, Mia Krapić, Lea Hiršl, Yossef Glantzspiegel, Ana Rasteiro, Maria…",
+      "summary": "Nature Immunology, Published online: 25 November 2026; doi:10.1038/s41590-026-02757-3 Author Correction: An IFNγ-dependent immune–endocrine circuit lowers blood glucose to potentiate the innate antiviral immune response",
+      "date": "2026-11-25T00:00:00Z",
+      "date_display": "25 Nov 2026"
+    },
+    {
+      "id": "3aabc1af00",
+      "title": "Metabolic memory in adipose tissue",
+      "link": "https://www.nature.com/articles/s42255-026-01665-y",
+      "journal": "Nature Metabolism",
+      "category": "Original Article",
+      "authors": "Olga T. Gupta, Rana K. Gupta",
+      "summary": "Nature Metabolism, Published online: 25 November 2026; doi:10.1038/s42255-026-01665-y Adipose tissue could encode a molecular memory of past physiological states, with lasting consequences for future metabolic adaptation. This Perspective examines evidence for adipose memory and its implications for obesity, weight…",
+      "date": "2026-11-25T00:00:00Z",
+      "date_display": "25 Nov 2026"
+    },
+    {
+      "id": "694180cf96",
+      "title": "Harnessing interconnected regulated cell death programs to prime antitumor immunity for immune checkpoint blockade",
+      "link": "https://www.nature.com/articles/s41423-026-01495-8",
+      "journal": "Cellular and Molecular Immunology",
+      "category": "Original Article",
+      "authors": "Gongzheng Qiu, Youyong Tang, Hao Chen, Feng Tian, Zhengjun Zhang, Guangrui Chen, Zecheng Li, Tingbo Ma, Leping Li, Wei Chong, Zhe-Sheng Chen, Changqing Jing",
+      "summary": "Cellular & Molecular Immunology, Published online: 25 November 2026; doi:10.1038/s41423-026-01495-8 Harnessing interconnected regulated cell death programs to prime antitumor immunity for immune checkpoint blockade",
+      "date": "2026-11-25T00:00:00Z",
+      "date_display": "25 Nov 2026"
+    },
+    {
+      "id": "b348c96dc5",
+      "title": "A humoral misunderstanding",
+      "link": "https://www.nature.com/articles/s41568-026-01004-z",
+      "journal": "Nature Reviews Cancer",
+      "category": "Review Article",
+      "authors": "Gabrielle Brewer",
+      "summary": "Nature Reviews Cancer, Published online: 25 November 2026; doi:10.1038/s41568-026-01004-z Tumour-infiltrating B cells can generate antibodies against tumour-associated antigens, including intracellular proteins. Liu et al. identify a subset of secreted intracellular antigens that elicit humoral responses and promote…",
+      "date": "2026-11-25T00:00:00Z",
+      "date_display": "25 Nov 2026"
+    },
     {
       "id": "8d20710262",
       "title": "Progressive SLAMF7 downregulation is associated with terminal CD8 T-cell exhaustion and aggressive disease in renal cell carcinoma",
@@ -31,6 +75,17 @@
       "category": "Original Article",
       "authors": "Yun Xing, Pengyuan Zhao, Huankai Shou, Yifan Guo, Zhiqiang Wang, Jingbo Qie, Baichao Yu, Zhou Lu, Yuchen Zhang, Peng Chen, Yawei Wang, Mengxia Jiao, Kameina Zhuma, Zihe Pan, Luman…",
       "summary": "Cellular & Molecular Immunology, Published online: 24 November 2026; doi:10.1038/s41423-026-01484-x Lactate-induced PRDX1 lactylation increases the number of IgA plasma cells to confer exercise-mimicking protection against IBD",
+      "date": "2026-11-24T00:00:00Z",
+      "date_display": "24 Nov 2026"
+    },
+    {
+      "id": "b05d378c4d",
+      "title": "Primary Mediastinal Large B-cell Lymphoma Genomic Profiling Demonstrates Thymic B-cell Identity and Frequent Aberrant Somatic Hypermutation",
+      "link": "https://aacrjournals.org/cancerrescommun/article/6/11/2728/790121/Primary-Mediastinal-Large-B-cell-Lymphoma-Genomic",
+      "journal": "Cancer Research",
+      "category": "Original Article",
+      "authors": "Rebecca J. Leeman-Neill, Leonardo P.A. Biral, Devang Thakkar, Chee Leong Cheng, Shin Yeu Ong, Sarah L. Ondrejka, Eric Hsi, Jean L. Koff, David L. Jaye, Matthew S. McKinney, Chad…",
+      "summary": "Abstract Primary mediastinal large B-cell lymphoma (PMBL) is a subtype of non–Hodgkin B-cell lymphoma (B-NHL) that most frequently occurs in young adults and is thought to reflect neoplastic transformation of thymic medullary B cells. We characterized 59 PMBL cases from the Atlas of Blood Cancer Genomes Project. The…",
       "date": "2026-11-24T00:00:00Z",
       "date_display": "24 Nov 2026"
     },
@@ -119,17 +174,6 @@
       "category": "Original Article",
       "authors": "Martina Musella, Andrea Guarracino, Nicoletta Manduca, Claudia Galassi, Eliana Ruggiero, Alessia Potenza, Ester Maccafeo, Gwenola Manic, Luca Mattiello, Sara Soliman Abdel Rehim…",
       "summary": "Nature Immunology, Published online: 23 November 2026; doi:10.1038/s41590-026-02756-4 Author Correction: Type I IFNs promote cancer cell stemness by triggering the epigenetic regulator KDM1B",
-      "date": "2026-11-23T00:00:00Z",
-      "date_display": "23 Nov 2026"
-    },
-    {
-      "id": "5afd8716e5",
-      "title": "New horizons of mRNA vaccines",
-      "link": "https://www.nature.com/articles/s41590-026-02688-z",
-      "journal": "Nature Immunology",
-      "category": "Original Article",
-      "authors": "Michael J. Hogan, Norbert Pardi",
-      "summary": "Nature Immunology, Published online: 23 November 2026; doi:10.1038/s41590-026-02688-z This Comment highlights the innovations behind mRNA vaccine success, reviews recent advances and discusses limitations across RNA vaccine platforms and potential strategies to overcome them.",
       "date": "2026-11-23T00:00:00Z",
       "date_display": "23 Nov 2026"
     },
@@ -464,17 +508,6 @@
       "date_display": "13 Nov 2026"
     },
     {
-      "id": "d3988e67c8",
-      "title": "Rare GLP1R variants diminish the weight loss effect of semaglutide but not of tirzepatide",
-      "link": "https://www.nature.com/articles/s42255-026-01661-2",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "",
-      "summary": "Nature Metabolism, Published online: 13 November 2026; doi:10.1038/s42255-026-01661-2 In a large, real-world genomic study, rare damaging variants in the gene encoding the glucagon-like peptide 1 (GLP1) receptor blunted weight loss in people taking semaglutide but had no significant effect on weight loss with…",
-      "date": "2026-11-13T00:00:00Z",
-      "date_display": "13 Nov 2026"
-    },
-    {
       "id": "9a5115fb81",
       "title": "Dendritic cell metabolism in cancer and immunity",
       "link": "https://www.nature.com/articles/s41577-026-01368-1",
@@ -790,17 +823,6 @@
       "category": "Original Article",
       "authors": "Radhika Iyer, Amy Y. Tang, Deyu Fang",
       "summary": "Cellular & Molecular Immunology, Published online: 04 November 2026; doi:10.1038/s41423-026-01487-8 Deubiquitinases at the crossroads of T-cell immunity and tumor immune evasion",
-      "date": "2026-11-04T00:00:00Z",
-      "date_display": "4 Nov 2026"
-    },
-    {
-      "id": "eb63eb8418",
-      "title": "T-cell immunity in anti-tumor battle",
-      "link": "https://www.nature.com/articles/s41423-026-01483-y",
-      "journal": "Cellular and Molecular Immunology",
-      "category": "Original Article",
-      "authors": "Yingquan Qin, Kepeng Yan, Dongyang Li, Jinfeng Zhang, Zongshuo Guo, Yan Zhang, Wei Lu",
-      "summary": "Cellular & Molecular Immunology, Published online: 04 November 2026; doi:10.1038/s41423-026-01483-y T-cell immunity in anti-tumor battle",
       "date": "2026-11-04T00:00:00Z",
       "date_display": "4 Nov 2026"
     },
@@ -1278,17 +1300,6 @@
       "date_display": "22 Oct 2026"
     },
     {
-      "id": "db5bdf6c5a",
-      "title": "Hit the pause button",
-      "link": "https://www.nature.com/articles/s41568-026-00995-z",
-      "journal": "Nature Reviews Cancer",
-      "category": "Review Article",
-      "authors": "Daniela Senft",
-      "summary": "Nature Reviews Cancer, Published online: 22 October 2026; doi:10.1038/s41568-026-00995-z In a recent study, García-Gómez et al. identify an adaptive proliferative pause program that supports the survival of micrometastatic cells during early brain colonization and uncover therapeutic opportunities to target this state.",
-      "date": "2026-10-22T00:00:00Z",
-      "date_display": "22 Oct 2026"
-    },
-    {
       "id": "906362240b",
       "title": "Weight loss during intermittent fasting, not Mediterranean diet quality alone, is associated with lower inflammation: A randomized controlled trial",
       "link": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00392-X?rss=yes",
@@ -1309,17 +1320,6 @@
       "summary": "Li et al. demonstrate that propionate enhances tumor major histocompatibility complex class I (MHC class I) antigen presentation by binding the E3 ligase STUB1 and blocking MHC class I ubiquitination and degradation. This non-metabolic function of propionate promotes CD8+ T cell immunity and enhances anti-PD-1…",
       "date": "2026-10-21T00:00:00Z",
       "date_display": "21 Oct 2026"
-    },
-    {
-      "id": "b9cec9e334",
-      "title": "Mechanisms of Progression of Myeloid Preleukemia to Transformed Myeloid Leukemia in Children with Down Syndrome",
-      "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00474-5?rss=yes",
-      "journal": "Cancer Cell",
-      "category": "Original Article",
-      "authors": "Maurice Labuhn, Kelly Perkins, Sören Matzk, Leila Varghese, Catherine Garnett, Elli Papaemmanuil, Marlen Metzner, Alison Kennedy, Vyacheslav Amstislavskiy, Thomas Risch, Raj…",
-      "summary": "Cancer Cell 36, 123–138.e1–e10; August 12, 2019",
-      "date": "2026-10-19T00:00:00Z",
-      "date_display": "19 Oct 2026"
     }
   ]
 }
