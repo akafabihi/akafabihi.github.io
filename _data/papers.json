@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T16:20:48Z",
+  "updated": "2026-11-26T15:55:20Z",
   "papers": [
     {
       "id": "03f474382a",
@@ -35,6 +35,39 @@
       "date_display": "25 Nov 2026"
     },
     {
+      "id": "1205ed63c4",
+      "title": "Combination Therapy with AKT and MEK Inhibitors Is Effective in Patient-Derived Models of Adrenocortical Carcinoma",
+      "link": "https://aacrjournals.org/cancerrescommun/article/6/11/2740/790161/Combination-Therapy-with-AKT-and-MEK-Inhibitors-Is",
+      "journal": "Cancer Research",
+      "category": "Original Article",
+      "authors": "Suresh Kumar, Yoo Sun Kim, Nai-Yun Sun, George Karadimov, Yasuhiro Arakawa, Briana N. Cortez, Diana Varghese, Arnulfo Mendoza, Katja Kiseljak-Vassiliades, Margaret E. Wierman…",
+      "summary": "Abstract Adrenocortical carcinoma (ACC) is a rare, aggressive, chemoresistant malignancy with limited effective systemic therapies and few recurrent actionable oncogenic drivers. Although insulin-like growth factor 2 (IGF-2) is overexpressed in approximately 80% of ACCs, clinical inhibition of the insulin-like growth…",
+      "date": "2026-11-25T00:00:00Z",
+      "date_display": "25 Nov 2026"
+    },
+    {
+      "id": "44477641fb",
+      "title": "I like the way you MoVe",
+      "link": "https://www.nature.com/articles/s41568-026-01006-x",
+      "journal": "Nature Reviews Cancer",
+      "category": "Review Article",
+      "authors": "Anna Dart",
+      "summary": "Nature Reviews Cancer, Published online: 25 November 2026; doi:10.1038/s41568-026-01006-x Tsering et al. identify a previously undocumented population of large extracellular vesicles (2–5 μm), which they term motile vesicles (MoVes), that are actively emitted during cancer cell migration and contain genomic DNA.",
+      "date": "2026-11-25T00:00:00Z",
+      "date_display": "25 Nov 2026"
+    },
+    {
+      "id": "e9ee2f5762",
+      "title": "Early-onset colorectal cancer differences",
+      "link": "https://www.nature.com/articles/s41568-026-01007-w",
+      "journal": "Nature Reviews Cancer",
+      "category": "Review Article",
+      "authors": "Anna Dart",
+      "summary": "Nature Reviews Cancer, Published online: 25 November 2026; doi:10.1038/s41568-026-01007-w Porter et al. establish a single-nucleus RNA sequencing atlas from 189 primary colorectal tumours from across 8 decades of life to begin to address the possible biological divergence between early-onset colorectal cancers and…",
+      "date": "2026-11-25T00:00:00Z",
+      "date_display": "25 Nov 2026"
+    },
+    {
       "id": "b348c96dc5",
       "title": "A humoral misunderstanding",
       "link": "https://www.nature.com/articles/s41568-026-01004-z",
@@ -42,6 +75,17 @@
       "category": "Review Article",
       "authors": "Gabrielle Brewer",
       "summary": "Nature Reviews Cancer, Published online: 25 November 2026; doi:10.1038/s41568-026-01004-z Tumour-infiltrating B cells can generate antibodies against tumour-associated antigens, including intracellular proteins. Liu et al. identify a subset of secreted intracellular antigens that elicit humoral responses and promote…",
+      "date": "2026-11-25T00:00:00Z",
+      "date_display": "25 Nov 2026"
+    },
+    {
+      "id": "9992b0decb",
+      "title": "Spiny mice as a model for uncovering tumour-resistance mechanisms",
+      "link": "https://www.nature.com/articles/s41568-026-01002-1",
+      "journal": "Nature Reviews Cancer",
+      "category": "Review Article",
+      "authors": "Gustavo Tiscornia, Ashley W. Seifert, Wolfgang Link",
+      "summary": "Nature Reviews Cancer, Published online: 25 November 2026; doi:10.1038/s41568-026-01002-1 Spiny mice have emerged as a mammalian model of enhanced regeneration with a remarkably low incidence of cancer, challenging the conventional view that increased proliferation necessarily elevates cancer risk. In this Comment…",
       "date": "2026-11-25T00:00:00Z",
       "date_display": "25 Nov 2026"
     },
@@ -794,17 +838,6 @@
       "date_display": "6 Nov 2026"
     },
     {
-      "id": "29aa703910",
-      "title": "Origins and heterogeneity of colorectal cancer",
-      "link": "https://www.nature.com/articles/s41568-026-00988-y",
-      "journal": "Nature Reviews Cancer",
-      "category": "Review Article",
-      "authors": "Nathalie Sphyris, Nadia Nasreddin, Simon J. Leedham, Owen J. Sansom",
-      "summary": "Nature Reviews Cancer, Published online: 06 November 2026; doi:10.1038/s41568-026-00988-y This Review by Sphyris et al. discusses how the cell-of-origin determines the route of colorectal carcinogenesis and how phenotypic plasticity and heterogeneity shape tumour evolution, disease recurrence, metastatic competence…",
-      "date": "2026-11-06T00:00:00Z",
-      "date_display": "6 Nov 2026"
-    },
-    {
       "id": "cf20ffff9b",
       "title": "Cancer Cell CD73 Loss Promotes a Dual Inflammatory and Immunosuppressive Microenvironment in Endometrial Carcinoma",
       "link": "https://aacrjournals.org/cancerrescommun/article/6/11/2602/789844/Cancer-Cell-CD73-Loss-Promotes-a-Dual-Inflammatory",
@@ -834,17 +867,6 @@
       "category": "Original Article",
       "authors": "Irene M. Briata, Alessio Carbone, Sebastian Foersch, Katrin E. Tagscherer, Wilfried Roth, Dominique Scherer, Tania Buttiron Webber, Matteo Clavarezza, Jürgen Burhenne, Martino…",
       "summary": "Abstract Purpose: Aspirin (Asa) and metformin (Met) have shown preventive efficacy in colorectal cancer. Preclinical data suggest convergence on NF-κB/PI3K–mTOR signaling and potential synergy. The ASAMET phase II trial tested this hypothesis in patients with resected stage I to III colorectal cancer. Patients and…",
-      "date": "2026-11-04T00:00:00Z",
-      "date_display": "4 Nov 2026"
-    },
-    {
-      "id": "070db42f0d",
-      "title": "Astrocytes drive stroke-induced glioma progression",
-      "link": "https://www.nature.com/articles/s41568-026-01000-3",
-      "journal": "Nature Reviews Cancer",
-      "category": "Review Article",
-      "authors": "Anna Dart",
-      "summary": "Nature Reviews Cancer, Published online: 04 November 2026; doi:10.1038/s41568-026-01000-3 Ye et al. show that ischaemic stroke can drive glioma progression through microenvironmental remodelling of tumour-associated astrocytes.",
       "date": "2026-11-04T00:00:00Z",
       "date_display": "4 Nov 2026"
     },
@@ -1212,17 +1234,6 @@
       "date_display": "26 Oct 2026"
     },
     {
-      "id": "5b7449c8c4",
-      "title": "Single-cell tumour phylogenetics",
-      "link": "https://www.nature.com/articles/s41568-026-00992-2",
-      "journal": "Nature Reviews Cancer",
-      "category": "Review Article",
-      "authors": "Johannes Gawron, Jack Kuipers, Ang Li, Benjamin J. Raphael, Florian Markowetz, Niko Beerenwinkel",
-      "summary": "Nature Reviews Cancer, Published online: 26 October 2026; doi:10.1038/s41568-026-00992-2 Single-cell sequencing has transformed the study of tumour evolution by enabling high-resolution reconstruction of cancer phylogenies. This Review discusses the models, assumptions and computational approaches underlying…",
-      "date": "2026-10-26T00:00:00Z",
-      "date_display": "26 Oct 2026"
-    },
-    {
       "id": "e30f2ce1b5",
       "title": "The neoantigen quality model: Is closer to self more non-self?",
       "link": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00432-0?rss=yes",
@@ -1307,17 +1318,6 @@
       "category": "Original Article",
       "authors": "Moritz V. Warmbrunn, Valeria Tosti, Raaj Kishore Biswas, Beatrice Bertozzi, Maria Lastra Cagigas, Nicola Veronese, Francesco Spelta, Laura Piccio, Richard D. Head, Richard R…",
       "summary": "Warmbrunn et al. show that in a 16-week, two-phase controlled-feeding trial of 53 adults, Mediterranean diet quality alone improved lipids but not inflammation. Only once intermittent fasting was added did inflammation decrease; thus, in this setting, weight loss and negative energy balance, not diet quality by…",
-      "date": "2026-10-21T00:00:00Z",
-      "date_display": "21 Oct 2026"
-    },
-    {
-      "id": "25d0ae328e",
-      "title": "Propionate promotes MHC class I antigen presentation and anti-tumor immunity",
-      "link": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00393-1?rss=yes",
-      "journal": "Cell Metabolism",
-      "category": "Original Article",
-      "authors": "Suyao Li, Dong Guo, Qingqing Yang, Yizhi Cao, Yu Dong, Xiaoming Jiang, Xinyao Tian, Dou Nie, Lihui Wu, Qingang Wu, Xuxiao He, Yanyan Hu, Rongxuan Zhu, Ning Zhu, Shudi Luo, Yinan…",
-      "summary": "Li et al. demonstrate that propionate enhances tumor major histocompatibility complex class I (MHC class I) antigen presentation by binding the E3 ligase STUB1 and blocking MHC class I ubiquitination and degradation. This non-metabolic function of propionate promotes CD8+ T cell immunity and enhances anti-PD-1…",
       "date": "2026-10-21T00:00:00Z",
       "date_display": "21 Oct 2026"
     }
