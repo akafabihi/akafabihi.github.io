@@ -1,6 +1,94 @@
 {
-  "updated": "2026-11-26T15:55:20Z",
+  "updated": "2026-11-27T15:44:04Z",
   "papers": [
+    {
+      "id": "d0c9ddee6f",
+      "title": "Immunotherapy response in TLS-positive solid tumors treated with regorafenib plus avelumab: the prospective, multicenter, open-label, phase 2 REGOMUNE trial",
+      "link": "https://www.nature.com/articles/s43018-026-01275-3",
+      "journal": "Nature Cancer",
+      "category": "Original Article",
+      "authors": "Sophie Cousin, Jean-Philippe Guegan, Simon Haefliger, Carine Bellera, Jean-Philippe Metges, Antoine Adenis, Rastilav Bahleda, Philippe Cassier, Fanny Bouteiller, Xavier Buy, Jean…",
+      "summary": "Nature Cancer, Published online: 27 November 2026; doi:10.1038/s43018-026-01275-3 In this REGOMUNE phase 2 trial, Italiano and colleagues evaluated the efficacy of avelumab in combination with regorafenib in patients with advanced solid tumors exhibiting TLSs.",
+      "date": "2026-11-27T00:00:00Z",
+      "date_display": "27 Nov 2026"
+    },
+    {
+      "id": "729239c67a",
+      "title": "First-in-human results of NKT2152 monotherapy, an oral HIF-2α inhibitor, in advanced clear cell renal cell carcinoma: an open-label, multicenter, phase 1/2 study",
+      "link": "https://www.nature.com/articles/s43018-026-01282-4",
+      "journal": "Nature Cancer",
+      "category": "Original Article",
+      "authors": "Toni K. Choueiri, Wenxin Xu, Pavlos Msaouel, Theodore Logan, Evan Hall, Ralph Hauke, Mehmet A. Bilen, Yousef Zakharia, Gerald Falchook, Michael Gordon, Brian Shuch, Christopher W…",
+      "summary": "Nature Cancer, Published online: 27 November 2026; doi:10.1038/s43018-026-01282-4 In this study, Choueiri et al. evaluated NKT2152 in a first-in-human phase 1/2 trial in advanced clear cell renal cell carcinoma, assessing safety, pharmacokinetics and preliminary antitumor activity while identifying optimal dosing…",
+      "date": "2026-11-27T00:00:00Z",
+      "date_display": "27 Nov 2026"
+    },
+    {
+      "id": "025a50072f",
+      "title": "Author Correction: Prefibrotic bone marrow microenvironment is a hallmark of clonal hematopoiesis",
+      "link": "https://www.nature.com/articles/s41590-026-02759-1",
+      "journal": "Nature Immunology",
+      "category": "Original Article",
+      "authors": "Alicia G. Aguilar-Navarro, Gibran Edun, Mark Gower, Joan Kant, Ximing Li, Dustin Yang, Mursal Nader, Minerva Fernandez, Soheil Jahangiri, Emily Tsao, Pratik Joshi, Pathum…",
+      "summary": "Nature Immunology, Published online: 27 November 2026; doi:10.1038/s41590-026-02759-1 Author Correction: Prefibrotic bone marrow microenvironment is a hallmark of clonal hematopoiesis",
+      "date": "2026-11-27T00:00:00Z",
+      "date_display": "27 Nov 2026"
+    },
+    {
+      "id": "2942d61cb2",
+      "title": "Age-dependent progenitor switching shapes adult brown adipose tissue heterogeneity",
+      "link": "https://www.nature.com/articles/s42255-026-01669-8",
+      "journal": "Nature Metabolism",
+      "category": "Original Article",
+      "authors": "Chenxin Gu, Zengdi Zhang, Shaolei Xiong, Jiawen Ma, Zuoxiao Shi, Zan Huang, Sunhye Shin, Xuechun Chang, Zihao Wang, Aneesh Swaminathan, Ifrah Aden, Zahra Moazzami, Xiaoli Sky Wu…",
+      "summary": "Nature Metabolism, Published online: 27 November 2026; doi:10.1038/s42255-026-01669-8 While Pdgfra+ progenitors shape brown adipose tissue in early life, a distinct population of Myl1+ progenitors predominantly differentiates into brown adipocytes in BAT of adult and middle-aged mice and modulates systemic glucose…",
+      "date": "2026-11-27T00:00:00Z",
+      "date_display": "27 Nov 2026"
+    },
+    {
+      "id": "5ea02cc037",
+      "title": "The immune system reads and remembers the nutritional environment",
+      "link": "https://www.nature.com/articles/s41577-026-01383-2",
+      "journal": "Nature Reviews Immunology",
+      "category": "Review Article",
+      "authors": "John M. Tayeri, Sagar P. Bapat",
+      "summary": "Nature Reviews Immunology, Published online: 27 November 2026; doi:10.1038/s41577-026-01383-2 Nutritional conditions shape ongoing immune responses and can influence responses to later challenges, even after those conditions have changed. Understanding which dietary exposures have lasting effects, and how such effects…",
+      "date": "2026-11-27T00:00:00Z",
+      "date_display": "27 Nov 2026"
+    },
+    {
+      "id": "45159d2ddf",
+      "title": "Programmable immunity: Logic-gated CAR T cells for precision cancer therapy",
+      "link": "https://www.nature.com/articles/s41568-026-00994-0",
+      "journal": "Nature Reviews Cancer",
+      "category": "Review Article",
+      "authors": "Maxwell G. Foisey, Sarah Wyman, Kole T. Roybal",
+      "summary": "Nature Reviews Cancer, Published online: 27 November 2026; doi:10.1038/s41568-026-00994-0 Logic-gated CAR T cell therapies utilize Boolean logic to improve the precision and control of antitumour immune responses. In this Review, Foisey, Wyman and Roybal discuss logic-gated CAR T cell design principles, evaluate…",
+      "date": "2026-11-27T00:00:00Z",
+      "date_display": "27 Nov 2026"
+    },
+    {
+      "id": "0452b2ac9a",
+      "title": "Author Correction: NUFIP1 integrates amino acid sensing and DNA damage response to maintain the intestinal homeostasis",
+      "link": "https://www.nature.com/articles/s42255-026-01681-y",
+      "journal": "Nature Metabolism",
+      "category": "Original Article",
+      "authors": "Hui Ming, Jing Tan, Si-Yi Cao, Cheng-Ping Yu, Yu-Ting Qi, Chao Wang, Lei Zhang, Ying Liu, Jian Yuan, Miao Yin, Qun-Ying Lei",
+      "summary": "Nature Metabolism, Published online: 26 November 2026; doi:10.1038/s42255-026-01681-y Author Correction: NUFIP1 integrates amino acid sensing and DNA damage response to maintain the intestinal homeostasis",
+      "date": "2026-11-26T00:00:00Z",
+      "date_display": "26 Nov 2026"
+    },
+    {
+      "id": "c10bc99f81",
+      "title": "Author Correction: The hepatic clock synergizes with HIF-1α to regulate nucleotide availability during liver damage repair",
+      "link": "https://www.nature.com/articles/s42255-026-01686-7",
+      "journal": "Nature Metabolism",
+      "category": "Original Article",
+      "authors": "Linyuan Peng, Siliang Xiang, Tianzhi Wang, Mei Yang, Yajun Duan, Xiaoyu Ma, Su Li, Cong Yu, Xin Zhang, Haiyang Hu, Zuojun Liu, Jie Sun, Chunmeng Sun, Chen Wang, Baohua Liu…",
+      "summary": "Nature Metabolism, Published online: 26 November 2026; doi:10.1038/s42255-026-01686-7 Author Correction: The hepatic clock synergizes with HIF-1α to regulate nucleotide availability during liver damage repair",
+      "date": "2026-11-26T00:00:00Z",
+      "date_display": "26 Nov 2026"
+    },
     {
       "id": "03f474382a",
       "title": "Author Correction: An IFNγ-dependent immune–endocrine circuit lowers blood glucose to potentiate the innate antiviral immune response",
@@ -207,17 +295,6 @@
       "category": "Original Article",
       "authors": "",
       "summary": "Nature Immunology, Published online: 23 November 2026; doi:10.1038/s41590-026-02725-x The COVID-19 pandemic highlighted the success of vaccine development, but more improvements in vaccine design, equity, manufacturing and changes in public health policy are warranted.",
-      "date": "2026-11-23T00:00:00Z",
-      "date_display": "23 Nov 2026"
-    },
-    {
-      "id": "c3cd948311",
-      "title": "Author Correction: Type I IFNs promote cancer cell stemness by triggering the epigenetic regulator KDM1B",
-      "link": "https://www.nature.com/articles/s41590-026-02756-4",
-      "journal": "Nature Immunology",
-      "category": "Original Article",
-      "authors": "Martina Musella, Andrea Guarracino, Nicoletta Manduca, Claudia Galassi, Eliana Ruggiero, Alessia Potenza, Ester Maccafeo, Gwenola Manic, Luca Mattiello, Sara Soliman Abdel Rehim…",
-      "summary": "Nature Immunology, Published online: 23 November 2026; doi:10.1038/s41590-026-02756-4 Author Correction: Type I IFNs promote cancer cell stemness by triggering the epigenetic regulator KDM1B",
       "date": "2026-11-23T00:00:00Z",
       "date_display": "23 Nov 2026"
     },
@@ -453,17 +530,6 @@
       "date_display": "17 Nov 2026"
     },
     {
-      "id": "ea510b46a4",
-      "title": "Hyperandrogenism drives pathogenic adipocyte differentiation to promote insulin resistance in PMOS",
-      "link": "https://www.nature.com/articles/s42255-026-01654-1",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "Gengchen Feng, Yi Dong, Xin Huang, Yonghui Jiang, Huangcong Shi, Teng Liu, Zihe Zhao, Ziyi Yang, Xueying Gao, Daimin Wei, Lei Yan, Yingying Qin, Shaozhuang Liu, Shumin Li, Han…",
-      "summary": "Nature Metabolism, Published online: 17 November 2026; doi:10.1038/s42255-026-01654-1 A preadipocyte subpopulation is expanded in women with PMOS, and hyperandrogenism promotes its aberrant differentiation towards a disease-associated adipocyte state that contributes to insulin resistance.",
-      "date": "2026-11-17T00:00:00Z",
-      "date_display": "17 Nov 2026"
-    },
-    {
       "id": "83e5f438fb",
       "title": "A Practical Guide to Choosing Multiple-Comparison Tests for Efficacy Analysis in Small-Sample Patient-Derived Xenograft Studies",
       "link": "https://aacrjournals.org/cancerrescommun/article/6/11/2669/789981/A-Practical-Guide-to-Choosing-Multiple-Comparison",
@@ -484,17 +550,6 @@
       "summary": "Nature Reviews Immunology, Published online: 17 November 2026; doi:10.1038/s41577-026-01367-2 This Review discusses the different strategies microbial pathogens use to target inhibitory immune receptors. By exploiting inhibitory immune receptors, microbes can promote cell entry, suppress innate and adaptive immune…",
       "date": "2026-11-17T00:00:00Z",
       "date_display": "17 Nov 2026"
-    },
-    {
-      "id": "520e7b5670",
-      "title": "Plasma proteomics identifies insulin resistance signatures predictive of cardiometabolic disease risk",
-      "link": "https://www.nature.com/articles/s42255-026-01662-1",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "Jeppe Kjærgaard, Nigel Kurgan, Justus F. Gräf, Naixin Zhang, Zhe Wang, Mafalda Da Cruz Custódio, Farina Schlabs, Paola Pisano, Lisa Ottander, Maria Houborg Petersen, Martin…",
-      "summary": "Nature Metabolism, Published online: 16 November 2026; doi:10.1038/s42255-026-01662-1 Integration of deep plasma proteomics with hyperinsulinaemic–euglycaemic clamp measurements enables the generation of a tissue-resolved molecular atlas of insulin resistance. A model derived from these signatures outperforms…",
-      "date": "2026-11-16T00:00:00Z",
-      "date_display": "16 Nov 2026"
     },
     {
       "id": "a58b997a78",
@@ -530,28 +585,6 @@
       "date_display": "13 Nov 2026"
     },
     {
-      "id": "455b0a1840",
-      "title": "The deep learning framework Hist2Prot infers single-cell spatial proteomics from histology to predict biomarkers and clinical outcomes",
-      "link": "https://www.nature.com/articles/s43018-026-01270-8",
-      "journal": "Nature Cancer",
-      "category": "Original Article",
-      "authors": "Jiansong Fan, Sen Yang, Erqiang Hu, Jianhong An, Qiang Liu, Naijia Liu, Mingwei Ma, Michael Prystowsky, Tianxu Lv, Si Yong Yeo, Yuting Ren, Yuan Liu, Lihua Li, Yuan Li, Qi Sun…",
-      "summary": "Nature Cancer, Published online: 13 November 2026; doi:10.1038/s43018-026-01270-8 Fan et al. propose an artificial intelligence model to infer spatial proteomic patterns at the single-cell level from routine hematoxylin and eosin slides to predict molecular biomarkers, prognosis and immunotherapy response in multiple…",
-      "date": "2026-11-13T00:00:00Z",
-      "date_display": "13 Nov 2026"
-    },
-    {
-      "id": "f86cf2bba1",
-      "title": "Diet impacts glucose uptake in BAT thermogenesis",
-      "link": "https://www.nature.com/articles/s42255-026-01658-x",
-      "journal": "Nature Metabolism",
-      "category": "Original Article",
-      "authors": "C. Sean Chung, Jonathan S. Bogan",
-      "summary": "Nature Metabolism, Published online: 13 November 2026; doi:10.1038/s42255-026-01658-x Direct measurements of thermogenic activity in interscapular brown adipose tissue (BAT) reveal that GLUT4-mediated glucose uptake is critical when dietary lipids are low, and that substrates other than glucose can maintain…",
-      "date": "2026-11-13T00:00:00Z",
-      "date_display": "13 Nov 2026"
-    },
-    {
       "id": "9a5115fb81",
       "title": "Dendritic cell metabolism in cancer and immunity",
       "link": "https://www.nature.com/articles/s41577-026-01368-1",
@@ -572,17 +605,6 @@
       "summary": "Nature Reviews Cancer, Published online: 13 November 2026; doi:10.1038/s41568-026-00997-x Antioxidant pathways support tumour growth, metastasis and therapy resistance while protecting cancer cells from ferroptosis. In this Perspective, Navdeep Chandel explores how stage-specific antioxidant dependencies can be…",
       "date": "2026-11-13T00:00:00Z",
       "date_display": "13 Nov 2026"
-    },
-    {
-      "id": "9be65d4afe",
-      "title": "A single-cell lung cancer atlas reveals cellular and molecular drivers of metastasis and clinical outcome",
-      "link": "https://www.nature.com/articles/s43018-026-01260-w",
-      "journal": "Nature Cancer",
-      "category": "Original Article",
-      "authors": "Philipp Jurmeister, Philipp Keyl, Liliana Harris Mochmann, Linda Bergmayr, Konstanze Schleich, Edgar Chimal Calderon, Fabian Engelhardt-Schott, Doreen Klingler, Dražen Papić…",
-      "summary": "Nature Cancer, Published online: 12 November 2026; doi:10.1038/s43018-026-01260-w Jurmeister et al. present a multicenter single-nucleus RNA sequencing atlas of lung cancer combined with spatial transcriptomics and clinical outcomes, delineating cancer–host cell interactions and uncovering tumor subtypes associated…",
-      "date": "2026-11-12T00:00:00Z",
-      "date_display": "12 Nov 2026"
     },
     {
       "id": "c31beea088",
@@ -713,17 +735,6 @@
       "category": "Review Article",
       "authors": "Meredith Crockett, Kelsey Voss",
       "summary": "Nature Reviews Immunology, Published online: 10 November 2026; doi:10.1038/s41577-026-01376-1 A preprint by Schoenfeld et al. investigates the relationship between iron restriction and the function of tumour-infiltrating lymphocytes in pancreatic ductal adenocarcinoma.",
-      "date": "2026-11-10T00:00:00Z",
-      "date_display": "10 Nov 2026"
-    },
-    {
-      "id": "cf9028a403",
-      "title": "3D models to capture and perturb tumour heterogeneity in vitro",
-      "link": "https://www.nature.com/articles/s41568-026-00993-1",
-      "journal": "Nature Reviews Cancer",
-      "category": "Review Article",
-      "authors": "Aleksandra Fomina, Alison P. McGuigan",
-      "summary": "Nature Reviews Cancer, Published online: 10 November 2026; doi:10.1038/s41568-026-00993-1 Tumour heterogeneity drives disease progression yet remains difficult to capture in experimental systems. In this Review, Fomina and McGuigan discuss how emerging 3D tumour models, including organoids, assembloids and…",
       "date": "2026-11-10T00:00:00Z",
       "date_display": "10 Nov 2026"
     },
@@ -955,17 +966,6 @@
       "category": "Original Article",
       "authors": "Quinn Hopen, Samantha Antol, Carly J. Amato, Benjamin C. Duncan, Jonathan T. Busada, Lei Wang, Gangqing Hu, Jennifer Franko",
       "summary": "Abstract Head and neck squamous cell carcinoma (HNSCC) exhibits a strong sex bias. However, the mechanisms underlying this disparity remain unclear. Using the four core genotypes (FCG) mouse model to uncouple gonadal sex from sex chromosome complement influences, we investigated the contributions of sex hormones and…",
-      "date": "2026-11-03T00:00:00Z",
-      "date_display": "3 Nov 2026"
-    },
-    {
-      "id": "af20c63396",
-      "title": "A division of labour for PD-1 ligands",
-      "link": "https://www.nature.com/articles/s41577-026-01372-5",
-      "journal": "Nature Reviews Immunology",
-      "category": "Review Article",
-      "authors": "Bhavya Singh, Nicolas Vabret",
-      "summary": "Nature Reviews Immunology, Published online: 03 November 2026; doi:10.1038/s41577-026-01372-5 A preprint by Nah et al. reports that PD-L1 and PD-L2 on dendritic cells in the tumour versus tumour-draining lymph nodes have spatially regulated effects on the antitumour T cell response.",
       "date": "2026-11-03T00:00:00Z",
       "date_display": "3 Nov 2026"
     },
