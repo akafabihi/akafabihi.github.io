@@ -1,6 +1,28 @@
 {
-  "updated": "2026-11-27T15:44:04Z",
+  "updated": "2026-11-28T14:40:09Z",
   "papers": [
+    {
+      "id": "4d83608a03",
+      "title": "An epithelium-intrinsic zinc sensor maintains gut homeostasis by regulating Paneth and tuft cell differentiation",
+      "link": "https://www.science.org/doi/abs/10.1126/sciimmunol.adv8839?af=R",
+      "journal": "Science Immunology",
+      "category": "Original Article",
+      "authors": "Rebecca Yunker, Geongoo Han, Jorhenis Vasquez, Kellie Baldaro, Li Zhang, Sanghyun Lee, Shipra Vaishnava",
+      "summary": "Science Immunology, Volume 11, Issue 125, November 2026.",
+      "date": "2026-11-27T08:00:00Z",
+      "date_display": "27 Nov 2026"
+    },
+    {
+      "id": "4d73a481df",
+      "title": "ACOD1 counteracts inflammatory programming in intestinal monocyte-derived cells during inflammatory bowel disease",
+      "link": "https://www.science.org/doi/abs/10.1126/sciimmunol.aec6061?af=R",
+      "journal": "Science Immunology",
+      "category": "Original Article",
+      "authors": "Gareth-Rhys Jones, Broc Drury, Tobi Alegbe, Bradley T. Harris, Monika Krzak, Elizabeth Thompson, Lizi M. Hegarty, Sam Benson, Sebastian Rogatti, Chrysante S. Iliakis, Paul Maier…",
+      "summary": "Science Immunology, Volume 11, Issue 125, November 2026.",
+      "date": "2026-11-27T08:00:00Z",
+      "date_display": "27 Nov 2026"
+    },
     {
       "id": "d0c9ddee6f",
       "title": "Immunotherapy response in TLS-positive solid tumors treated with regorafenib plus avelumab: the prospective, multicenter, open-label, phase 2 REGOMUNE trial",
@@ -42,6 +64,17 @@
       "category": "Original Article",
       "authors": "Chenxin Gu, Zengdi Zhang, Shaolei Xiong, Jiawen Ma, Zuoxiao Shi, Zan Huang, Sunhye Shin, Xuechun Chang, Zihao Wang, Aneesh Swaminathan, Ifrah Aden, Zahra Moazzami, Xiaoli Sky Wu…",
       "summary": "Nature Metabolism, Published online: 27 November 2026; doi:10.1038/s42255-026-01669-8 While Pdgfra+ progenitors shape brown adipose tissue in early life, a distinct population of Myl1+ progenitors predominantly differentiates into brown adipocytes in BAT of adult and middle-aged mice and modulates systemic glucose…",
+      "date": "2026-11-27T00:00:00Z",
+      "date_display": "27 Nov 2026"
+    },
+    {
+      "id": "53eb637cea",
+      "title": "Irradiation Induces an Epigenetically Plastic CD44 low Persister Cell Population Associated with Tumor Regrowth in Colorectal Cancer",
+      "link": "https://aacrjournals.org/cancerrescommun/article/6/11/2752/790205/Irradiation-Induces-an-Epigenetically-Plastic",
+      "journal": "Cancer Research",
+      "category": "Original Article",
+      "authors": "",
+      "summary": "Abstract Radiotherapy is clinically established for rectal cancer and is also used in selected colon cancer settings. However, treatment resistance and post-irradiation tumor regrowth remain major clinical challenges, and the residual cellular states that survive irradiation and later drive tumor regrowth remain…",
       "date": "2026-11-27T00:00:00Z",
       "date_display": "27 Nov 2026"
     },
@@ -1287,39 +1320,6 @@
       "summary": "I read with great interest the recent paper by Petersen et al. from Klein’s group on the effects of weight loss induced by diets of differing macronutrient composition on metabolic function in individuals with metabolically unhealthy obesity.1 I would like to commend the authors for their meticulous and well-executed…",
       "date": "2026-10-22T00:00:00Z",
       "date_display": "22 Oct 2026"
-    },
-    {
-      "id": "f0d2c4c8c1",
-      "title": "Distinguishing hepatic metabolic effects from overall cardiometabolic benefit after matched weight loss",
-      "link": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00389-X?rss=yes",
-      "journal": "Cell Metabolism",
-      "category": "Original Article",
-      "authors": "André Marques Fernandes Silva",
-      "summary": "Petersen et al.1 conducted a tightly controlled randomized feeding trial to evaluate whether diets with markedly different macronutrient composition modify metabolic responses to approximately 10% matched weight loss. The study provides important evidence that the assigned dietary patterns produced different hepatic…",
-      "date": "2026-10-22T00:00:00Z",
-      "date_display": "22 Oct 2026"
-    },
-    {
-      "id": "445c643945",
-      "title": "Response to Magkos and Silva: Diet macronutrient content and metabolic function in metabolically unhealthy obesity",
-      "link": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00386-4?rss=yes",
-      "journal": "Cell Metabolism",
-      "category": "Original Article",
-      "authors": "Max C. Petersen, Gordon I. Smith, Samuel Klein",
-      "summary": "We thank Faidon Magkos and André Marques Fernandes Silva for their insightful comments regarding our study. We appreciate Dr. Magkos’ support of the design and execution of our study. As noted by Magkos, a common limitation of diet studies is ensuring compliance with the prescribed diets and studying participants when…",
-      "date": "2026-10-22T00:00:00Z",
-      "date_display": "22 Oct 2026"
-    },
-    {
-      "id": "906362240b",
-      "title": "Weight loss during intermittent fasting, not Mediterranean diet quality alone, is associated with lower inflammation: A randomized controlled trial",
-      "link": "https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00392-X?rss=yes",
-      "journal": "Cell Metabolism",
-      "category": "Original Article",
-      "authors": "Moritz V. Warmbrunn, Valeria Tosti, Raaj Kishore Biswas, Beatrice Bertozzi, Maria Lastra Cagigas, Nicola Veronese, Francesco Spelta, Laura Piccio, Richard D. Head, Richard R…",
-      "summary": "Warmbrunn et al. show that in a 16-week, two-phase controlled-feeding trial of 53 adults, Mediterranean diet quality alone improved lipids but not inflammation. Only once intermittent fasting was added did inflammation decrease; thus, in this setting, weight loss and negative energy balance, not diet quality by…",
-      "date": "2026-10-21T00:00:00Z",
-      "date_display": "21 Oct 2026"
     }
   ]
 }
